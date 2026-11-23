@@ -1,0 +1,104 @@
+export const homepage = {
+  id: "homepage",
+  status: "published",
+  seo: {
+    title: "Virsapur | Pakistan’s heritage, made accessible",
+    description: "Discover Pakistan through Virsapur heritage experiences, the interactive Heritage Map, cultural stories and research-led programmes."
+  },
+  modules: [
+    { id: "hero", type: "hero", enabled: true },
+    { id: "quick-discovery", type: "quickDiscovery", enabled: true },
+    { id: "current", type: "current", enabled: true },
+    { id: "map", type: "map", enabled: true },
+    { id: "experiences", type: "experiences", enabled: true },
+    { id: "stories", type: "stories", enabled: true },
+    { id: "projects", type: "projects", enabled: true },
+    { id: "about", type: "about", enabled: true },
+    { id: "final-action", type: "finalAction", enabled: true }
+  ],
+  hero: {
+    eyebrow: "Discover Pakistan through Virsapur",
+    title: "Pakistan’s heritage, made accessible.",
+    summary: "Explore remarkable places, experience living culture and connect with the stories that shape Pakistan.",
+    image: {
+      src: "assets/hero-badshahi.jpg",
+      optimizedStem: "hero-badshahi",
+      width: 1918,
+      height: 1080,
+      alt: "Aerial view of Badshahi Mosque and Lahore",
+      caption: "Badshahi Mosque · Lahore",
+      credit: ""
+    },
+    actions: [
+      { label: "Explore Pakistan", route: "/heritage-map", style: "primary" },
+      { label: "Find an experience", route: "/programmes", style: "secondary" }
+    ]
+  },
+  quickDiscovery: [
+    { id: "place", eyebrow: "Explore by place", title: "Heritage Map", route: "/heritage-map" },
+    { id: "experiences", eyebrow: "Experiences", title: "Tours & heritage walks", route: "/service/heritage-tours" },
+    { id: "learn", eyebrow: "Learn", title: "Workshops & programmes", route: "/service/cultural-and-educational-workshops" },
+    { id: "stories", eyebrow: "Stories", title: "Explore the Archives", route: "/archives" }
+  ],
+  map: {
+    eyebrow: "Explore by place",
+    title: "Explore Pakistan",
+    summary: "Discover heritage through its provinces, regions and districts.",
+    cta: { label: "Explore the full map", route: "/heritage-map" }
+  },
+  experiences: {
+    eyebrow: "Ways to take part",
+    title: "Experiences with Virsapur",
+    summary: "Walk through history, learn with cultural practitioners and build thoughtful heritage work together.",
+    featuredProgrammeId: "programme-heritage-tours",
+    programmeIds: [
+      "programme-heritage-tours",
+      "programme-cultural-educational-workshops",
+      "programme-research-restoration",
+      "programme-cultural-events-collaborations"
+    ],
+    categoryLabels: {
+      "programme-heritage-tours": "Experience",
+      "programme-cultural-educational-workshops": "Learn",
+      "programme-research-restoration": "Our work",
+      "programme-cultural-events-collaborations": "Events & collaboration"
+    },
+    cta: { label: "Explore all programmes", route: "/programmes" }
+  },
+  stories: {
+    eyebrow: "Archives",
+    title: "Stories from our land",
+    summary: "Places, objects and cultural memory—researched and connected to the landscapes they come from.",
+    cta: { label: "Explore all stories", route: "/archives" }
+  },
+  projects: {
+    eyebrow: "Research & preservation",
+    title: "Our work",
+    cta: { label: "Explore our work", route: "/programmes" }
+  },
+  about: {
+    eyebrow: "About Virsapur",
+    title: "Heritage is lived, shared and carried forward.",
+    summary: "Virsapur connects research, education and cultural experience so more people can encounter Pakistan’s heritage—and help protect it.",
+    images: [
+      { src: "assets/fresco_room.jpg", optimizedStem: "fresco-room", width: 1153, height: 2048, alt: "Painted architectural detail" },
+      { src: "assets/temple_distant.jpg", optimizedStem: "temple-distant", width: 1153, height: 2048, alt: "Historic temple architecture in the landscape" },
+      { src: "assets/archive-wells.jpg", optimizedStem: "archive-wells", width: 640, height: 404, alt: "Archaeological remains at Mohenjo-daro" }
+    ],
+    testimonialId: "testimonial-burnt-brains",
+    cta: { label: "Why Virsapur", route: "/why-virsapur" }
+  },
+  finalAction: {
+    eyebrow: "Start your journey",
+    title: "Explore with us.",
+    summary: "Plan a heritage experience or begin a cultural collaboration with Virsapur.",
+    image: { src: "assets/temple_shadow.jpg", optimizedStem: "temple-shadow", width: 1153, height: 2048, alt: "Sunlight and shadow across historic stone architecture" },
+    actions: [
+      { label: "Find an experience", route: "/programmes", style: "primary" },
+      { label: "Work with Virsapur", route: "/contact", style: "secondary" }
+    ]
+  }
+};
+
+// Current/featured records remain separate so a future CMS can publish, unpublish and reorder them.
+export const homepageCurrent = [];

@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "offline": true,
+  "tests": 9,
+  "passed": [
+    "working and live pagination: 606 heritage + 420 stories + categories/collaborators",
+    "save paginates existing records, writes only changed rows in bounded batches",
+    "transport and collection boundary",
+    "export allowlist, fixture/secret screening, deterministic checksum and unapplied seed",
+    "hosted quote feature gates fail closed before auth/network",
+    "visitor fields only; same-origin, body limits and eligible live places",
+    "admin auth/CSRF, bounded list, strict manual fields and safe errors",
+    "bounded JSON reader rejects non-JSON and invalid input",
+    "migration is unapplied, private RLS/service-only and source-derived"
+  ],
+  "syntheticRecords": 1028,
+  "databaseApplied": false,
+  "networkCalls": 0
+}

@@ -1,0 +1,13 @@
+{
+  "date":"2026-10-22",
+  "changes":[
+    {"planIndex":123,"action":"Researched title and SEO use Sudhnoti, not Bhimber; stable ID/slug retained. Authored geographic facets were already Sudhnoti."},
+    {"planIndex":242,"action":"Title and social/SEO title broadened from river plain to landscape to include Rohi/desert evidence."},
+    {"planIndex":257,"action":"Title distinguishes language, script and actual bilingual evidence. Prakrit/Kharosthi edicts are not called bilingual."},
+    {"planIndex":355,"action":"Removed Nilt/Nagar link from Hunza article; retained Baltit/Hunza."},
+    {"planIndex":357,"action":"Removed Rani Baoli/Sudhnoti link and corrected editorialReason from baths, mosque and sarai to mosque and sarai."},
+    {"planIndex":400,"action":"Removed Astore water-channel pillar and stale Astore district from Baltistan irrigation article; no guessed replacement."},
+    {"planIndex":145,"action":"Removed reuse of A51's Harappa.com Sutkagen-Dor essay to avoid cumulative source-budget overlap. Replaced with a short bibliographic research-route paragraph citing Berkeley's official1992 publication catalogue.","source":"https://arf.berkeley.edu/publications/explorations-makran-coast-pakistan-search-paradise","access":"Catalogue read22October2026. Linked eScholarship full text was not accessible; no claim to have read it or verified a shoreline from it.","supersedes":"The earlier batch140–149 research note's Harappa.com citation for article145. Other batch findings remain unchanged."}
+  ],
+  "publication":"All records remain Review; no article was published by reconciliation."
+}

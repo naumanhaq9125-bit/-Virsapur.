@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-29T15:53:08.830Z",
+  "package": "D:/Virsapur-Website-Developer-Handoff/V1_2026-10-29_DISCOVERY_BOOKING",
+  "productionUrl": "http://127.0.0.1:4174/production/",
+  "productionActivities": 12,
+  "previewActivities": 12,
+  "uniqueCountryHeritageMarkers": 606,
+  "deliveredBookingReference": "DEMO-5E42B467",
+  "deliveredBookingParticipants": 2,
+  "deliveredBookingTotal": 9000,
+  "studioOrderVisible": true,
+  "startLauncherPassed": true,
+  "stopLauncherPassed": true,
+  "sourceTestServerStopped": true,
+  "allLocal": true,
+  "notDeployed": true
+}

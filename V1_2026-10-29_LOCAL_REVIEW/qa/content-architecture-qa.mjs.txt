@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-10-29T13:57:11.678Z",
+  "collections": {
+    "site": 1,
+    "homepage": 1,
+    "archiveCategories": 6,
+    "collaborators": 8,
+    "stories": 420,
+    "projects": 2,
+    "programmes": 8,
+    "events": 0,
+    "people": 2,
+    "testimonials": 1,
+    "media": 10,
+    "heritagePlaces": 606
+  },
+  "errors": [],
+  "passed": true
+}

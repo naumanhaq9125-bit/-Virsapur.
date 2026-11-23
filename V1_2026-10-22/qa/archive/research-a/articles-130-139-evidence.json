@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 10,
+  "records": [
+    {
+      "articleId": "story-reading-kulli-material-culture-without-inventing-a-kingdom",
+      "planIndex": 130,
+      "wordCount": 465,
+      "sourceNotes": "Frankeprimarysurveyaccount~190derivedwords,selectsettlementdiversityandBakkarButhi,nogeneralabandonmentclaim. DOAM~35additional,cumulativewitharticle50~145. Guimetsourcearticle50notreused. Explicitlynoinventedkingdom/ruler/ethnicity.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Later Third Millennium BCE Sites",
+          "url": "https://www.harappa.com/content/6-later-third-millenium-bce-sites",
+          "publisher": "Ute Franke-Vogt,Archaeology of Southeastern Balochistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Nindowari",
+          "url": "https://doam.gov.pk/public/sites/8933",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-togau-pottery-and-the-challenge-of-dating-regional-change",
+      "planIndex": 131,
+      "wordCount": 456,
+      "sourceNotes": "HussainSiddiquiprimaryPanjgursurveyandcollectionreviewindexedfirstpagecloselyread~190derivedwords; directPDF502recorded. DOAM~45. Cambridgeexcavatedstoneobjectmetadata~45illustratescontextdocumentation,notTogaupotteryobject. Nochronologypresentedasuncontestedorunprovenancedcollectingendorsed.",
+      "exception": null,
+      "references": [
+        {
+          "title": "The Case of Togau Ware:An Analytical Study",
+          "url": "https://ph.hu.edu.pk/public/uploads/vol-13/A%204.%20Zahir%20Hussain%20and%20Kiran%20Shahid%20Siddiqui.pdf",
+          "publisher": "Zahir Hussain and Kiran Shahid Siddiqui,Pakistan Heritage13",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Togau",
+          "url": "https://doam.gov.pk/public/sites/9032",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Siah Damb object1966.259B",
+          "url": "https://collections.maa.cam.ac.uk/objects/593890/",
+          "publisher": "Museum of Archaeology and Anthropology,University of Cambridge",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-why-an-unexcavated-mound-is-still-evidence",
+      "planIndex": 132,
+      "wordCount": 462,
+      "sourceNotes": "Gulzarprimarysurveymethodspassage~100derivedwords; HE~100; Oxford~100. UOLexact6wordsadditionalGanweriwalaexcavated,cumulativearticle81<=200. RelationshipGanweriwalaexplicitcomparisonofearlierpreexcavationknowledge,NOTassertcurrentlyunexcavated. NeitherrelatedPlaceassignednewstatus.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Harappan Cities:Landscape and Surface Survey at Ganweriwala",
+          "url": "https://easaa.org/wp-content/uploads/2023/01/Sidra-Gulzar-3.pdf",
+          "publisher": "Sidra Gulzar",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Geophysical Survey:Plotting Buried Traces of Human Activity",
+          "url": "https://historicengland.org.uk/research/methods/terrestrial-remote-sensing/geophysical-survey/",
+          "publisher": "Historic England",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Geophysics",
+          "url": "https://archeox.conted.ox.ac.uk/fact-sheets/pre-excavation-techniques/geophysics.html",
+          "publisher": "University of Oxford,Archaeology of East Oxford",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Ganweriwala excavation documentation",
+          "url": "https://uol.edu.pk/uols-soca-and-imbb-lead-the-audio-visual-documentation-and-genetic-analysis-of-ganweriwala-excavation/",
+          "publisher": "University of Lahore",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-layers-cuts-and-fills-a-first-guide-to-stratigraphy",
+      "planIndex": 133,
+      "wordCount": 474,
+      "sourceNotes": "HEmanual~185derivedwords cutfill/matrix/directrelationships; MOLAS~145recordinganddestructiveexcavation. Workedcourtyard/pitexampleoriginalhypotheticalnotassertedBarikottrench. RelatedBarikotislearningconnectiononly,noinventedlocalstratigraphy.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Excavation Recording Manual2018,modules2–3",
+          "url": "https://historicengland.org.uk/content/docs/research/historic-england-archaeological-recording-manual-2018",
+          "publisher": "Historic England",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Archaeological Site Manual,third edition1994,section3.1",
+          "url": "https://colat.org.uk/wp-content/uploads/2023/08/mol-site-manual-3rd-edition.pdf",
+          "publisher": "Museum of London Archaeology Service",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-radiocarbon-dates-are-ranges-not-birthdays",
+      "planIndex": 134,
+      "wordCount": 460,
+      "sourceNotes": "Oxfordtwoexplanatorypagesaggregate~185derivedwords includingorganismversususe,1950,calibrationmultipleranges. HE2022guidance~180reportingcalibrationprobabilitylabdata. No Mehrgarh new numericaldate/no counterfeitcalculation. Hypotheticaltimberexampleoriginal.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Explanation of radiocarbon results",
+          "url": "https://c14new.arch.ox.ac.uk/explanation.php",
+          "publisher": "Oxford Radiocarbon Accelerator Unit",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Radiocarbon Dating",
+          "url": "https://c14.arch.ox.ac.uk/dating",
+          "publisher": "Oxford Radiocarbon Accelerator Unit",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Radiocarbon Dating and Chronological Modelling:Radiocarbon Dating",
+          "url": "https://historicengland.org.uk/images-books/publications/radiocarbon-dating-chronological-modelling/radiocarbon-dating/",
+          "publisher": "Historic England",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-seeds-from-a-trench-what-archaeobotany-asks",
+      "planIndex": 135,
+      "wordCount": 466,
+      "sourceNotes": "Harappastudyresults/dungdiscussion~190derivedwords includingconditionalcropsarriveprocessed. Farmanaprimarypilot~155derivedwords,carefulnottransferplants/findstoHarappa. Noancientrecipeclaim or completefoodspectrum.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Taphonomy and labour at the Indus Valley site of Harappa3700–1300BC",
+          "url": "https://www.cambridge.org/core/journals/antiquity/article/taphonomy-and-labour-at-the-indus-valley-site-of-harappa-37001300-bc/55810416F25148D686092A0968D5AD6F",
+          "publisher": "Antiquity,primary archaeobotanical study",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Harappan plant use revealed by starch grains from Farmana,India",
+          "url": "https://antiquity.ac.uk/projgall/kashyap326",
+          "publisher": "Arunima Kashyap and Steve Weber,Antiquity Project Gallery",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-animal-bones-and-the-limits-of-ancient-menus",
+      "planIndex": 136,
+      "wordCount": 459,
+      "sourceNotes": "HEhandbookpp2–5,44–46,53–55read~190derivedwords. Meadowprimarychapterindexedpp89–90read~170derivedwords; PDFtoolsizeblocked,noentirechapterclaim. Mehrgarhrelationconceptualnoinventedmenu; Balakotcomparisonexplicitlysameauthorreported. No moderndiet/religionretrojection.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Animal Bones and Archaeology:Recovery to Archive",
+          "url": "https://historicengland.org.uk/images-books/publications/animal-bones-and-archaeology/animal-bones-archaeology-handbook/",
+          "publisher": "Polydora Baker and Fay Worley,Historic England2019",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The use of animal remains at Harappa and related regional evidence",
+          "url": "https://www.harappa.com/sites/default/files/pdf/Harappa1986-90_07_Meadow-Fauna_0_1.pdf",
+          "publisher": "Richard H.Meadow,Harappa Excavations1986–1990",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-what-changing-brick-sizes-can-and-cannot-prove",
+      "planIndex": 137,
+      "wordCount": 468,
+      "sourceNotes": "Kenoyer2010pp118–119~190derivedwords includingratio/absolutes/reuse/centralisedgovernmentcaution. CSMVSrecord~80derivedwords object/material/dateanddimensions. Noexactcitywidepoliticalcollapseinference. Do notreuseKenoyer2010forotherdraftswithoutbudget.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Measuring the Harappan world:Insights into the Indus order and cosmology",
+          "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer%202010%20Measuring%20the%20Harappan%20World.pdf",
+          "publisher": "J.Mark Kenoyer,Cambridge University Press2010",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Harappan Brick,accessionIV10",
+          "url": "https://networksofthepast.csmvs.in/object/harappan-brick/",
+          "publisher": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-indus-exchange-without-a-modern-trade-map",
+      "planIndex": 138,
+      "wordCount": 469,
+      "sourceNotes": "Law2011bookand2024introductionsconservativelysameworkaggregate~190derivedwords:analyticalsourcecomparison,solid/dashedlines,conjecturalpathways,steatite. Isotopeprimaryabstract~110,nofullpaperclaimorconfirmedindividualHarappanmerchantinUr. Distinctmovementobjects/people explanatoryanalysis.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Summary and Discussion,Inter-Regional Interaction and Urbanism",
+          "url": "https://www.harappa.com/content/summary-and-discussion-concluding-remarks",
+          "publisher": "Randall Law",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Steatite Acquisition Networks",
+          "url": "https://www.harappa.com/content/steatite-acquisition-networks",
+          "publisher": "Randall Law",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "A new approach to tracking connections between the Indus Valley and Mesopotamia",
+          "url": "https://architexturez.net/doc/az-cf-176037",
+          "publisher": "J.Mark Kenoyer,T.Douglas Price,James H.Burton,Journal of Archaeological Science2013",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-meluhha-reading-a-name-across-different-kinds-of-evidence",
+      "planIndex": 139,
+      "wordCount": 476,
+      "sourceNotes": "Possehl2006fullread~185derivedwords sealreading/provenance/rechecking/undecipheredscript;2007distinctstudy~165Sargon/geography/sealclassification, overlappingtranslatorfactsnotdoublecounted. ORACClexicalentry~15. No definitiveancientselfname/bilingualtextclaim, no universalMeluhhaidentificationacrossallperiods.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Shu-ilishu’s Cylinder Seal",
+          "url": "https://www.penn.museum/sites/expedition/shu-ilishus-cylinder-seal/",
+          "publisher": "Gregory L.Possehl,Penn Museum,2006",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Middle Asian Interaction Sphere",
+          "url": "https://www.penn.museum/sites/expedition/the-middle-asian-interaction-sphere/",
+          "publisher": "Gregory L.Possehl,Penn Museum,2007",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Meluhha geographical-name entry",
+          "url": "https://oracc.museum.upenn.edu/epsd2/cbd/sux/o0046355.html",
+          "publisher": "Electronic Pennsylvania Sumerian Dictionary,ORACC",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-22",
+  "records": [
+    {
+      "index": 380,
+      "id": "story-the-indus-as-a-cultural-landscape-not-a-single-itinerary",
+      "words": 465,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 381,
+      "id": "story-cholistans-wells-forts-and-traces-of-water",
+      "words": 471,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 382,
+      "id": "story-the-ravi-and-lahores-changing-edges",
+      "words": 489,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 383,
+      "id": "story-chenab-crossings-and-places-of-stopping",
+      "words": 471,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 384,
+      "id": "story-the-salt-range-viewed-in-section",
+      "words": 476,
+      "references": 4,
+      "status": "review"
+    },
+    {
+      "index": 385,
+      "id": "story-kallar-kahar-lake-garden-memory-and-a-stone-platform",
+      "words": 465,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 386,
+      "id": "story-the-pothohar-plateau-between-village-and-route",
+      "words": 475,
+      "references": 4,
+      "status": "review"
+    },
+    {
+      "index": 387,
+      "id": "story-the-sulaiman-foothills-as-an-archaeological-borderland",
+      "words": 474,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 388,
+      "id": "story-maklis-scale-walking-a-funerary-landscape",
+      "words": 470,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 389,
+      "id": "story-the-indus-delta-and-the-changing-idea-of-a-port",
+      "words": 473,
+      "references": 3,
+      "status": "review"
+    }
+  ],
+  "duplicateIds": false,
+  "sourceMethod": "Topic-specific primary and institutional sources examined through web pages, selected document passages, indexed excerpts and catalogue metadata. Access and evidence limitations are recorded in individual internalNotes; not every full publication was accessible. No verbatim passages used; original analytical examples are not field observations. References do not imply institutional endorsement. All records require human editorial review."
+}

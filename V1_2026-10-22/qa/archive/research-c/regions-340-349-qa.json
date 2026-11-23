@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-22",
+  "records": [
+    {
+      "index": 340,
+      "id": "story-mandi-bahauddin-rail-river-and-market",
+      "words": 476,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 341,
+      "id": "story-thatta-across-political-and-cultural-changes",
+      "words": 476,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 342,
+      "id": "story-sukkur-and-rohri-as-linked-river-settlements",
+      "words": 465,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 343,
+      "id": "story-hyderabads-forts-houses-and-changing-institutions",
+      "words": 484,
+      "references": 5,
+      "status": "review"
+    },
+    {
+      "index": 344,
+      "id": "story-karachis-civic-buildings-before-the-megacity",
+      "words": 481,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 345,
+      "id": "story-sehwan-as-both-archaeological-and-sacred-city",
+      "words": 481,
+      "references": 4,
+      "status": "review"
+    },
+    {
+      "index": 346,
+      "id": "story-thars-sacred-and-fortified-places",
+      "words": 498,
+      "references": 4,
+      "status": "review"
+    },
+    {
+      "index": 347,
+      "id": "story-peshawar-at-the-meeting-of-regional-routes",
+      "words": 483,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 348,
+      "id": "story-swat-beyond-a-single-buddhist-period",
+      "words": 478,
+      "references": 4,
+      "status": "review"
+    },
+    {
+      "index": 349,
+      "id": "story-the-bannu-basin-in-regional-archaeology",
+      "words": 492,
+      "references": 3,
+      "status": "review"
+    }
+  ],
+  "duplicateIds": false,
+  "sourceMethod": "Topic-specific primary and institutional sources examined through web pages, selected document passages, indexed excerpts and catalogue metadata. Access and evidence limitations are recorded in individual internalNotes; not every full publication was accessible. No verbatim passages used; original analytical examples are not field observations. References do not imply institutional endorsement. All records require human editorial review."
+}

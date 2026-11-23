@@ -1,0 +1,238 @@
+{
+  "batch": "190-199",
+  "count": 10,
+  "reviewDate": "2026-10-22",
+  "status": "review",
+  "wordCounts": [
+    {
+      "id": "story-indo-saracenic-architecture-a-term-worth-unpacking",
+      "words": 467
+    },
+    {
+      "id": "story-princely-palaces-and-imported-design-vocabularies",
+      "words": 468
+    },
+    {
+      "id": "story-school-and-library-buildings-as-heritage",
+      "words": 469
+    },
+    {
+      "id": "story-a-markets-building-and-a-markets-life",
+      "words": 489
+    },
+    {
+      "id": "story-reading-repairs-without-calling-everything-original",
+      "words": 474
+    },
+    {
+      "id": "story-adaptive-reuse-what-should-stay-legible",
+      "words": 479
+    },
+    {
+      "id": "story-shading-before-air-conditioning",
+      "words": 489
+    },
+    {
+      "id": "story-jali-screens-light-privacy-and-stonework",
+      "words": 475
+    },
+    {
+      "id": "story-the-plinth-why-a-building-begins-above-the-street",
+      "words": 479
+    },
+    {
+      "id": "story-historic-streets-are-made-of-edges",
+      "words": 475
+    }
+  ],
+  "sourceReadingNote": "Institutional histories (Aitchison, SMIU, Lahore Museum, Mohatta Palace), technical education sources (Met, Department of Energy), conservation project reports (AKDN, ICCROM) and catalogue records read. Sunehri elevated shops corroborated by WCLA; inconsistent DOAM dimensions omitted. Broader catalogue naming provides discovery connections only, not unverified technical claims.",
+  "copyrightNote": "Factual paraphrases remain short. Shared AKDN Lahore report supports narrowly selected facts across multiple articles; combined facts kept bounded. No quotations or book-length source summaries.",
+  "sources": [
+    {
+      "title": "Background",
+      "url": "https://lahoremuseum.punjab.gov.pk/node/21",
+      "publisher": "Lahore Museum",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Ghanta Ghar Multan",
+      "url": "https://doam.gov.pk/public/sites/10385",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "V&A Conservation Journal: Prince of Wales Museum",
+      "url": "https://media.vam.ac.uk/media/documents/legacy_documents/file_upload/16752_file.pdf",
+      "publisher": "Victoria and Albert Museum",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Noor Mahal",
+      "url": "https://doam.gov.pk/public/sites/9874",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Khaplu Fort",
+      "url": "https://www.visitgilgitbaltistan.gov.pk/tour/id/65",
+      "publisher": "Government of Gilgit-Baltistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Khaplu Palace, Yabgo Khar",
+      "url": "https://doam.gov.pk/public/sites/7841",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Aitchison's History",
+      "url": "https://aitchison.edu.pk/school/history",
+      "publisher": "Aitchison College",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Old Building",
+      "url": "https://aitchison.edu.pk/school/old-building",
+      "publisher": "Aitchison College",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "SMIU: Talpur House and historic buildings",
+      "url": "https://www.smiu.edu.pk/viewnews/vice-chancellor-dr-mujeeb-sahrai-inaugurates-coffee-house-at-smiu",
+      "publisher": "Sindh Madressatul Islam University",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Montgomery Hall, Quaid-i-Azam Library",
+      "url": "https://doam.gov.pk/public/sites/10152",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Empress Market",
+      "url": "https://doam.gov.pk/public/sites/5846",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Tang Gali Bazar, Kalabagh",
+      "url": "https://doam.gov.pk/public/sites/9924",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Historic Town Centres and High Streets",
+      "url": "https://historicengland.org.uk/advice/planning/historic-towns-and-high-streets/",
+      "publisher": "Historic England",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Conservation and Development in Hunza and Baltistan",
+      "url": "https://static.the.akdn/53832/1641873948-2005_hcsp_hunza.pdf",
+      "publisher": "Aga Khan Historic Cities Programme",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Observations on Concepts in the Venice Charter",
+      "url": "https://www.iccrom.org/sites/default/files/publications/2023-02/en_es_lac_11_conversaciones_iccrom_2023_compressed.pdf",
+      "publisher": "ICCROM; Jukka Jokilehto",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "ICCROM Architectural Conservation Course: Capua study project",
+      "url": "https://www.iccrom.org/resources/resources-of-the-month/iccrom-international-architectural-conservation-course-arc-study",
+      "publisher": "ICCROM",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "History of the Museum",
+      "url": "https://mohattapalacemuseum.org/public/history-of-the-museum",
+      "publisher": "Mohatta Palace Museum",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "About the Museum",
+      "url": "https://www.mohattapalacemuseum.org/about-the-museum",
+      "publisher": "Mohatta Palace Museum",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Shigar Fort: a new model of conservation",
+      "url": "https://www-hetz2.the.akdn/en/resources-media/whats-new/news-release/shigar-fort-new-model-conservation-combines-economic-and-cultural-objectives",
+      "publisher": "Aga Khan Development Network",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "The Building Architectural Design: Passive Cooling Strategies",
+      "url": "https://www.energy.gov/sites/prod/files/2013/12/f5/sustainable_guide_ch4.pdf",
+      "publisher": "Los Alamos National Laboratory / US Department of Energy",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Home Cooling",
+      "url": "https://www.energy.gov/home-cooling",
+      "publisher": "US Department of Energy",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Haveli Sujan Singh",
+      "url": "https://doam.gov.pk/public/sites/9419",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Pierced Window Screen, object 1984.193",
+      "url": "https://www.metmuseum.org/art/collection/search/453241",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Pierced Window Screen, object 1993.67.1",
+      "url": "https://www.metmuseum.org/art/collection/search/453343",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Jali: educator resource",
+      "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/featured-works-of-art/image-15",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Monuments: Sunehri Mosque",
+      "url": "https://walledcitylahore.gop.pk/monuments/",
+      "publisher": "Punjab Walled Cities and Heritage Areas Authority",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Dalwal Temple-I",
+      "url": "https://doam.gov.pk/public/sites/6754",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Sunehri Masjid, Lahore",
+      "url": "https://doam.gov.pk/public/sites/10190",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Prepare a Street Audit",
+      "url": "https://historicengland.org.uk/advice/caring-for-heritage/streets-for-all/what-you-can-do/street-clutter-audit/",
+      "publisher": "Historic England",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Walled city of Lahore conservation",
+      "url": "https://the.akdn/en/where-we-work/south-asia/pakistan/walled-city-of-lahore-conservation-pakistan",
+      "publisher": "Aga Khan Development Network",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Work Towards Improvement Together",
+      "url": "https://historicengland.org.uk/advice/caring-for-heritage/streets-for-all/what-you-can-do/work-towards-improvement-together/",
+      "publisher": "Historic England",
+      "accessDate": "2026-10-22"
+    }
+  ]
+}

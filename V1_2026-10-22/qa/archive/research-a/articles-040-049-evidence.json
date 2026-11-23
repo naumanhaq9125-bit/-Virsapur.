@@ -1,0 +1,299 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 10,
+  "records": [
+    {
+      "articleId": "story-bhamala-and-the-shape-of-a-buddhist-complex",
+      "planIndex": 40,
+      "wordCount": 458,
+      "sourceNotes": "DOAMplanmonastery/votives~175;Samad2013reportreadall7pages,westernextension/training/coinsdated4–5c~175;UNESCO2026listednewstatusonly~35. Excluded unsupportedworldlargest/Azteccomparisons/allegations of excavationmishandling. NoTaxilaboundaryclaim.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Bhamala Stupa",
+          "url": "https://doam.gov.pk/public/sites/823",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "First-season excavation report, January–March 2013",
+          "url": "https://southasia.wisc.edu/wp-content/uploads/sites/499/2025/02/First-Season-Report.pdf",
+          "publisher": "Abdul Samad / Hazara University, hosted by University of Wisconsin–Madison",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Bhamala Buddhist Complex",
+          "url": "https://whc.unesco.org/en/tentativelists/7037/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-butkara-i-a-stupa-built-through-successive-phases",
+      "planIndex": 41,
+      "wordCount": 462,
+      "sourceNotes": "DOAMcourt/tank/schistmuseum~110;ArchaeopressindexedButkara passagefiveperiods1956–62Faccenna/plasticmaterials~185;Olivieriabstractincisedslab~70. No simplefiveenlargements error: initial+foursubsequent. DatesbroadavoidconflictingGSt4subphases.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Butkara-I",
+          "url": "https://doam.gov.pk/public/sites/3304",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Problems of Chronology in Gandharan Art",
+          "url": "https://www.archaeopress.com/Archaeopress/download/9781784918552",
+          "publisher": "Archaeopress, specialist Gandharan archaeology research",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Incised slab BI 3818 from Butkara I",
+          "url": "https://iris.unive.it/handle/10278/3722734",
+          "publisher": "Luca Maria Olivieri / Ca’ Foscari University research repository",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-mahabat-khan-mosque-above-the-bazaar",
+      "planIndex": 42,
+      "wordCount": 466,
+      "sourceNotes": "DOAMcourt/tank/westhall3domespaint~160;Khanthesisindexedpp44–45accessmadrassasaraishops1898fire~170;NIHCRdateargumentindexedonly~50. PDFrenderfailedreported; nofullPDFclaim. Avoidhangingprisonersunsupportedstory; constructionbroad17c.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Mahabat Khan Mosque",
+          "url": "https://doam.gov.pk/public/sites/4399",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Sethi merchants’ havelis in Peshawar, 1800–1910: form, identity and status",
+          "url": "https://westminsterresearch.westminster.ac.uk/download/45d37bbc99ca7a5c19bfb78f60d03ca4c6a3d027e174dccd6b9ee5b9a7b6a7ce/47291054/Khan_Samra_thesis.pdf",
+          "publisher": "Samra Khan / University of Westminster",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mahabat Khan Mosque study",
+          "url": "https://pjhc.nihcr.edu.pk/wp-content/uploads/2020/08/4.pdf",
+          "publisher": "Pakistan Journal of History and Culture / NIHCR",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-gor-khatri-a-place-with-more-than-one-past",
+      "planIndex": 43,
+      "wordCount": 471,
+      "sourceNotes": "DOAMJahanAra1640sarai/gates/cells~165;UNESCOsubsurface/firebrigade/religiouslayers~185;HeritageFoundation2010documentationcentreatGorKhatri~35. No unsupportedcontinuous2300yearproof norassertBuddhiststupacertain; no datedtempleclaim.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Gor Khuttree",
+          "url": "https://doam.gov.pk/public/sites/1810",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Archaeological Complex of Gor Khatri",
+          "url": "https://whc.unesco.org/en/tentativelists/7035/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Peshawar Heritage conservation account",
+          "url": "https://www.heritagefoundationpak.org/mi/3/peshawar-heritage",
+          "publisher": "Heritage Foundation of Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-sethi-house-and-the-merchant-courtyard",
+      "planIndex": 44,
+      "wordCount": 486,
+      "sourceNotes": "DOAMcourtyardcutglassceilings1884~145;UNESCOmerchantusecirculationbasements~175;HFbroaderSethimohallahconservation~65. ImportantHFspecificprojectQadriManzilnotassumedsameKarimBukshhouse; no exactroomcount/multicourtconflict.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Sethi House",
+          "url": "https://doam.gov.pk/public/sites/3485",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Sethi House Tentative List submission",
+          "url": "https://whc.unesco.org/en/tentativelists/7036/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Peshawar Heritage",
+          "url": "https://www.heritagefoundationpak.org/mi/3/peshawar-heritage",
+          "publisher": "Heritage Foundation of Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-shahbazgarhi-an-inscription-encountered-in-the-landscape",
+      "planIndex": 45,
+      "wordCount": 470,
+      "sourceNotes": "UNESCOscript2rocks/routes~155;MorganoriginalresearchMasson1838Deane1888separateXII/toleration~190; DOAMonlycorroboration notadditionalbudget. No quotedtranslation/copyingmethods instructions. Colonialdocumentingnotfirstlocaldiscovery; interpretationofplacementqualified.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Shahbazgarhi Rock Edicts",
+          "url": "https://whc.unesco.org/en/tentativelists/1880/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Ashoka Rock Edicts, Mardan",
+          "url": "https://doam.gov.pk/public/sites/4621",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Edict XII, lost and found",
+          "url": "https://llewelynmorgan.com/2021/11/07/edict-xii-lost-found/",
+          "publisher": "Llewelyn Morgan, Oxford classicist and co-editor of Harold Deane research",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-bala-hisar-fort-and-peshawars-changing-skyline",
+      "planIndex": 46,
+      "wordCount": 459,
+      "sourceNotes": "DOAMrebuildhistoryShahShujacourt/Britishbrick~190;Radio2026organisedvisitmuseum~85;2025~30;PDAlandmarkimagecaption~15. ExplicitdoNOTconfuseCharsaddaBalaHisarmounds; currentaccessnotverifieddoNOTpublishhours. Exteriorinterpretationoriginal.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Bala Hisar Fort",
+          "url": "https://doam.gov.pk/public/sites/4607",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Students visit Bala Hisar Fort, 21 August 2026",
+          "url": "https://new.radio.gov.pk/21-08-2026/students-from-kp-universities-visit-bala-hisar-fort-in-peshawar",
+          "publisher": "Radio Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Educational tour for students, 28 February 2025",
+          "url": "https://www.radio.gov.pk/28-02-2025/fc-kp-north-organizes-educational-tour-for-students-of-tribal-districts",
+          "publisher": "Radio Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Peshawar Development Authority",
+          "url": "https://pda.kp.gov.pk/",
+          "publisher": "Peshawar Development Authority",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-damb-sadaat-and-the-archaeology-of-the-quetta-valley",
+      "planIndex": 47,
+      "wordCount": 469,
+      "sourceNotes": "DOAMresearchvisitsassemblages~140;Penn1950–51regionalwork~75(sharedbudget48another60);Kenoyerregionalisationseals~110;AMNH1956catalogueonly~30. ConflictingDOAM4millenniumvs3000–1millenniumavoided. No claimfullFairservisvolumeclose-read.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Damb Sadaat",
+          "url": "https://doam.gov.pk/public/sites/8773",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Walter A. Fairservis papers: biographical finding aid",
+          "url": "https://findingaids.library.upenn.edu/records/UPENN_MUSEUM_PU-MU.2012",
+          "publisher": "Penn Museum Archives",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Indus Valley Tradition of Pakistan and western India",
+          "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer1991%20Indus%20Valley%20Tradition.pdf",
+          "publisher": "Jonathan Mark Kenoyer",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Excavations in the Quetta Valley: publication record",
+          "url": "https://field.biodiversitylibrary.org/bibliography/88274",
+          "publisher": "American Museum of Natural History Library / Biodiversity Heritage Library",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-killi-gul-mohammad-what-small-excavations-can-reveal",
+      "planIndex": 48,
+      "wordCount": 464,
+      "sourceNotes": "DOAMlocationpotterysequence~105;Kenoyerp571limitedsondageaceramic/shellabsence~185;PennFairservis1950–51~55. No obsoleteabsoluteearlydates; DOAMStein1094typoomitted. Distinctmethodfocusvsarticle47.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Kili Gul Mohammad",
+          "url": "https://doam.gov.pk/public/sites/8867",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Shell Trade and Shell Working during the Neolithic and Early Chalcolithic at Mehrgarh",
+          "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer1995_Shell%20Trade%20and%20Shell%20Working%20during%20the%20Neolith.pdf",
+          "publisher": "Jonathan Mark Kenoyer",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Walter A. Fairservis papers: biographical finding aid",
+          "url": "https://findingaids.library.upenn.edu/records/UPENN_MUSEUM_PU-MU.2012",
+          "publisher": "Penn Museum Archives",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-nausharo-between-village-and-urban-worlds",
+      "planIndex": 49,
+      "wordCount": 486,
+      "sourceNotes": "DOAMlocation4periodsdwellingspaintedpotteryseals~90;JarrigeetalsequenceIIIIIIVcomparisonandminorityOxus~165;Kenoyerfigurineappliquedifferences/researchquestion~130. No obsoleteMehrgarhchronology reused; no certainmigrations inferredfromobjects;DOAMmixedsurfacePiraklistomitted.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Nausharo",
+          "url": "https://doam.gov.pk/public/sites/8927",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Shahr-i Sokhta and the chronology of the Indo-Iranian regions",
+          "url": "https://www.persee.fr/doc/paleo_0153-9345_2011_num_37_2_5420?pageId=T2_9",
+          "publisher": "Jean-François Jarrige, Aurore Didier and Gonzague Quivron / Paléorient",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Early Developments of Art, Symbol, Technology in the Indus Valley Tradition",
+          "url": "https://www.harappa.com/content/early-developments-art-symbol-technology-indus-valley-tradition-0",
+          "publisher": "Jonathan Mark Kenoyer",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

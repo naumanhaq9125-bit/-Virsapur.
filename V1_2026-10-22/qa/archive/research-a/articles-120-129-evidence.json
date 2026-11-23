@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 10,
+  "records": [
+    {
+      "articleId": "story-kharmang-fort-and-the-remains-of-a-mountain-seat",
+      "planIndex": 120,
+      "wordCount": 462,
+      "sourceNotes": "Fort andpalacecatalogue derived fromsameunpublishedBuiltHeritageGBinventory:aggregate~185derivedwords. GBdistrict~35. Sixteenthcenturydateattributednotindependentlyconfirmed; nearidenticalsourcecoordinates do not prove identicalasset. No canonicalgeometrychange.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Kharmang Fort",
+          "url": "https://doam.gov.pk/public/sites/7978",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Kharmang Palace",
+          "url": "https://doam.gov.pk/public/sites/8228",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Kharmang district",
+          "url": "https://e-tourism.visitgilgitbaltistan.gov.pk/districts/kharmang",
+          "publisher": "Government of Gilgit-Baltistan Tourism Department",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-yasins-mudoori-fort-and-contested-remembrance",
+      "planIndex": 121,
+      "wordCount": 447,
+      "sourceNotes": "DOAMshortentry~65. Leitner1893chronology indexedp73read~55; 1878Haywardappendix indexedpassageandeditorialfootnotesread~100; directPDF403notclaimingfullread. Underlyingoverlappingaccountsaggregate~155. Catalogue1862vsHayward1863explicit; casualtynumberomitted. Historicalsourcecolonialviewpointacknowledged.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Mudoori Fort Sandi Yasin",
+          "url": "https://doam.gov.pk/public/sites/8030",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Dardistan in1866,1886and1893",
+          "url": "https://pahar.in/pahar/Books%20and%20Articles/Afghanistan/1893%20Dardistan%20in%201866%2C%201886%20and%201893%20by%20Leitner%20s.pdf",
+          "publisher": "G.W.Leitner, historical account",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Languages and Races of Dardistan,1878",
+          "url": "https://pahar.in/pahar/Books%20and%20Articles/Afghanistan/1878%20Languages%20and%20Races%20of%20Dardistan%20by%20Leitner%20s.pdf",
+          "publisher": "G.W.Leitner,including George Hayward correspondence",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-qalamdarchi-fort-at-a-northern-passage",
+      "planIndex": 122,
+      "wordCount": 465,
+      "sourceNotes": "DOAM~135. Tourismtwoentriesaggregate~85date1932–33/locationonly; newerentrybroadpreborderclaimnotadopted. Avoid exoticising saintetymology; no currentmilitaryschedule/accessinstructions.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Qalamdarchi Fort",
+          "url": "https://doam.gov.pk/public/sites/7809",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Kalamdarchi Fort",
+          "url": "https://www.visitgilgitbaltistan.gov.pk/tour/id/43",
+          "publisher": "Government of Gilgit-Baltistan Tourism Department",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Kalam Darchi Fort destination record",
+          "url": "https://e-tourism.visitgilgitbaltistan.gov.pk/tourist-destinations/kalamdarchi-fort",
+          "publisher": "Government of Gilgit-Baltistan Tourism Department",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-rani-baoli-and-hammams-water-architecture-in-bhimber",
+      "planIndex": 123,
+      "wordCount": 457,
+      "sourceNotes": "PLAN CORRECTION:index123titleBhimber->Sudhnoti; stableID/slugretained perroot; plandistrictandrelateddistrictalreadySudhnoti. DOAMarchitecture~185derivedwords; AJK~60. DOAM1799–1849relativechronologyvsAJKDogra attribution notresolved. Hammamfunctionqualifiedasofficialcataloguepossibility.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Rani Baoli & Hammams",
+          "url": "https://doam.gov.pk/public/sites/10366",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Sudhanoti heritage sites",
+          "url": "https://archaeology.ajk.gov.pk/sudhanoti/",
+          "publisher": "AJK Tourism and Archaeology Department",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-throachi-fort-a-local-stronghold-in-its-terrain",
+      "planIndex": 124,
+      "wordCount": 468,
+      "sourceNotes": "Official2020survey entry closely read. Approximately190derivedwords factualarchitecture/location/shrineuncertainty; remainderexplicitoriginalinterpretivequestions. Sparseevidence acknowledged; noinventedfounder/siegeexactdate. Single-source factual scope intentionallybounded.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Throachi Fort,2020survey record",
+          "url": "https://doam.gov.pk/public/sites/6671",
+          "publisher": "Department of Archaeology and Museums; Taxila Institute of Asian Civilizations survey",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-sarai-kharbuza-a-roadside-stop-within-the-modern-capital",
+      "planIndex": 125,
+      "wordCount": 461,
+      "sourceNotes": "DOAMlivefetchsuccessfulafterwebtimeout; approximately175derivedwords. JahangirmemoirKharbuza passagep98read~80derivedwords, noverbatimquotation. Use1607journeycontextnotfrequentlymisstated1605. Nooriginalfoundingyearorfreeaccommodationclaim.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Sarai Kharbuza",
+          "url": "https://doam.gov.pk/public/sites/6227",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Tuzuk-i-Jahangiri,volumeI,p98",
+          "url": "https://www.gutenberg.org/files/53674/53674-h/53674-h.htm",
+          "publisher": "Jahangir; translation Alexander Rogers,edited Henry Beveridge",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-early-farming-in-the-kachi-plain-evidence-rather-than-an-origin-myth",
+      "planIndex": 126,
+      "wordCount": 468,
+      "sourceNotes": "FullerabstractandindexedBaluchistansectionread~175derivedwords; fulltext403notclaimedread. Yaleindexedprimaryfieldreportdescription~100. UNESCOlocation~12,cumulativeunder200. Avoidold7000BCEpresentedsettled; revisedchronologyhandledinarticle19,notreusedMutinbudget. Cultivation/domesticationdistinctionnotclaimallmorphologiesdocumented.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Finding Plant Domestication in the Indian Subcontinent",
+          "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/658900",
+          "publisher": "Dorian Q.Fuller,Current Anthropology,2011",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mehrgarh Field Reports1975–1985,publication description",
+          "url": "https://ehrafarchaeology.yale.edu/traditions/aq40/documents/002",
+          "publisher": "Yale eHRAF Archaeology",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Archaeological Site of Mehrgarh",
+          "url": "https://whc.unesco.org/en/tentativelists/1876/",
+          "publisher": "UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-how-archaeologists-build-an-indus-chronology",
+      "planIndex": 127,
+      "wordCount": 470,
+      "sourceNotes": "DalesKenoyer1993pp471–472~185derivedwords; historical1993provisionalperiodnumbersnotpresentedcurrent. Beasprimarytesttrench~150derivedwords avoidingoverprecisesinglepointdatesreproducedasbirthday. Remainingmethodologicalanalysisoriginal.",
+      "exception": null,
+      "references": [
+        {
+          "title": "The Harappa Project1986–1989:New Investigation at an Ancient Indus City",
+          "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer1993_The%20Harappa%20Project%201986-1989%20New%20Investigations.pdf",
+          "publisher": "George F.Dales and J.Mark Kenoyer,1993",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Test Trench and Chronology,Beas survey",
+          "url": "https://www.harappa.com/beas/test-trench-chronology",
+          "publisher": "Rita P.Wright,Joseph Shuldenrein,M.Rafique Mughal; Harappa.com",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-what-a-pottery-assemblage-can-say-about-a-settlement",
+      "planIndex": 128,
+      "wordCount": 465,
+      "sourceNotes": "CIfAprofessionalmethodsrecording~185derivedwords noUKtypologytransferred. Dales1974abstract~95,fullpublisher403honest. DOAMsurfaceassemblageexamplesaggregate~75. RelatedDOAMsitesnotclaimedBalakot; Balakotexplicitcomparativeexcavatedcase.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Approaches to recording pottery",
+          "url": "https://www.archaeologists.net/work/toolkits/pottery/approaches-recording",
+          "publisher": "Chartered Institute for Archaeologists",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Excavations at Balakot,Pakistan,1973",
+          "url": "https://architexturez.net/doc/doi-10-1179/jfa-1974-1-1-2-3",
+          "publisher": "George F.Dales,Journal of Field Archaeology1974; abstract reproduced by Aζ South Asia",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Archaeological catalogue record8671",
+          "url": "https://doam.gov.pk/public/sites/8671",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Archaeological catalogue record8669",
+          "url": "https://doam.gov.pk/public/sites/8669",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-the-hakra-phase-a-research-label-explained",
+      "planIndex": 129,
+      "wordCount": 459,
+      "sourceNotes": "CeccarelliPetriepp10–11specificHakraargument~190derivedwords; avoidreuseelsewhereexcept<=10. DOAMtwoentries~75aggregate. Nofixedethnicity/dynasty/dateorallappliquereliablediagnostic. Surfaceobservationversussecurestratigraphyexplicit.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Cultural Evolutionary Paradigms and Technological Transformations",
+          "url": "https://easaa.org/wp-content/uploads/2023/01/Alessandro-Ceccarelli-1.pdf",
+          "publisher": "Alessandro Ceccarelli and Cameron A.Petrie",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Hakra-phase surface collection record7980",
+          "url": "https://doam.gov.pk/public/sites/7980",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Hakra-phase surface collection record8159",
+          "url": "https://doam.gov.pk/public/sites/8159",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

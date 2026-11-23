@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Virsapur Admin Studio</title>
+  <link rel="stylesheet" href="studio.css">
+  <style>
+    [hidden]{display:none!important}
+    .top-actions{flex-wrap:wrap;justify-content:flex-end;gap:12px}
+    .environment-flow{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:18px}
+    .environment-step{border:1px solid var(--line);border-radius:8px;padding:18px;background:#fbf8f2}
+    .environment-step strong,.environment-step span{display:block}
+    .environment-step span{margin-top:6px;color:#6f6d70;font-size:.82rem;line-height:1.5}
+    .environment-step .step-number{color:var(--red);font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;margin:0 0 8px}
+    @media(max-width:900px){.environment-flow{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <a class="skip" href="#workspace">Skip to editor</a>
+  <div class="studio-shell">
+    <aside class="sidebar">
+      <div class="studio-brand"><strong>VIRSAPUR</strong><span data-studio-name>Admin Studio</span></div>
+      <div class="sandbox" data-environment>Checking environment…</div>
+      <nav aria-label="Studio">
+        <button data-view="dashboard" aria-current="page">Dashboard</button>
+        <button data-view="homepage">Homepage</button>
+        <button data-view="archiveCategories">Archive Categories</button>
+        <button data-view="stories">Stories</button>
+        <button data-view="projects">Projects</button>
+        <button data-view="programmes">Programmes</button>
+        <button data-view="events">Schedule / What’s On</button>
+        <button data-view="people">People</button>
+        <button data-view="testimonials">Testimonials</button>
+        <button data-view="collaborators">Collaborators</button>
+        <button data-view="media">Media</button>
+        <button data-view="heritagePlaces" data-local-only>Map Heritage</button>
+        <button data-view="navigation">Navigation</button>
+        <button data-view="site">Site Settings</button>
+        <button data-view="seo">SEO</button>
+        <button data-view="orders" data-local-only>Mock Orders</button>
+        <button data-view="preview">Preview</button>
+      </nav>
+    </aside>
+    <main id="workspace" class="workspace" tabindex="-1">
+      <header class="topbar"><div><p data-context>Dashboard</p><h1 data-title>Content overview</h1></div><div class="top-actions"><span data-save-state>Connecting to content source…</span><span class="publish-pill" data-publish-state hidden></span><a data-preview-link href="/preview/" target="_blank" data-local-only>Preview ↗</a><a data-site-link href="/production/" target="_blank">Local Production ↗</a><button class="primary" type="button" data-local-publish data-local-only>Publish to Local Production</button><button type="button" data-logout hidden>Sign out</button></div></header>
+      <section data-panel aria-live="polite"><p>Loading Virsapur content…</p></section>
+    </main>
+  </div>
+  <template id="record-editor-template">
+    <form class="editor-form" data-record-form>
+      <input type="hidden" name="id">
+      <div class="field-grid">
+        <label class="wide">Title<input name="title" required></label>
+        <label>Slug<input name="slug" pattern="[a-z0-9]+(?:-[a-z0-9]+)*"></label>
+        <label>Status<select name="status"><option>draft</option><option>review</option><option>published</option><option>archived</option></select></label>
+        <label class="wide">Summary<textarea name="summary" rows="3"></textarea></label>
+        <label data-generic-category>Category / type<input name="category"></label>
+        <label>Province<input name="province"></label>
+        <label>District<input name="district"></label>
+        <label>District stable ID<input name="districtId" placeholder="e.g. punjab-lahore"></label>
+        <label>Author<input name="author"></label>
+        <label>Publication date<input name="publishedAt" type="date"></label>
+        <label class="wide">Featured image path<input name="imageSrc" placeholder="assets/…"></label>
+        <label class="wide">Image alt text<input name="imageAlt"></label>
+        <label>Focal point X (0–100)<input name="focalX" type="number" min="0" max="100"></label>
+        <label>Focal point Y (0–100)<input name="focalY" type="number" min="0" max="100"></label>
+        <div class="wide block-editor" data-block-editor>
+          <div class="block-editor-heading"><div><strong>Article body</strong><small>Build the page with structured content blocks.</small></div><button type="button" data-add-block>Add block</button></div>
+          <div data-block-list></div>
+        </div>
+        <label class="wide">SEO title<input name="seoTitle"></label>
+        <label class="wide">SEO description<textarea name="seoDescription" rows="3"></textarea></label>
+        <div class="wide record-history" data-record-history></div>
+      </div>
+      <div class="form-actions"><button class="primary" type="submit">Save draft</button><button type="button" data-publish>Publish</button><button type="button" data-unpublish>Unpublish</button><button type="button" data-duplicate>Duplicate</button><button type="button" data-archive>Archive</button><a data-record-preview target="preview-frame">Preview ↗</a></div>
+      <div class="validation" data-validation aria-live="polite"></div>
+    </form>
+  </template>
+  <script src="studio.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-22",
+  "records": [
+    {
+      "index": 370,
+      "id": "story-ranjit-singh-through-buildings-rather-than-a-heroic-portrait",
+      "words": 479,
+      "references": 4,
+      "status": "review"
+    },
+    {
+      "index": 371,
+      "id": "story-nur-jahan-and-the-evidence-for-patronage",
+      "words": 468,
+      "references": 4,
+      "status": "review"
+    },
+    {
+      "index": 372,
+      "id": "story-wazir-khan-a-patron-remembered-through-an-urban-ensemble",
+      "words": 482,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 373,
+      "id": "story-dyal-singh-majithia-and-the-idea-of-a-public-institution",
+      "words": 485,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 374,
+      "id": "story-sir-ganga-ram-civic-legacy-and-surviving-evidence",
+      "words": 468,
+      "references": 4,
+      "status": "review"
+    },
+    {
+      "index": 375,
+      "id": "story-ahmad-nabi-khan-and-the-work-of-a-monument-inventory",
+      "words": 491,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 376,
+      "id": "story-abdur-rahman-chughtai-the-line-between-painting-and-print",
+      "words": 462,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 377,
+      "id": "story-zubeida-agha-and-the-language-of-modern-painting",
+      "words": 468,
+      "references": 4,
+      "status": "review"
+    },
+    {
+      "index": 378,
+      "id": "story-shakir-alis-studio-home-as-an-artistic-archive",
+      "words": 478,
+      "references": 4,
+      "status": "review"
+    },
+    {
+      "index": 379,
+      "id": "story-faiz-and-the-circulation-of-a-poem",
+      "words": 472,
+      "references": 4,
+      "status": "review"
+    }
+  ],
+  "duplicateIds": false,
+  "sourceMethod": "Topic-specific primary and institutional sources examined through web pages, selected document passages, indexed excerpts and catalogue metadata. Access and evidence limitations are recorded in individual internalNotes; not every full publication was accessible. No verbatim passages used; original analytical examples are not field observations. References do not imply institutional endorsement. All records require human editorial review."
+}

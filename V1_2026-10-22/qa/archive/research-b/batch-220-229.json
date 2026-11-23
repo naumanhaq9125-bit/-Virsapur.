@@ -1,0 +1,289 @@
+{
+  "batch": "220-229",
+  "reviewDate": "2026-10-22",
+  "status": "review-only",
+  "articles": [
+    {
+      "index": 220,
+      "id": "story-reading-epitaphs-responsibly",
+      "proseWords": 508,
+      "sources": [
+        {
+          "title": "EpiDoc: Epigraphic Documents in TEI XML",
+          "url": "https://epidoc.stoa.org/",
+          "publisher": "EpiDoc Collaborative",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Diplomatic Transcriptions",
+          "url": "https://epidoc.stoa.org/gl/latest/trans-diplomatic.html",
+          "publisher": "EpiDoc Collaborative",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Lost characters, quantity known",
+          "url": "https://epidoc.stoa.org/gl/latest/trans-lostcharknown.html",
+          "publisher": "EpiDoc Collaborative",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Tomb of Tahir Khan Nahar, Sitpur",
+          "url": "https://doam.gov.pk/public/sites/6417",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Tomb of Hazrat Sheikh Sadan Shaheed",
+          "url": "https://doam.gov.pk/public/sites/6172",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 221,
+      "id": "story-women-remembered-in-monumental-tombs",
+      "proseWords": 476,
+      "sources": [
+        {
+          "title": "Tomb of Nur Jahan",
+          "url": "https://doam.gov.pk/public/sites/6472",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Nadira Begum’s Tomb and Tank",
+          "url": "https://doam.gov.pk/public/sites/6485",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Tomb of Bibi Jawindi",
+          "url": "https://doam.gov.pk/public/sites/6552",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Gold coin associated with Jahangir and Nur Jahan, 1939.0514.12",
+          "url": "https://www.britishmuseum.org/collection/object/C_1939-0514-12",
+          "publisher": "The British Museum",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 222,
+      "id": "story-christian-church-heritage-beyond-metropolitan-centres",
+      "proseWords": 489,
+      "sources": [
+        {
+          "title": "St Luke’s Church",
+          "url": "https://doam.gov.pk/public/sites/664",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Church, Talagang",
+          "url": "https://doam.gov.pk/public/sites/6744",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Parishes and Clergy",
+          "url": "https://new.peshawardiocese.org/new-parishes-clergy/",
+          "publisher": "Peshawar Diocese, Church of Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 223,
+      "id": "story-cemeteries-as-records-of-migration-and-service",
+      "proseWords": 486,
+      "sources": [
+        {
+          "title": "Shahwala Graveyard",
+          "url": "https://doam.gov.pk/public/sites/6376",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Grave of John Jacob",
+          "url": "https://doam.gov.pk/public/sites/4362",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "India Office Provident Fund: Complete Family Register of Subscribers",
+          "url": "https://searcharchives.bl.uk/catalog/040-000970788",
+          "publisher": "British Library, India Office Records",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "India and Pakistan: Baptisms, Marriages, Burials, 1947–1950",
+          "url": "https://searcharchives.bl.uk/catalog/040-000116761",
+          "publisher": "British Library, India Office Records",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 224,
+      "id": "story-shared-sacred-landscapes-without-a-myth-of-seamless-harmony",
+      "proseWords": 495,
+      "sources": [
+        {
+          "title": "Katas Raj Temples",
+          "url": "https://doam.gov.pk/public/sites/6750",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Sharda Temple",
+          "url": "https://doam.gov.pk/public/sites/6633",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Hinglaj Devi: Identity, Change, and Solidification at a Hindu Temple in Pakistan",
+          "url": "https://academic.oup.com/book/5901",
+          "publisher": "Oxford University Press; Jürgen Schaflechner",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 225,
+      "id": "story-changing-custodianship-of-a-religious-building",
+      "proseWords": 498,
+      "sources": [
+        {
+          "title": "Functions of the Board",
+          "url": "https://etpb.gov.pk/functions/",
+          "publisher": "Evacuee Trust Property Board",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Pakistan Sikh Gurdwara Parbandhak Committee",
+          "url": "https://etpb.gov.pk/shrines/pakistan-sikh-gurdwara-parbandhak-committee-psgpc/",
+          "publisher": "Evacuee Trust Property Board",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Golra Sharif Temple",
+          "url": "https://doam.gov.pk/public/sites/6311",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Said Pur Temple Complex",
+          "url": "https://doam.gov.pk/public/sites/6230",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 226,
+      "id": "story-abandoned-does-not-mean-ownerless",
+      "proseWords": 498,
+      "sources": [
+        {
+          "title": "Hindu Temple, Harnoli",
+          "url": "https://doam.gov.pk/public/sites/9934",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Dalwal Temple-I",
+          "url": "https://doam.gov.pk/public/sites/6754",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Functions of the Board",
+          "url": "https://etpb.gov.pk/functions/",
+          "publisher": "Evacuee Trust Property Board",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 227,
+      "id": "story-religious-heritage-and-the-politics-of-naming",
+      "proseWords": 503,
+      "sources": [
+        {
+          "title": "Memorial shrine of Vijayanandsuri, late nineteenth–early twentieth century",
+          "url": "https://www.artworkarchive.com/profile/asu-asian-art-history/artwork/90-memorial-shrine-of-vijayanandsuri-late-19th-early-20th-c",
+          "publisher": "ASU Asian Art History",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Exploratory Survey of Jaina Heritage in Pakistan",
+          "url": "https://www.soas.ac.uk/research/exploratory-survey-jaina-heritage-pakistan",
+          "publisher": "SOAS University of London",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Gori Temple",
+          "url": "https://doam.gov.pk/public/sites/5499",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 228,
+      "id": "story-what-a-saints-biography-can-and-cannot-date",
+      "proseWords": 494,
+      "sources": [
+        {
+          "title": "Shrine of Hazrat Madhu Lal Hussain",
+          "url": "https://doam.gov.pk/public/sites/10203",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Hazrat Sakhi Sarwar, Dera Ghazi Khan",
+          "url": "https://auqaf.punjab.gov.pk/shrine-sakhi-sarwar",
+          "publisher": "Punjab Auqaf and Religious Affairs Department",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Drawing for Understanding",
+          "url": "https://historicengland.org.uk/images-books/publications/drawing-for-understanding/",
+          "publisher": "Historic England",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 229,
+      "id": "story-new-sacred-architecture-can-also-be-heritage",
+      "proseWords": 498,
+      "sources": [
+        {
+          "title": "Bhong Mosque",
+          "url": "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/bhong-mosque",
+          "publisher": "Aga Khan Award for Architecture",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Important Places: Bhong Mosque",
+          "url": "https://rykhan.punjab.gov.pk/important_places",
+          "publisher": "Government of Punjab, District Rahim Yar Khan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "1986 Aga Khan Award for Architecture publication record",
+          "url": "https://hkapi.lib.cuhk.edu.hk/items/d7c73c01-c59c-4811-b08c-392844acecf8",
+          "publisher": "Chinese University of Hong Kong Architecture Library",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    }
+  ],
+  "sourceReadingNote": "Institutional catalogues, community parish list, source-edition conventions, library archival descriptions and award documentation. DOAM timeouts resolved through indexed text where possible. No invented epitaph translation. No assignment of ETPB ownership to linked temples. ASU identity-specific record resolves Atmaramji alias for article 227. DOAM Shah Hussain chronological contradiction not adopted.",
+  "copyrightNote": "No direct quotations. Brief factual source summaries plus original comparative analysis. Shared Hinglaj book cumulative paraphrase remains under 200 words; shared ETPB functions approximately 100 across 225/226; DOAM site records kept brief across repeat uses. No full source text stored."
+}

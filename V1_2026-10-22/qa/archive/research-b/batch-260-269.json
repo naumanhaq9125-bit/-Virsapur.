@@ -1,0 +1,207 @@
+{
+  "batch": "260-269",
+  "status": "review-only",
+  "createdAt": "2026-10-22",
+  "records": [
+    {
+      "id": "story-sohni-across-oral-and-written-versions",
+      "planIndex": 260,
+      "proseWords": 468,
+      "references": [
+        {
+          "title": "A Confluence of Stories",
+          "url": "https://www.britishmuseum.org/blog/confluence-stories",
+          "publisher": "British Museum",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Unveiling Emotions of Women: A Glimpse into Shah Latif’s Poetry",
+          "url": "https://sujo.usindh.edu.pk/index.php/THE-WOMEN/article/view/6936",
+          "publisher": "The Women / University of Sindh",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Museumaccount~130words,universityabstract~40; no songlyricsquoted. No assertion of historicalevents. PunjabfacetnotexclusiveSohni/Suhnicirculation."
+    },
+    {
+      "id": "story-marui-reading-homeland-through-a-literary-figure",
+      "planIndex": 261,
+      "proseWords": 485,
+      "references": [
+        {
+          "title": "Dramatic Monologue in Shah Jo Risalo: A Generic Study of Sur Marui",
+          "url": "https://sujo.usindh.edu.pk/index.php/ARIEL/article/view/3800",
+          "publisher": "Muhammad Hassan Khoso and colleagues / University of Sindh",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Singleprimarytextualstudy-deriveddetails~140words; restoriginalclose-readingmethod not claimsabout unconsultedverses. No quotation or invented scenes. NativeSindhireviewrequired."
+    },
+    {
+      "id": "story-shah-jo-risalo-why-the-edition-matters",
+      "planIndex": 262,
+      "proseWords": 487,
+      "references": [
+        {
+          "title": "Ways of Love: Self-making and Repertoire Formation through the Musical Legacy of Shah Abdul Latif in Sindh, Pakistan",
+          "url": "https://dash.harvard.edu/entities/publication/4d8548be-ed3c-489d-b757-54251e1b1891",
+          "publisher": "Pei-ling Huang / Harvard University",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Linguistic Development, Sindhi Language and Literature",
+          "url": "https://www.library.sindhila.org/book/46/read/1328",
+          "publisher": "Sindhi Language Authority",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Huangabstract+indexedPDFp130consulted; fullPDFfetch405. Ganj1793/orderclaims~125 plusabstract35 under200. Sindhila1866~25. No assertion all editionssame30surs. Sourceeditioncomparisonnotperformedclaimed."
+    },
+    {
+      "id": "story-the-kafi-as-a-poetic-and-performed-form",
+      "planIndex": 263,
+      "proseWords": 479,
+      "references": [
+        {
+          "title": "Writing Resistance in the Three Punjabs: Critical Engagements with Literary Tradition",
+          "url": "https://www.repository.cam.ac.uk/items/68ca6c38-c0c1-401b-a206-3599eeda62cd",
+          "publisher": "Sara Kazmi / University of Cambridge",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Voices of Sufism programme notes, 22 July 2010",
+          "url": "https://www.asiasociety.org/files/pdf/100722_voiceofsufi_prognotesweb.pdf",
+          "publisher": "Asia Society",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Kazmiabout75words plus258about90=>165cumulative. Programmeabout50. Do notconfusepoeticformwithragaKafi. No lyricsquoted/noanalysisofunheard recording. Performancequestions framedguidance."
+    },
+    {
+      "id": "story-qissa-a-genre-not-just-a-folk-tale",
+      "planIndex": 264,
+      "proseWords": 483,
+      "references": [
+        {
+          "title": "The Social Space of Language: Vernacular Culture in British Colonial Punjab",
+          "url": "https://www.ucpress.edu/book/9780520262690/the-social-space-of-language",
+          "publisher": "Farina Mir / University of California Press",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Fabulous Machinery for the Curious: The Garden of Urdu Classical Literature, introduction",
+          "url": "https://content.ucpress.edu/title/9780520388239/fabulousintro.pdf",
+          "publisher": "Musharraf Ali Farooqi / University of California Press",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Exact book identity verified against UC Press ISBN9780520388239. Mir about100 derived words; Farooqi about60. Genre flexibility explained. No exclusive Punjabi/Urdu claim."
+    },
+    {
+      "id": "story-proverbs-as-records-of-use-not-timeless-wisdom",
+      "planIndex": 265,
+      "proseWords": 469,
+      "references": [
+        {
+          "title": "Proverbs and dictionaries of proverbs in Urdu",
+          "url": "https://sujo.usindh.edu.pk/index.php/TAHQIQ/article/view/2698",
+          "publisher": "Rauf Parekh / Tahqiq, University of Sindh",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Social Dynamics of Sindhi Society: An analysis of Proverbs and their impact on Mindset",
+          "url": "https://sujo.usindh.edu.pk/index.php/KALICH/article/view/434",
+          "publisher": "Tufail Chandio / Kalich Research Journal",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Parekh~65Chandio~45facts; explicitlycritiquebroadcausalclaimsnotendorse negativegroupstereotypes. No inventedproverbs. Discussionofmethodoriginal."
+    },
+    {
+      "id": "story-womens-voices-in-regional-oral-literature",
+      "planIndex": 266,
+      "proseWords": 477,
+      "references": [
+        {
+          "title": "In Search of Folk Wedding Songs: A Woman Researcher’s Challenges in Family Folkloric Studies",
+          "url": "https://www.humapub.com/admin/alljournals/gsr/papers/vteHey5lGf.pdf",
+          "publisher": "Atifa Nasir / Global Sociological Review",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Dramatic Monologue in Shah Jo Risalo: A Generic Study of Sur Marui",
+          "url": "https://sujo.usindh.edu.pk/index.php/ARIEL/article/view/3800",
+          "publisher": "Muhammad Hassan Khoso and colleagues / University of Sindh",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Nasirprimaryfieldwork~120words; Maruipaper~35+261~130total165. Distinguishfemalecharacter/performer/author. Noexplicitlyprivate material reproduced/no inventedparticipantvoices."
+    },
+    {
+      "id": "story-translation-and-the-problem-of-a-beautiful-mistranslation",
+      "planIndex": 267,
+      "proseWords": 483,
+      "references": [
+        {
+          "title": "Exploring the Invariant Core: An Analysis of Multiple Translations of a Selection from Iqbal’s Shikwah",
+          "url": "https://pu.edu.pk/images/journal/bazyaft/PDF/07_v37_July-Dec_2020.pdf",
+          "publisher": "Nasir Mehmood and Hazrat Umar / Bazyāft, University of the Punjab",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Foregrounding and Creative Translation: Stylistic Deviation in the English Translation of Bulleh Shah’s Poetry",
+          "url": "https://sujo.usindh.edu.pk/index.php/KALICH/article/download/3904/2889/7290",
+          "publisher": "Mehvish Riaz / Kalich Research Journal",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Firstpaper~100derivedwords,second~25(topicnotfindingsunread). No accuseindividualmistranslation; noquotelyrics. Review any future translatedexampleswithsource-languageexpert."
+    },
+    {
+      "id": "story-suri-jagek-observing-the-sky-through-local-terrain",
+      "planIndex": 268,
+      "proseWords": 467,
+      "references": [
+        {
+          "title": "Suri Jagek, nomination 01381",
+          "url": "https://ich.unesco.org/en/USL/suri-jagek-observing-the-sun-traditional-meteorological-and-astronomical-practice-based-on-the-observation-of-the-sun-moon-and-stars-in-reference-to-the-local-topography-01381",
+          "publisher": "UNESCO Intangible Cultural Heritage",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "THAAP review of accreditation",
+          "url": "https://ich.unesco.org/doc/src/60958-EN.pdf",
+          "publisher": "THAAP / UNESCO Intangible Cultural Heritage",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "UNESCOdescription~155words;THAAP~40. Noforecastaccuracyendorsementorweatheradvice. No preciseobservationpointsinvented; noallKalashastandardization."
+    },
+    {
+      "id": "story-nowruz-as-a-shared-festival-with-local-differences",
+      "planIndex": 269,
+      "proseWords": 469,
+      "references": [
+        {
+          "title": "Nowruz, multinational inscription 02097",
+          "url": "https://ich.unesco.org/en/RL/nowruz-02097",
+          "publisher": "UNESCO Intangible Cultural Heritage",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "International Nowruz Day",
+          "url": "https://www.un.org/en/observances/international-nowruz-day",
+          "publisher": "United Nations",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Pakistan periodic report on implementation of the 2003 Convention",
+          "url": "https://ich.unesco.org/doc/src/Signed%20periodic%20report%20-%20Periodic%20report-67253.pdf",
+          "publisher": "Government of Pakistan / UNESCO",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "UNESCOrecord~60UN~65PKreport~25. DirectUNESCOchallenge; indexedofficialentryread. No claim allPakistancelebrates/no unverifiedlocalmenuorritual. Current2024multinationalextensionnotnewPakistan-onlyinscription."
+    }
+  ]
+}

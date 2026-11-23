@@ -1,0 +1,111 @@
+{
+  "id": "virsapur-site",
+  "name": "Virsapur",
+  "defaultTourOrigin": "Lahore",
+  "tagline": "Pakistan’s heritage, made accessible.",
+  "purpose": "We aim to revive our diverse cultural heritage through spreading awareness and advocating for its preservation.",
+  "email": "virsapur@gmail.com",
+  "phone": "+92-315-4354899",
+  "address": null,
+  "defaultSiteOrigin": "http://127.0.0.1:4173/production",
+  "defaultSeoImage": {
+    "src": "assets/hero-badshahi.jpg",
+    "optimizedStem": "hero-badshahi",
+    "width": 1918,
+    "height": 1080,
+    "alt": "Badshahi Mosque and Lahore"
+  },
+  "navigation": [
+    {
+      "id": "home",
+      "label": "Home",
+      "route": "/",
+      "visible": true,
+      "required": true
+    },
+    {
+      "id": "map",
+      "label": "Explore",
+      "route": "/heritage-map",
+      "visible": true,
+      "required": false
+    },
+    {
+      "id": "programmes",
+      "label": "Experiences",
+      "route": "/programmes",
+      "visible": true,
+      "required": false
+    },
+    {
+      "id": "archives",
+      "label": "Stories",
+      "route": "/archives",
+      "visible": true,
+      "required": false
+    },
+    {
+      "id": "whats-on",
+      "label": "What’s On",
+      "route": "/whats-on",
+      "visible": true,
+      "required": false
+    },
+    {
+      "id": "work",
+      "label": "Our work",
+      "route": "/our-work",
+      "visible": true,
+      "required": false
+    },
+    {
+      "id": "about",
+      "label": "About",
+      "route": "/why-virsapur",
+      "visible": true,
+      "required": false
+    }
+  ],
+  "footer": {
+    "explore": [
+      "map",
+      "programmes",
+      "archives",
+      "work",
+      "about"
+    ],
+    "connect": [
+      {
+        "label": "Contact",
+        "route": "/contact"
+      }
+    ],
+    "legal": []
+  },
+  "social": [],
+  "integrations": {
+    "contact": {
+      "connected": false,
+      "endpoint": null,
+      "method": "POST"
+    },
+    "newsletter": {
+      "connected": false,
+      "endpoint": null
+    },
+    "authentication": {
+      "enabled": false
+    }
+  },
+  "mission": "Bridge historical knowledge and public engagement through research, interpretation and shared experience.",
+  "vision": "A future in which Pakistan’s diverse heritage is visible, understood and carried forward with care.",
+  "productionDomain": "http://127.0.0.1:4173/production",
+  "commerce": {
+    "enabled": false,
+    "mode": "enquiry",
+    "currency": "PKR",
+    "amount": null,
+    "label": ""
+  },
+  "paymentMode": "disabled"
+}

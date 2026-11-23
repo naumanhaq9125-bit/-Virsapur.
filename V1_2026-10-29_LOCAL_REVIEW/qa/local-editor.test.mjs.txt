@@ -1,0 +1,1 @@
+Local Studio helper checks passed: 25-row pagination, body-free search, exact filters, immutable bulk changes, review gating, nested provenance preservation, legacy references, safe CSV export.

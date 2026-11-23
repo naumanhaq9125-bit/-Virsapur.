@@ -1,0 +1,227 @@
+export const UNRESOLVED_ADMINISTRATIVE_BOUNDARIES = [
+  {
+    "districtId": "balochistan-barshore",
+    "legalStatus": "reported-not-verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": null,
+    "sourcesChecked": [
+      "balochistan-gazette-index-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "balochistan-hub",
+    "legalStatus": "reported-not-verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": "balochistan-lasbela",
+    "sourcesChecked": [
+      "balochistan-gazette-index-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "balochistan-north-dera-bugti",
+    "legalStatus": "reported-not-verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": "balochistan-dera-bugti",
+    "sourcesChecked": [
+      "balochistan-gazette-index-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "balochistan-quetta-east",
+    "legalStatus": "reported-not-verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": "balochistan-quetta",
+    "sourcesChecked": [
+      "balochistan-gazette-index-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "balochistan-quetta-west",
+    "legalStatus": "reported-not-verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": "balochistan-quetta",
+    "sourcesChecked": [
+      "balochistan-gazette-index-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "balochistan-rakhni",
+    "legalStatus": "reported-not-verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": "balochistan-barkhan",
+    "sourcesChecked": [
+      "balochistan-gazette-index-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "balochistan-south-dera-bugti",
+    "legalStatus": "reported-not-verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": "balochistan-dera-bugti",
+    "sourcesChecked": [
+      "balochistan-gazette-index-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "balochistan-usta-muhammad",
+    "legalStatus": "reported-not-verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": "balochistan-jaffarabad",
+    "sourcesChecked": [
+      "balochistan-gazette-index-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "balochistan-wadh",
+    "legalStatus": "reported-not-verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": "balochistan-khuzdar",
+    "sourcesChecked": [
+      "balochistan-gazette-index-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "khyber-pakhtunkhwa-allai",
+    "legalStatus": "reported-not-verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": null,
+    "sourcesChecked": [
+      "virsapur-editorial-review-seed-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "khyber-pakhtunkhwa-central-dir",
+    "legalStatus": "reported-not-verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": null,
+    "sourcesChecked": [
+      "virsapur-editorial-review-seed-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "khyber-pakhtunkhwa-paharpur",
+    "legalStatus": "reported-not-verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": null,
+    "sourcesChecked": [
+      "virsapur-editorial-review-seed-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "khyber-pakhtunkhwa-south-waziristan-lower",
+    "legalStatus": "verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": "khyber-pakhtunkhwa-south-waziristan",
+    "sourcesChecked": [
+      "kp-internship-current-district-list-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "khyber-pakhtunkhwa-south-waziristan-upper",
+    "legalStatus": "verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": "khyber-pakhtunkhwa-south-waziristan",
+    "sourcesChecked": [
+      "kp-internship-current-district-list-2026",
+      "kp-dgipr-upper-south-waziristan-2025"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "khyber-pakhtunkhwa-upper-swat",
+    "legalStatus": "reported-not-verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": null,
+    "sourcesChecked": [
+      "virsapur-editorial-review-seed-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  },
+  {
+    "districtId": "sindh-keamari",
+    "legalStatus": "verified",
+    "missingRequirement": "authoritative-boundary-geometry",
+    "parentAffected": "sindh-west-karachi",
+    "sourcesChecked": [
+      "sindh-current-official-directory-2026"
+    ],
+    "nextRecommendedSource": "Controlling notification with an official boundary schedule or a competent-authority ADM2/lower-level boundary dataset.",
+    "geometryMethodAttempted": "Current authoritative ADM2 and official district-geometry search; no defensible polygon located.",
+    "lastReviewedDate": "2026-08-05",
+    "reviewDueDate": "2026-09-04",
+    "publicationStatus": "withheld"
+  }
+];

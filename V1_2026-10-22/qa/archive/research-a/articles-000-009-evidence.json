@@ -1,0 +1,281 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 9,
+  "records": [
+    {
+      "articleId": "story-wells-mohenjodaro",
+      "planIndex": 0,
+      "wordCount": 412,
+      "sourceNotes": "Jansen abstract supports scale, supply and drainage; Kenoyer captions support wedge bricks, rope grooves, access and well/platform associations. Nakamura abstract supports caution about wastewater function. No claim that every house had a well or that all drains carried sewage.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Water Supply and Sewage Disposal at Mohenjo-Daro",
+          "url": "https://www.jstor.org/stable/124907",
+          "publisher": "Michael Jansen / World Archaeology",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Wells: archaeological captions",
+          "url": "https://www.harappa.com/category/slide-subject/wells?page=0",
+          "publisher": "Jonathan Mark Kenoyer / Harappa",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Reconsideration of water supply-drainage system",
+          "url": "https://www.jstage.jst.go.jp/article/journalhs1990/15/0/15_0_87/_article",
+          "publisher": "Nakamura and colleagues / Historical Studies in Civil Engineering",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-mohenjodaro-lanes",
+      "planIndex": 1,
+      "wordCount": 415,
+      "sourceNotes": "Lane alignment and blocked corbelled drain: Harappa lane caption. Courtyard/side entrance discussion: ANU historical reconstruction, explicitly qualified as interpretation. Stair evidence: Harappa stair captions. No household universality inferred from an educational model.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Mohenjo-daro: Narrow Streets and Lanes",
+          "url": "https://www.harappa.com/blog/mohenjo-daro-narrow-streets-and-lanes",
+          "publisher": "Harappa archaeological documentation",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Reconstruction of a house, Mohenjo-daro Museum",
+          "url": "https://openresearch-repository.anu.edu.au/entities/anuarchivesitem/18ecc16b-0291-4781-bdb0-75a30d71e9ed",
+          "publisher": "Australian National University Archives, Basham Collection",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Stairways of Mohenjo-daro II",
+          "url": "https://www.harappa.com/blog/stairways-mohenjo-daro-ii",
+          "publisher": "Harappa, archaeological captions and excavation-report discussion",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-mohenjodaro-architecture",
+      "planIndex": 2,
+      "wordCount": 413,
+      "sourceNotes": "UNESCO source checked with supplementary close-read before compilation; keep UNESCO-derived account under 200 words across this set. IGNCA indexed passage supports changed entrances, raised surfaces and wells below later levels. Stair source reused sparingly, factual attribution about building A1 remains qualified.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Archaeological Ruins at Moenjodaro",
+          "url": "https://whc.unesco.org/en/list/138/",
+          "publisher": "UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Stairways of Mohenjo-daro II",
+          "url": "https://www.harappa.com/blog/stairways-mohenjo-daro-ii",
+          "publisher": "Harappa archaeological documentation",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mohenjo-Daro, architectural discussion",
+          "url": "https://ignca.gov.in/Asi_data/14733.pdf",
+          "publisher": "Indira Gandhi National Centre for the Arts, digitised archaeological publication",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-priest-king",
+      "planIndex": 3,
+      "wordCount": 415,
+      "sourceNotes": "Kenoyer object record supports steatite, dimensions, decoration, inventory and uncertainties about inlay. DOAM supports collection association. IGNCA publication explicitly rejects deducing priest/ruler/god from iconography alone. No claim about current display or diplomatic transfer.",
+      "exception": null,
+      "references": [
+        {
+          "title": "“Priest King” side view",
+          "url": "https://www.harappa.com/slide/priest-king-side-view",
+          "publisher": "Jonathan Mark Kenoyer / Harappa",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "National Museum of Pakistan, Karachi",
+          "url": "https://doam.gov.pk/public/heritage-sites/792",
+          "publisher": "Department of Archaeology & Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Study of Indus stone sculpture, digitised publication",
+          "url": "https://ignca.gov.in/Asi_data/74331.pdf",
+          "publisher": "Indira Gandhi National Centre for the Arts",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-tomb-anarkali",
+      "planIndex": 4,
+      "wordCount": 425,
+      "sourceNotes": "DOAM architectural details only; its romantic biography and erroneous coordinate not adopted. PWCA supports church1851–1886, record office1891 and2024 conservation handover. Sindh Archives supports historical repository uses; not asserted current holdings/access.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Tomb of Anarkali",
+          "url": "https://doam.gov.pk/public/sites/6469",
+          "publisher": "Department of Archaeology & Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Tomb of Anarkali",
+          "url": "https://walledcitylahore.gop.pk/tomb-of-anarkali/",
+          "publisher": "Punjab Walled Cities & Heritage Areas Authority",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Punjab Archive",
+          "url": "https://archives.sindhculture.gov.pk/punjab_archive/",
+          "publisher": "Sindh Archives institutional directory",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-gurdwara-lahura",
+      "planIndex": 5,
+      "wordCount": 164,
+      "sourceNotes": "Exact-name searches returned public video/social references to Ghawindi/Ghavindi near Lahore, but no matched institutional record or authenticated historical text. No founding date, ownership, coordinates or Guru Nanak visit asserted. Parent explicitly authorised retaining unresolved flag.",
+      "exception": "Identity unresolved. An internal hold is deliberately shorter than an article; do not count this record as a completed publication-ready article.",
+      "references": [
+        {
+          "title": "Shrines Branch",
+          "url": "https://etpb.gov.pk/shrines/shrines-branch/",
+          "publisher": "Evacuee Trust Property Board",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-shaheed-ganj",
+      "planIndex": 6,
+      "wordCount": 381,
+      "sourceNotes": "SGPC supports distinct shrine opposite Bhai Taru Singh, Sikh commemorative framing, women’s memory and1934management claim. Implausible1764MirMannu date and numerical casualty claims excluded. Government2017–18registry supports historical functional listing, not2026access. Haroon abstract read; article beyond abstract not claimed accessed.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Gurdwara Shahid Ganj Singhnian Lahore",
+          "url": "https://sgpc.net/gurdwara-shahid-ganj-singhnian-lahore/",
+          "publisher": "Shiromani Gurdwara Parbandhak Committee",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Year Book 2017–2018, page 33",
+          "url": "https://www.mora.gov.pk/SiteImage/Publication/YearBook2017-18.pdf",
+          "publisher": "Ministry of Religious Affairs and Interfaith Harmony, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Custodianship of Shahidganj in colonial Lahore, abstract",
+          "url": "https://journals.sagepub.com/doi/10.1177/0019464617695678",
+          "publisher": "Sana Haroon / The Indian Economic and Social History Review",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-katas-raj",
+      "planIndex": 7,
+      "wordCount": 416,
+      "sourceNotes": "DOAM ensemble and mythology attribution <120words here; datescontradictory so omitted. TDCPensembleorientation only <80words; remaining architectureallocation nextarticle. ETPBfunctional list anddated2025pilgrimageprimaryrelease used, nofuturecalendarinference.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Katas Raj Temples",
+          "url": "https://doam.gov.pk/public/sites/6750",
+          "publisher": "Department of Archaeology & Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Katas Raj Temple Complex brochure",
+          "url": "https://webapi.tdcp.gop.pk/uploads/1769508488275-547027222.pdf",
+          "publisher": "Tourism Development Corporation of Punjab",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Functional mandirs",
+          "url": "https://etpb.gov.pk/shrines/mandirs/functional/",
+          "publisher": "Evacuee Trust Property Board",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Pilgrimage visas for Katas Raj, 21 February 2025",
+          "url": "https://pakhcnewdelhi.org.pk/pakistan-issues-visas-to-indian-pilgrims-for-visit-to-katas-raj-chakwal-2/",
+          "publisher": "Pakistan High Commission, New Delhi",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-satgraha-temples",
+      "planIndex": 8,
+      "wordCount": 410,
+      "sourceNotes": "TDCParchitecturalvocabulary <180words acrossarticles7&8; DOAMfeatures/dating <190across7&8; Meisterregionalcomparisonanddatingcaution <140 here leave~60forlaterarticles. Do not present Kashmiri-style label as origin-proof, noinventedconstructionphase.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Katas Raj Temple Complex brochure",
+          "url": "https://webapi.tdcp.gop.pk/uploads/1769508488275-547027222.pdf",
+          "publisher": "Tourism Development Corporation of Punjab",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Katas Raj Temples",
+          "url": "https://doam.gov.pk/public/sites/6750",
+          "publisher": "Department of Archaeology & Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Temples Along the Indus",
+          "url": "https://www.penn.museum/sites/expedition/temples-along-the-indus/",
+          "publisher": "Michael W. Meister / Penn Museum Expedition, 1996",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-havan-kund",
+      "planIndex": 9,
+      "wordCount": 417,
+      "sourceNotes": "NUMLindexedpassageidentifiesBaradari/Havankund;fullPDFtimeoutmeans specificdimensions/dates omitted. IGNCAritualdocumentation supports distinctionfirekindling/recitation/ceremonialcontext, explicitly nottransferredtoKatas. Requires local practitioner review beforepublication; notinstructions.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Archaeology and Cultural Heritage of Chakwal: A Case Study of Shri Katas Raj Temple",
+          "url": "https://norr.numl.edu.pk/repository/filedownload/1603",
+          "publisher": "National University of Modern Languages research repository",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Brihadishvara Temple: ritual documentation",
+          "url": "https://ignca.gov.in/brhadisvaratemple/VIMAN/RITUALS/Pages/entry.html",
+          "publisher": "Indira Gandhi National Centre for the Arts",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Functional mandirs",
+          "url": "https://etpb.gov.pk/shrines/mandirs/functional/",
+          "publisher": "Evacuee Trust Property Board",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

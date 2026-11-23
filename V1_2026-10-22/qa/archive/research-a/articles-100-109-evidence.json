@@ -1,0 +1,287 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 10,
+  "records": [
+    {
+      "articleId": "story-jacobabads-clock-tower-and-public-time",
+      "planIndex": 100,
+      "wordCount": 463,
+      "sourceNotes": "DOAM and2015inventorysameunderlyingworkaggregate~185words:1888,SSJacob,clockfaces,bricklime/interiorstairs. EFT~75words Jubilee/1887; use1887–88ratherthanresolveconstruction/openingbyguess. Nofunctioningclock/bellclaims,currentaccessorunverifiedheight.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Victoria Clock Tower catalogue record",
+          "url": "https://doam.gov.pk/public/sites/4365",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Inventory of Cultural Property in Sindh,VolumeI:Victoria Tower",
+          "url": "https://rio-heritage.org/wp-content/uploads/2016/10/volume-i-inventory-of-cultural-property-in-the-province-of-sindh.pdf",
+          "publisher": "Government of Sindh",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Victoria Tower,Jacobabad",
+          "url": "https://heritage.eftsindh.com/districts/jacobabad/victoria-tower.php",
+          "publisher": "Endowment Fund Trust for Preservation of the Heritage of Sindh",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-sehwan-fort-beyond-the-shrine-itinerary",
+      "planIndex": 101,
+      "wordCount": 465,
+      "sourceNotes": "DOAMmound/materials~95words. Kervranprimaryinterviewindexedpassagesread~125words; directopenbotchallenge recorded, no inventedfullread. Newsletter2023EFTdocumentation/stakeholderwork~100. Do not assert Alexanderfounder, allstrataRai, or cityentirelyexcavated.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Fort at Sehwan catalogue record",
+          "url": "https://doam.gov.pk/public/sites/5180",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Interview with Monik Kervran:Archaeology and the Indus valley",
+          "url": "https://sindh.hypotheses.org/files/2011/06/MIFS-Newsletter-n%C2%B02-2009.pdf",
+          "publisher": "French Interdisciplinary Mission in Sindh,Newsletter2,2009",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Sindhi Studies Group newsletter,2023",
+          "url": "https://sindh.hypotheses.org/files/2023/12/MIFSEN-1221.pdf",
+          "publisher": "French Interdisciplinary Mission in Sindh / Sindhi Studies Group",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-chottori-tombs-and-carved-funerary-architecture",
+      "planIndex": 102,
+      "wordCount": 454,
+      "sourceNotes": "DOAMTalpurKalhoraspecificburials~65. EFTprimarysurveytypes~90. Talpurheritagearchitecturalessay~160forcarvedsandstone/forms, attributionasaccount notverifiedgenealogy. Do not harmonisecontradictory12/14counts orcollapseall18c; noborrowedMakli chronology.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Chottori Tombs catalogue record",
+          "url": "https://doam.gov.pk/public/sites/5231",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Chittori Graveyard,Mirpurkhas:CDC-EFT survey26July2017",
+          "url": "https://heritage.eftsindh.com/districts/mirpurkhas/chittori-graveyard.php",
+          "publisher": "Endowment Fund Trust for Preservation of the Heritage of Sindh",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Talpurs and their tomb architecture",
+          "url": "https://talpur.org/talpurs-and-their-tomb-architecture/",
+          "publisher": "The Royal Talpurs and the Heritage of Sindh",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-brahmanabad-mansurah-names-ruins-and-historical-identification",
+      "planIndex": 103,
+      "wordCount": 464,
+      "sourceNotes": "DOAM~100words fortifiedbrickcity8c; no13cendpointcertitude. Sapienza2019researchproposal~185words aims notachievedresults, mosque/palaceassociation andpatchydocumentation. Official1977diarymetadata~35words existenceonly, not full diary excavationclaims. Namesequivalenceexplicitnotproven; noZenodouploadinstitutionclaim.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Brahmanabad(Mansurah) catalogue record",
+          "url": "https://doam.gov.pk/public/sites/5267",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mansura:investigation of the congregational mosque–dar al-imara complex",
+          "url": "https://research.uniroma1.it/en/mansura-capitale-abbaside-del-sindh-indagine-del-complesso-monumentale-moschea-congregazionale-dar",
+          "publisher": "Sapienza University of Rome",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mansura field diary162(14),1977",
+          "url": "https://ene.sindhculture.gov.pk/field-diaries/mansura-sindh-162-14-irfan-hussain-siddiqi-1977/",
+          "publisher": "Exploration and Excavation Branch,Sindh Culture Department",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-chanhudaro-an-archaeological-story-of-making",
+      "planIndex": 104,
+      "wordCount": 466,
+      "sourceNotes": "DOAM1935–36/bricksdrains~65. Kenoyer1997~150wordsdrillsworkshopandmanufacture, no speculative migrantsecrecy claim. Vidale1987~185includingreinterpretationofplaques aspossiblefurnacecomponents notcertainty, steatiteblanksequence. Distinct from earlierInduscraftrawmaterialarticles.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Chanhu Jo Daro catalogue record",
+          "url": "https://doam.gov.pk/public/sites/6464",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Trade and Technology of the Indus Valley:New Insights from Harappa,Pakistan",
+          "url": "https://www.harappa.com/sites/default/files/pdf/kenoyer1997Trade%20and%20Technology%20of%20The%20Indus%20Valley.pdf",
+          "publisher": "Jonathan Mark Kenoyer / World Archaeology",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Paste Plaques and Cylinders of Chanhudaro:A Descriptive Report",
+          "url": "https://www.harappa.com/sites/default/files/pdf/5_Annali_1987_47_%28f1%29_M._Vidale.pdf",
+          "publisher": "Massimo Vidale / Annali47.1,1987",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-thul-mir-rukan-and-the-survival-of-a-brick-monument",
+      "planIndex": 105,
+      "wordCount": 458,
+      "sourceNotes": "Officialprovincialform/tier/pilaster/imagesaccount~185words; DOAMchronologytentativeandlegend~60. Differentmeasurementsnotused. NoexactRai5–6cdateassertion, noinventedrelicchamber or assignunprovenmuseumobjects. Remainingoriginalformalreading andmethoddiscussion.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Thulh Mir Rukan catalogue record",
+          "url": "https://doam.gov.pk/public/sites/5094",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Buddhist Stupa,Village Thul Mir Rukan,Shaheed Benazir Abad",
+          "url": "https://antiquities.sindhculture.gov.pk/tour/buddhist-stupa-village-thul-mir-rukan-shaheed-benazir-abad/",
+          "publisher": "Directorate General of Antiquities,Sindh",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-frere-hall-civic-space-and-changing-cultural-uses",
+      "planIndex": 106,
+      "wordCount": 468,
+      "sourceNotes": "DOAMstyle/material/upperhallstair~175words; no1863ascompletion claim. Foundationabout~35gallery2017, Trails~85ceilingunfinished but noassertionstolenworks. Distinguish2017foundationgalleryinitiative from originalgallerynaming; avoidunsupportedbookmarketcurrenthours.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Frere Hall catalogue record",
+          "url": "https://doam.gov.pk/public/sites/5858",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "About SADEQUAIN Foundation",
+          "url": "https://sadequainfoundation.com/about-sadequain-foundation/",
+          "publisher": "SADEQUAIN Foundation",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Trails of the Lost Art of SADEQUAIN",
+          "url": "https://sadequainfoundation.com/product/trails-of-the-lost-art-of-sadequain/",
+          "publisher": "SADEQUAIN Foundation",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-empress-market-a-building-still-used-as-a-market",
+      "planIndex": 107,
+      "wordCount": 467,
+      "sourceNotes": "DOAMdates/galleries~65; EFTcommerce~40; URCprimaryinventory~55 (numberomitted toavoidcountscopeissue); ArifHasanplan~150 originaladvocacyproposalnotimplementedfact. Nolegaladvice or claimstallsallillegal; noDawnsyndicationreusewithoutbudget.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Empress Market catalogue record",
+          "url": "https://doam.gov.pk/public/sites/5846",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Empress Market,Karachi",
+          "url": "https://heritage.eftsindh.com/districts/karachi/empress-market.php",
+          "publisher": "Endowment Fund Trust for Preservation of the Heritage of Sindh",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "List of Recent Eviction2018:Demolished Units and Markets",
+          "url": "https://urckarachi.org/wp-content/uploads/2020/07/List-of-Recent-Eviction-2018-Demolished-Markets.pdf",
+          "publisher": "Urban Resource Centre,Karachi",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "News articles by Arif Hasan:Empress Market proposals",
+          "url": "https://urckarachi.org/wp-content/uploads/2020/07/News-aricles-by-Arif-Hasan-2.pdf",
+          "publisher": "Arif Hasan / Urban Resource Centre",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-sindh-madrassatul-islam-and-an-institutional-cityscape",
+      "planIndex": 108,
+      "wordCount": 455,
+      "sourceNotes": "Officialhistory~170words foundation/openadmissions/Jinnah1887–92and1943; aboutpage~45Strachanlocation; annualreport~20university2012; EFT~140archesand1898principalresidenceplaque (derivedfromKarachiLegacieswork reservebudgetiflater). Do notconflate1885institutionfoundationwithexactmainbuildingcompletion, no1892matriculationassertion.",
+      "exception": null,
+      "references": [
+        {
+          "title": "History of SMI",
+          "url": "https://www.smiu.edu.pk/about/history",
+          "publisher": "Sindh Madressatul Islam University",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "About SMIU",
+          "url": "https://www.smiu.edu.pk/about/about",
+          "publisher": "Sindh Madressatul Islam University",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Sindh Madressahtul Islam College,Karachi",
+          "url": "https://heritage.eftsindh.com/districts/karachi/sindh-madressahtul-islam-college.php",
+          "publisher": "Endowment Fund Trust for Preservation of the Heritage of Sindh",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Annual Report2022–23",
+          "url": "https://aqec.smiu.edu.pk/PDF/Annual-Report-SMIU-2022-23.pdf",
+          "publisher": "Sindh Madressatul Islam University",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-mir-masums-minaret-seeing-and-being-seen-in-sukkur",
+      "planIndex": 109,
+      "wordCount": 471,
+      "sourceNotes": "Sharedofficialunderlyingtextaggregate~195words:1595start,writerTarikhMasumi,brick/internalstair/domedsummit,stonecanopies/Persianinscriptions/familygraves. Avoidconflicting30/34mheight,19.5/28circumference, erroneous1618AHcompletion andDOAMAkbar1606title. Originalanalysisvisibility/writing notclaimprovenwatchtowerfunction.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Mir Masum’s Minar and Tomb catalogue record",
+          "url": "https://doam.gov.pk/public/sites/5135",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mir Masum’s Minar,Sukkur",
+          "url": "https://antiquities.sindhculture.gov.pk/tour/mir-masums-minar-sukkur/",
+          "publisher": "Directorate General of Antiquities,Sindh",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

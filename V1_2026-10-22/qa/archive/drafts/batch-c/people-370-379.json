@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "story-ranjit-singh-through-buildings-rather-than-a-heroic-portrait",
+    "type": "story",
+    "slug": "ranjit-singh-through-buildings-rather-than-a-heroic-portrait",
+    "title": "Ranjit Singh through buildings rather than a heroic portrait",
+    "summary": "A residence, a birthplace and a later samadhi distinguish different kinds of architectural association with Ranjit Singh.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Buildings associated with Ranjit Singh do not all tell the same kind of story. A place remembered as his birthplace, a residence linked to his use, and a memorial built after his death belong to different historical relationships. Reading them together can move beyond the familiar heroic portrait without reducing architecture to a list of possessions."
+      },
+      {
+        "type": "paragraph",
+        "text": "In Gujranwala, the birthplace haveli anchors a local memory of the ruler. Its association matters, but the survival of a named house does not mean every visible wall belongs to the moment of his birth. Identifying building phases is a separate task from recording the tradition attached to a room or address."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A residence away from the court"
+      },
+      {
+        "type": "paragraph",
+        "text": "The federal catalogue describes a summer residence on the eastern side of the Chenab, away from central Gujranwala. Its account identifies masonry construction, teak elements, a tall central space, smaller rooms and long verandahs. These are useful architectural observations because they concern organisation and use rather than the ruler’s personality. The entry’s underlying source is a later architectural survey account, so its identification should not be mistaken for a contemporary royal building order."
+      },
+      {
+        "type": "paragraph",
+        "text": "The arrangement suggests questions about seasonal occupation: how were enclosed rooms related to shaded edges, and how did a central volume connect the smaller spaces? Those are questions to pursue with measured plans and surviving fabric. They do not justify inventing an account of a particular summer gathering or claiming that the present river landscape is identical to its nineteenth-century setting."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A memorial made by successors"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Lahore samadhi is explicitly a later act of remembrance. The Walled City of Lahore Authority records that Kharak Singh began it at the cremation site and Duleep Singh completed it in 1848. It therefore represents decisions taken after Ranjit Singh’s death as well as memory of the ruler himself. The fluted dome, smaller roof pavilions and decorative interior belong to a commemorative building, not to a residence he inhabited."
+      },
+      {
+        "type": "paragraph",
+        "text": "The federal catalogue also attributes a reused marble doorway to Shish Mahal. That is a claim about the movement of material and should remain attached to its source until supported by more detailed provenance. It opens a different perspective on royal building: new monuments may incorporate earlier fabric, while later histories can interpret those transfers in sharply different ways."
+      },
+      {
+        "type": "paragraph",
+        "text": "These distinctions prevent one person’s name from flattening an architectural landscape. Birthplace, residence and samadhi can be compared without pretending that they were designed together, served the same audience or preserve the same moment."
+      },
+      {
+        "type": "paragraph",
+        "text": "For heritage discovery, a productive visit asks what kind of relationship is being claimed at each place and which evidence supports it. A ruler becomes historically more interesting, not less, when commemoration, domestic space, succession and material reuse remain visible. The buildings then offer more than scenery for a biography: they reveal how power was inhabited and how its memory was subsequently constructed."
+      }
+    ],
+    "primaryCategoryId": "archive-category-living-traditions",
+    "categoryIds": [
+      "archive-category-living-traditions"
+    ],
+    "tags": [
+      "Ranjit Singh",
+      "Sikh heritage",
+      "Built history"
+    ],
+    "province": "Punjab",
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-gujranwala",
+      "punjab-lahore",
+      "punjab-wazirabad"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-10111",
+      "major-doam-6470",
+      "major-doam-10112"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "personality",
+    "seo": {
+      "title": "Ranjit Singh through buildings rather than a heroic portrait",
+      "description": "A residence, a birthplace and a later samadhi distinguish different kinds of architectural association with Ranjit Singh.",
+      "primaryKeyword": "Ranjit Singh architectural patronage",
+      "socialTitle": "Ranjit Singh through buildings rather than a heroic portrait",
+      "socialDescription": "A residence, a birthplace and a later samadhi distinguish different kinds of architectural association with Ranjit Singh."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Samadhi of Ranjit Singh",
+        "url": "https://artsandculture.google.com/asset/samadhi-of-ranjit-singh-walled-city-of-lahore-authority/qQFm3iXRRQJI9g",
+        "publisher": "Walled City of Lahore Authority",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Samadh of Ranjit Singh",
+        "url": "https://doam.gov.pk/public/sites/6470",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Ranjit Singh Summer Residence",
+        "url": "https://doam.gov.pk/public/sites/10112",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Ranjit Singh birthplace",
+        "url": "https://doam.gov.pk/public/sites/10111",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Residence entry checked against saved official catalogue as well as live identity. Its underlying source is Asian Historical Architecture, not a new field survey. Birthplace source previously used in article337: only brief association repeated. DOAM pejorative architectural judgement not adopted. No certainty asserted about reused doorframe beyond catalogue attribution.",
+    "editorialReason": "Use documented commissions and residences while allowing contradictory historical evidence."
+  },
+  {
+    "id": "story-nur-jahan-and-the-evidence-for-patronage",
+    "type": "story",
+    "slug": "nur-jahan-and-the-evidence-for-patronage",
+    "title": "Nur Jahan and the evidence for patronage",
+    "summary": "A documented coin and the Shahdara tomb help separate Nur Jahan’s historical agency from later romantic attribution.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Nur Jahan is often introduced through romance, but material records offer a more precise starting point. A coin bearing her authority, a tomb attributed to her patronage and a later image carrying her name answer different questions. They should not be assembled into one seamless portrait without attending to their dates and purposes."
+      },
+      {
+        "type": "paragraph",
+        "text": "The British Museum catalogues a gold coin minted at Surat in 1626 under both Jahangir and Nur Jahan. Its museum number, production date and mint make it an identifiable object rather than a general assertion that the empress was influential. The catalogue supports her appearance within the language of imperial authority. It does not by itself explain every administrative decision she made, and this article does not supply an unverified transcription of its legend."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Patronage and surviving fabric"
+      },
+      {
+        "type": "paragraph",
+        "text": "At Shahdara, the federal archaeological catalogue attributes construction of Nur Jahan’s own tomb to her lifetime. It describes a platform setting and records traces of painted interior decoration, while also noting losses. Such an entry is a useful starting point for studying patronage, but the surviving building must still be understood through subsequent repair and alteration. A patron’s initiative is not a guarantee that all present material is original."
+      },
+      {
+        "type": "paragraph",
+        "text": "The surrounding monuments are also distinct commissions. The UNESCO Tentative List entry is titled for the tombs of Jahangir and Asif Khan and Akbari Sarai. That title should not be casually expanded to give every nearby monument the same designation. Nor does proximity prove that one person commissioned the entire landscape. An ensemble can be historically connected while containing different agents, dates and functions."
+      },
+      {
+        "type": "paragraph",
+        "text": "Together, coin and tomb broaden the evidence for Nur Jahan beyond a romantic anecdote. One is a portable official object; the other is a place of burial and remembrance. Their scales differ, but both make it possible to ask how a woman’s name and authority entered material public life."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A later portrait is another kind of evidence"
+      },
+      {
+        "type": "paragraph",
+        "text": "The British Library’s record Add Or 1057 describes a drawing of a woman labelled Nur Jahan but dates it to around 1760. That is long after the empress’s lifetime. The record also preserves a later English inscription offering a dramatic story about her marriage. Such writing is evidence of how an image was interpreted and collected, not automatic proof of the events it alleges."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is why a familiar name beneath a picture requires the same scrutiny as an attribution on a building. When was the label added, by whom, and on what basis? The questions do not erase Nur Jahan’s agency; they help recover it from layers of later storytelling."
+      },
+      {
+        "type": "paragraph",
+        "text": "A responsible account of patronage therefore distinguishes documented objects, catalogue attributions and subsequent memory. That approach gives the empress a more substantial historical presence than either idealised romance or an unsupported list of buildings ever could."
+      }
+    ],
+    "primaryCategoryId": "archive-category-living-traditions",
+    "categoryIds": [
+      "archive-category-living-traditions"
+    ],
+    "tags": [
+      "Nur Jahan",
+      "Patronage",
+      "Mughal history"
+    ],
+    "province": "Punjab",
+    "district": "Lahore",
+    "relatedDistrictIds": [
+      "punjab-lahore"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6472"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "personality",
+    "seo": {
+      "title": "Nur Jahan and the evidence for patronage",
+      "description": "A documented coin and the Shahdara tomb help separate Nur Jahan’s historical agency from later romantic attribution.",
+      "primaryKeyword": "Nur Jahan architectural patronage",
+      "socialTitle": "Nur Jahan and the evidence for patronage",
+      "socialDescription": "A documented coin and the Shahdara tomb help separate Nur Jahan’s historical agency from later romantic attribution."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Tomb of Nur Jahan",
+        "url": "https://doam.gov.pk/public/sites/6472",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Gold coin, museum number 1939,0514.12",
+        "url": "https://www.britishmuseum.org/collection/object/C_1939-0514-12",
+        "publisher": "British Museum",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Add Or 1057: A lady",
+        "url": "https://searcharchives.bl.uk/catalog/040-003272080",
+        "publisher": "British Library",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Tombs of Jahangir, Asif Khan and Akbari Sarai",
+        "url": "https://whc.unesco.org/en/tentativelists/1279/",
+        "publisher": "UNESCO World Heritage Centre",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "BM and BL primary indexed metadata read; BM full fetch403. No coin inscription transcribed. UNESCO1279 is contextual ensemble listing, not proof Nur Jahan tomb is itself included/inscribed. Tomb dimensions and speculative robbery claim omitted. Portrait dated c1760 not treated as lifetime likeness.",
+    "editorialReason": "Separate documented agency from romantic anecdotes and unsupported building attributions."
+  },
+  {
+    "id": "story-wazir-khan-a-patron-remembered-through-an-urban-ensemble",
+    "type": "story",
+    "slug": "wazir-khan-a-patron-remembered-through-an-urban-ensemble",
+    "title": "Wazir Khan: a patron remembered through an urban ensemble",
+    "summary": "Wazir Khan’s mosque, bath and commercial spaces reveal patronage as an urban relationship rather than an isolated monument.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Wazir Khan’s name survives most visibly in a mosque, but the architectural story is larger than its prayer chamber. The patronage associated with Hakim Ilm ud Din, governor of Lahore under Shah Jahan, joined religious space to bathing, commerce and movement through the city. Looking at those relationships gives a more substantial account of patronage than a biography followed by a list of buildings."
+      },
+      {
+        "type": "paragraph",
+        "text": "Punjab’s Auqaf Department identifies the mosque as part of an ensemble that included the nearby Shahi Hammam. Both belong to the seventeenth-century city around the route from Delhi Gate towards Lahore Fort. Their proximity is not merely convenient for a modern walking tour. It places them within a shared urban setting where residents, workers and travellers moved between different activities."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The threshold was not empty"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Aga Khan conservation account describes shops integrated with the mosque’s entrance and outer façades, including spaces associated with calligraphers and bookbinders. This matters because commerce was not simply an intrusion that arrived after a supposedly pure monument had been completed. Some commercial space formed part of the historic composition itself."
+      },
+      {
+        "type": "paragraph",
+        "text": "The chowk, entrance sequence and prayer court therefore need to be read together. A visitor passes from a public urban space into a religious enclosure, but the boundary is articulated through rooms, openings and changes of scale. The patron’s presence was expressed not only in decoration but in the organisation of a place used by many people for different purposes."
+      },
+      {
+        "type": "paragraph",
+        "text": "The hammam adds another dimension. Conservation work documented water supply, drainage, furnaces and underfloor heating. These systems remind us that patronage depended on technical labour and continued maintenance. A bathhouse was not sustained by its name alone: heat, water and circulation had to work. Painted surfaces are only one part of the surviving evidence."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Patronage and later urban change"
+      },
+      {
+        "type": "paragraph",
+        "text": "The same conservation account records later adaptations of the hammam, including educational and administrative uses, and interventions to address water damage. Its subsequent presentation as a museum is another phase. A public bath, a reused building and a conserved visitor site are related but different institutions."
+      },
+      {
+        "type": "paragraph",
+        "text": "The mosque’s surroundings similarly raise a distinction between historically integrated shops and later structures that obstructed or damaged parts of the complex. Calling all commerce an encroachment would obscure the original urban design; treating every later alteration as harmless continuity would ignore material consequences. Precise documentation is needed to distinguish them."
+      },
+      {
+        "type": "paragraph",
+        "text": "Wazir Khan can thus be understood through the relationships his commissions helped establish, while acknowledging the many builders, craftspeople and users whose names are less securely recorded. The evidence does not require us to invent their biographies to recognise their work."
+      },
+      {
+        "type": "paragraph",
+        "text": "The result is an urban history of patronage: a mosque connected to a market threshold, a bath connected to infrastructure, and both connected to a changing neighbourhood. That is a richer legacy than an isolated architectural masterpiece detached from the city that made it function."
+      }
+    ],
+    "primaryCategoryId": "archive-category-living-traditions",
+    "categoryIds": [
+      "archive-category-living-traditions"
+    ],
+    "tags": [
+      "Wazir Khan",
+      "Urban heritage",
+      "Lahore"
+    ],
+    "province": "Punjab",
+    "district": "Lahore",
+    "relatedDistrictIds": [
+      "punjab-lahore"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6466",
+      "major-doam-9778"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "personality",
+    "seo": {
+      "title": "Wazir Khan: a patron remembered through an urban ensemble",
+      "description": "Wazir Khan’s mosque, bath and commercial spaces reveal patronage as an urban relationship rather than an isolated monument.",
+      "primaryKeyword": "Wazir Khan Lahore patronage",
+      "socialTitle": "Wazir Khan: a patron remembered through an urban ensemble",
+      "socialDescription": "Wazir Khan’s mosque, bath and commercial spaces reveal patronage as an urban relationship rather than an isolated monument."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Wazir Khan Mosque",
+        "url": "https://auqaf.punjab.gov.pk/wazir-khan",
+        "publisher": "Punjab Auqaf and Religious Affairs Department",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Walled city of Lahore conservation",
+        "url": "https://the.akdn/en/where-we-work/south-asia/pakistan/walled-city-of-lahore-conservation-pakistan",
+        "publisher": "Aga Khan Development Network",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Documentation and conservation of Wazir Khan Mosque",
+        "url": "https://www.cipaheritagedocumentation.org/wp-content/uploads/2018/12/Salman-Documentation-and-conservation-of-Wazir-Khan-mosque-Lahore-Pakistan.pdf",
+        "publisher": "CIPA Heritage Documentation",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "AKDN page limited to under200 derived words combined mosque/bath. Earlier CIPA use~80 words: this article uses no new detailed source claims from it beyond documentation context. No claimed waqf income sum/deed inspected. Construction-date discrepancy 1634–35 versus1634–41 avoided by broad1630s formulation.",
+    "editorialReason": "Connect mosque and bath commission records without making the article another monument guide."
+  },
+  {
+    "id": "story-dyal-singh-majithia-and-the-idea-of-a-public-institution",
+    "type": "story",
+    "slug": "dyal-singh-majithia-and-the-idea-of-a-public-institution",
+    "title": "Dyal Singh Majithia and the idea of a public institution",
+    "summary": "Dyal Singh Majithia’s bequest linked education, reading and public discussion; the institutions it supported have their own changing histories.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "An endowment turns private resources towards a future the donor will not control in detail. Dyal Singh Majithia’s legacy is particularly interesting in this respect because it linked several kinds of public institution: a college, a library and a newspaper. Their common ground was access to knowledge, but each required a different form of organisation and a different relationship with its audience."
+      },
+      {
+        "type": "paragraph",
+        "text": "Government Dyal Singh College’s institutional history describes his will as providing for these three ventures and assigning the largest part of the estate to the proposed college. The account presents education and public service as the organising purpose of the bequest. It is an institutional history of the will, not a substitute here for inspection of the original legal document or its complete financial schedules."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A library develops over time"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Evacuee Trust Property Board gives the Lahore library a chronology that is more useful than a single foundation date. It records establishment in 1908, initial operation in Dyal Singh’s residence and relocation to its present building in 1928. These dates describe different events: the institution began before it occupied the building now associated with it."
+      },
+      {
+        "type": "paragraph",
+        "text": "The same account records closure following the migration of trustees in 1947 and resumption under ETPB administration in 1964. That interruption is part of the library’s history, not an awkward gap to be removed from a celebratory narrative. Books, buildings, legal responsibilities and readers do not necessarily move together when political boundaries and institutions change."
+      },
+      {
+        "type": "paragraph",
+        "text": "New Delhi’s Dyal Singh Public Library identifies its own establishment in 1954 following Partition. The related name and founding inspiration should not lead us to merge two separate institutions into one unbroken address. Their subsequent histories belong to different communities of readers and different administrative settings."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What makes an institution public?"
+      },
+      {
+        "type": "paragraph",
+        "text": "A benefactor’s name on a façade is only the beginning of that question. A college must sustain teaching; a library must organise collections and enable readers to use them; a newspaper needs editorial and production arrangements. Buildings can survive while access changes, and an institution can continue while moving to new premises."
+      },
+      {
+        "type": "paragraph",
+        "text": "For heritage interpretation, the valuable evidence therefore includes catalogues, rules, staff records and accounts of use alongside architectural description. Such records can show how a bequest became a working service. They can also reveal whose access was limited and how the idea of a public audience changed, questions that a donor biography alone cannot answer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dyal Singh’s legacy is consequently not just a story of generosity measured in property. It concerns the difficult work of making private wealth support collective intellectual life across generations. The documented changes in location, custody and operation show both the durability and the vulnerability of that ambition."
+      },
+      {
+        "type": "paragraph",
+        "text": "Reading these institutions together preserves the connection established by the bequest without erasing their separate lives. It also shifts attention from commemoration alone towards the readers, students and workers who make a public institution real each day."
+      }
+    ],
+    "primaryCategoryId": "archive-category-living-traditions",
+    "categoryIds": [
+      "archive-category-living-traditions"
+    ],
+    "tags": [
+      "Dyal Singh Majithia",
+      "Libraries",
+      "Public institutions"
+    ],
+    "province": "Punjab",
+    "district": "Lahore",
+    "relatedDistrictIds": [
+      "punjab-lahore"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-10187"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "personality",
+    "seo": {
+      "title": "Dyal Singh Majithia and the idea of a public institution",
+      "description": "Dyal Singh Majithia’s bequest linked education, reading and public discussion; the institutions it supported have their own changing histories.",
+      "primaryKeyword": "Dyal Singh Majithia legacy",
+      "socialTitle": "Dyal Singh Majithia and the idea of a public institution",
+      "socialDescription": "Dyal Singh Majithia’s bequest linked education, reading and public discussion; the institutions it supported have their own changing histories."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "History",
+        "url": "https://gdscl.edu.pk/history/",
+        "publisher": "Government Dyal Singh Graduate College Lahore",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Dyal Singh Trust Library",
+        "url": "https://etpb.gov.pk/dyal-singh-trust-library/",
+        "publisher": "Evacuee Trust Property Board",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Institutional history",
+        "url": "https://www.dspl.org.in/",
+        "publisher": "Dyal Singh Public Library, New Delhi",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "College/ETPB live institutional histories read. Delhi history distinguishes its1954 establishment from Lahore history; date1928 in Delhi shorthand not used as Lahore founding date. No will manuscript or specific financial amount claimed inspected.",
+    "editorialReason": "Use institutional histories and the bequest to discuss education and public reading."
+  },
+  {
+    "id": "story-sir-ganga-ram-civic-legacy-and-surviving-evidence",
+    "type": "story",
+    "slug": "sir-ganga-ram-civic-legacy-and-surviving-evidence",
+    "title": "Sir Ganga Ram: civic legacy and surviving evidence",
+    "summary": "Sir Ganga Ram’s civic legacy is best followed through distinct records of engineering, philanthropy and later institutional growth.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Sir Ganga Ram’s name is attached to public buildings, charitable institutions and a memorial in Lahore. These associations are not interchangeable. Designing or supervising a building, providing money for a service, and being commemorated after death are different forms of civic presence. A careful account needs to establish the relationship separately for each place."
+      },
+      {
+        "type": "paragraph",
+        "text": "The federal archaeological catalogue attributes Lahore’s General Post Office to Ganga Ram and links its construction to Queen Victoria’s Golden Jubilee in 1887. The same entry records a later conservation campaign and a stamp commemorating restoration in 1996. Even this brief chronology shows that the building has more than one authorial moment: original construction and subsequent care belong to different people and institutions."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A service is more than its first building"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Pakistan Society of Civil Engineers’ account places the beginnings of Sir Ganga Ram Hospital in Lahore in 1921 and describes its charitable facilities. That history establishes a philanthropic foundation, but it should not be used to date every block visible in today’s hospital complex. Medical institutions expand, replace spaces and change their relationship with teaching over time."
+      },
+      {
+        "type": "paragraph",
+        "text": "Fatima Jinnah Medical University’s record of a new nephrology ward inaugurated in 2023 offers a concrete example of that continuing development. It names contemporary donors and staff and describes provision for treatment and training. The point here is not to assess clinical services, but to recognise that a historic institution is also the work of later contributors. Their labour should not disappear behind the founder’s name."
+      },
+      {
+        "type": "paragraph",
+        "text": "The same distinction applies to architectural attribution. A familiar building is not securely a Ganga Ram project simply because it appears in a popular list. A responsible inventory should identify the evidence: a drawing, contract, institutional record or a clearly attributed historical study. Different roles in design, engineering and construction should be recorded rather than collapsed into a single credit."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Commemoration has its own material history"
+      },
+      {
+        "type": "paragraph",
+        "text": "The catalogue places Ganga Ram’s samadhi near the old city on Ravi Road and records later renovation after damage in 1992. The memorial consequently tells a story of remembrance and subsequent repair. It is not an untouched expression of its initial construction, and a description based on an older account should not be treated as a current condition survey."
+      },
+      {
+        "type": "paragraph",
+        "text": "Taken together, the post office, hospital and samadhi reveal three ways a civic legacy survives: through infrastructure still used, an institution that keeps developing, and a place where the individual is remembered. None needs an exaggerated claim that one person built an entire city."
+      },
+      {
+        "type": "paragraph",
+        "text": "The stronger account is both more precise and more generous. It recognises a documented contribution while leaving room for colleagues, donors, staff, conservators and users. Following that evidence makes Lahore’s civic heritage intelligible as an accumulated public endeavour, rather than a collection of buildings assigned to a single celebrated name."
+      }
+    ],
+    "primaryCategoryId": "archive-category-living-traditions",
+    "categoryIds": [
+      "archive-category-living-traditions"
+    ],
+    "tags": [
+      "Ganga Ram",
+      "Civic heritage",
+      "Lahore"
+    ],
+    "province": "Punjab",
+    "district": "Lahore",
+    "relatedDistrictIds": [
+      "punjab-lahore"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-10240",
+      "major-doam-10157"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "personality",
+    "seo": {
+      "title": "Sir Ganga Ram: civic legacy and surviving evidence",
+      "description": "Sir Ganga Ram’s civic legacy is best followed through distinct records of engineering, philanthropy and later institutional growth.",
+      "primaryKeyword": "Sir Ganga Ram Lahore heritage",
+      "socialTitle": "Sir Ganga Ram: civic legacy and surviving evidence",
+      "socialDescription": "Sir Ganga Ram’s civic legacy is best followed through distinct records of engineering, philanthropy and later institutional growth."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "General Post Office Lahore",
+        "url": "https://doam.gov.pk/public/sites/10157",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Samadh of Sir Ganga Ram",
+        "url": "https://doam.gov.pk/public/sites/10240",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "The Pakistan Civil Engineer, December 2018",
+        "url": "https://psce.org.pk/wp-content/uploads/2022/04/The-Pakistan-Civil-Engineer-V02-I02-A-December-2018.pdf",
+        "publisher": "Pakistan Society of Civil Engineers",
+        "accessDate": "2026-10-22",
+        "section": "Sir Ganga Ram Hospital discussion"
+      },
+      {
+        "title": "Inauguration of new Nephrology Department, 2023",
+        "url": "https://www.fjmu.edu.pk/event/inauguration-of-new-nephrology-department-sgrh/",
+        "publisher": "Fatima Jinnah Medical University",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Historical professional-society PDF indexed passage read; DOAM sources disclose secondary provenance. No unverified total building list, current hospital service claims, or claim all present hospital fabric dates1921. Samadhi page500, saved official catalogue used; present maintenance not asserted.",
+    "editorialReason": "Verify each attributed project rather than repeat a list of buildings credited by folklore."
+  },
+  {
+    "id": "story-ahmad-nabi-khan-and-the-work-of-a-monument-inventory",
+    "type": "story",
+    "slug": "ahmad-nabi-khan-and-the-work-of-a-monument-inventory",
+    "title": "Ahmad Nabi Khan and the work of a monument inventory",
+    "summary": "Ahmad Nabi Khan’s documented publications show why inventory work matters, and why an older catalogue is a starting point rather than a final authority.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A heritage inventory can be easy to overlook because its entries are short and its labour is dispersed. Yet the ability to identify a modest tomb, find its bibliography or distinguish it from a similarly named building depends on such work. Ahmad Nabi Khan’s name appears repeatedly in Pakistan’s monument records, making his publications a useful route into the practice of documenting heritage."
+      },
+      {
+        "type": "paragraph",
+        "text": "The federal catalogue entry for the tomb of Nawab Bahadur Khan in Lahore cites his 1987 publication Archaeological Sites and Historical Monuments Protected Under the Antiquities Act, 1975. The entry records an octagonal plan, brick construction and a later use as a theatre. These are different kinds of information: form and material describe a building, while a change of use opens a historical question."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What a short record makes possible"
+      },
+      {
+        "type": "paragraph",
+        "text": "Even a concise description can direct attention towards evidence that a visitor might otherwise miss. An octagonal platform is a feature to locate and compare. A reported later use suggests documents to seek. A named publication gives the researcher a route beyond the current webpage. The value lies not only in the facts listed, but in making further checking possible."
+      },
+      {
+        "type": "paragraph",
+        "text": "That does not mean every field on the digital page was supplied by Khan in 1987. Coordinates, administrative categories and website labels may have been added later. The publication date should therefore remain attached to the cited source, not transferred indiscriminately to all present metadata. Nor does a protected-monument inventory necessarily represent every place considered culturally important by local communities."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Sindh Exploration and Excavation Branch’s research-library catalogue documents a broader range of work under Khan’s name, including publications concerned with Multan, mosque architecture and archaeological meetings. Japan’s CiNii author record also connects the name to museum and art publications. These bibliographical records show the range of subjects available for study; they are not evidence that this article has read every listed volume."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "An inventory remains open to revision"
+      },
+      {
+        "type": "paragraph",
+        "text": "Older descriptions may preserve observations of features that have since changed. They can also contain uncertain dates, inherited interpretations or language that needs reconsideration. The appropriate response is neither unquestioning repetition nor dismissal. Compare the record with later studies, identify the source of a correction and retain the earlier account as part of the documentation history."
+      },
+      {
+        "type": "paragraph",
+        "text": "For a digital atlas, that means keeping a stable identity for a place while allowing its description to improve. A revised name should not silently create a duplicate. A new coordinate should be supported by site evidence. A changed interpretation should be distinguishable from the simple correction of a typographical error."
+      },
+      {
+        "type": "paragraph",
+        "text": "Khan’s contribution can therefore be approached through the continuing usefulness of documented work rather than an unsupported biographical tribute. An inventory gives future researchers something to question, compare and extend. Its legacy is strongest when the chain from physical place to description to publication remains visible, allowing each new generation to build on evidence rather than begin again from an unattributed paragraph."
+      }
+    ],
+    "primaryCategoryId": "archive-category-living-traditions",
+    "categoryIds": [
+      "archive-category-living-traditions"
+    ],
+    "tags": [
+      "Ahmad Nabi Khan",
+      "Heritage inventories",
+      "Research methods"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [],
+    "provinceRegionIds": [],
+    "relatedHeritageIds": [],
+    "relatedStoryIds": [],
+    "contentType": "personality",
+    "seo": {
+      "title": "Ahmad Nabi Khan and the work of a monument inventory",
+      "description": "Ahmad Nabi Khan’s documented publications show why inventory work matters, and why an older catalogue is a starting point rather than a final authority.",
+      "primaryKeyword": "Ahmad Nabi Khan archaeology surveys",
+      "socialTitle": "Ahmad Nabi Khan and the work of a monument inventory",
+      "socialDescription": "Ahmad Nabi Khan’s documented publications show why inventory work matters, and why an older catalogue is a starting point rather than a final authority."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Tomb of Nawab Bahadur Khan",
+        "url": "https://doam.gov.pk/public/sites/6482",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Online catalogue of books",
+        "url": "https://ene.sindhculture.gov.pk/online-catalogue-of-books/",
+        "publisher": "Sindh Exploration and Excavation Branch",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Nabi Khan, Ahmad: author authority record",
+        "url": "https://ci.nii.ac.jp/author/DA0894264X",
+        "publisher": "National Institute of Informatics, Japan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Object-led bibliography profile, no invented biography/director tenure. CiNii indexed catalogue only; DOAM6482 and Sindh library catalogue read. Does not claim inspection of full1987 volume or attribute current website fields/coordinates to1987 author. This distinction is essential.",
+    "editorialReason": "Examine the documented survey publication’s methods and legacy; obtain a biographical source before drafting life details."
+  },
+  {
+    "id": "story-abdur-rahman-chughtai-the-line-between-painting-and-print",
+    "type": "story",
+    "slug": "abdur-rahman-chughtai-the-line-between-painting-and-print",
+    "title": "Abdur Rahman Chughtai: the line between painting and print",
+    "summary": "An identified etching and illustrated book reveal Chughtai’s movement between a unique image, a printed impression and literary publication.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Chughtai’s work is often introduced through the elegance of his line, but the medium carrying that line matters. A drawing, a watercolour, an etched impression and an illustrated book are not simply different sizes of the same image. They involve different ways of making, reproducing and encountering art."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Asian Art Museum’s Old Musician provides an identifiable starting point. Its collection record describes an etching on paper, object number 2005.64.32, and dates it broadly to about 1940–1970. The museum notes Chughtai’s repeated variations on figures and motifs across different works. That is more precise than assuming a titled print depicts a particular historical musician whose biography is known."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A line made for printing"
+      },
+      {
+        "type": "paragraph",
+        "text": "The museum’s account connects Chughtai’s printmaking with training in England and the establishment of a press after his return to Lahore. These details shift the discussion from visual style alone towards the practical means of circulation. A print can exist in multiple impressions, while the plate, paper and printing process all contribute to the resulting object."
+      },
+      {
+        "type": "paragraph",
+        "text": "This does not mean every impression is identical or that an unsigned reproduction is equivalent to an artist’s print. For a particular sheet, the relevant evidence includes technique, inscriptions, paper, edition information and provenance. The museum’s broad date range should remain broad unless another document securely narrows it; apparent stylistic confidence is not a substitute for that evidence."
+      },
+      {
+        "type": "paragraph",
+        "text": "Book production adds another relationship. The British Museum lists Poet of the East and Chughtai among its holdings, associated with Lahore’s Nisar Art Press. An object-specific auction description of a deluxe copy identifies colour plates, photogravures, calligraphic material and an etching, with English translations of Iqbal’s verses facing related images. The page thus brings reading and looking into a planned sequence."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The book is not merely a container"
+      },
+      {
+        "type": "paragraph",
+        "text": "In such a publication, scale, facing pages and the order of images can affect interpretation. A reader turns pages and compares verse with picture, rather than encountering each work in isolation on a gallery wall. Illustration becomes a conversation with a literary text, not proof that the picture exhausts the poem’s meaning."
+      },
+      {
+        "type": "paragraph",
+        "text": "The consulted catalogues also give differing publication dates for their records. That requires examination of the individual copies and editions before a single definitive date is assigned. A luxury edition, a later issue and a catalogue error are possibilities to investigate, not alternatives this draft can resolve by guesswork."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chughtai’s movement between painting and print is therefore a history of objects as well as style. The etching asks how a line becomes repeatable; the illustrated book asks how images travel with poetry. Keeping those formats distinct makes his achievement more intelligible and gives readers a practical way to approach the work: identify the object first, then consider what its medium allows the image to do."
+      }
+    ],
+    "primaryCategoryId": "archive-category-living-traditions",
+    "categoryIds": [
+      "archive-category-living-traditions"
+    ],
+    "tags": [
+      "Abdur Rahman Chughtai",
+      "Printmaking",
+      "Book arts"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [],
+    "provinceRegionIds": [],
+    "relatedHeritageIds": [],
+    "relatedStoryIds": [],
+    "contentType": "personality",
+    "seo": {
+      "title": "Abdur Rahman Chughtai: the line between painting and print",
+      "description": "An identified etching and illustrated book reveal Chughtai’s movement between a unique image, a printed impression and literary publication.",
+      "primaryKeyword": "Abdur Rahman Chughtai art",
+      "socialTitle": "Abdur Rahman Chughtai: the line between painting and print",
+      "socialDescription": "An identified etching and illustrated book reveal Chughtai’s movement between a unique image, a printed impression and literary publication."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Old Musician, object 2005.64.32",
+        "url": "https://searchcollection.asianart.org/objects/16183/old-musician",
+        "publisher": "Asian Art Museum, San Francisco",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Abdur Rahman Chughtai: collection records",
+        "url": "https://www.britishmuseum.org/collection/term/BIOG9076",
+        "publisher": "British Museum",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Poet of the East and Chughtai: deluxe copy, lot 20",
+        "url": "https://media.saffronart.com/auctions/2017/4033/files/assets/common/downloads/publication.pdf",
+        "publisher": "Saffronart",
+        "accessDate": "2026-10-22",
+        "section": "Object-specific auction catalogue, lot20"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Primary museum indexed records read after fetch restrictions; auction catalogue object description read as evidence for that copy, not generic edition authority. BM1962 versus deluxe1968 retained as unresolved edition-level distinction. No image visual inspection claimed, no biography dates used because catalogue sources differ.",
+    "editorialReason": "Commission an object-led profile from identified collection works and publication history."
+  },
+  {
+    "id": "story-zubeida-agha-and-the-language-of-modern-painting",
+    "type": "story",
+    "slug": "zubeida-agha-and-the-language-of-modern-painting",
+    "title": "Zubeida Agha and the language of modern painting",
+    "summary": "A documented late painting and an archive of exhibition work place Zubeida Agha’s abstraction within a wider practice of making and organising art.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Zubeida Agha’s painting can be approached more closely by beginning with a particular work than by assigning her a rank among pioneers. Composition, dated 1988 and presented at the 2024 Venice Biennale, offers one such starting point. Its significance lies in the decisions within a painted surface, not simply in its position on a national timeline."
+      },
+      {
+        "type": "paragraph",
+        "text": "In the Biennale’s catalogue text, curator Devika Singh describes a central grouping of asymmetrical geometric forms, with uneven rather than mechanically exact edges. She also draws attention to a band across the foreground that interrupts an easy resolution of the image. This is a named curator’s reading of a specific painting; it should not be presented as a fresh visual inspection undertaken for this article."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Abstraction as a set of decisions"
+      },
+      {
+        "type": "paragraph",
+        "text": "The description points towards a useful question: how do shapes relate when they are not required to illustrate a recognisable scene? Edge, interval, colour and placement become active parts of the work. Geometric form does not necessarily mean impersonal regularity. An irregular boundary can make a shape feel made and contingent rather than simply calculated."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Jordan National Gallery of Fine Arts lists another work, Abstract Study, dated 1967. Its catalogue establishes a separate object and an earlier point in the practice. A title and date alone do not justify a detailed account of its appearance, but they provide a basis for future comparison with the later Composition. Such comparison should examine actual works or reliable reproductions rather than assume that all abstraction follows one continuous stylistic formula."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The painter also made institutions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Agha’s archive expands the subject beyond finished canvases. The Lahore Biennale Foundation records Saira Ansari’s research fellowship documenting the archive in collaboration with Asia Art Archive. A researcher-informed account of its photographic material discusses Agha’s public role in exhibitions, including a 1961 presentation of contemporary Pakistani painting in Milan."
+      },
+      {
+        "type": "paragraph",
+        "text": "Those records matter because the work of arranging an exhibition is easily lost behind the image of the solitary painter. Selection, correspondence, installation and public discussion help determine which art becomes visible. An archive can preserve that labour alongside evidence of individual artistic practice."
+      },
+      {
+        "type": "paragraph",
+        "text": "It also cautions against turning personality into explanation. Photographs of a public event cannot reveal every aspect of an artist’s private life, just as reports of privacy do not erase an active institutional role. The relevant question is what a particular document shows and what remains outside its frame."
+      },
+      {
+        "type": "paragraph",
+        "text": "Seen together, the painting and archive offer two scales of agency: decisions within an image and decisions that create a setting for other images to be encountered. Agha’s contribution becomes more substantial when both are considered. Modern painting is then not only a story of imported styles or celebrated firsts, but of specific works, public platforms and the records through which their histories can be reconstructed."
+      }
+    ],
+    "primaryCategoryId": "archive-category-living-traditions",
+    "categoryIds": [
+      "archive-category-living-traditions"
+    ],
+    "tags": [
+      "Zubeida Agha",
+      "Modern painting",
+      "Art archives"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [],
+    "provinceRegionIds": [],
+    "relatedHeritageIds": [],
+    "relatedStoryIds": [],
+    "contentType": "personality",
+    "seo": {
+      "title": "Zubeida Agha and the language of modern painting",
+      "description": "A documented late painting and an archive of exhibition work place Zubeida Agha’s abstraction within a wider practice of making and organising art.",
+      "primaryKeyword": "Zubeida Agha modern art",
+      "socialTitle": "Zubeida Agha and the language of modern painting",
+      "socialDescription": "A documented late painting and an archive of exhibition work place Zubeida Agha’s abstraction within a wider practice of making and organising art."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Zubeida Agha, Biennale Arte 2024",
+        "url": "https://www.labiennale.org/en/art/2024/abstraction/zubeida-agha",
+        "publisher": "La Biennale di Venezia / Devika Singh",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Zubeida Agha: Abstract Study, 1967",
+        "url": "https://nationalgallery.org/artist/zubeida-agha/",
+        "publisher": "Jordan National Gallery of Fine Arts",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Research fellowship: Zubeida Agha Archive",
+        "url": "https://lahorebiennale.org/research/lbf-research-fellowship-2015/",
+        "publisher": "Lahore Biennale Foundation",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "A Public Presence: Selected Photo-Documentation in Zubeida Agha’s Archive",
+        "url": "https://www.asapconnect.in/post/205/singlestories/a-public-presence",
+        "publisher": "ASAP Art, with contributions from Saira Ansari",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "No image formally visually inspected; formal description explicitly attributed to Biennale curator. Direct AAA403 replaced with commissioning fellowship and researcher-contributed account. No first Pakistani abstract artist ranking or invented biographical psychology. Per-source summaries under200words.",
+    "editorialReason": "Use catalogued works and exhibition records rather than an unsupported pioneer ranking."
+  },
+  {
+    "id": "story-shakir-alis-studio-home-as-an-artistic-archive",
+    "type": "story",
+    "slug": "shakir-alis-studio-home-as-an-artistic-archive",
+    "title": "Shakir Ali’s studio-home as an artistic archive",
+    "summary": "Shakir Ali’s former home brings architecture, artistic memory and museum-making together, but each layer needs its own evidence.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "An artist’s house becomes an unusual kind of archive when it is turned into a museum. The building survives as a setting for work and daily life, but the later institution selects what to display, how to arrange it and what story to tell. Shakir Ali’s former home in Lahore invites attention to both layers: the place made for an artist and the public memory subsequently constructed within it."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nayyar Ali Dada and Associates includes Shakir Ali Museum in its project portfolio. MIT Libraries’ architectural photograph record independently attributes the building to Dada and identifies a photograph taken by Kazi Khaleed Ashraf in 1987. These records establish a documented architectural connection without requiring a romantic account of a conversation between architect and artist that has not been verified."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "From a house to an institution"
+      },
+      {
+        "type": "paragraph",
+        "text": "The museum’s formation also appears in near-contemporary records. Saifur Rahman Dar’s 1981 discussion of museum development states that the Pakistan National Council of the Arts converted Shakir Ali’s Lahore residence into a museum in 1976. The Planning Commission’s 1976–77 development programme lists an approved Shakir Ali Museum scheme. This administrative trace is useful precisely because it concerns the practical making of an institution rather than a later tribute."
+      },
+      {
+        "type": "paragraph",
+        "text": "The MIT metadata uses 1975 for establishment as a museum, while Dar gives 1976 for conversion. Acquisition, formal organisation and public opening can be different events, but that explanation must be demonstrated rather than assumed. A definitive chronology should consult the acquisition and opening records. For now, the evidence places the transition in the mid-1970s and leaves the exact sequence open."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What can a studio-home preserve?"
+      },
+      {
+        "type": "paragraph",
+        "text": "The house offers a spatial record: relationships between rooms, thresholds, light and places where work could occur. Museum collections may offer another record through paintings, correspondence and possessions. Yet a room arranged for visitors is not automatically an untouched studio left exactly as the artist used it. That claim would require inventories, dated photographs and documentation of later changes."
+      },
+      {
+        "type": "paragraph",
+        "text": "The distinction affects interpretation. A painting’s present position may be a curator’s decision; a chair’s association may be well documented or only traditional. Both can have significance, but visitors deserve to know which kind of evidence they are encountering. This draft has not inspected a current interior inventory and does not assign particular objects to particular working habits."
+      },
+      {
+        "type": "paragraph",
+        "text": "The surviving photograph record is similarly dated evidence. It identifies a view in 1987, not a current condition survey. Comparing such records with later documentation could reveal changes in the building and its presentation, provided the photographs themselves are examined and permissions respected."
+      },
+      {
+        "type": "paragraph",
+        "text": "Shakir Ali’s studio-home is therefore valuable not as a frozen illustration of genius, but as a meeting point of architectural design, lived space and institutional care. Its strongest interpretation would keep those histories visible, allowing the artist’s memory to rest on documented relationships rather than an invented scene of work."
+      }
+    ],
+    "primaryCategoryId": "archive-category-living-traditions",
+    "categoryIds": [
+      "archive-category-living-traditions"
+    ],
+    "tags": [
+      "Shakir Ali",
+      "Artist houses",
+      "Archives"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [],
+    "provinceRegionIds": [],
+    "relatedHeritageIds": [],
+    "relatedStoryIds": [],
+    "contentType": "personality",
+    "seo": {
+      "title": "Shakir Ali’s studio-home as an artistic archive",
+      "description": "Shakir Ali’s former home brings architecture, artistic memory and museum-making together, but each layer needs its own evidence.",
+      "primaryKeyword": "Shakir Ali Museum artist",
+      "socialTitle": "Shakir Ali’s studio-home as an artistic archive",
+      "socialDescription": "Shakir Ali’s former home brings architecture, artistic memory and museum-making together, but each layer needs its own evidence."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Shakir Ali Museum",
+        "url": "https://www.nayyaralidada.net/project-details/civic-cultural/shakir-ali-museum",
+        "publisher": "Nayyar Ali Dada and Associates",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Shakir Ali Museum: exterior photograph, 1987",
+        "url": "https://dome.mit.edu/entities/picture/01487805-326c-4be5-914f-1564a7aa9adf",
+        "publisher": "MIT Libraries / Kazi Khaleed Ashraf",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Museology and Museum Problems in Pakistan",
+        "url": "https://library-sindhi-sp-2020.s3.us-east-2.amazonaws.com/files/Muselogy_and_Museum_Problems_In_Pakistan_Dr_Saifur_Rahman_Dar_1981-cs.pdf",
+        "publisher": "Saifur Rahman Dar",
+        "accessDate": "2026-10-22",
+        "section": "Printed page16, indexed text"
+      },
+      {
+        "title": "Annual Development Programme 1976–77",
+        "url": "https://pc.gov.pk/uploads/archives/1976-77FSDP.pdf",
+        "publisher": "Planning Commission, Government of Pakistan",
+        "accessDate": "2026-10-22",
+        "section": "Shakir Ali Museum scheme"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Current PNCA-branded domain rejected as official evidence. Architect project page, MIT photographic metadata, Dar indexed1981text and Planning Commission indexed scheme read. No current interior inventory, opening hours or uninspected photograph details claimed.1975MIT/1976Dar distinction acknowledged, not resolved. No reproduced image.",
+    "editorialReason": "Connect a preserved workspace with verified works and institutional documentation."
+  },
+  {
+    "id": "story-faiz-and-the-circulation-of-a-poem",
+    "type": "story",
+    "slug": "faiz-and-the-circulation-of-a-poem",
+    "title": "Faiz and the circulation of a poem",
+    "summary": "Subh-e-Azadi shows why the date of a poem, the date of a translation and the date of an online repost must remain distinct.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Faiz’s Subh-e-Azadi travels through books, translations, recitation and online quotation. Each form can introduce the poem to a new audience, but it can also blur the record of what is being encountered. A date beside a digital item might identify publication of a translation rather than composition of the Urdu poem; a familiar voice might belong to a later performer rather than Faiz himself."
+      },
+      {
+        "type": "paragraph",
+        "text": "The poem is identified with August 1947 in Rekhta’s text record. Penguin Random House’s publisher presentation places it in the anguish of Partition and supplies the Urdu text in transliteration. These are useful points of reference for identifying the work, but neither makes every circulated extract or recording an authenticated version."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The poem moves beyond its opening"
+      },
+      {
+        "type": "paragraph",
+        "text": "The opening challenges the expected meaning of dawn. Arrival at a promised moment does not produce uncomplicated fulfilment. As the poem develops, the language of journey, desire and continuing darkness keeps the question of freedom unsettled. Reducing the work to its first memorable image loses the movement towards continuing effort that gives the poem its tension."
+      },
+      {
+        "type": "paragraph",
+        "text": "That movement matters when the poem is presented as heritage. It is not merely an ornament for an anniversary page, nor a document that can be reduced to one fixed political caption. Readers need enough of the complete work to follow its changes of voice and direction. A short critical account can invite that reading without reproducing the poem or pretending to replace it."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Translation creates another publication history"
+      },
+      {
+        "type": "paragraph",
+        "text": "The University of Wisconsin–Madison repository identifies The Dawn of Freedom, translated by Agha Shahid Ali, as an item in volume eleven of the Annual of Urdu Studies, issued in 1996. The repository also records later accession dates. None of those dates should be used to claim that Faiz first wrote the poem in 1996 or that it originated when the digital record was created."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Academy of American Poets documents Ali’s work as a translator of Faiz. Naming the translator is essential because an English poem is also a sequence of choices about rhythm, imagery and emphasis. Two translations can share an original without having identical wording or the same publication and reproduction permissions."
+      },
+      {
+        "type": "paragraph",
+        "text": "Recitation adds a further layer. Tempo, pauses and emphasis can alter what listeners notice, while editing may remove lines or combine separate performances. A responsible archive should identify performer, recording source and date where known. It should not label an anonymous audio clip as the poet’s voice merely because that description has been widely repeated."
+      },
+      {
+        "type": "paragraph",
+        "text": "Following Subh-e-Azadi through these layers reveals circulation as part of the cultural history. The Urdu work, a named translation, a journal publication and a later recording are connected but distinct objects. Keeping those connections explicit allows the poem to reach new readers without losing the people, editions and acts of interpretation through which it continues to live."
+      }
+    ],
+    "primaryCategoryId": "archive-category-living-traditions",
+    "categoryIds": [
+      "archive-category-living-traditions"
+    ],
+    "tags": [
+      "Faiz Ahmad Faiz",
+      "Poetry circulation",
+      "Translation"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [],
+    "provinceRegionIds": [],
+    "relatedHeritageIds": [],
+    "relatedStoryIds": [],
+    "contentType": "personality",
+    "seo": {
+      "title": "Faiz and the circulation of a poem",
+      "description": "Subh-e-Azadi shows why the date of a poem, the date of a translation and the date of an online repost must remain distinct.",
+      "primaryKeyword": "Faiz poetry publication performance",
+      "socialTitle": "Faiz and the circulation of a poem",
+      "socialDescription": "Subh-e-Azadi shows why the date of a poem, the date of a translation and the date of an online repost must remain distinct."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Subh-e-Azadi: publisher presentation",
+        "url": "https://www.penguin.co.in/subh-e-azadi-an-anguished-evocation-of-the-pain-of-partition/",
+        "publisher": "Penguin Random House India",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "The Dawn of Freedom",
+        "url": "https://minds.wisconsin.edu/handle/1793/11923?show=full",
+        "publisher": "Annual of Urdu Studies / University of Wisconsin–Madison",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Agha Shahid Ali",
+        "url": "https://poets.org/poet/agha-shahid-ali",
+        "publisher": "Academy of American Poets",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Subh-e-Azadi, August 1947",
+        "url": "https://www.rekhta.org/nazms/subah-shayari/subh-e-aazaadii-august-47-ye-daag-daag-ujaalaa-ye-shab-gaziida-sahar-faiz-ahmad-faiz-nazms",
+        "publisher": "Rekhta",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "No verse reproduced; publisher Urdu transliteration read, Wisconsin primary bibliographic metadata indexed (full redirect inaccessible), Rekhta text/translator credit checked.1996is translation publication not original poem date. No claim any online recording is authenticated or licensed. Poetic discussion below200words derived from text.",
+    "editorialReason": "Require an authenticated edition and authorised translation to distinguish publication, recitation and later adaptation."
+  }
+]

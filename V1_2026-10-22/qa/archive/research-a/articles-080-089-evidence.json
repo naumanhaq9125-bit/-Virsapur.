@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 10,
+  "records": [
+    {
+      "articleId": "story-noor-mahal-and-bahawalpurs-princely-architectural-choices",
+      "planIndex": 80,
+      "wordCount": 460,
+      "sourceNotes": "District page close-read for 1872–1875 construction, state engineer Heennan, architectural vocabulary, mosque addition and later ownership. Approximately 190 source-derived words; remainder original visual interpretation. DOAM used for identity only. Do not repeat the district page’s inconsistent patron name, modern currency conversion or wife legend as established fact.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Noor Mehal",
+          "url": "https://bahawalpur.punjab.gov.pk/node/71",
+          "publisher": "District Bahawalpur, Government of Punjab",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Noor Mahal catalogue record",
+          "url": "https://doam.gov.pk/public/sites/9874",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-ganweriwala-a-major-site-still-demanding-research",
+      "planIndex": 81,
+      "wordCount": 462,
+      "sourceNotes": "DOAM two-mound Mature Harappan identification, not inconsistent dimensions. UOL institutional account close-read: 2024 fieldwork, THAAP coordination, documentation and proposed laboratory work, first-season object classes. Under 190 words derived from UOL; no DNA result, exact city rank or never-excavated claim. Remaining paragraphs original explanation of research questions, not asserted discoveries.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Ganweriwala catalogue record",
+          "url": "https://doam.gov.pk/public/sites/7243",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "UOL’s SoCA and IMBB lead the audio-visual documentation and genetic analysis of Ganweriwala excavation",
+          "url": "https://uol.edu.pk/uols-soca-and-imbb-lead-the-audio-visual-documentation-and-genetic-analysis-of-ganweriwala-excavation/",
+          "publisher": "University of Lahore",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-malot-temple-and-the-language-of-carved-stone",
+      "planIndex": 82,
+      "wordCount": 465,
+      "sourceNotes": "DOAM observed recessed bays, fluted columns, trefoil forms and missing roof ~100 words; founder attribution withheld. Hardy Kashmiri analysis ~115 words; reserve remainder for later reuse. Meister book ~50 words for dating debate and local adaptation, not political hegemony. No absolute ruler attribution.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Malot temple catalogue record",
+          "url": "https://doam.gov.pk/public/sites/6535",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Kashmiri Temples: a Typological and Aedicular Analysis",
+          "url": "https://orca.cardiff.ac.uk/130814/1/Adam%20Hardy_Kashmiri%20Temples%2C%20a%20Typological%20and%20Aedicular%20Analysis.pdf",
+          "publisher": "Adam Hardy / Cardiff University",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Temples of the Indus",
+          "url": "https://sanipanhwar.com/uploads/books/2024-08-29_12-18-03_5528902827c80436b7ae2755e25d27d6.pdf",
+          "publisher": "Michael W. Meister",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-shahi-masjid-chiniot-architecture-through-local-craft",
+      "planIndex": 83,
+      "wordCount": 470,
+      "sourceNotes": "DOAM material and plan description ~150 words; district official patron association ~35; historical gazetteer observation on local stone and restoration criticism ~90. No unsupported claim that Chiniot workers built Taj Mahal. Historical condition explicitly separated from current.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Shahi Masjid catalogue record",
+          "url": "https://doam.gov.pk/public/sites/6540",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Our History",
+          "url": "https://chiniot.punjab.gov.pk/our-history",
+          "publisher": "District Chiniot, Government of Punjab",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Jhang District Gazetteer",
+          "url": "https://ignca.gov.in/Asi_data/30636.pdf",
+          "publisher": "Punjab district administration / IGNCA digital archive",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-gulzar-mahal-and-the-craft-of-a-domestic-interior",
+      "planIndex": 84,
+      "wordCount": 468,
+      "sourceNotes": "Identity critical: this is Chiniot Umar/Omar Hayat Mahal, also Gulzar Mahal, not Bahawalpur palace. DOAM account ~190 source-derived words including named carvers and craft specialisms; Urban Unit condition/conservation ~90, not present condition claim. Exclude death/ghost anecdotes and speculative family motives.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Gulzar Mahal, Chiniot catalogue record",
+          "url": "https://doam.gov.pk/public/sites/10101",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Faisalabad Regional Development Plan: Archaeology and Cultural Heritage Sector",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/17/2023/Faisalabad%20Regional%20Development%20Plan%20-%20Archaeology%20%26%20Cultural%20Heritage%20Sector_compressed.pdf",
+          "publisher": "The Urban Unit, Government of Punjab",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Chiniot gallery: Omar Hayat Mahal",
+          "url": "https://chiniot.punjab.gov.pk/pictures_gallery",
+          "publisher": "District Chiniot, Government of Punjab",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-hafiz-hayat-reading-a-shrine-as-an-ensemble",
+      "planIndex": 85,
+      "wordCount": 470,
+      "sourceNotes": "DOAM ensemble identity and multiple tombs/water structures ~100 words; architectural project plan and brick/lime/fresco, tentative Jahangir attribution, residential/sarai uncertainty ~140. No precise mound height, sanctified biography or construction year. Original interpretation framed as questions rather than additional undocumented functions.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Hafiz Hayat catalogue record",
+          "url": "https://doam.gov.pk/public/sites/10113",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Khanqah of Hafiz Hayat",
+          "url": "https://pakheritage.org/khanqah-of-hafiz-hayat/",
+          "publisher": "Naqoosh-e-Javidan architectural heritage project",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-akbari-baoli-gujrat-descending-through-architecture",
+      "planIndex": 86,
+      "wordCount": 459,
+      "sourceNotes": "DOAM close-read brick stair, four-centred arches, platforms and location near Akbar fort. Historical inventory used for corroborating identity, not present condition. 1580 pertains fort, not asserted construction date of baoli. Original spatial analysis ~300 words; no water quality, safe access or unverified original patron.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Akbari Baoli, Gujrat catalogue record",
+          "url": "https://doam.gov.pk/public/sites/6544",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Revised List of Objects of Archaeological Interest in the Punjab",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Revised_list_of_objects_of_archaeological_interest_in_the_Punjab_%28IA_dli.csl.7708%29.pdf",
+          "publisher": "Archaeological Survey of India historical inventory",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-tilla-jogian-buildings-tanks-and-a-sacred-hill",
+      "planIndex": 87,
+      "wordCount": 473,
+      "sourceNotes": "NIHCR Tilla section close-read tank, spring-fed network, minar-flanked entrance, steps ~150 words. DOAM broad ensemble/post1947 change ~100; no unsupported 2000-year foundation or safe trail claim. P&D unapproved scheme ~35 words does not establish completed restoration. No reuse of UNESCO6118 budget.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Tilla Jogian catalogue record",
+          "url": "https://doam.gov.pk/public/sites/10363",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Pakistan: Its Ancient Hindu Temples and Shrines",
+          "url": "https://www.nihcr.edu.pk/Downloads/PDF%20Books/Pakistan%20Its%20Ancient%20Hindu%20Temples%20and%20Shrines.pdf",
+          "publisher": "National Institute of Historical and Cultural Research",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Archaeology development programme 2025–26",
+          "url": "https://pnd.punjab.gov.pk/system/files/Archaeology_3.pdf",
+          "publisher": "Planning and Development Board, Punjab",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-amb-temples-and-their-fortified-setting",
+      "planIndex": 88,
+      "wordCount": 481,
+      "sourceNotes": "Hardy2026 chapter close-read on fort/citadel context and Amb plan/upper cell/stair ~185 words; same work olderPDF not additional allowance. DOAM two surviving temples, historical third report ~60. Meister2010 total with article82 ~160 words, here ~110. Dates debated; no definitive deity or named royal builder.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Amb Temples catalogue record",
+          "url": "https://doam.gov.pk/public/sites/6897",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Salt Range Temples of the Shahi Period",
+          "url": "https://shahi.pubpub.org/pub/the-salt-range-temples-of-the-shahi-period/release/1",
+          "publisher": "Adam Hardy / University of Vienna Shahi research project",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Temples of the Indus",
+          "url": "https://sanipanhwar.com/uploads/books/2024-08-29_12-18-03_5528902827c80436b7ae2755e25d27d6.pdf",
+          "publisher": "Michael W. Meister",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-wah-bhachrans-baoli-and-its-unusual-entrance",
+      "planIndex": 89,
+      "wordCount": 468,
+      "sourceNotes": "Primary historical inspection ~175 words: east-west brick structure, open then roofed stairs, attribution explicitly local tradition. DOAM entrance minarets ~45. APP2021 ~70 for then restoration project and named archaeology official, no completion claim or questionable210ftdepth. No unverified global uniqueness.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Sher Shah Suri’s Baoli at Wah Buchhran catalogue record",
+          "url": "https://doam.gov.pk/public/sites/6582",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Sher Shah’s Baoli at Wan Bhachran",
+          "url": "https://ir.nbu.ac.in/bitstreams/c173363c-2f0f-4fef-aaf9-baeff0e46af2/download",
+          "publisher": "Maulvi Zafar Hasan / Archaeological Survey of India",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Sher Shah Suri-era step well to be restored in Mianwali",
+          "url": "https://tribune.com.pk/story/2327242/sher-shah-suri-era-step-well-to-be-restored-in-mianwali?amp=1",
+          "publisher": "Associated Press of Pakistan via The Express Tribune",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-10-22T18:13:22.292Z",
+  "changes": [
+    {
+      "articleId": "story-coastal-sites-and-a-moving-shoreline",
+      "differences": [
+        {
+          "field": "actualReferences",
+          "before": [
+            {
+              "title": "Sutkagen Dor: An Investigation of the Western-most Harappan Trading Post",
+              "url": "https://www.harappa.com/content/sutkagen-dor-investigation-western-most-harappan-trading-post",
+              "publisher": "Harappa.com",
+              "accessDate": "2026-10-22"
+            },
+            {
+              "title": "Fluvial landscapes of the Harappan civilization",
+              "url": "https://landscapepartnership.org/maps-data/climate-context/cc-resources/ClimateSciPDFs/PNASGiosanetalsmall.pdf/app-download-file/file/PNASGiosanetalsmall.pdf",
+              "publisher": "Liviu Giosan and colleagues / PNAS",
+              "accessDate": "2026-10-22"
+            }
+          ],
+          "after": [
+            {
+              "title": "Explorations on the Makran Coast, Pakistan: A Search for Paradise — publication catalogue",
+              "url": "https://arf.berkeley.edu/publications/explorations-makran-coast-pakistan-search-paradise",
+              "publisher": "Archaeological Research Facility, University of California, Berkeley",
+              "accessDate": "2026-10-22"
+            },
+            {
+              "title": "Fluvial landscapes of the Harappan civilization",
+              "url": "https://landscapepartnership.org/maps-data/climate-context/cc-resources/ClimateSciPDFs/PNASGiosanetalsmall.pdf/app-download-file/file/PNASGiosanetalsmall.pdf",
+              "publisher": "Liviu Giosan and colleagues / PNAS",
+              "accessDate": "2026-10-22"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "articleCount": 420,
+  "bodySHA256": "61b1adacbbb49cdc1eabde5ea959986b56077572dd4fcc5d89243a69c7baaa10",
+  "published": 0,
+  "notDeployed": true
+}

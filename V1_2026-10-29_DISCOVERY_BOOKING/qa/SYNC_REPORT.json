@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-10-29T15:44:19.365Z",
+  "passed": true,
+  "notDeployed": true,
+  "status": {
+    "mode": "local-review",
+    "stagedAt": "2026-10-29T15:44:19.339Z",
+    "origin": "http://127.0.0.1:4174/production",
+    "routes": 1075,
+    "indexableRoutes": 0,
+    "includesUnpublished": true,
+    "excludesLegacyDemo": true,
+    "sampleActivities": 12,
+    "qaPassed": true,
+    "notDeployed": true,
+    "contentStatusesUnchanged": true,
+    "backup": "backups/local-production-sync/2026-10-29T15-43-58-837Z"
+  },
+  "counts": {
+    "stories": 420,
+    "projects": 2,
+    "programmes": 8,
+    "events": 0,
+    "archive-categories": 6,
+    "heritage-places": 606
+  },
+  "excludedDemoRecords": 12,
+  "canonicalContentUnchanged": true,
+  "geographyUnchanged": true,
+  "releaseCandidateUnchanged": true,
+  "previousProductionBackup": "backups/local-production-sync/2026-10-29T15-43-58-837Z/dist-production",
+  "manifestSHA256": "2a68110810c41dd8185f4f6498a18e5f5e16bfa8d8718f9a7bc81f39cd397912"
+}

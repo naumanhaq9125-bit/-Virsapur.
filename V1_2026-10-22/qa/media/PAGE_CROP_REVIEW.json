@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-22",
+  "method": "Actual local candidate browser screenshots, desktop and mobile; original images individually inspected during acquisition",
+  "passed": true,
+  "reviews": [
+    {"mediaId":"release-badshahi-courtyard","context":"Homepage hero","viewports":["1440x900","375x812"],"result":"Prayer hall remains identifiable behind readable text; mobile crop intentionally selects the central hall rather than implying the whole courtyard is visible."},
+    {"mediaId":"release-badshahi-night","context":"Homepage photographic closing CTA","viewports":["1440x900","375x812"],"result":"Adjusted horizontal focal position from50 to75, retained top anchor0; mobile screenshot verifies the right minaret and finial are no longer cut off by the right edge."},
+    {"mediaId":"release-shah-jahan-portrait","context":"Homepage About / Why Virsapur","viewports":["1440x900","375x812"],"result":"Dominant portrait keeps the brick arcade and tiled doorway legible."},
+    {"mediaId":"release-shalimar","context":"Homepage About supporting photograph","viewports":["1440x900","375x812"],"result":"Intentional narrower supporting crop retains the fountain basin; not captioned as Lahore Fort."},
+    {"mediaId":"release-shah-jahan-courtyard","context":"Why Virsapur supporting composition","viewports":["1440x900","375x812"],"result":"Portal and finials retained; text and photo do not overlap."},
+    {"mediaId":"release-takht-i-bahi","context":"Why Virsapur archaeological support","viewports":["1440x900","375x812"],"result":"Layered ruins remain legible in the supporting landscape crop."},
+    {"mediaId":"release-rohtas","context":"Programmes / Heritage Tours detail","viewports":["1440x900","390x844"],"result":"Gateway crown and main arch retained in card and detail treatments."},
+    {"mediaId":"release-mohenjodaro","context":"Larkana / Moenjodaro Atlas selection","viewports":["1920x1080"],"result":"Documentary archaeological image verified in selected-place interface; not used as a promotional hero."}
+  ],
+  "limits": "This is representative page-crop QA, not a claim that every possible viewport or placement was manually viewed. Monochrome Badshahi and Baltit originals were individually reviewed; no homepage hero use is recommended for them. Other responsive variants are covered by source metadata and local asset/link checks.",
+  "evidenceDirectory": "../screenshots"
+}

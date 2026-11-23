@@ -1,0 +1,2511 @@
+[
+  {
+    "id": 7853,
+    "title": "Haldi Group Of Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7853",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7857,
+    "title": "Khaplu Group of Rock Inscriptions",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7857",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7860,
+    "title": "Keris Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7860",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7909,
+    "title": "Astana Syed Sultan Ali Aarif ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7909",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gilgit"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7921,
+    "title": "Baba Ghundi Astana",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7921",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-hunza"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7931,
+    "title": "Mir Winter Palace Gulmit",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7931",
+    "issues": [
+      "catalogue-coordinate-collision",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [
+      7805
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7965,
+    "title": "Thagas Astana Complex",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7965",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8026,
+    "title": "Gojalti bridge",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8026",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8165,
+    "title": "Asturias Astana",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8165",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8076,
+    "title": "Karis group of rock carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8076",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8086,
+    "title": "Shumari Polo Ground",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8086",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-tangir"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8088,
+    "title": "Babusar Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8088",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-diamir"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8098,
+    "title": "Lashno Kot Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8098",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-darel"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8179,
+    "title": "Mindoq Khar (Fort)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8179",
+    "issues": [
+      "catalogue-coordinate-collision",
+      "near-existing-place-within-20m",
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-skardu"
+    ],
+    "coordinateCollisions": [
+      7818,
+      8178
+    ],
+    "nearExistingPlaceIds": [
+      "major-doam-7818"
+    ],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8188,
+    "title": "Khanqah-e-Moallah Kharkoo",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8188",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8129,
+    "title": "Ghulwating Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8129",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-hunza"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8134,
+    "title": "Chumar Khun Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8134",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8143,
+    "title": "Shah-e-Mardan Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8143",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8160,
+    "title": "Degharoo Astana",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8160",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [
+      8166
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8163,
+    "title": "Shahwali Shinbar Astana",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8163",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [
+      8177
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8166,
+    "title": "Kamal Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8166",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [
+      8160
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8167,
+    "title": "Asghar Ali Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8167",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8175,
+    "title": "Raja Zafar Ali Khan Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8175",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8176,
+    "title": "Thole Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8176",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8177,
+    "title": "Raja Palace Ghulmet",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8177",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [
+      8163
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8181,
+    "title": "Bamir Astana",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8181",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8182,
+    "title": "Mir Muhammad Astana",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8182",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8191,
+    "title": "Khanqah-e-Moallah Hushe",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8191",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8197,
+    "title": "Khanqah-e-Moallah Keris",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8197",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8204,
+    "title": "Khanqah-e-Moallah Saling",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8204",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [
+      8212
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8206,
+    "title": "Hazrat Mir Mosque Pharawa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8206",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [
+      8203
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8209,
+    "title": "Thoqsi Khar mosque Khaplu",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8209",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8215,
+    "title": "Harangus Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8215",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [
+      7970,
+      8213
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8226,
+    "title": "Keris Khar (Fort)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8226",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8237,
+    "title": "Klingrong Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8237",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [
+      8236
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7894,
+    "title": "Stupa in Yugu Village",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7894",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [
+      7890,
+      7897,
+      8081
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7897,
+    "title": "Chaqchan Inscription ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7897",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [
+      7890,
+      7894,
+      8081
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8413,
+    "title": "Moongrong Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8413",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7967,
+    "title": "Braqchan Jamia Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7967",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7968,
+    "title": "Banpi Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7968",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8007,
+    "title": "Malakhor Mosque Alchori",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8007",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7988,
+    "title": "Old Mosque Alongside old Palace",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7988",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-kharmang"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7996,
+    "title": "Khilingrong Mosque, Shigar",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7996",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7788,
+    "title": "Gupis Valley, Khalty Rock  Carvings site",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7788",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 9377,
+    "title": "Cave of Jarau Malik",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9377",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghizer"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7714,
+    "title": "Qumra Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7714",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-skardu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8183,
+    "title": "Syed Mir Mukhtar Astana",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8183",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7846,
+    "title": "Kharfaq rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7846",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7944,
+    "title": "Old Mosque Nil Rajkot Molalla",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7944",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8198,
+    "title": "Khanqah-e-Moallah Machulo",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8198",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8212,
+    "title": "Hatchi Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8212",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [
+      8204
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7750,
+    "title": "Staqchen Rock Carvings,  Mehdiabad",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7750",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-kharmang"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7948,
+    "title": "Wazir house Skardu",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7948",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-skardu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8223,
+    "title": "Jamia Mosque Ahl-al-Sunnah",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8223",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7693,
+    "title": "Noh Yasin Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7693",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8417,
+    "title": "Sergrong Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8417",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7709,
+    "title": "Gol Group of Rock Carvings ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7709",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-skardu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7743,
+    "title": "Tolti West Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7743",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-kharmang"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7748,
+    "title": "Kamango rock carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7748",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-kharmang"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7908,
+    "title": "Astana Syed Shah Akbar",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7908",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gilgit"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7752,
+    "title": "Pande Group of Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7752",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-kharmang"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7756,
+    "title": "Lamsa Rock Carvings Shiger",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7756",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7786,
+    "title": "Yasin Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7786",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7789,
+    "title": "Megalithic Circles",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7789",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7841,
+    "title": "Khaplu Palace (Yabgo Khar)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7841",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7797,
+    "title": "Gupis Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7797",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7807,
+    "title": "Mula Dhurbeen Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7807",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-hunza"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7808,
+    "title": "Astana of Shah Talib",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7808",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-hunza"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7814,
+    "title": "Baghardo Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7814",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-skardu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7819,
+    "title": "Mehdiabad Group of Petroglyphs and Inscription",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7819",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-kharmang"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7828,
+    "title": "Ruins of Stupas and Monastery at Ghzwapa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7828",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7822,
+    "title": "Ambarik Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7822",
+    "issues": [
+      "catalogue-coordinate-collision",
+      "near-existing-place-within-20m",
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [
+      8229
+    ],
+    "nearExistingPlaceIds": [
+      "major-doam-8229"
+    ],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7829,
+    "title": "Lupa Group Of Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7829",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-skardu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7837,
+    "title": "Thorsi khar (fortress) Khaplu",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7837",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7843,
+    "title": "Yugo Group of Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7843",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7847,
+    "title": "Balghar Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7847",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7848,
+    "title": "Chhorbat hasan abad rock carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7848",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7850,
+    "title": "Ghorse rock carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7850",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7854,
+    "title": "Thaghas Khanqah and Astana",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7854",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7856,
+    "title": "Braqkhor Rock Carvings near Domsum Bridge",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7856",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7858,
+    "title": "Humayun Bridge Group Of Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7858",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-skardu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7861,
+    "title": "Complex Of Astanas In Keris",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7861",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7902,
+    "title": "Gilgit-Bridge",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7902",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gilgit"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7906,
+    "title": "Astana Syed Shah Afzal",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7906",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gilgit"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7918,
+    "title": "Mosque Bilchar Bagrote ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7918",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gilgit"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7986,
+    "title": "Old Palace in Mehdiabad",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7986",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-kharmang"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7923,
+    "title": "Ghulam Ali Shah Maktab (Mosque)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7923",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-hunza"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7935,
+    "title": "Ali Gohar House Ganish",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7935",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7945,
+    "title": "Raja`s Palace at Skardu Khas",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7945",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-skardu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7952,
+    "title": "Stak Fort Remains Rondu Skardu",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7952",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-astore"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7970,
+    "title": "Jamia Mosque Hippy",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7970",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [
+      8215,
+      8213
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7976,
+    "title": "Astana Mir Ishaque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7976",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7999,
+    "title": "Soguldo Khanqah",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7999",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8000,
+    "title": "Brokhor Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8000",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-skardu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8004,
+    "title": "Kayo Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8004",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8006,
+    "title": "Malakhor Mosque Churka",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8006",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8010,
+    "title": "Troopi Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8010",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8024,
+    "title": "Paindo Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8024",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8025,
+    "title": "Taigrong Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8025",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8027,
+    "title": "Suspension Bridge Hakas, Gupis",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8027",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8031,
+    "title": "Shahi Mosque Thous Yasain",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8031",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8032,
+    "title": "Yasian Fort Central Yasain",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8032",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8053,
+    "title": "Churka Rock Carvings, Shiger",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8053",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8063,
+    "title": "Kayo Rock Carvings Shiger",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8063",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8065,
+    "title": "Thandoro rock carvings shiger",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8065",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8072,
+    "title": "Karmanding Kondus Group Of Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8072",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8090,
+    "title": "Gayal Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8090",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-diamir"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8099,
+    "title": "Thore Kot Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8099",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-diamir"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8112,
+    "title": "Shin Nala Bridge",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8112",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-diamir"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8184,
+    "title": "Shigri Bala Astana",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8184",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8136,
+    "title": "Mamurukutz Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8136",
+    "issues": [
+      "invalid-dms",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8141,
+    "title": "Qurban Shah Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8141",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-hunza"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8144,
+    "title": "Raja Mosque Gulmit",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8144",
+    "issues": [
+      "catalogue-coordinate-collision",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [
+      7806
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8145,
+    "title": "Qarabeckutz Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8145",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-hunza"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8174,
+    "title": "Mohammad kutz Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8174",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8170,
+    "title": "Brushal Niyazo Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8170",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8171,
+    "title": "Ali Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8171",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8180,
+    "title": "Appecho Astana",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8180",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8219,
+    "title": "Amir Kabir Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8219",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8185,
+    "title": "Khanqah e Moallah Daghoni",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8185",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [
+      8187
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8186,
+    "title": "Khanqah-e-Moallah Ghawari",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8186",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8187,
+    "title": "Khanqah-e-Moallah Kharfaq",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8187",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [
+      8185
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8189,
+    "title": "Khanqah-e-Moallah Tsino",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8189",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8190,
+    "title": "Khanqah-e-Moallah Balghar",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8190",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8192,
+    "title": "Khanqah-e-Moallah Marzigond",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8192",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8193,
+    "title": "Khanqah-e-Moallah Balegond",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8193",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8194,
+    "title": "Khanqah-e-Moallah Dumsum",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8194",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8195,
+    "title": "Khanqah-e-Moallah Ghaghulo",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8195",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [
+      8196
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8196,
+    "title": "Khanqah-e-Moallah Haldi",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8196",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [
+      8195
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8242,
+    "title": "Thondoro Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8242",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8199,
+    "title": "Khanqah-e-Moallah Talis",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8199",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8200,
+    "title": "Khanqah-e-Moallah Kooro",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8200",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8201,
+    "title": "Khanqah-e-Moallah Frano",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8201",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8202,
+    "title": "Khanqah-e-Moallah Palit",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8202",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8203,
+    "title": "Khanqah-e-Moallah Parana",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8203",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [
+      8206
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8220,
+    "title": "Tassu Thalley Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8220",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8205,
+    "title": "Gone Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8205",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8207,
+    "title": "Jamia Mosque Kharkoo",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8207",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8208,
+    "title": "Khari Mosque Piun",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8208",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8210,
+    "title": "Toztsay Mosque Ganche",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8210",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8211,
+    "title": "Troot Mosque Kooroh",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8211",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8213,
+    "title": "Bhordas Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8213",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [
+      8215,
+      7970
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8214,
+    "title": "Chandu Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8214",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8216,
+    "title": "Kharkoo Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8216",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8218,
+    "title": "Chumik Khari Mosque Saling",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8218",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8221,
+    "title": "Totzhey Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8221",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8222,
+    "title": "Yahqyaie Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8222",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8224,
+    "title": "Goma Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8224",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8225,
+    "title": "Hatchi Khar (Fort)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8225",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8227,
+    "title": "Salling Khar (Fort)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8227",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghanche"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8228,
+    "title": "Kharmang Palace",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8228",
+    "issues": [
+      "near-existing-place-within-20m",
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-kharmang"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [
+      "major-doam-7978"
+    ],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8230,
+    "title": "Mir Ahya Astana",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8230",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8231,
+    "title": "Khanqah e Moallah Hashupi",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8231",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8235,
+    "title": "Sainkhor Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8235",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [
+      8396
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8233,
+    "title": "Chaqparong Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8233",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8234,
+    "title": "Goma Chulti Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8234",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8236,
+    "title": "Toztsay Mosque Shigar",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8236",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [
+      8237
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8239,
+    "title": "Matolu Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8239",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8240,
+    "title": "Sarfakhor Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8240",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8241,
+    "title": "Yuno Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8241",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8246,
+    "title": "Pakora Traditional House",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8246",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-astore"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8247,
+    "title": "Khagrol Parishing Rako",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8247",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-astore"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8399,
+    "title": "Alchori Khanqah",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8399",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [
+      7823
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 9315,
+    "title": "Hatun Megalithic Graves (A, B & C)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9315",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghizer"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8404,
+    "title": "Astana Khoor Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8404",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8406,
+    "title": "Gomasergrong Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8406",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8408,
+    "title": "Gronkhoor Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8408",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8410,
+    "title": "Malah Hajipi Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8410",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8411,
+    "title": "Arifan Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8411",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8418,
+    "title": "Gonepa Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8418",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8419,
+    "title": "Amuriq Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8419",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7631,
+    "title": "Hanzel Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7631",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gilgit"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7662,
+    "title": "Stupa  Remains at Naupura",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7662",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gilgit"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7667,
+    "title": "Alam Bridge Group of Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7667",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gilgit"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7805,
+    "title": "Altit Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7805",
+    "issues": [
+      "catalogue-coordinate-collision",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [
+      7931
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7806,
+    "title": "Raja Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7806",
+    "issues": [
+      "catalogue-coordinate-collision",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-nagar"
+    ],
+    "coordinateCollisions": [
+      8144
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7815,
+    "title": "Basho Rock Carvings and  Inscription",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7815",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-rondu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 7816,
+    "title": "Kachura Group of Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7816",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-skardu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7823,
+    "title": "Khanqah-e Mualla Tutkhor Shiger",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7823",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [
+      8399
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7835,
+    "title": "Theor Rock Carvings, Nar",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7835",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-skardu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 10377,
+    "title": "Old House Gulmit ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/10377",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-hunza"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 10408,
+    "title": "Morka Lashti Rock Carvings ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/10408",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 9366,
+    "title": "Gahkuch Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9366",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghizer"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 8178,
+    "title": "Kharphocho Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8178",
+    "issues": [
+      "catalogue-coordinate-collision",
+      "near-existing-place-within-20m",
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-skardu"
+    ],
+    "coordinateCollisions": [
+      8179,
+      7818
+    ],
+    "nearExistingPlaceIds": [
+      "major-doam-7818"
+    ],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7626,
+    "title": "Jutial Stupa ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7626",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gilgit"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8248,
+    "title": "Gupis Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8248",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 9316,
+    "title": "Gom Megalithic Grave, Bijayot",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9316",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 9317,
+    "title": "Chasi Megalithic grave",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9317",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8003,
+    "title": "Chinpa Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8003",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 8238,
+    "title": "Grongkhor Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/8238",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-shigar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7984,
+    "title": "Astana Gamba Gone",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7984",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-kharmang"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 7678,
+    "title": "Hatun Inscriptions",
+    "sourceUrl": "https://doam.gov.pk/public/sites/7678",
+    "issues": [],
+    "derivedDistrictIds": [
+      "gilgit-baltistan-ghizer"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  }
+]

@@ -1,0 +1,1325 @@
+[
+  {
+    "id": "story-reading-epitaphs-responsibly",
+    "type": "story",
+    "slug": "reading-epitaphs-responsibly",
+    "title": "Reading epitaphs responsibly",
+    "summary": "An epitaph is a text on a material object, not a ready-made biography. Transcription, translation and historical interpretation should remain distinct and checkable.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A few legible words on a tomb can feel like direct contact with a person from the past. They can also tempt a reader into filling gaps too quickly. An epitaph may include names, titles, prayer, poetry and dates, but those elements need to be separated before they can support a historical account."
+      },
+      {
+        "type": "paragraph",
+        "text": "Reading responsibly begins with the object. Where is the inscription? Is it part of a grave marker, a wall panel or a later plaque? Does it appear to belong to the surrounding fabric? A text moved or replaced during repair may have a different history from the monument beside it."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Record before translating"
+      },
+      {
+        "type": "paragraph",
+        "text": "A transcription represents the writing that can be read. A translation attempts to convey its meaning in another language. Neither is the same as an explanation of the person’s life. Keeping the three stages separate makes it possible for another reader to identify where an interpretation entered the record."
+      },
+      {
+        "type": "paragraph",
+        "text": "EpiDoc’s guidance distinguishes a diplomatic transcription, with minimal intervention, from editorial additions and other treatments of a text. Its conventions also allow lost or illegible material to remain visibly missing. The broader lesson is useful beyond any particular digital format: uncertainty should survive into the published record."
+      },
+      {
+        "type": "paragraph",
+        "text": "If part of a name is damaged, supplying a familiar ruler’s name without marking the restoration creates false certainty. If a title has several possible meanings, a translation should not silently choose the one that makes the most dramatic biography."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Dates describe particular events"
+      },
+      {
+        "type": "paragraph",
+        "text": "A date on a tomb may concern death, construction, repair or the installation of a panel. Identifying the event is as important as converting the numerals. Calendar conversions should also be checked, especially when a published equivalent offers more precision than the inscription supports."
+      },
+      {
+        "type": "paragraph",
+        "text": "A prayer or scriptural passage is not automatically a personal statement by the deceased. Nor does a poem establish authorship merely because it appears on a monument associated with a poet. The text’s function has to be considered alongside its wording."
+      },
+      {
+        "type": "paragraph",
+        "text": "The federal records for Tahir Khan Nahar’s tomb at Sitpur and Sheikh Sadan Shaheed’s tomb provide architectural descriptions, but they do not supply complete edited epitaphs. Their inclusion in the atlas is therefore not a licence to invent translated inscriptions for either place."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Make the reading recoverable"
+      },
+      {
+        "type": "paragraph",
+        "text": "A useful record preserves a clear photograph, the location of the text, line divisions, the proposed reading and the translator’s name. Earlier published readings can be cited separately. If two readings differ, explain which letters or assumptions produce the disagreement."
+      },
+      {
+        "type": "paragraph",
+        "text": "A photograph taken in poor light may conceal a stroke that is visible in another image. That is a reason to improve non-invasive documentation with permission, not to scratch, chalk or wet the surface to make it easier to read."
+      },
+      {
+        "type": "paragraph",
+        "text": "The reward is more than an accurate caption. A carefully edited epitaph can connect a name with patronage, family relationships or a particular commemorative moment. Where it cannot, the gap remains part of the evidence. Preserving that distinction allows the inscription to speak as a historical source rather than as a prompt for a story we have already decided to tell."
+      }
+    ],
+    "primaryCategoryId": "archive-category-sacred-heritage",
+    "categoryIds": [
+      "archive-category-sacred-heritage"
+    ],
+    "tags": [
+      "epitaph translation heritage",
+      "sacred Pakistan",
+      "Tomb of Tahir Khan Nahar",
+      "Tomb of Sheikh Sadan Shaheed"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-muzaffargarh"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6417",
+      "major-doam-6172"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "sacred",
+    "seo": {
+      "title": "Reading epitaphs responsibly | Virsapur",
+      "description": "An epitaph is a text on a material object, not a ready-made biography. Transcription, translation and historical interpretation should remain distinct and checkable.",
+      "primaryKeyword": "epitaph translation heritage",
+      "socialTitle": "Reading epitaphs responsibly",
+      "socialDescription": "An epitaph is a text on a material object, not a ready-made biography. Transcription, translation and historical interpretation should remain distinct and checkable."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "EpiDoc: Epigraphic Documents in TEI XML",
+        "url": "https://epidoc.stoa.org/",
+        "publisher": "EpiDoc Collaborative",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Diplomatic Transcriptions",
+        "url": "https://epidoc.stoa.org/gl/latest/trans-diplomatic.html",
+        "publisher": "EpiDoc Collaborative",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Lost characters, quantity known",
+        "url": "https://epidoc.stoa.org/gl/latest/trans-lostcharknown.html",
+        "publisher": "EpiDoc Collaborative",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Tomb of Tahir Khan Nahar, Sitpur",
+        "url": "https://doam.gov.pk/public/sites/6417",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Tomb of Hazrat Sheikh Sadan Shaheed",
+        "url": "https://doam.gov.pk/public/sites/6172",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Review draft; evidence-specific comparisons and explicit limits. No new ownership/access determinations or speculative biographies. ",
+    "editorialReason": "Explain transcription, translation and attribution checks rather than provide unverified translations."
+  },
+  {
+    "id": "story-women-remembered-in-monumental-tombs",
+    "type": "story",
+    "slug": "women-remembered-in-monumental-tombs",
+    "title": "Women remembered in monumental tombs",
+    "summary": "The tombs associated with Nur Jahan, Nadira Begum and Bibi Jawindi invite different questions about women, patronage and remembrance. Their histories should not be reduced to romantic biography.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A woman’s monumental tomb is often introduced through her relationship to a man: wife, daughter or mother. Those relationships may be historically relevant, but they should not become the entire description. Patronage, political presence, religious standing and the later work of remembrance can offer other routes into the subject."
+      },
+      {
+        "type": "paragraph",
+        "text": "The tombs associated with Nur Jahan, Nadira Begum and Bibi Jawindi are not three versions of one story. Their forms and surviving records differ. Comparing them is useful precisely because it prevents a single familiar narrative of royal love from being imposed on every monument."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Patronage is a question of evidence"
+      },
+      {
+        "type": "paragraph",
+        "text": "The federal catalogue attributes Nur Jahan’s tomb to construction during her own lifetime. That statement places patronage within the discussion rather than treating her only as the person commemorated. It deserves to be considered alongside other documentary and material evidence, not expanded into an imagined account of her private thoughts."
+      },
+      {
+        "type": "paragraph",
+        "text": "A British Museum gold coin dated 1626 identifies both Jahangir and Nur Jahan in its catalogue authority fields. It is a different kind of object from the Lahore tomb, but it helps keep political presence within view. A funerary account need not sever the remembered person from the public world in which she acted."
+      },
+      {
+        "type": "paragraph",
+        "text": "Neither source, on its own, explains every decision behind the tomb’s design. A responsible comparison identifies what each object can establish and resists using architectural beauty as evidence of a particular emotion."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Buildings are not interchangeable biographies"
+      },
+      {
+        "type": "paragraph",
+        "text": "The catalogue describes Nadira Begum’s tomb as a two-storeyed, square pavilion with recessed openings and traces of painted geometric decoration. Bibi Jawindi’s tomb at Uch is described through an octagonal plan, brick construction and glazed tilework. These are materially different ways of making a commemorative structure."
+      },
+      {
+        "type": "paragraph",
+        "text": "The contrast offers questions about setting, construction and architectural relationships. It does not establish that one woman preferred one form or personally selected its ornament. Such claims would need evidence of agency in the design process, not merely a named association with the completed building."
+      },
+      {
+        "type": "paragraph",
+        "text": "The surviving fabric also has a history after the original commemoration. Loss, repair and replacement can shape what a visitor sees. A present appearance should not be treated as an untouched expression of a patron’s intention."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What the comparison can recover"
+      },
+      {
+        "type": "paragraph",
+        "text": "A useful account asks who commissioned the monument, what identifies the person remembered, which parts survive and how the place has been interpreted over time. Sometimes the answers are uneven. A detailed building description may coexist with a comparatively sparse biography."
+      },
+      {
+        "type": "paragraph",
+        "text": "That unevenness should remain visible. Inventing a personality to balance an article’s paragraphs does not recover a neglected woman’s history; it replaces the missing evidence with an author’s expectations."
+      },
+      {
+        "type": "paragraph",
+        "text": "The monuments nevertheless make women’s remembrance materially present within Pakistan’s heritage landscape. They invite attention to authority, devotion, family and patronage without requiring every life to fit the same pattern. Reading them together can widen the questions asked of funerary architecture, while keeping each woman and each building distinct."
+      }
+    ],
+    "primaryCategoryId": "archive-category-sacred-heritage",
+    "categoryIds": [
+      "archive-category-sacred-heritage"
+    ],
+    "tags": [
+      "women funerary monuments Pakistan",
+      "sacred Pakistan",
+      "Tomb of Nur Jahan",
+      "Tomb of Nadira Begum"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-lahore",
+      "punjab-bahawalpur"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6472",
+      "major-doam-6485",
+      "major-doam-6552"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "sacred",
+    "seo": {
+      "title": "Women remembered in monumental tombs | Virsapur",
+      "description": "The tombs associated with Nur Jahan, Nadira Begum and Bibi Jawindi invite different questions about women, patronage and remembrance. Their histories should not be reduced to romantic biography.",
+      "primaryKeyword": "women funerary monuments Pakistan",
+      "socialTitle": "Women remembered in monumental tombs",
+      "socialDescription": "The tombs associated with Nur Jahan, Nadira Begum and Bibi Jawindi invite different questions about women, patronage and remembrance. Their histories should not be reduced to romantic biography."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Tomb of Nur Jahan",
+        "url": "https://doam.gov.pk/public/sites/6472",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Nadira Begum’s Tomb and Tank",
+        "url": "https://doam.gov.pk/public/sites/6485",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Tomb of Bibi Jawindi",
+        "url": "https://doam.gov.pk/public/sites/6552",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Gold coin associated with Jahangir and Nur Jahan, 1939.0514.12",
+        "url": "https://www.britishmuseum.org/collection/object/C_1939-0514-12",
+        "publisher": "The British Museum",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Review draft; evidence-specific comparisons and explicit limits. No new ownership/access determinations or speculative biographies. ",
+    "editorialReason": "Compare documented patronage and commemoration without inventing private biographies."
+  },
+  {
+    "id": "story-christian-church-heritage-beyond-metropolitan-centres",
+    "type": "story",
+    "slug": "christian-church-heritage-beyond-metropolitan-centres",
+    "title": "Christian church heritage beyond metropolitan centres",
+    "summary": "Historic churches in Abbottabad, the Galiyat and Talagang widen the geography of Christian heritage. Their congregations and institutional histories matter as much as their colonial-period fabric.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Pakistan’s Christian built heritage is not confined to the major cathedrals of its largest cities. Churches in smaller urban centres and hill settings broaden the picture. They also challenge a habit of describing every such building as a picturesque remnant of British rule, as though its history stopped when the colonial period ended."
+      },
+      {
+        "type": "paragraph",
+        "text": "The materials and dates of construction remain important. So do the institutions and communities that have used, maintained or adapted the buildings. A church can be an architectural record and a place of continuing worship at the same time."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Abbottabad: fabric and institution"
+      },
+      {
+        "type": "paragraph",
+        "text": "The federal survey record for St Luke’s Church in Abbottabad describes dressed stonework and a pointed entrance arch. These observations provide an architectural starting point, but the survey’s assessment of condition belongs to its research period. It is not a current inspection report."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Peshawar Diocese’s own parish listing identifies St Luke’s within the Church of Pakistan’s institutional life. The same listing connects the Abbottabad area with worship places in the Galiyat. That primary community source is important because it keeps the account from presenting the buildings merely as objects inherited from absent Europeans."
+      },
+      {
+        "type": "paragraph",
+        "text": "A parish listing does not provide a complete architectural history. It does, however, show where a heritage enquiry should seek a community perspective and confirmation of present arrangements."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A smaller record in Talagang"
+      },
+      {
+        "type": "paragraph",
+        "text": "The federal catalogue also records a church in Talagang through a local archaeological study. Its description notes a square plan, a pediment and later renovation. The entry’s generic title is itself a limit: it does not establish the dedication, denomination or full history of the congregation."
+      },
+      {
+        "type": "paragraph",
+        "text": "Those gaps should not be filled by transferring details from a better-known church elsewhere. A cross or a round-arched opening cannot determine an institution’s denominational history. A more complete account would bring the building record into conversation with parish documents and people authorised to speak about its use."
+      },
+      {
+        "type": "paragraph",
+        "text": "The atlas’s linked St Matthew’s record in Nathia Gali offers another starting point for enquiry. It should not be assumed to be the St Matthew’s congregation in Peshawar simply because the dedication matches."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Beyond the colonial label"
+      },
+      {
+        "type": "paragraph",
+        "text": "An archival photograph may document an early arrangement of pews, a roof or a memorial tablet. Later photographs and community records can reveal repairs and changes in use. Both belong to the building’s history. Treating only the earliest layer as valuable can make decades of local care disappear."
+      },
+      {
+        "type": "paragraph",
+        "text": "The people who clean, repair, teach or gather in a church are not secondary to its heritage. Their accounts may explain why a room changed or which memorials continue to matter. Any oral history should be recorded with consent and attributed rather than turned into a statement about all Christians in Pakistan."
+      },
+      {
+        "type": "paragraph",
+        "text": "Visiting requires an invitation or confirmed access arrangements, especially during worship. The aim is not to collect interiors as visual curiosities. It is to understand how particular buildings belong to particular communities, and how those relationships have continued beyond the period in which the first stones were laid."
+      }
+    ],
+    "primaryCategoryId": "archive-category-sacred-heritage",
+    "categoryIds": [
+      "archive-category-sacred-heritage"
+    ],
+    "tags": [
+      "historic churches Pakistan",
+      "sacred Pakistan",
+      "St Luke's Church, Abbottabad",
+      "St Matthew's Church, Nathia Gali"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad",
+      "punjab-talagang"
+    ],
+    "provinceRegionIds": [
+      "khyber-pakhtunkhwa",
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-664",
+      "major-doam-623",
+      "major-doam-6744"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "sacred",
+    "seo": {
+      "title": "Christian church heritage beyond metropolitan centres | Virsapur",
+      "description": "Historic churches in Abbottabad, the Galiyat and Talagang widen the geography of Christian heritage. Their congregations and institutional histories matter as much as their colonial-period fabric.",
+      "primaryKeyword": "historic churches Pakistan",
+      "socialTitle": "Christian church heritage beyond metropolitan centres",
+      "socialDescription": "Historic churches in Abbottabad, the Galiyat and Talagang widen the geography of Christian heritage. Their congregations and institutional histories matter as much as their colonial-period fabric."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "St Luke’s Church",
+        "url": "https://doam.gov.pk/public/sites/664",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Church, Talagang",
+        "url": "https://doam.gov.pk/public/sites/6744",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Parishes and Clergy",
+        "url": "https://new.peshawardiocese.org/new-parishes-clergy/",
+        "publisher": "Peshawar Diocese, Church of Pakistan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Review draft; evidence-specific comparisons and explicit limits. No new ownership/access determinations or speculative biographies. Denominational/current-use review required by relevant church communities; generic Talagang dedication unresolved. Nathia Gali mentioned only as linked enquiry, not conflated with Peshawar Saint Matthew.",
+    "editorialReason": "Widen the geographic story while requiring denominational and community review."
+  },
+  {
+    "id": "story-cemeteries-as-records-of-migration-and-service",
+    "type": "story",
+    "slug": "cemeteries-as-records-of-migration-and-service",
+    "title": "Cemeteries as records of migration and service",
+    "summary": "A cemetery can connect places of birth, work and death, but inscriptions need to be read alongside archival records. A single named officer cannot represent everyone buried nearby.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A cemetery can bring distant places into a single landscape. A name, a recorded birthplace, a service title or a family relationship may suggest journeys that ended far from where they began. Yet the presence of a person in a burial ground does not by itself explain why they travelled, how they lived or how they understood their attachment to the place."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is especially important when reading cemeteries associated with colonial-period institutions. Soldiers, administrators, children, spouses and other residents should not be merged into one undifferentiated population simply because some graves share a language or a religious form."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Two scales of evidence"
+      },
+      {
+        "type": "paragraph",
+        "text": "The federal catalogue describes Shahwala Graveyard through its terraced arrangement, compartments, stone enclosure and marble decoration. That record tells us about the cemetery’s physical organisation. It does not provide a full list of those buried there or their individual biographies."
+      },
+      {
+        "type": "paragraph",
+        "text": "The catalogue entry for John Jacob’s grave in Jacobabad operates at another scale, identifying a particular monument and its marble enclosure. A famous name can orient a visitor, but it should not make every surrounding burial into an extension of the same person’s story."
+      },
+      {
+        "type": "paragraph",
+        "text": "The difference between a cemetery record and a grave record matters in a digital archive. The former describes a landscape; the latter concerns a particular commemorative object. Linking them is useful, but merging them can obscure people who are less thoroughly documented."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Follow names into records carefully"
+      },
+      {
+        "type": "paragraph",
+        "text": "The British Library’s India Office catalogue includes family and service-related records. One provident-fund register describes information about subscribers, spouses and children, while an ecclesiastical volume covers baptisms, marriages and burials in India and Pakistan after independence."
+      },
+      {
+        "type": "paragraph",
+        "text": "These are examples of potentially relevant archival series, not proof that a person in Shahwala appears in them. Establishing a connection requires consulting the record and matching several details. A common surname or approximate age is not enough."
+      },
+      {
+        "type": "paragraph",
+        "text": "The nature of the archive also shapes what survives. A pension record was created for an administrative purpose, not to provide a complete family history. People outside the relevant scheme may be absent. Absence from that register should not be mistaken for absence from the town."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Service is only one part of a life"
+      },
+      {
+        "type": "paragraph",
+        "text": "An epitaph may emphasise rank or an employer because those were important to the people commissioning it. Other aspects of the person’s life may appear in a marriage register, a letter or a local account. The historian’s task is to connect evidence without pretending that every gap has been closed."
+      },
+      {
+        "type": "paragraph",
+        "text": "For visitors, the most revealing detail may be a relationship rather than a title: a child’s age, a spouse named on the same marker, or a place mentioned far from the burial ground. Such details deserve accuracy and restraint, not invented scenes of grief."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cemeteries preserve movement through the people remembered in them, but they also preserve the choices of those who made the memorials. Reading both dimensions allows a landscape of graves to become a record of differentiated lives rather than a simplified monument to an institution or an empire."
+      }
+    ],
+    "primaryCategoryId": "archive-category-sacred-heritage",
+    "categoryIds": [
+      "archive-category-sacred-heritage"
+    ],
+    "tags": [
+      "cemetery migration history Pakistan",
+      "sacred Pakistan",
+      "Shahwala Cemetery",
+      "Grave of John Jacob"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-murree",
+      "sindh-jacobabad"
+    ],
+    "provinceRegionIds": [
+      "punjab",
+      "sindh"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6376",
+      "major-doam-4362"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "sacred",
+    "seo": {
+      "title": "Cemeteries as records of migration and service | Virsapur",
+      "description": "A cemetery can connect places of birth, work and death, but inscriptions need to be read alongside archival records. A single named officer cannot represent everyone buried nearby.",
+      "primaryKeyword": "cemetery migration history Pakistan",
+      "socialTitle": "Cemeteries as records of migration and service",
+      "socialDescription": "A cemetery can connect places of birth, work and death, but inscriptions need to be read alongside archival records. A single named officer cannot represent everyone buried nearby."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Shahwala Graveyard",
+        "url": "https://doam.gov.pk/public/sites/6376",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Grave of John Jacob",
+        "url": "https://doam.gov.pk/public/sites/4362",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "India Office Provident Fund: Complete Family Register of Subscribers",
+        "url": "https://searcharchives.bl.uk/catalog/040-000970788",
+        "publisher": "British Library, India Office Records",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "India and Pakistan: Baptisms, Marriages, Burials, 1947–1950",
+        "url": "https://searcharchives.bl.uk/catalog/040-000116761",
+        "publisher": "British Library, India Office Records",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Review draft; evidence-specific comparisons and explicit limits. No new ownership/access determinations or speculative biographies. ",
+    "editorialReason": "Examine inscriptions and archival records without treating all buried people as a homogeneous community."
+  },
+  {
+    "id": "story-shared-sacred-landscapes-without-a-myth-of-seamless-harmony",
+    "type": "story",
+    "slug": "shared-sacred-landscapes-without-a-myth-of-seamless-harmony",
+    "title": "Shared sacred landscapes without a myth of seamless harmony",
+    "summary": "Different religious histories can occupy one landscape without proving uninterrupted harmony. A useful account distinguishes shared space, successive use and remembered attachment.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A landscape containing monuments associated with more than one religion can be described as shared, but the word needs explanation. Did communities use a place at the same time? Did one institution follow another? Do people living elsewhere retain an attachment to it? These are different relationships, and none is proved simply by placing several coloured pins on a map."
+      },
+      {
+        "type": "paragraph",
+        "text": "Recognising coexistence matters. So does recognising change, unequal access and episodes of loss. An account that assumes either perfect harmony or permanent hostility before examining the evidence makes the landscape serve a conclusion rather than allowing it to complicate one."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Layers are not automatically encounters"
+      },
+      {
+        "type": "paragraph",
+        "text": "The federal description of Katas Raj records temples, a sacred pool, other buildings and archaeological remains within the complex. Their presence creates a layered historical setting. It does not, by itself, establish that the people associated with every layer met there on equal terms."
+      },
+      {
+        "type": "paragraph",
+        "text": "A construction sequence might show that one use followed another. A travel account might describe a particular encounter. An oral history might preserve an attachment maintained after migration. Each would add something different to the map."
+      },
+      {
+        "type": "paragraph",
+        "text": "The distinction is practical as well as historical. A visitor route that passes several buildings is not necessarily a pilgrimage route shared by their religious communities. The itinerary belongs to the visitor unless evidence establishes another relationship."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A surviving structure and an absent journey"
+      },
+      {
+        "type": "paragraph",
+        "text": "At Sharda in the Neelum Valley, the federal survey records a temple with a raised platform, substantial stonework and an enclosure. These material remains are a starting point for architectural study. They cannot alone explain every community’s relationship to the place or the changing possibilities of reaching it."
+      },
+      {
+        "type": "paragraph",
+        "text": "A person can maintain a sacred attachment without being physically present. An archive should therefore not equate a small visible congregation, interrupted use or an empty photograph with a lack of significance. Equally, it should not invent contemporary access arrangements from historical descriptions of pilgrimage."
+      },
+      {
+        "type": "paragraph",
+        "text": "The history of movement matters because a sacred landscape extends beyond the outline of a building. Paths, borders and the practical ability to travel can alter how people encounter a place."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Change can be part of the religious story"
+      },
+      {
+        "type": "paragraph",
+        "text": "Schaflechner’s research on Hinglaj examines changing narratives and the making of religious space. Its relevance here is limited but important: a place’s identity need not be fixed once and for all. This is not a reason to transfer Hinglaj’s history onto Katas or Sharda; it is a reason to ask site-specific questions."
+      },
+      {
+        "type": "paragraph",
+        "text": "A careful account identifies who is speaking, which period is being described and what kind of evidence supports the claim. If an older source uses a dismissive label for another community, that language should be examined rather than silently inherited."
+      },
+      {
+        "type": "paragraph",
+        "text": "The aim is not to drain shared heritage of hope. It is to give that hope a credible foundation. Particular acts of care, hospitality or collaboration are more meaningful when documented precisely than when used to suggest that conflict never existed. A landscape can hold more than one attachment, and its history becomes richer when those attachments are allowed to remain distinct."
+      }
+    ],
+    "primaryCategoryId": "archive-category-sacred-heritage",
+    "categoryIds": [
+      "archive-category-sacred-heritage"
+    ],
+    "tags": [
+      "shared sacred landscapes Pakistan",
+      "sacred Pakistan",
+      "Katas Raj Temples",
+      "Sharda Temple"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-chakwal",
+      "azad-kashmir-neelum"
+    ],
+    "provinceRegionIds": [
+      "punjab",
+      "azad-kashmir"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6750",
+      "major-doam-6633"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "sacred",
+    "seo": {
+      "title": "Shared sacred landscapes without a myth of seamless harmony | Virsapur",
+      "description": "Different religious histories can occupy one landscape without proving uninterrupted harmony. A useful account distinguishes shared space, successive use and remembered attachment.",
+      "primaryKeyword": "shared sacred landscapes Pakistan",
+      "socialTitle": "Shared sacred landscapes without a myth of seamless harmony",
+      "socialDescription": "Different religious histories can occupy one landscape without proving uninterrupted harmony. A useful account distinguishes shared space, successive use and remembered attachment."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Katas Raj Temples",
+        "url": "https://doam.gov.pk/public/sites/6750",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Sharda Temple",
+        "url": "https://doam.gov.pk/public/sites/6633",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Hinglaj Devi: Identity, Change, and Solidification at a Hindu Temple in Pakistan",
+        "url": "https://academic.oup.com/book/5901",
+        "publisher": "Oxford University Press; Jürgen Schaflechner",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Review draft; evidence-specific comparisons and explicit limits. No new ownership/access determinations or speculative biographies. ",
+    "editorialReason": "Allow coexistence, change and conflict to be documented rather than romanticised."
+  },
+  {
+    "id": "story-changing-custodianship-of-a-religious-building",
+    "type": "story",
+    "slug": "changing-custodianship-of-a-religious-building",
+    "title": "Changing custodianship of a religious building",
+    "summary": "Ownership, daily care and religious authority are different responsibilities. Understanding a building’s custodianship requires dated institutional evidence rather than assumptions based on who holds the key.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The person who opens a religious building for a visitor may know its daily needs better than anyone else. That does not mean the person is its legal owner, the authority responsible for structural conservation or the sole voice of a religious community. Custodianship is easier to understand when those responsibilities are separated."
+      },
+      {
+        "type": "paragraph",
+        "text": "A building’s history can involve changes in all of them. Management may move between institutions; the people maintaining it may change; religious use may continue, stop or resume. The visible result can be a new sign, a repaired roof or a different use of a room, but the institutional history needs documentary evidence."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Several responsibilities can coexist"
+      },
+      {
+        "type": "paragraph",
+        "text": "The ETPB’s published functions include maintaining property records, managing relevant trust property and supporting religious shrines and pilgrims. Its description of the Pakistan Sikh Gurdwara Parbandhak Committee sets out responsibilities concerning religious arrangements, care and pilgrimage."
+      },
+      {
+        "type": "paragraph",
+        "text": "These institutional accounts illustrate a division of responsibilities. They should not be used to declare that every old temple or gurdwara belongs to one body, or that the same administrative relationship applies to every site. A particular claim requires the relevant record."
+      },
+      {
+        "type": "paragraph",
+        "text": "For heritage interpretation, the distinction prevents a common shortcut: equating religious identity with a single modern owner. A building can have a clear historic affiliation while its present administrative position requires separate confirmation."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A catalogue is a dated source"
+      },
+      {
+        "type": "paragraph",
+        "text": "The federal entries for Golra Sharif Temple and Said Pur Temple Complex draw on archaeological publications from the early 2010s. They describe architectural features and include ownership fields. Those fields are part of a catalogue record, not a current title investigation."
+      },
+      {
+        "type": "paragraph",
+        "text": "The buildings also differ physically. The Said Pur entry describes a complex including temples and a dharamshala, whereas the Golra entry focuses on a temple and its sanctum. A change affecting one room or structure should not automatically be described as a transfer of the entire institution."
+      },
+      {
+        "type": "paragraph",
+        "text": "Before writing that a building was “taken over,” an archive should ask what changed, when, through which documented action and according to whom. The phrase can otherwise merge a repair project, a temporary use and a formal administrative change into one misleading event."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Care has a history too"
+      },
+      {
+        "type": "paragraph",
+        "text": "A maintenance ledger, a dated photograph or an account from a caretaker can preserve work that official summaries overlook. Who repaired a roof after rain? Who kept a room accessible? Who retained a key or preserved an inscription when a use changed?"
+      },
+      {
+        "type": "paragraph",
+        "text": "These questions do not replace institutional records. They complement them by showing how responsibility was exercised in practice. An oral account should remain attributed, especially where it concerns contested decisions or another person’s actions."
+      },
+      {
+        "type": "paragraph",
+        "text": "Visitors need the current institution’s guidance for access and recording. Researchers making ownership claims need appropriate documentary verification; this article is not advice on title or property rights."
+      },
+      {
+        "type": "paragraph",
+        "text": "The most useful history of custodianship connects the formal and the everyday without confusing them. It explains not only who is named in a record, but how a building has been cared for, interpreted and made available to the people for whom it continues to matter."
+      }
+    ],
+    "primaryCategoryId": "archive-category-sacred-heritage",
+    "categoryIds": [
+      "archive-category-sacred-heritage"
+    ],
+    "tags": [
+      "religious heritage custodianship Pakistan",
+      "sacred Pakistan",
+      "Golra Sharif Temple",
+      "Saidpur Temple Complex"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "islamabad-islamabad"
+    ],
+    "provinceRegionIds": [
+      "islamabad"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6311",
+      "major-doam-6230"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "sacred",
+    "seo": {
+      "title": "Changing custodianship of a religious building | Virsapur",
+      "description": "Ownership, daily care and religious authority are different responsibilities. Understanding a building’s custodianship requires dated institutional evidence rather than assumptions based on who holds the key.",
+      "primaryKeyword": "religious heritage custodianship Pakistan",
+      "socialTitle": "Changing custodianship of a religious building",
+      "socialDescription": "Ownership, daily care and religious authority are different responsibilities. Understanding a building’s custodianship requires dated institutional evidence rather than assumptions based on who holds the key."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Functions of the Board",
+        "url": "https://etpb.gov.pk/functions/",
+        "publisher": "Evacuee Trust Property Board",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Pakistan Sikh Gurdwara Parbandhak Committee",
+        "url": "https://etpb.gov.pk/shrines/pakistan-sikh-gurdwara-parbandhak-committee-psgpc/",
+        "publisher": "Evacuee Trust Property Board",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Golra Sharif Temple",
+        "url": "https://doam.gov.pk/public/sites/6311",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Said Pur Temple Complex",
+        "url": "https://doam.gov.pk/public/sites/6230",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Review draft; evidence-specific comparisons and explicit limits. No new ownership/access determinations or speculative biographies. ",
+    "editorialReason": "Explain institutional responsibility and historical change without offering legal advice."
+  },
+  {
+    "id": "story-abandoned-does-not-mean-ownerless",
+    "type": "story",
+    "slug": "abandoned-does-not-mean-ownerless",
+    "title": "Abandoned does not mean ownerless",
+    "summary": "Disuse describes an activity, not the disappearance of rights or attachment. A quiet or damaged sacred building still requires permission, care and a precise account of its condition.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "An empty doorway is not an invitation. A sacred building may appear unused during a brief visit, yet still have an owner, a caretaker, neighbours responsible for access or a community that remembers it from elsewhere. The word abandoned can conceal all of these relationships."
+      },
+      {
+        "type": "paragraph",
+        "text": "It is also imprecise. Does it mean worship has stopped, the roof is damaged, no one lives nearby or a previous use has ended? Each describes a different condition. A heritage account becomes more useful when it names the observed situation rather than applying a dramatic label to the whole place."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Two records, different circumstances"
+      },
+      {
+        "type": "paragraph",
+        "text": "The federal catalogue describes the temple at Harnoli through its brickwork, shikhara, paintings and inscriptions. It records private ownership. That does not establish present access arrangements, but it clearly gives no basis for treating the building as an unclaimed object."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Dalwal entry describes a temple and nearby samadhi and reports an altered use during the period documented by its source. It separately records government ownership. The two entries show why the visible state or religious affiliation of a building cannot be used to guess its administrative position."
+      },
+      {
+        "type": "paragraph",
+        "text": "Both are dated records. Their condition descriptions should not be repeated as though someone inspected the buildings this morning. A current photograph can update part of the record, but it still cannot establish ownership from appearance."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Attachment can survive interrupted use"
+      },
+      {
+        "type": "paragraph",
+        "text": "A family photograph, a remembered festival or an institution’s papers may connect people with a building they no longer regularly visit. That attachment is not disproved by a locked gate. Nor should the existence of a distant connection be used to ignore people currently responsible for the site."
+      },
+      {
+        "type": "paragraph",
+        "text": "A useful enquiry asks about both. Who looks after the place now? Who has historical knowledge of it? What evidence explains a change of use? The answers may come from different people and may not agree completely."
+      },
+      {
+        "type": "paragraph",
+        "text": "The ETPB’s published responsibilities include maintaining records and managing relevant trust property. This provides one example of why institutional enquiries matter. It does not establish that either of these particular temples falls within its control, and no such conclusion is made here."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Documentation is not salvage"
+      },
+      {
+        "type": "paragraph",
+        "text": "A detached tile, carved fragment or broken fitting can seem vulnerable. Removing it as a keepsake or an improvised rescue destroys its relationship to the place and may prevent proper recording. The appropriate response is to report a concern to the responsible institution, not to appoint oneself custodian of the object."
+      },
+      {
+        "type": "paragraph",
+        "text": "The same restraint applies to entry. A damaged stair, unfastened door or gap in a boundary is not confirmation that a visit is authorised or safe. Photographs taken from permitted positions can still contribute to a record without creating another risk."
+      },
+      {
+        "type": "paragraph",
+        "text": "Better language changes the encounter. “No worship observed during this visit” is narrower than “abandoned forever.” “Roof missing in a dated survey” is more informative than “forgotten.” Such precision leaves room for people, rights and future care. It also prevents heritage discovery from becoming an excuse to treat vulnerable places as though no one has a claim on them."
+      }
+    ],
+    "primaryCategoryId": "archive-category-sacred-heritage",
+    "categoryIds": [
+      "archive-category-sacred-heritage"
+    ],
+    "tags": [
+      "abandoned sacred buildings heritage",
+      "sacred Pakistan",
+      "Hindu Temple, Harnoli",
+      "Dalwal Temple"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-mianwali",
+      "punjab-chakwal"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-9934",
+      "major-doam-6754"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "sacred",
+    "seo": {
+      "title": "Abandoned does not mean ownerless | Virsapur",
+      "description": "Disuse describes an activity, not the disappearance of rights or attachment. A quiet or damaged sacred building still requires permission, care and a precise account of its condition.",
+      "primaryKeyword": "abandoned sacred buildings heritage",
+      "socialTitle": "Abandoned does not mean ownerless",
+      "socialDescription": "Disuse describes an activity, not the disappearance of rights or attachment. A quiet or damaged sacred building still requires permission, care and a precise account of its condition."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Hindu Temple, Harnoli",
+        "url": "https://doam.gov.pk/public/sites/9934",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Dalwal Temple-I",
+        "url": "https://doam.gov.pk/public/sites/6754",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Functions of the Board",
+        "url": "https://etpb.gov.pk/functions/",
+        "publisher": "Evacuee Trust Property Board",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Review draft; evidence-specific comparisons and explicit limits. No new ownership/access determinations or speculative biographies. ",
+    "editorialReason": "Distinguish disuse, ownership and community attachment; avoid promoting unauthorised access."
+  },
+  {
+    "id": "story-religious-heritage-and-the-politics-of-naming",
+    "type": "story",
+    "slug": "religious-heritage-and-the-politics-of-naming",
+    "title": "Religious heritage and the politics of naming",
+    "summary": "A sacred place can carry several names without having several identities. Recording aliases carefully can improve discovery while preserving religious affiliation and historical distinctions.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A place name is not merely a label attached after the history has been written. It can preserve a religious relationship, a personal name, a local pronunciation or the priorities of a later catalogue. Choosing one spelling for a map is useful; treating that choice as the only legitimate identity of the place is not."
+      },
+      {
+        "type": "paragraph",
+        "text": "The problem becomes especially visible when a religious building is described through a broad category that obscures its affiliation. Calling every non-Muslim sacred structure a temple may make a list shorter, but it makes the history less precise."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "One person, more than one name"
+      },
+      {
+        "type": "paragraph",
+        "text": "The ASU Asian Art History record identifies the Gujranwala memorial associated with Atmaramji as a shrine of Acharya Vijayanandsuri. It explains that the two names refer to the same Jain religious figure. This is a useful case of an alias making a connection rather than creating a second monument."
+      },
+      {
+        "type": "paragraph",
+        "text": "A searchable archive can retain Atmaramji as a familiar name while also recording Vijayanandsuri and the term samadhi. The relationship should be explained explicitly. Otherwise, readers may assume that a shrine, a samadhi and a memorial under another personal name are three different places."
+      },
+      {
+        "type": "paragraph",
+        "text": "The ASU account also distinguishes the figure’s Jain institutional history. That specificity matters more than forcing the monument into a generic architectural category. Similarities with other memorial buildings do not make its religious affiliation interchangeable."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Names can outlive a use"
+      },
+      {
+        "type": "paragraph",
+        "text": "A building may continue to be known by its former sacred name after another use begins. Conversely, a later administrative name can become more familiar locally than an older dedication. Neither circumstance permits the archive to erase the other period."
+      },
+      {
+        "type": "paragraph",
+        "text": "The SOAS survey of Jain heritage demonstrates the importance of documenting institutions and funerary monuments as well as major temples. Its research scope provides a reason to look beyond familiar catalogue labels, not a licence to relabel a building without evidence."
+      },
+      {
+        "type": "paragraph",
+        "text": "At Gori, the established temple name provides an entry point into a specific Jain complex. A transliteration variant should be linked as an alternative spelling where verified, not treated as a fresh place simply because a search engine returns it separately."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Preserve the source of each name"
+      },
+      {
+        "type": "paragraph",
+        "text": "A practical record can distinguish a current institutional name, a historical name and a locally reported alias. It should state where each came from and avoid turning an unverified suggestion into the main title. Recording the original script, when securely read, can reduce confusion introduced by transliteration."
+      },
+      {
+        "type": "paragraph",
+        "text": "Honorifics deserve similar care. They can be meaningful to a community without functioning as a separate personal name. Removing them everywhere may flatten the source; including every variant without explanation may make the record difficult to understand."
+      },
+      {
+        "type": "paragraph",
+        "text": "Naming also affects whose history becomes discoverable. A reader searching for Jain heritage should be able to find a Jain memorial even if an older inventory used an imprecise category. The solution is a transparent correction with retained provenance, not a silent replacement that makes the earlier description impossible to trace."
+      },
+      {
+        "type": "paragraph",
+        "text": "Good names do two things at once: they help people find the place and help them understand why it has been known in different ways."
+      }
+    ],
+    "primaryCategoryId": "archive-category-sacred-heritage",
+    "categoryIds": [
+      "archive-category-sacred-heritage"
+    ],
+    "tags": [
+      "sacred place names Pakistan",
+      "sacred Pakistan",
+      "Atmaramji Shrine",
+      "Gori Temple"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-gujranwala",
+      "sindh-tharparkar"
+    ],
+    "provinceRegionIds": [
+      "punjab",
+      "sindh"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-10109",
+      "major-doam-5499"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "sacred",
+    "seo": {
+      "title": "Religious heritage and the politics of naming | Virsapur",
+      "description": "A sacred place can carry several names without having several identities. Recording aliases carefully can improve discovery while preserving religious affiliation and historical distinctions.",
+      "primaryKeyword": "sacred place names Pakistan",
+      "socialTitle": "Religious heritage and the politics of naming",
+      "socialDescription": "A sacred place can carry several names without having several identities. Recording aliases carefully can improve discovery while preserving religious affiliation and historical distinctions."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Memorial shrine of Vijayanandsuri, late nineteenth–early twentieth century",
+        "url": "https://www.artworkarchive.com/profile/asu-asian-art-history/artwork/90-memorial-shrine-of-vijayanandsuri-late-19th-early-20th-c",
+        "publisher": "ASU Asian Art History",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Exploratory Survey of Jaina Heritage in Pakistan",
+        "url": "https://www.soas.ac.uk/research/exploratory-survey-jaina-heritage-pakistan",
+        "publisher": "SOAS University of London",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Gori Temple",
+        "url": "https://doam.gov.pk/public/sites/5499",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Review draft; evidence-specific comparisons and explicit limits. No new ownership/access determinations or speculative biographies. ASU institutional collection confirms Atmaramji/Vijayanandsuri identity; former-use statement deliberately not treated as current.",
+    "editorialReason": "Explain aliases and respectful naming through documented cases without erasing community terminology."
+  },
+  {
+    "id": "story-what-a-saints-biography-can-and-cannot-date",
+    "type": "story",
+    "slug": "what-a-saints-biography-can-and-cannot-date",
+    "title": "What a saint’s biography can and cannot date",
+    "summary": "A saint’s dates and a shrine’s construction dates answer different questions. Keeping separate timelines makes rebuilding, patronage and continuing devotion easier to understand.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A shrine page often begins with the life of the saint and then moves directly to a photograph of the present building. The transition can quietly imply that everything in the image belongs to the saint’s lifetime. That is rarely a conclusion the biography alone can support."
+      },
+      {
+        "type": "paragraph",
+        "text": "A revered figure, an early burial or sacred association, the construction of a tomb and later additions are different events. Some may be well dated; others may be known only approximately. Keeping them separate produces a more informative history than forcing the whole place into one year."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Read what the source actually dates"
+      },
+      {
+        "type": "paragraph",
+        "text": "The federal entry for Madhu Lal Hussain is primarily biographical: it identifies Shah Hussain as a Punjabi Sufi poet and locates the tomb in Lahore. Its broad period field does not supply a phase-by-phase date for the shrine’s fabric."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Auqaf account of Sakhi Sarwar, by contrast, describes a tomb and a later expansion. Even a short institutional summary can therefore distinguish the remembered person from subsequent building activity. The dates and attributions still need checking against fuller historical evidence before they are used to reconstruct an exact architectural sequence."
+      },
+      {
+        "type": "paragraph",
+        "text": "The key question is grammatical as much as historical: what is the date attached to? A person’s death, an inscription, a donation, an opening ceremony and a repair campaign are not interchangeable events."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Build two timelines before combining them"
+      },
+      {
+        "type": "paragraph",
+        "text": "One timeline can follow the figure and the development of the commemorative tradition. Another can follow the building: first documented structure, additions, repairs, losses and changes in use. Where the evidence securely connects them, the timelines can meet."
+      },
+      {
+        "type": "paragraph",
+        "text": "For example, a donor’s inscription might establish that a gateway was built at a particular time. It would not automatically date the tomb chamber beyond it. A later account might describe an earlier shrine, but the date when that account was written must remain visible too."
+      },
+      {
+        "type": "paragraph",
+        "text": "This method also prevents a modern restoration from disappearing. A renewed surface can retain an older design while being recent material. Both facts belong in the record."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Fabric can ask questions that biography cannot"
+      },
+      {
+        "type": "paragraph",
+        "text": "Historic England’s analytical drawing guidance treats close observation and measurement as tools for understanding a building. Applied as a general method, it suggests looking for changes in masonry, blocked openings and relationships between walls. Such observations can support an investigation of sequence."
+      },
+      {
+        "type": "paragraph",
+        "text": "They do not automatically provide calendar dates. A joint may show that one wall was built against another; it does not reveal the year without further evidence. Architectural comparison can suggest a period while remaining less precise than a securely read construction inscription."
+      },
+      {
+        "type": "paragraph",
+        "text": "The reward for this care is a fuller account of the shrine. Later patronage becomes visible instead of being absorbed into the saint’s biography. Craftspeople, donors and communities who maintained the institution can enter the history."
+      },
+      {
+        "type": "paragraph",
+        "text": "A shrine’s importance does not depend on every visible stone having witnessed the saint’s life. Continuing care, rebuilding and renewed devotion may be central to its significance. Accurate chronology allows that continuity to be described without confusing it with uninterrupted survival of the original fabric."
+      }
+    ],
+    "primaryCategoryId": "archive-category-sacred-heritage",
+    "categoryIds": [
+      "archive-category-sacred-heritage"
+    ],
+    "tags": [
+      "shrine chronology evidence",
+      "sacred Pakistan",
+      "Shrine of Sakhi Sarwar",
+      "Shrine of Madhu Lal Hussain"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-dera-ghazi-khan",
+      "punjab-lahore"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-10103",
+      "major-doam-10203"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "sacred",
+    "seo": {
+      "title": "What a saint’s biography can and cannot date | Virsapur",
+      "description": "A saint’s dates and a shrine’s construction dates answer different questions. Keeping separate timelines makes rebuilding, patronage and continuing devotion easier to understand.",
+      "primaryKeyword": "shrine chronology evidence",
+      "socialTitle": "What a saint’s biography can and cannot date",
+      "socialDescription": "A saint’s dates and a shrine’s construction dates answer different questions. Keeping separate timelines makes rebuilding, patronage and continuing devotion easier to understand."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Shrine of Hazrat Madhu Lal Hussain",
+        "url": "https://doam.gov.pk/public/sites/10203",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Hazrat Sakhi Sarwar, Dera Ghazi Khan",
+        "url": "https://auqaf.punjab.gov.pk/shrine-sakhi-sarwar",
+        "publisher": "Punjab Auqaf and Religious Affairs Department",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Drawing for Understanding",
+        "url": "https://historicengland.org.uk/images-books/publications/drawing-for-understanding/",
+        "publisher": "Historic England",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Review draft; evidence-specific comparisons and explicit limits. No new ownership/access determinations or speculative biographies. DOAM Shah Hussain entry contains conflicting chronology (death before Jahangir reign); do not repeat that claim. Biography only used to demonstrate source scope.",
+    "editorialReason": "Separate the life of a revered figure from construction and rebuilding of the monument."
+  },
+  {
+    "id": "story-new-sacred-architecture-can-also-be-heritage",
+    "type": "story",
+    "slug": "new-sacred-architecture-can-also-be-heritage",
+    "title": "New sacred architecture can also be heritage",
+    "summary": "Bhong Mosque shows why heritage value is not reserved for ancient buildings. Its twentieth-century construction brings patronage, craft and changing materials into the same architectural story.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A building does not have to be medieval to raise important heritage questions. Bhong Mosque in Rahim Yar Khan District is a twentieth-century work, yet its construction connects patronage, specialised craft and religious use in ways that deserve serious historical attention. Its relative youth makes some kinds of evidence more accessible, not its significance automatically smaller."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Aga Khan Award for Architecture records the project as beginning in 1932 under Rais Ghazi Mohammad and completed in 1982. The district’s official account also identifies its 1986 award. Those dates locate the mosque within modern history rather than requiring it to borrow the prestige of an imagined ancient origin."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Craft can continue through new work"
+      },
+      {
+        "type": "paragraph",
+        "text": "The award record credits local master masons and craftspeople and describes specialists drawn from different places, including Rajasthan and Karachi. It also identifies a combination of traditional and modern materials across the compound. This is evidence of active making, not merely the conservation of an older structure."
+      },
+      {
+        "type": "paragraph",
+        "text": "For a visitor, that changes the questions worth asking. Which work required specialist knowledge? How were different surfaces and techniques brought together? What records name the people responsible? The mosque can be approached as a history of labour and collaboration as well as patronage."
+      },
+      {
+        "type": "paragraph",
+        "text": "A publication record held by the Chinese University of Hong Kong lists named master craftspeople in the award documentation. Their presence is a reminder that the phrase “local craftsmanship” should not erase individual makers when the archive can identify them."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Modern does not mean visually minimalist"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bhong’s elaborate appearance complicates the assumption that twentieth-century architecture must reject ornament. The award description recognises eclectic sources and a varied material vocabulary. The building therefore belongs to modern architectural history even where it draws on forms associated with earlier periods."
+      },
+      {
+        "type": "paragraph",
+        "text": "That distinction is useful beyond this mosque. A newly made arch or decorative panel is not necessarily an unsuccessful imitation simply because it recalls an older example. The historical question concerns how and why it was selected, made and combined with other elements."
+      },
+      {
+        "type": "paragraph",
+        "text": "Personal taste still has a place in the encounter. A viewer may find the density of ornament exhilarating or overwhelming. Neither reaction settles the building’s cultural significance. Understanding the work requires more than deciding whether it matches a preferred visual style."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Document before the evidence becomes distant"
+      },
+      {
+        "type": "paragraph",
+        "text": "For comparatively recent religious buildings, construction photographs, correspondence and memories of the work may still be recoverable. Recording them can prevent later accounts from reducing a complex project to a single patron’s name or an award date."
+      },
+      {
+        "type": "paragraph",
+        "text": "The distinction between the initial design and later alteration also matters. Maintenance, replacement and continued religious use will add further history. A material introduced during the original project should not be mistaken for a later repair merely because it appears modern."
+      },
+      {
+        "type": "paragraph",
+        "text": "Bhong Mosque makes a strong case for treating heritage as an enquiry into significance rather than a competition in age. Its craftsmanship, patronage and place within twentieth-century architectural debate are substantial subjects in their own right. Taking those subjects seriously allows newer sacred architecture to enter the archive without pretending that it is older than it is."
+      }
+    ],
+    "primaryCategoryId": "archive-category-sacred-heritage",
+    "categoryIds": [
+      "archive-category-sacred-heritage"
+    ],
+    "tags": [
+      "modern sacred heritage Pakistan",
+      "sacred Pakistan",
+      "Bhong Mosque"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-rahim-yar-khan"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-10370"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "sacred",
+    "seo": {
+      "title": "New sacred architecture can also be heritage | Virsapur",
+      "description": "Bhong Mosque shows why heritage value is not reserved for ancient buildings. Its twentieth-century construction brings patronage, craft and changing materials into the same architectural story.",
+      "primaryKeyword": "modern sacred heritage Pakistan",
+      "socialTitle": "New sacred architecture can also be heritage",
+      "socialDescription": "Bhong Mosque shows why heritage value is not reserved for ancient buildings. Its twentieth-century construction brings patronage, craft and changing materials into the same architectural story."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Bhong Mosque",
+        "url": "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/bhong-mosque",
+        "publisher": "Aga Khan Award for Architecture",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Important Places: Bhong Mosque",
+        "url": "https://rykhan.punjab.gov.pk/important_places",
+        "publisher": "Government of Punjab, District Rahim Yar Khan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "1986 Aga Khan Award for Architecture publication record",
+        "url": "https://hkapi.lib.cuhk.edu.hk/items/d7c73c01-c59c-4811-b08c-392844acecf8",
+        "publisher": "Chinese University of Hong Kong Architecture Library",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Review draft; evidence-specific comparisons and explicit limits. No new ownership/access determinations or speculative biographies. ",
+    "editorialReason": "Use documented modern craft patronage to challenge the assumption that age alone creates significance."
+  }
+]

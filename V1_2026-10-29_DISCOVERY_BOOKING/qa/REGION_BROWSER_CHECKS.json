@@ -1,0 +1,58 @@
+[
+  {
+    "allAboveDrawer": true,
+    "districts": 35,
+    "labels": 21,
+    "markers": 40,
+    "overflow": false,
+    "state": "region:balochistan:"
+  },
+  {
+    "allAboveDrawer": true,
+    "districts": 29,
+    "labels": 10,
+    "markers": 118,
+    "overflow": false,
+    "state": "region:sindh:"
+  },
+  {
+    "allAboveDrawer": true,
+    "districts": 41,
+    "labels": 8,
+    "markers": 175,
+    "overflow": false,
+    "state": "region:punjab:"
+  },
+  {
+    "allAboveDrawer": true,
+    "districts": 35,
+    "labels": 8,
+    "markers": 122,
+    "overflow": false,
+    "state": "region:khyber-pakhtunkhwa:"
+  },
+  {
+    "allAboveDrawer": true,
+    "districts": 14,
+    "labels": 13,
+    "markers": 83,
+    "overflow": false,
+    "state": "region:gilgit-baltistan:"
+  },
+  {
+    "allAboveDrawer": true,
+    "districts": 10,
+    "labels": 5,
+    "markers": 47,
+    "overflow": false,
+    "state": "region:azad-kashmir:"
+  },
+  {
+    "allAboveDrawer": true,
+    "districts": 1,
+    "labels": 1,
+    "markers": 24,
+    "overflow": false,
+    "state": "region:islamabad:"
+  }
+]

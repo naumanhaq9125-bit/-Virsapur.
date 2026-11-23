@@ -1,0 +1,299 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 10,
+  "records": [
+    {
+      "articleId": "story-ranikot-what-a-circuit-of-walls-does-not-tell-us",
+      "planIndex": 30,
+      "wordCount": 480,
+      "sourceNotes": "ConflictingUNESCO19c/DOAM18c17cflagged;no inventedfounder;EFTdistinguishesperiphery32.115kmbuiltwalls7.25km but exactnumbersnotrequired. UNESCO~150,EFT~165,DOAM~60; originalquestionsnotassertions.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Rani Kot Fort, Dadu",
+          "url": "https://whc.unesco.org/en/tentativelists/1284/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Ranikot Fort",
+          "url": "https://doam.gov.pk/public/sites/5168",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Ranikot Fort, Jamshoro conservation project",
+          "url": "https://eftsindh.com/ranikot-fort-jamshoro/",
+          "publisher": "Endowment Fund Trust for Preservation of the Heritage of Sindh",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-naukot-fort-at-the-desert-edge",
+      "planIndex": 31,
+      "wordCount": 481,
+      "sourceNotes": "Sindh1814MirKaram/gateway/bakedbrickmud~130;EFT2011rain2012–14skinrepair~155;researchwell/residentialstorageguardrooms~145. No contradictorydimensions/certainprisonidentity;EFTlater2021phase notconflatedwithfirstcampaign.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Naukot Fort, Tharparkar",
+          "url": "https://antiquities.sindhculture.gov.pk/tour/naukot-fort-tharparkar/",
+          "publisher": "Directorate General of Antiquities, Government of Sindh",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Naukot Fort conservation project",
+          "url": "https://eftsindh.org.pk/project/naukot-fort-tharparkar/",
+          "publisher": "Endowment Fund Trust",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Naukot Fort, Mithi, Tharparkar",
+          "url": "https://ar-cl.com/naukot-fort-mithi-tharparkar/",
+          "publisher": "Archives Conservation Laboratories / Sindh Antiquities Journal research",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-umerkot-fort-and-layered-public-memory",
+      "planIndex": 32,
+      "wordCount": 466,
+      "sourceNotes": "Fortmaterial/politicalsuccession~145;Museum1968/2006collections~145;UNESCOUmarMarvifolklore/new2026~60;DOAM1542separatememorial1898~70. Exactbirthroomnotasserted;foundationdateconflictavoided.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Umerkot Fort",
+          "url": "https://antiquities.sindhculture.gov.pk/tour/umerkot-fort-umerkot/",
+          "publisher": "Directorate General of Antiquities, Government of Sindh",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Thar Museum Umerkot",
+          "url": "https://antiquities.sindhculture.gov.pk/tour/archaeological-museum-umerkot/",
+          "publisher": "Directorate General of Antiquities, Government of Sindh",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Umerkot Fort Tentative List submission",
+          "url": "https://whc.unesco.org/en/tentativelists/6970/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Memorial of Birth Place of Akbar",
+          "url": "https://doam.gov.pk/public/sites/5508",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-chaukhandi-tombs-stories-carved-into-stone",
+      "planIndex": 33,
+      "wordCount": 463,
+      "sourceNotes": "DOAMmotifs~110;UNESCOdatinglimits/groupedgraves/canopies~145;articlep56–58comparativeinterpretation~150,doNOTtransferMakli/Oongarindividualidentities toKarachi. No gendercertaintiesfrommotif alone.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Chaukhandi Tombs",
+          "url": "https://doam.gov.pk/public/sites/5815",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Chaukhandi Tombs, Karachi",
+          "url": "https://whc.unesco.org/en/tentativelists/1287/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Declarations in Death",
+          "url": "https://saj.sindhculture.gov.pk/images/SAJ/Vol6No12020/04_Declarations_in_Death.pdf",
+          "publisher": "Sindh Antiquities, volume 6 number 1, 2020",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-banbhore-and-the-evidence-for-a-port",
+      "planIndex": 34,
+      "wordCount": 474,
+      "sourceNotes": "UNESCOlocation/zones/imports~165;DOAMfortification/industrialoutside~65;Mantellinireportworkshops/offcuts/semifinished12c/proposedDNA~190. No largest/earliestclaims;Debalassociationnotresolvedorasserted; no rawmaterialoriginwithoutresults.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Port of Banbhore",
+          "url": "https://whc.unesco.org/en/tentativelists/1885/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Banbhore",
+          "url": "https://doam.gov.pk/public/sites/5512",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Ivory manufacturing at Banbhore",
+          "url": "https://maxvanberchem.org/en/scientific-activities/projects/archeology/11-archeologie/201-ivory-industrial-scale-manufacturing-at-banbhore-pakistan-a-unique-archaeological-discovery-from-islamic-sindh-12th-13th-centuries",
+          "publisher": "Simone Mantellini / Fondation Max van Berchem",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-shah-jahan-mosque-thatta-brick-tile-and-repetition",
+      "planIndex": 35,
+      "wordCount": 486,
+      "sourceNotes": "UNESCOtilepatterns/courtarcades~170;DOAMwestprayer/eastbalance~90;Sindh17c/redbrickregionalcontext~80. Avoid inconsistent93/100domes, acousticguarantees,unsupportedtileimportfromHala. Originalvisualreading.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Shah Jahan Mosque, Thatta",
+          "url": "https://whc.unesco.org/en/tentativelists/1286/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Shah Jahan Mosque",
+          "url": "https://doam.gov.pk/public/sites/5625",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Shah Jahan Mosque, Jamia Masjid, Thatta",
+          "url": "https://antiquities.sindhculture.gov.pk/tour/shah-jahan-mosque-jamia-masjid-thatta/",
+          "publisher": "Directorate General of Antiquities, Government of Sindh",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-gori-temple-and-the-evidence-in-its-painted-interior",
+      "planIndex": 36,
+      "wordCount": 491,
+      "sourceNotes": "UNESCOJainimagery/region~170;DOAMhalls/cells/corbelleddomerepair1715~160;EFTenclosureandstone~60. No unverifiedoldestmuralclaim/specificiconography/colonialfirestory. Specialistidentificationneededforindividualpaintings.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Gori Temple",
+          "url": "https://doam.gov.pk/public/sites/5499",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Nagarparkar Cultural Landscape",
+          "url": "https://whc.unesco.org/en/tentativelists/6111/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Gori Temple, Tharparkar",
+          "url": "https://heritage.eftsindh.com/districts/tharparkar/gori-temple.php",
+          "publisher": "Endowment Fund Trust heritage inventory",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-mohatta-palace-from-residence-to-cultural-institution",
+      "planIndex": 37,
+      "wordCount": 483,
+      "sourceNotes": "Museumhistorydates/materials/architect~185;Abouttrust/restoration~100;Exhibition1999Talpurs/Qalam~120. Preserve sourceownShivRattanname; nohauntinglegend/tunnel orcurrentexhibitioncount.",
+      "exception": null,
+      "references": [
+        {
+          "title": "History of the Museum",
+          "url": "https://www.mohattapalacemuseum.org/public/history-of-the-museum",
+          "publisher": "Mohatta Palace Museum",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "About the Museum",
+          "url": "https://mohattapalacemuseum.org/public/about-the-museum",
+          "publisher": "Mohatta Palace Museum",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Exhibitions through the years",
+          "url": "https://www.mohattapalacemuseum.org/events",
+          "publisher": "Mohatta Palace Museum",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-bhittais-shrine-as-an-architectural-setting-for-memory",
+      "planIndex": 38,
+      "wordCount": 465,
+      "sourceNotes": "DOAMlayoutcourtsmosquekitchenmusicporch~180;Qureshispecificperformancepattern~155;official2026programmeindexeddescription~40 explicitlyauditoriumnotshrine. No lyrics quoted; noexactcurrentlydailyguarantee, dubious1772constructionomitted.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Shrine of Shah Abdul Latif Bhittai",
+          "url": "https://doam.gov.pk/public/sites/10375",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Vaaee of Shah Abdul Latif Bhittai: origin and evolution",
+          "url": "https://el.sindhculture.gov.pk/read/13",
+          "publisher": "Zulfiqar Qureshi / Culture Department, Government of Sindh",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Raag programme at Bhit Shah, 29 July 2026",
+          "url": "https://www.youtube.com/watch?v=3VIQmtjBtXA",
+          "publisher": "Culture Department, Government of Sindh",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-mansehras-rock-edicts-as-a-public-text",
+      "planIndex": 39,
+      "wordCount": 475,
+      "sourceNotes": "UNESCO3boulders14edictsKharoshthi3BCEroutes~170;DOAMsupportsamefactsnotdoublebudget;Oslo actualnavigationrecordreadnotfulltranslation used~70;BLindexedcataloguedescriptoronly~40. No verbatimroyaltranslation invented, earliestwritingabsoluteavoided; interpretationoriginal.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Mansehra Rock Edicts",
+          "url": "https://whc.unesco.org/en/tentativelists/1881/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mansehra Rock Edicts",
+          "url": "https://doam.gov.pk/public/sites/136",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Rock edicts: synoptic text records",
+          "url": "https://www2.hf.uio.no/polyglotta/index.php?mid=635067&page=record&vid=365&view=record",
+          "publisher": "Bibliotheca Polyglotta, University of Oslo",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Rocks with Asoka inscriptions, Edicts IX–XI, Mansehra",
+          "url": "https://searcharchives.bl.uk/catalog/040-003137370",
+          "publisher": "British Library Archives and Manuscripts catalogue",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

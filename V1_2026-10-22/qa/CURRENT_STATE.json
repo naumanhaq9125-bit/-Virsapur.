@@ -1,0 +1,75 @@
+{
+  "counts": {
+    "archive-categories.json": {
+      "records": 6,
+      "statuses": {
+        "published": 6
+      }
+    },
+    "atlas-scope-media.json": {
+      "singleton": true
+    },
+    "collaborators.json": {
+      "records": 8,
+      "statuses": {
+        "published": 8
+      }
+    },
+    "events.json": {
+      "records": 0,
+      "statuses": {}
+    },
+    "heritage-places.json": {
+      "records": 221,
+      "statuses": {
+        "published": 221
+      }
+    },
+    "homepage.json": {
+      "singleton": true
+    },
+    "media.json": {
+      "records": 0,
+      "statuses": {}
+    },
+    "people.json": {
+      "records": 2,
+      "statuses": {
+        "published": 2
+      }
+    },
+    "programmes.json": {
+      "records": 4,
+      "statuses": {
+        "published": 4
+      }
+    },
+    "projects.json": {
+      "records": 2,
+      "statuses": {
+        "draft": 2
+      }
+    },
+    "site.json": {
+      "singleton": true
+    },
+    "stories.json": {
+      "records": 12,
+      "statuses": {
+        "draft": 12
+      }
+    },
+    "temporary-image-overrides.json": {
+      "singleton": true
+    },
+    "testimonials.json": {
+      "records": 1,
+      "statuses": {
+        "published": 1
+      }
+    }
+  },
+  "protectedFiles": 322,
+  "source": "Current repository, not historical report",
+  "deployment": "NOT DEPLOYED"
+}

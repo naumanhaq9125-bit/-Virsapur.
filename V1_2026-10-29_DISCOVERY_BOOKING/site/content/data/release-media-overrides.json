@@ -1,0 +1,20 @@
+{
+  "placements": {
+    "homepage.hero": "release-badshahi-courtyard",
+    "homepage.final-action": "release-badshahi-night",
+    "homepage.about.primary": "release-shah-jahan-portrait",
+    "homepage.about.support": "release-shalimar",
+    "why.hero": "release-shah-jahan-portrait",
+    "why.approach.primary": "release-shah-jahan-courtyard",
+    "why.approach.support": "release-takht-i-bahi",
+    "programme-heritage-tours": "release-rohtas",
+    "archive-category-archaeology-ancient-civilisations": "release-takht-i-bahi",
+    "archive-category-architecture-built-heritage": "release-shah-jahan-portrait",
+    "archive-category-sacred-heritage": "release-shah-jahan-courtyard",
+    "archive-category-cultural-landscapes-historic-places": "release-shalimar"
+  },
+  "replaces": {
+    "assets/hero-badshahi.jpg": "release-badshahi-courtyard"
+  },
+  "notes": "Release-candidate-only mappings. Shared temporary images are deliberately not globally replaced: their reuse across unrelated named places would create false subject claims. Keep Preview overrides unchanged. Use metadata caption/alt/focalPoint rather than previous-image metadata."
+}

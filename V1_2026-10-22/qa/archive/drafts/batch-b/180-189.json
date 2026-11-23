@@ -1,0 +1,1205 @@
+[
+  {
+    "id": "story-a-minaret-is-not-a-clock-tower",
+    "type": "story",
+    "slug": "a-minaret-is-not-a-clock-tower",
+    "title": "A minaret is not a clock tower",
+    "summary": "Towers can announce prayer, display time or commemorate a patron. Height and silhouette do not make them the same building type.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Two tall structures may dominate a skyline while performing quite different tasks. One belongs to a mosque, another displays a clock, and a third commemorates a person or political claim. Similar height, a staircase and a small crowning pavilion do not make them interchangeable. Building type is a question of purpose and setting as well as shape."
+      },
+      {
+        "type": "paragraph",
+        "text": "A minaret is associated with mosque architecture and the call to prayer, although its form and historical use vary. A clock tower makes time publicly visible or audible through a mechanism. The broader term minar can describe a tower without establishing that it functioned as a mosque minaret. These distinctions help prevent a familiar silhouette from becoming a misleading identification."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Names are a beginning"
+      },
+      {
+        "type": "paragraph",
+        "text": "In Sukkur, the Department of Archaeology and Museums records Mir Masum's Minar together with the adjoining family tombs. It describes a brick tower with an internal stair and a domed summit. The funerary and commemorative setting belongs in any account. Simply relabelling it a mosque tower would erase the context supplied by the record."
+      },
+      {
+        "type": "paragraph",
+        "text": "Jacobabad's Victoria Clock Tower belongs to a different institutional and architectural story. The official inventory describes its masonry construction, internal rooms and stair. Its clock-tower identity does not mean that every part of the building was only a container for the mechanism; rooms, circulation and public presentation deserve attention too."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Ask what makes the type work"
+      },
+      {
+        "type": "paragraph",
+        "text": "For a clock tower, the useful questions concern the clock faces, their viewing distances, the mechanism and access for maintenance. Was sound also part of its operation? An answer requires evidence, not an assumption that every public clock had a bell. A stopped mechanism can leave the landmark recognisable while changing its practical relationship with the city."
+      },
+      {
+        "type": "paragraph",
+        "text": "For a minaret, questions concern its relationship to the prayer building, access and documented use. Modern amplification may change how a call is transmitted without removing the tower's architectural or symbolic significance. A present-day observation should not be projected unchanged onto every earlier period."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Comparison should retain the difference"
+      },
+      {
+        "type": "paragraph",
+        "text": "A good comparative drawing could show each tower at the same scale, then add its surrounding complex. That second step is essential. Without context, the comparison rewards superficial resemblance; with context, it reveals different relationships between height, movement and public attention."
+      },
+      {
+        "type": "paragraph",
+        "text": "Multan's Ghanta Ghar offers another clock-tower setting to investigate, but its civic role should be considered through its own municipal history. It is not an interchangeable version of either Sukkur's minar or Jacobabad's monument."
+      },
+      {
+        "type": "paragraph",
+        "text": "When writing a caption, use the established name and explain the documented function separately. If the function is uncertain, say so. Towers are powerful precisely because they can carry different meanings across a townscape. Keeping those meanings distinct makes the skyline more interesting, not less coherent."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "minaret clock tower architecture",
+      "architecture Pakistan",
+      "Mir Masum’s Minaret and Tomb",
+      "Victoria Clock Tower, Jacobabad"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "sindh-sukkur",
+      "sindh-jacobabad",
+      "punjab-multan"
+    ],
+    "provinceRegionIds": [
+      "sindh",
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-5135",
+      "major-doam-4365",
+      "major-doam-10385"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "A minaret is not a clock tower | Virsapur",
+      "description": "Towers can announce prayer, display time or commemorate a patron. Height and silhouette do not make them the same building type.",
+      "primaryKeyword": "minaret clock tower architecture",
+      "socialTitle": "A minaret is not a clock tower",
+      "socialDescription": "Towers can announce prayer, display time or commemorate a patron. Height and silhouette do not make them the same building type."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Mir Masum's Minar and Tomb",
+        "url": "https://doam.gov.pk/public/sites/5135",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Victoria Clock Tower",
+        "url": "https://doam.gov.pk/public/sites/4365",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Mosque architecture, an introduction",
+        "url": "https://smarthistory.org/introduction-to-mosque-architecture/",
+        "publisher": "Smarthistory",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original review draft. Material and spatial observations are separated from uncertain chronology and current access. Catalogue errors, dated conditions and colonial evaluative language are not reproduced as current objective fact. Editorial source review required.",
+    "editorialReason": "Compare distinct building types and avoid superficial tower-based classification."
+  },
+  {
+    "id": "story-stepwells-as-designed-journeys-to-water",
+    "type": "story",
+    "slug": "stepwells-as-designed-journeys-to-water",
+    "title": "Stepwells as designed journeys to water",
+    "summary": "A baoli is understood in section: steps, landings, roofed passages and the changing relationship between people and water.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A well is often imagined as a shaft seen from above. A baoli makes the approach to water architectural: a person moves down through a sequence of steps and landings. Its most revealing drawing is therefore often a section, showing depth and changes of level, rather than a plan that records only the outline at ground level."
+      },
+      {
+        "type": "paragraph",
+        "text": "The official description of Akbari Baoli in Gujrat identifies a brick stair descending towards the well, with intermediate platforms and arches. These are not incidental embellishments. They shape the route between the ground above and the water below, making the act of reaching water part of a built sequence."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Descent changes the experience"
+      },
+      {
+        "type": "paragraph",
+        "text": "A stair controls pace. Landings interrupt it, allowing a turn, a pause or a change in direction. Walls frame the view; overhead construction changes the amount of light. The result cannot be understood fully from a photograph taken at the entrance, however dramatic its perspective."
+      },
+      {
+        "type": "paragraph",
+        "text": "At Wah Buchhran, the Department of Archaeology and Museums describes an upper stretch of uncovered steps followed by roofed, arched space below. That distinction gives the visitor a specific relationship to investigate in documentation: an open descent becomes a covered passage. It is more informative than applying one atmospheric description to the whole structure."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Water infrastructure serves different users"
+      },
+      {
+        "type": "paragraph",
+        "text": "Losar Baoli's official record includes an animal-watering trough as well as its stair and entrance arrangement. This detail broadens the social picture. Water infrastructure could be connected to movement, work and animal care, rather than only to a solitary person lowering a vessel into a picturesque well."
+      },
+      {
+        "type": "paragraph",
+        "text": "It does not follow that every baoli had identical users or management. The association of a structure with a ruler, a road or a settlement requires its own evidence. Naming traditions can be valuable, but they are not always equivalent to a securely dated foundation inscription."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A section also exposes uncertainty"
+      },
+      {
+        "type": "paragraph",
+        "text": "A present water level is not necessarily the historical level. Silting, changes in use, drainage and groundwater conditions can alter what survives or remains visible. A measured record should identify the date of observation and distinguish an accessible surveyed depth from an inferred original depth. An attractive reconstruction must not silently fill missing parts."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Rani Baoli and hammam group offers another linked place for exploring water-related architecture, but a bath and a stepped well perform different tasks. Their relationship should be explained through the site's own record rather than assumed from their proximity."
+      },
+      {
+        "type": "paragraph",
+        "text": "For visitors, a descent is never automatically safe because historic steps survive. Follow access restrictions, stay away from unstable edges and do not test water for drinking or enter enclosed lower spaces without authorisation. The most useful encounter may be a supervised view, a section drawing and an account of how the water system was maintained. Together they reveal a designed journey, not merely a hole in the ground."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "baoli architecture Pakistan",
+      "architecture Pakistan",
+      "Akbari Baoli, Gujrat",
+      "Sher Shah Baoli, Wah Bhachran"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-gujrat",
+      "punjab-mianwali",
+      "azad-kashmir-sudhnoti"
+    ],
+    "provinceRegionIds": [
+      "punjab",
+      "azad-kashmir"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6544",
+      "major-doam-6582",
+      "major-doam-10366"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Stepwells as designed journeys to water | Virsapur",
+      "description": "A baoli is understood in section: steps, landings, roofed passages and the changing relationship between people and water.",
+      "primaryKeyword": "baoli architecture Pakistan",
+      "socialTitle": "Stepwells as designed journeys to water",
+      "socialDescription": "A baoli is understood in section: steps, landings, roofed passages and the changing relationship between people and water."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Akbari Baoli, Gujrat Town",
+        "url": "https://doam.gov.pk/public/sites/6544",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Sher Shah Baoli, Wah Buchhran",
+        "url": "https://doam.gov.pk/public/sites/6582",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Losar Baoli, Wah Cantt",
+        "url": "https://doam.gov.pk/public/sites/6413",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original review draft. Material and spatial observations are separated from uncertain chronology and current access. Catalogue errors, dated conditions and colonial evaluative language are not reproduced as current objective fact. Editorial source review required.",
+    "editorialReason": "Read section, stairs and changing light in historic water infrastructure."
+  },
+  {
+    "id": "story-sarai-architecture-and-the-logistics-of-travel",
+    "type": "story",
+    "slug": "sarai-architecture-and-the-logistics-of-travel",
+    "title": "Sarai architecture and the logistics of travel",
+    "summary": "Sarai plans reveal the practical organisation of arrival, accommodation and circulation. Their surviving rooms need more than a romantic caravan story.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Travel requires more than a route. People need a place to stop, protect possessions, obtain water and organise the next stage. A sarai can be read as architecture responding to those practical needs, although the exact services and users differed between places and periods. Its walls and rooms are evidence of organisation, not a licence to invent a colourful crowd for every courtyard."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sarai Kharbuza's official record describes a square enclosure with gateways to the north and south, rooms around its perimeter and a veranda in front. The arrangement establishes a relationship between a shared central space and smaller accommodation units. A plan makes that relationship clearer than a sequence of isolated room photographs."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Arrival is an architectural problem"
+      },
+      {
+        "type": "paragraph",
+        "text": "Imagine approaching an enclosure with goods and companions. The gateway concentrates movement; the space beyond redistributes it. A veranda provides an intermediate zone between open court and enclosed room. These are spatial implications of the plan, not proof of a particular fee system, security procedure or division of guests."
+      },
+      {
+        "type": "paragraph",
+        "text": "To go further, an historian would need records of management and use. A room near a gate might have served several purposes over time. Calling it a guardroom, office or merchant's shop without supporting evidence turns a plausible possibility into a false certainty."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Similar outlines can conceal different histories"
+      },
+      {
+        "type": "paragraph",
+        "text": "Begum Ki Sarai in Attock also has an enclosed plan, with compartments and a veranda. Its official account records substantial repairs using stone in areas originally built with small bricks. That material difference is a reminder that the surviving building is not a complete snapshot of one moment."
+      },
+      {
+        "type": "paragraph",
+        "text": "A visitor comparing the two sarais should therefore ask which parts are early, altered, missing or reused. Gateways may have changed; rooms may have been subdivided; routes through the enclosure may have shifted. The comparison becomes more useful when it acknowledges these differences rather than presenting both as untouched examples of a single model."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Infrastructure before atmosphere"
+      },
+      {
+        "type": "paragraph",
+        "text": "A serious interpretation should look for documented water provision, drainage, food preparation, animal accommodation and links to nearby routes. Where these features have not been identified, a public account can explain why they are questions worth investigating. It should not supply them merely because the word caravanserai evokes a familiar story."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Saadabad caravan sarai is another linked starting point for regional comparison. Its route and historical setting need their own sources, rather than an automatic assignment to a vaguely defined Silk Road. Long-distance movement was made from particular journeys, institutions and local services."
+      },
+      {
+        "type": "paragraph",
+        "text": "Present communities also belong in the account. Surviving sarai spaces may be occupied, adapted or managed in ways that are not visible on an old plan. Permission and current use govern a visit. Reading the architecture through movement and maintenance brings the history closer to everyday life, without pretending that an empty courtyard can tell us everything about its former travellers."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "caravanserai architecture Pakistan",
+      "architecture Pakistan",
+      "Sarai Kharbuza",
+      "Begum ki Sarai"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "islamabad-islamabad",
+      "punjab-attock",
+      "azad-kashmir-bhimber"
+    ],
+    "provinceRegionIds": [
+      "islamabad",
+      "punjab",
+      "azad-kashmir"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6227",
+      "major-doam-6567",
+      "major-doam-6680"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Sarai architecture and the logistics of travel | Virsapur",
+      "description": "Sarai plans reveal the practical organisation of arrival, accommodation and circulation. Their surviving rooms need more than a romantic caravan story.",
+      "primaryKeyword": "caravanserai architecture Pakistan",
+      "socialTitle": "Sarai architecture and the logistics of travel",
+      "socialDescription": "Sarai plans reveal the practical organisation of arrival, accommodation and circulation. Their surviving rooms need more than a romantic caravan story."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Sarai Kharbuza",
+        "url": "https://doam.gov.pk/public/sites/6227",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Begum Ki Sarai",
+        "url": "https://doam.gov.pk/public/sites/6567",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original review draft. Material and spatial observations are separated from uncertain chronology and current access. Catalogue errors, dated conditions and colonial evaluative language are not reproduced as current objective fact. Editorial source review required.",
+    "editorialReason": "Explain enclosure and rooms through movement and accommodation, not a generic Silk Road romance."
+  },
+  {
+    "id": "story-defensive-gates-bends-levels-and-lines-of-approach",
+    "type": "story",
+    "slug": "defensive-gates-bends-levels-and-lines-of-approach",
+    "title": "Defensive gates: bends, levels and lines of approach",
+    "summary": "A fort gateway is a route through a defensive boundary. Bends and level changes need to be read with terrain, chronology and documented purpose.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A monumental fort entrance often invites a frontal photograph: two flanking masses, a central opening and a skyline above. Yet the gateway's architectural work happens through movement. A visitor approaches, passes a threshold, changes direction or level and emerges inside. Reading that sequence reveals more than treating the facade as an isolated emblem of strength."
+      },
+      {
+        "type": "paragraph",
+        "text": "UNESCO's account of Rohtas describes a fort whose irregular plan follows its hilltop terrain. It identifies gateways, bastions, an internal division and stepped wells within a larger defensive system. The gate therefore belongs to an arrangement of landscape, boundaries and resources, not simply to a collection of impressive stone openings."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Follow the actual route"
+      },
+      {
+        "type": "paragraph",
+        "text": "Begin with a plan, or with permitted observation from a safe path. Where does the approach first become visible from the wall? How does its width change? Is there a turn before the entrance or within it? Does the route rise, descend or remain level? These questions establish the physical arrangement before assigning a tactical explanation."
+      },
+      {
+        "type": "paragraph",
+        "text": "A bend may restrict a direct approach, but not every bend was designed for the same military reason. Terrain, an earlier route, drainage or later building can also influence movement. The popular explanation that every angled entrance stopped charging elephants is especially unsatisfactory when offered without evidence for the particular gate."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A gateway can communicate as well as control"
+      },
+      {
+        "type": "paragraph",
+        "text": "Scale, carving and inscriptions can make an entrance a place of display. Defensive purpose and ceremonial presentation are not mutually exclusive. A gateway may regulate passage while making an architectural statement to those who approach it. Interpretation should examine both roles instead of assuming that ornament is irrelevant to military architecture."
+      },
+      {
+        "type": "paragraph",
+        "text": "Rohtas's decorated gateways provide a setting for this enquiry, while the Naukot Fort record offers a different regional comparison. Their construction histories and defensive arrangements must remain distinct. A feature observed at one cannot simply be transferred to the other because both sites are called forts."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The present path may be later"
+      },
+      {
+        "type": "paragraph",
+        "text": "Modern road surfaces, filled ditches, repaired steps and openings made for contemporary access can change the route a visitor experiences. A current walk-through should be compared with surveys and earlier records before it becomes a reconstruction of historical movement. An entrance photographed after restoration also needs its intervention history."
+      },
+      {
+        "type": "paragraph",
+        "text": "There is a useful difference between saying a turn interrupts a straight approach and claiming it successfully defeated a particular attack. The first may be visible in a plan; the second requires historical evidence. Architectural form can establish possibilities without proving events."
+      },
+      {
+        "type": "paragraph",
+        "text": "The most informative gateway photograph includes the approach and an oblique view through the opening, where permitted. The most informative account explains how that route connects to the surrounding wall and terrain. A fort then becomes a working spatial system rather than a dramatic doorway awaiting a legend."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "fort gateway architecture",
+      "architecture Pakistan",
+      "Rohtas Fort",
+      "Naukot Fort"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-jhelum",
+      "sindh-tharparkar"
+    ],
+    "provinceRegionIds": [
+      "punjab",
+      "sindh"
+    ],
+    "relatedHeritageIds": [
+      "unesco-586",
+      "major-doam-5504"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Defensive gates: bends, levels and lines of approach | Virsapur",
+      "description": "A fort gateway is a route through a defensive boundary. Bends and level changes need to be read with terrain, chronology and documented purpose.",
+      "primaryKeyword": "fort gateway architecture",
+      "socialTitle": "Defensive gates: bends, levels and lines of approach",
+      "socialDescription": "A fort gateway is a route through a defensive boundary. Bends and level changes need to be read with terrain, chronology and documented purpose."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Rohtas Fort",
+        "url": "https://whc.unesco.org/en/list/586/",
+        "publisher": "UNESCO World Heritage Centre",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Naukot Fort",
+        "url": "https://doam.gov.pk/public/sites/5504",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original review draft. Material and spatial observations are separated from uncertain chronology and current access. Catalogue errors, dated conditions and colonial evaluative language are not reproduced as current objective fact. Editorial source review required.",
+    "editorialReason": "Explain documented defensive design without assigning every bend a military purpose."
+  },
+  {
+    "id": "story-bastion-curtain-wall-and-parapet-reading-a-fort",
+    "type": "story",
+    "slug": "bastion-curtain-wall-and-parapet-reading-a-fort",
+    "title": "Bastion, curtain wall and parapet: reading a fort",
+    "summary": "A few precise terms make a fort easier to understand, provided they are attached to visible features rather than memorised as a checklist.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Fortification vocabulary is most useful when it describes relationships. A projecting element, a connecting wall and its protected upper edge work together. Learning their names allows a visitor to move from the statement that a fort has thick walls towards a more exact account of how its perimeter is organised."
+      },
+      {
+        "type": "paragraph",
+        "text": "A curtain wall is the stretch connecting defensive towers or projecting works. A parapet is a protective wall along an elevated edge, often associated with a walkway or roof. Bastion can describe a projecting defensive feature, but its shape and technical meaning vary across periods and traditions. It should not automatically evoke the angular geometry of a European star fort."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Start with the plan"
+      },
+      {
+        "type": "paragraph",
+        "text": "The official description of Harrand Fort records an approximately circular enclosure with repeated octagonal bastions and entrances on opposing sides. Sangni's record describes a roughly square plan with projecting features and a gate flanked by bastions. These contrasting outlines immediately show why a fort cannot be understood from one wall segment."
+      },
+      {
+        "type": "paragraph",
+        "text": "On a plan, mark where the boundary projects and where it runs between projections. Then compare the width and form of these features. Are they regularly spaced? Do they concentrate near an entrance? Does the ground outside rise or fall? The names begin a spatial enquiry; they do not supply the explanation in advance."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Read the wall vertically"
+      },
+      {
+        "type": "paragraph",
+        "text": "An elevation or section adds a second dimension. A high wall, its walkway and its upper protection are different elements. The familiar alternating solid and open pattern of battlements is not the entire wall, and a parapet need not always have that profile. A missing upper edge can make a surviving wall look unlike its earlier appearance."
+      },
+      {
+        "type": "paragraph",
+        "text": "Openings also need careful identification. A drainage outlet, a construction hole and an opening associated with defence may appear similar in a distant photograph. The shape, internal passage and documented context matter. It is better to record an unidentified opening than to label every hole an arrow slit."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Avoid a universal military diagram"
+      },
+      {
+        "type": "paragraph",
+        "text": "UNESCO describes Rohtas as an integrated system of walls, bastions and gateways adapted to its terrain. That comparison helps readers recognise a broader vocabulary, but it does not establish that Harrand or Sangni used identical weapons, strategies or construction methods. Shared terms do not erase chronological and regional differences."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nor should the vocabulary imply that the whole surviving fort belongs to one campaign. Repairs, rebuilding and changed use can alter an enclosure. A bastion may retain its outline while containing later masonry; a parapet may be reconstructed."
+      },
+      {
+        "type": "paragraph",
+        "text": "For a visit, use an authorised path and regard wall tops as restricted unless clearly opened and supervised. A low-looking parapet or broad projection is not evidence of safe access. The best result is a precise description made from plans and permitted viewpoints: what projects, what connects, what protects the edge, and which parts remain uncertain."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "fortification architecture terms",
+      "architecture Pakistan",
+      "Harrand Fort",
+      "Sangni Fort"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-rajanpur",
+      "punjab-rawalpindi"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6193",
+      "major-doam-6922"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Bastion, curtain wall and parapet: reading a fort | Virsapur",
+      "description": "A few precise terms make a fort easier to understand, provided they are attached to visible features rather than memorised as a checklist.",
+      "primaryKeyword": "fortification architecture terms",
+      "socialTitle": "Bastion, curtain wall and parapet: reading a fort",
+      "socialDescription": "A few precise terms make a fort easier to understand, provided they are attached to visible features rather than memorised as a checklist."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Harrand Fort",
+        "url": "https://doam.gov.pk/public/sites/6193",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Sangni Fort",
+        "url": "https://doam.gov.pk/public/sites/6922",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Rohtas Fort",
+        "url": "https://whc.unesco.org/en/list/586/",
+        "publisher": "UNESCO World Heritage Centre",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original review draft. Material and spatial observations are separated from uncertain chronology and current access. Catalogue errors, dated conditions and colonial evaluative language are not reproduced as current objective fact. Editorial source review required.",
+    "editorialReason": "Give readers a precise vocabulary anchored in visible examples."
+  },
+  {
+    "id": "story-earthen-forts-and-the-labour-of-maintenance",
+    "type": "story",
+    "slug": "earthen-forts-and-the-labour-of-maintenance",
+    "title": "Earthen forts and the labour of maintenance",
+    "summary": "Earthen architecture survives through knowledge and continuing care. Its maintenance is part of its history, not proof of an inferior building material.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "An earthen fort can appear vulnerable when its surfaces are compared with hard stone. That contrast should not become a ranking of civilisations or an assumption that earth was merely a temporary substitute. Earth is a building material with many techniques, capabilities and maintenance requirements. Its history includes the labour that repeatedly kept walls, roofs and surfaces functioning."
+      },
+      {
+        "type": "paragraph",
+        "text": "Getty's discussion of earthen conservation emphasises how strongly materials, environment, scale and use affect each case. It also distinguishes occupied buildings from archaeological remains that are incomplete and no longer maintained in the same way. A ruined wall and a working settlement therefore cannot be approached as identical conservation problems."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Maintenance leaves history in the surface"
+      },
+      {
+        "type": "paragraph",
+        "text": "Renewed plaster may protect an older wall while changing what the visitor sees. A visible surface can be much younger than the structure beneath it. That does not necessarily make the building inauthentic; it may reflect a continuing maintenance practice. The important questions are what was renewed, by whom, with which materials and under what conditions."
+      },
+      {
+        "type": "paragraph",
+        "text": "A useful account would document the cycle of care rather than celebrate only a foundation date. Where did suitable material come from? Who knew how to prepare and apply it? How were vulnerable wall tops and drainage routes managed? These questions connect architectural survival with organisation and skilled labour."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Abandonment changes the system"
+      },
+      {
+        "type": "paragraph",
+        "text": "When use stops, small defects may no longer be repaired promptly. Loss of roofs or protective surfaces exposes elements that were not intended to stand indefinitely in that condition. Conservation must then address a new situation rather than simply preserve the ruin's present appearance as if it were the original design."
+      },
+      {
+        "type": "paragraph",
+        "text": "Getty's Taourirt project in Morocco combined concern for historic fabric with technical knowledge, appropriate reuse and local participation. It offers a comparative conservation approach, not a treatment prescription for Punjab. Ahmadpur Lamma and Kot Mahoi Wala require their own material assessment, history and management decisions before any intervention is proposed."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Hard coatings are not a simple answer"
+      },
+      {
+        "type": "paragraph",
+        "text": "A surface that seems stronger can interact poorly with the wall behind it. Conversely, a traditional-looking repair is not automatically suitable merely because it contains earth. Composition, exposure, drainage and the surviving fabric need specialist investigation. This article deliberately offers no repair mixture or instruction for unsupervised work."
+      },
+      {
+        "type": "paragraph",
+        "text": "The public story should also include resources. A maintenance programme needs time, training, access and a responsible organisation. Photographing a conservation ceremony once does not demonstrate that those conditions remain in place afterwards."
+      },
+      {
+        "type": "paragraph",
+        "text": "Earthen forts become more understandable when survival is seen as an activity rather than a material miracle. Their significance lies in form and history, but also in the recurring work that made occupation possible. Respecting that work means neither romanticising deterioration nor replacing vulnerable fabric indiscriminately. It means asking how a place can continue to be cared for without losing the evidence it carries."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "mud fort conservation",
+      "architecture Pakistan",
+      "Ahmadpur Lamma Fort",
+      "Kot Mahoi Wala Fort"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-rahim-yar-khan",
+      "punjab-taunsa"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-10307",
+      "major-doam-6199"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Earthen forts and the labour of maintenance | Virsapur",
+      "description": "Earthen architecture survives through knowledge and continuing care. Its maintenance is part of its history, not proof of an inferior building material.",
+      "primaryKeyword": "mud fort conservation",
+      "socialTitle": "Earthen forts and the labour of maintenance",
+      "socialDescription": "Earthen architecture survives through knowledge and continuing care. Its maintenance is part of its history, not proof of an inferior building material."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "The Delicate Balance of Conserving Earthen Archaeological Sites",
+        "url": "https://www.getty.edu/news/the-delicate-balance-of-conserving-earthen-archaeological-sites/",
+        "publisher": "Getty Conservation Institute",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Conservation and Rehabilitation Plan for the Kasbah of Taourirt",
+        "url": "https://www.getty.edu/projects/conservation-rehabilitation-plan-kasbah-taourirt/",
+        "publisher": "Getty Conservation Institute",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Earthen Architecture Conservation: teaching resources",
+        "url": "https://www.getty.edu/research-conservation/teaching-learning-resources/earthen-architecture-conservation/",
+        "publisher": "Getty Conservation Institute",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original review draft. Material and spatial observations are separated from uncertain chronology and current access. Catalogue errors, dated conditions and colonial evaluative language are not reproduced as current objective fact. Editorial source review required.",
+    "editorialReason": "Explain material vulnerability and continual care without treating earth as primitive construction."
+  },
+  {
+    "id": "story-stone-temples-of-the-salt-range-a-regional-comparison",
+    "type": "story",
+    "slug": "stone-temples-of-the-salt-range-a-regional-comparison",
+    "title": "Stone temples of the Salt Range: a regional comparison",
+    "summary": "Malot, Amb and Nandana belong in a regional conversation, but their surviving forms and documentary histories resist a single temple template.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A regional group is a useful way to begin studying the Salt Range temples, but it should not become a claim that every building follows one plan or belongs to one moment. Comparison works best when the differences remain visible: the treatment of an entrance, the organisation of a shrine, the surrounding enclosure and the state of preservation."
+      },
+      {
+        "type": "paragraph",
+        "text": "Malot's official catalogue description draws attention to recessed faces, columns and trefoil arches. Amb's entry instead foregrounds a group of temples within an enclosure, including structures of different sizes. Even these brief descriptions suggest different starting points. At Malot, the elevation invites close reading; at Amb, the relationship between buildings is immediately important."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Compare the same things"
+      },
+      {
+        "type": "paragraph",
+        "text": "A productive comparison chooses a small set of features and records them consistently. How is the entrance framed? What remains of the upper structure? Is the building freestanding or part of a larger group? How does its platform meet the surrounding ground? The answers should come from measured records and documented observation, not from a checklist completed by analogy."
+      },
+      {
+        "type": "paragraph",
+        "text": "Preservation can distort comparison. A missing roof may make two originally different buildings appear similar, while a surviving decorated doorway can make one site seem more elaborate than another whose corresponding element is lost. The absence of a feature in the present ruin is not necessarily evidence that it never existed."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Regional exchange is not a single recipe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Michael Meister's research presentation for Penn Museum situates these monuments within a wider architectural conversation and notes distinctive relationships with Kashmir at Malot. This offers a more useful model than treating the region as an isolated school with an unchanging style. Architectural knowledge travelled, but each proposed connection needs to be demonstrated through specific forms and evidence."
+      },
+      {
+        "type": "paragraph",
+        "text": "Political labels also need care. A broad association with the Shahi period is not a substitute for establishing the date of an individual building phase. Earlier catalogues and later scholarship can differ. A public account should explain a significant disagreement rather than silently combine incompatible dates into a precise-looking chronology."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Read the setting as well as the shrine"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nandana's remains belong to a larger fortified and historically layered landscape. Its official record discusses several kinds of surviving structures and preserves older interpretations. This is a reason to consult specialist research, not to merge all the remains into a single temple complex or repeat every historical attribution without scrutiny."
+      },
+      {
+        "type": "paragraph",
+        "text": "For visitors, photographs should retain the platform, slope and neighbouring remains whenever possible. A close view of carving is valuable, but it cannot explain the full arrangement. Access and stability restrictions take precedence over the desire to recreate a historic viewpoint."
+      },
+      {
+        "type": "paragraph",
+        "text": "A regional comparison succeeds when it makes each place more distinct. The Salt Range temples are not interesting because they can be reduced to one formula. They are interesting because related architectural ideas were worked out in different buildings, landscapes and historical circumstances."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "Salt Range temple architecture",
+      "architecture Pakistan",
+      "Malot Temple",
+      "Amb Temples"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-chakwal",
+      "punjab-khushab",
+      "punjab-jhelum"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6535",
+      "major-doam-6897",
+      "major-doam-8267"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Stone temples of the Salt Range: a regional comparison | Virsapur",
+      "description": "Malot, Amb and Nandana belong in a regional conversation, but their surviving forms and documentary histories resist a single temple template.",
+      "primaryKeyword": "Salt Range temple architecture",
+      "socialTitle": "Stone temples of the Salt Range: a regional comparison",
+      "socialDescription": "Malot, Amb and Nandana belong in a regional conversation, but their surviving forms and documentary histories resist a single temple template."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Malot Temple",
+        "url": "https://doam.gov.pk/public/sites/6535",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Amb Temple",
+        "url": "https://doam.gov.pk/public/sites/6897",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Temples Along the Indus",
+        "url": "https://www.penn.museum/sites/expedition/temples-along-the-indus/",
+        "publisher": "Penn Museum; Michael W. Meister",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Nandana Fort",
+        "url": "https://doam.gov.pk/public/sites/8267",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original review draft. Material and spatial observations are separated from uncertain chronology and current access. Catalogue errors, dated conditions and colonial evaluative language are not reproduced as current objective fact. Editorial source review required.",
+    "editorialReason": "Compare documented forms while retaining distinctions between individual temple histories."
+  },
+  {
+    "id": "story-sikh-samadhis-and-regional-architectural-exchange",
+    "type": "story",
+    "slug": "sikh-samadhis-and-regional-architectural-exchange",
+    "title": "Sikh samadhis and regional architectural exchange",
+    "summary": "Samadhis can combine familiar regional forms while retaining specific commemorative meanings. Architectural exchange is not the disappearance of difference.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A dome, a cusped arch or a pavilion does not belong exclusively to one community. Such forms can recur across buildings with different patrons and purposes. Sikh samadhis in Punjab offer a way to study that architectural exchange, provided their commemorative identity is not dissolved into a vague claim that all regional traditions are essentially the same."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Department of Archaeology and Museums identifies Ranjit Singh's samadhi in Lahore with his cremation site and describes a central dome, surrounding roof features and decorated interiors. These physical observations are useful. The older catalogue's evaluative language about a mixture of styles is less useful: it reveals an author's judgement, not an objective architectural defect."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Begin with the monument's own purpose"
+      },
+      {
+        "type": "paragraph",
+        "text": "A samadhi should not automatically be described as a mosque, a gurdwara or an ordinary burial chamber because its external features resemble another building. Commemoration, devotional practice and the treatment of remains require precise, site-specific explanation. The established name should remain visible while that context is introduced."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nor should a discussion of elite monuments stand for all Sikh practice. A ruler's memorial has a particular political and patronage history. Its scale and decoration cannot be assumed to represent the buildings or preferences of every community associated with the same tradition."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Compare forms without assigning ownership"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mahan Singh's samadhi in Gujranwala is catalogued as an octagonal building with a tall central chamber and a fluted dome. The official description also notes architectural features shared with Mughal building traditions. Comparison can focus on those features—the arrangement of bays, projecting eaves or profiles of arches—without claiming that the whole monument is merely a copy."
+      },
+      {
+        "type": "paragraph",
+        "text": "Shared forms might reflect available craft knowledge, patronal choice or the established architectural vocabulary of a region. Establishing which explanation applies requires records beyond resemblance. Where the names of builders are unknown, that gap should be acknowledged rather than filled by attributing all work to an anonymous communal style."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Decoration has a subject as well as a surface"
+      },
+      {
+        "type": "paragraph",
+        "text": "Paintings and ornamental work may be discussed technically, but their iconography also matters. A description of painted narratives should identify what a reliable source recognises, distinguish surviving images from lost ones and avoid supplying identities from a blurred photograph. The same caution applies to stories about reused architectural fragments."
+      },
+      {
+        "type": "paragraph",
+        "text": "Current condition must be dated. A catalogue's report of damage describes the circumstances of that documentation, not automatically the building's state today. Before directing visitors, obtain current access information from the responsible custodian."
+      },
+      {
+        "type": "paragraph",
+        "text": "The strongest account of these samadhis holds several things together: the people commemorated, the architectural forms chosen, the labour that realised them and the later history of care. Exchange becomes a specific historical process. Difference remains legible, and the monuments are allowed to be more than illustrations of a simplified regional style."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "Sikh samadhi architecture",
+      "architecture Pakistan",
+      "Samadhi of Maharaja Ranjit Singh",
+      "Mahan Singh Samadhi"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-lahore",
+      "punjab-gujranwala"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6470",
+      "major-doam-10110"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Sikh samadhis and regional architectural exchange | Virsapur",
+      "description": "Samadhis can combine familiar regional forms while retaining specific commemorative meanings. Architectural exchange is not the disappearance of difference.",
+      "primaryKeyword": "Sikh samadhi architecture",
+      "socialTitle": "Sikh samadhis and regional architectural exchange",
+      "socialDescription": "Samadhis can combine familiar regional forms while retaining specific commemorative meanings. Architectural exchange is not the disappearance of difference."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Samadh of Ranjit Singh",
+        "url": "https://doam.gov.pk/public/sites/6470",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Mahan Singh Samadhi",
+        "url": "https://doam.gov.pk/public/sites/10110",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original review draft. Material and spatial observations are separated from uncertain chronology and current access. Catalogue errors, dated conditions and colonial evaluative language are not reproduced as current objective fact. Editorial source review required.",
+    "editorialReason": "Study building form without flattening different devotional traditions into one style."
+  },
+  {
+    "id": "story-colonial-railway-stations-beyond-a-single-style",
+    "type": "story",
+    "slug": "colonial-railway-stations-beyond-a-single-style",
+    "title": "Colonial railway stations beyond a single style",
+    "summary": "Railway stations are systems of movement as well as facades. Lahore, Attock Khurd and Golra invite comparison beyond a generic colonial style.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A railway station must connect a town to a moving network. Its architecture handles arrival, waiting, tickets, baggage, staff work and access to trains. A decorative facade may be its most recognisable image, but the building's history cannot be reduced to that image or to the broad label colonial."
+      },
+      {
+        "type": "paragraph",
+        "text": "The official description of Lahore Railway Station emphasises its castle-like appearance and its post-1857 context. Attock Khurd's record instead draws attention to a smaller stone-built station beside the Indus crossing. The contrast is useful even without assigning either building to a perfectly bounded style: scale, material and position within the network already differ."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Look from the track side too"
+      },
+      {
+        "type": "paragraph",
+        "text": "The public entrance and the platform answer different requirements. An urban frontage addresses streets and arriving passengers. The platform edge must relate to railway operations. Roofs, canopies, waiting areas and circulation between these sides can tell a different story from the principal elevation."
+      },
+      {
+        "type": "paragraph",
+        "text": "A comparison should therefore include plans and operational spaces where documentation permits. How does someone move from entrance to platform? Where are public and staff areas separated? Have additional platforms or buildings changed the original arrangement? These questions bring the station's practical life into the architectural account."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A network gives a building its scale"
+      },
+      {
+        "type": "paragraph",
+        "text": "A major junction and a smaller station near an important crossing are not simply large and small versions of the same object. Their roles can shape accommodation, circulation and relationships with surrounding infrastructure. Attock Khurd's proximity to the bridge is especially important to its setting, but the station and successive bridge works should retain separate construction histories."
+      },
+      {
+        "type": "paragraph",
+        "text": "The DOAM entry for Attock Khurd contains differing dates and some inconsistent classification fields. That is a reminder to check archival or railway records before publishing a precise chronology. An official catalogue is a valuable lead, not a guarantee that every field has been reconciled."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Preserve work, not only nostalgia"
+      },
+      {
+        "type": "paragraph",
+        "text": "Signals, communication equipment, signs, benches and maintenance spaces can be as informative as an ornamental tower. When objects are displayed in a railway museum, their original operational context matters. A tool labelled merely old railway equipment tells visitors far less than a record explaining who used it and which task it performed."
+      },
+      {
+        "type": "paragraph",
+        "text": "Golra provides another linked place for exploring that relationship between a station and railway memory. Its interpretation should be based on its own collection and building records, rather than borrowing Lahore's monumental narrative."
+      },
+      {
+        "type": "paragraph",
+        "text": "Active railway property also imposes clear limits. Photography permission does not authorise access to tracks, staff rooms or operational equipment. A heritage visit must not interfere with passengers or railway work."
+      },
+      {
+        "type": "paragraph",
+        "text": "The architectural reward of this broader view is a more human history. Stations emerge as places built and adapted for organised movement, shaped by labour and infrastructure as well as political display. Colonial is a historical context; it is not a complete description of every roof, room and platform."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "Pakistan railway station architecture",
+      "architecture Pakistan",
+      "Attock Khurd Railway Station",
+      "Lahore Railway Station"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-attock",
+      "punjab-lahore",
+      "islamabad-islamabad"
+    ],
+    "provinceRegionIds": [
+      "punjab",
+      "islamabad"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-10358",
+      "major-doam-10172",
+      "major-doam-6310"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Colonial railway stations beyond a single style | Virsapur",
+      "description": "Railway stations are systems of movement as well as facades. Lahore, Attock Khurd and Golra invite comparison beyond a generic colonial style.",
+      "primaryKeyword": "Pakistan railway station architecture",
+      "socialTitle": "Colonial railway stations beyond a single style",
+      "socialDescription": "Railway stations are systems of movement as well as facades. Lahore, Attock Khurd and Golra invite comparison beyond a generic colonial style."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Lahore Railway Station",
+        "url": "https://doam.gov.pk/public/sites/10172",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Attock Khurd Railway Station",
+        "url": "https://doam.gov.pk/public/sites/10358",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Golra Railway Station",
+        "url": "https://doam.gov.pk/public/sites/6310",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original review draft. Material and spatial observations are separated from uncertain chronology and current access. Catalogue errors, dated conditions and colonial evaluative language are not reproduced as current objective fact. Editorial source review required.",
+    "editorialReason": "Compare infrastructure, materials and scale rather than impose one uniform colonial aesthetic."
+  },
+  {
+    "id": "story-the-clock-tower-and-the-making-of-civic-space",
+    "type": "story",
+    "slug": "the-clock-tower-and-the-making-of-civic-space",
+    "title": "The clock tower and the making of civic space",
+    "summary": "A civic clock tower makes a landmark out of public time. Its urban role depends on sightlines, movement and the institution around it.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A clock tower does more than lift a clock above the street. It makes a public claim about visibility and shared time. People can use it as a meeting point, orient themselves by its position or read it while moving through surrounding streets. The architecture becomes part of the town's daily geography, even for someone who never enters the building."
+      },
+      {
+        "type": "paragraph",
+        "text": "Multan's Ghanta Ghar is particularly useful for thinking about this relationship. The official catalogue places it near the old fortress and a convergence of streets, and connects it with the former municipal building. The tower's civic identity therefore belongs to both its mechanism and the institutional space around it."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Visibility is designed and negotiated"
+      },
+      {
+        "type": "paragraph",
+        "text": "A clock face needs to be seen from somewhere. Its height, orientation and relation to neighbouring buildings affect who can read it and from what distance. Later traffic arrangements, signs, trees or construction may alter those sightlines. An old photograph and a present view can therefore show different urban roles even when the tower itself remains recognisable."
+      },
+      {
+        "type": "paragraph",
+        "text": "This does not mean that every surrounding street was laid out for the clock. The order of development matters. A tower may occupy an existing junction, reshape attention within it or become a landmark after subsequent changes. Plans and dated photographs are needed to distinguish those possibilities."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The mechanism is part of the heritage"
+      },
+      {
+        "type": "paragraph",
+        "text": "A facade can survive while a clock stops, changes mechanism or receives a new source of power. These are not merely technical footnotes. They affect the building's ability to perform the public task that gives it its name. A conservation account should record such changes rather than treating the visible dial as the whole clock."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Multan catalogue describes past work on the clocks, but that report does not establish their operation today. A visitor's account should date any observation of movement or sound. One working face also does not automatically prove that every dial shows the same time."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A landmark can outlive its original institution"
+      },
+      {
+        "type": "paragraph",
+        "text": "Jacobabad's Victoria Clock Tower offers a second setting for considering architecture, commemoration and public orientation. Its historic name carries a political context, while residents may attach other associations to the place. Those meanings should be documented rather than reduced either to colonial nostalgia or to a single official narrative."
+      },
+      {
+        "type": "paragraph",
+        "text": "The public space around a tower may be more significant to everyday users than the interior. Vendors, pedestrians, transport and nearby institutions contribute to that setting, but their use should not be romanticised without listening to the people involved. A beautiful traffic-free photograph can conceal the place's actual pressures."
+      },
+      {
+        "type": "paragraph",
+        "text": "To describe a civic clock tower well, connect three scales: the mechanism, the building and the urban approach. The result is not just a biography of an object. It is an account of how a city makes time visible, changes the meaning of a landmark and decides which parts of that relationship to keep."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "civic clock towers Pakistan",
+      "architecture Pakistan",
+      "Victoria Clock Tower, Jacobabad",
+      "Ghanta Ghar, Multan"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "sindh-jacobabad",
+      "punjab-multan"
+    ],
+    "provinceRegionIds": [
+      "sindh",
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-4365",
+      "major-doam-10385"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "The clock tower and the making of civic space | Virsapur",
+      "description": "A civic clock tower makes a landmark out of public time. Its urban role depends on sightlines, movement and the institution around it.",
+      "primaryKeyword": "civic clock towers Pakistan",
+      "socialTitle": "The clock tower and the making of civic space",
+      "socialDescription": "A civic clock tower makes a landmark out of public time. Its urban role depends on sightlines, movement and the institution around it."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Ghanta Ghar Multan",
+        "url": "https://doam.gov.pk/public/sites/10385",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Victoria Clock Tower",
+        "url": "https://doam.gov.pk/public/sites/4365",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original review draft. Material and spatial observations are separated from uncertain chronology and current access. Catalogue errors, dated conditions and colonial evaluative language are not reproduced as current objective fact. Editorial source review required.",
+    "editorialReason": "Focus on urban organisation, visibility and public time rather than building biographies."
+  }
+]

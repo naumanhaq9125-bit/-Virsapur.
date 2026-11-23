@@ -1,0 +1,13 @@
+{
+  "mode": "local-review",
+  "stagedAt": "2026-10-29T14:19:23.362Z",
+  "origin": "http://127.0.0.1:4174/production",
+  "routes": 1063,
+  "indexableRoutes": 0,
+  "includesUnpublished": true,
+  "excludesDemo": true,
+  "qaPassed": true,
+  "notDeployed": true,
+  "contentStatusesUnchanged": true,
+  "backup": "backups/local-production-sync/2026-10-29T14-18-52-630Z"
+}

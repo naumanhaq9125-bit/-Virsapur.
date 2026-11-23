@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-22",
+  "records": [
+    {
+      "index": 405,
+      "id": "story-world-heritage-is-not-the-same-as-the-tentative-list",
+      "words": 416,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 406,
+      "id": "story-one-property-many-components-understanding-serial-heritage",
+      "words": 433,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 407,
+      "id": "story-tangible-and-intangible-heritage-connected-not-interchangeable",
+      "words": 429,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 408,
+      "id": "story-what-authenticity-means-beyond-original-bricks",
+      "words": 414,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 409,
+      "id": "story-integrity-asking-whether-enough-survives-to-convey-meaning",
+      "words": 425,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 410,
+      "id": "story-why-the-setting-of-a-monument-matters",
+      "words": 425,
+      "references": 1,
+      "status": "review"
+    },
+    {
+      "index": 411,
+      "id": "story-a-heritage-designation-is-not-a-visitor-access-guarantee",
+      "words": 423,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 412,
+      "id": "story-conservation-restoration-and-reconstruction",
+      "words": 420,
+      "references": 1,
+      "status": "review"
+    },
+    {
+      "index": 413,
+      "id": "story-provenance-and-provenience-two-histories-of-an-object",
+      "words": 419,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 414,
+      "id": "story-whose-heritage-participation-without-a-single-community-voice",
+      "words": 422,
+      "references": 2,
+      "status": "review"
+    }
+  ],
+  "duplicateIds": false,
+  "sourceMethod": "Topic-specific primary and institutional sources examined through web pages, selected document passages, indexed excerpts and catalogue metadata. Access and evidence limitations are recorded in individual internalNotes; not every full publication was accessible. No verbatim passages used; original analytical examples are not field observations. References do not imply institutional endorsement. All records require human editorial review."
+}

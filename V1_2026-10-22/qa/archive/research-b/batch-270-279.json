@@ -1,0 +1,231 @@
+{
+  "batch": "270-279",
+  "status": "review-only",
+  "createdAt": "2026-10-22",
+  "records": [
+    {
+      "id": "story-boreendo-a-small-instrument-and-a-large-safeguarding-task",
+      "planIndex": 270,
+      "proseWords": 480,
+      "references": [
+        {
+          "title": "Boreendo, Bhorindo, nomination 02328",
+          "url": "https://ich.unesco.org/en/USL/boreendo-bhorindo-ancient-dying-folk-musical-instrument-its-melodies-knowledge-and-skills-02328",
+          "publisher": "UNESCO Intangible Cultural Heritage",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Decision 20.COM 7.A.3",
+          "url": "https://ich.unesco.org/en/decisions/20.COM/7.A.3",
+          "publisher": "UNESCO Intergovernmental Committee",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "CombinedUNESCOnomination/decisionderivedfactsunder190; sourceSpanishversionreadwhenEnglishblocked. No unverifiedIndusantiquityclaim or currentlastmusicianclaim. Communityrolesdatedto nominationnotmandatorygenderboundaries."
+    },
+    {
+      "id": "story-the-rubab-as-an-instrument-made-and-maintained",
+      "planIndex": 271,
+      "proseWords": 466,
+      "references": [
+        {
+          "title": "Rubab, object 11.94",
+          "url": "https://www.metmuseum.org/art/collection/search/503001",
+          "publisher": "Metropolitan Museum of Art",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Art of crafting and playing rubab/rabab, nomination 02143",
+          "url": "https://ich.unesco.org/en/RL/art-of-crafting-and-playing-rubab-rabab-02143",
+          "publisher": "UNESCO Intangible Cultural Heritage",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Metabout70UNESCOabout100. Explicit2024countriesexcludesPakistan. InheritedKPfacet broaderbodycomparativeKarachiobject; localKPmakerinterviewwouldstrengthenpublication. No unsafeDIYrepairadvice."
+    },
+    {
+      "id": "story-the-alghoza-and-the-coordination-of-breath",
+      "planIndex": 272,
+      "proseWords": 486,
+      "references": [
+        {
+          "title": "Instruments of Pakistan: Pava / Beenu / Alghoza / Doneli",
+          "url": "https://www.pakistanstudies.net/node/62",
+          "publisher": "American Institute of Pakistan Studies",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Living Legends: Taga Ram Bhil, 24 October 2026 programme",
+          "url": "https://jodhpurriff.org/day-3-2026/",
+          "publisher": "Jodhpur RIFF",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "AIPS~60shared273~50=>110; RIFFabout75. ProgrammeupcomingataccessOct22notclaimedattended; Rajasthancomparativeclearlylabelled. No exactoriginclaims or medicalbreathtraining."
+    },
+    {
+      "id": "story-surando-and-the-relationship-between-instrument-and-voice",
+      "planIndex": 273,
+      "proseWords": 485,
+      "references": [
+        {
+          "title": "India ‘Surando’ (Sarinda), AS-CHLT-09-14",
+          "url": "https://wmic.net/india-surando-sarinda/",
+          "publisher": "Hartenberger World Musical Instrument Collection",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Instruments of Pakistan: Surando / Saro / Saroz",
+          "url": "https://www.pakistanstudies.net/node/62",
+          "publisher": "American Institute of Pakistan Studies",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Baluchistan iv. Music of Baluchistan",
+          "url": "https://www.iranicaonline.org/articles/baluchistan-iv/",
+          "publisher": "Mohammad-Taqi Masudiya / Encyclopaedia Iranica",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "HWMCobject~75 AIPS~40 Iranica~60shared274~65=>125. KutchcollectionobjectnotPakistanfindclaim. Avoid treatingallregionalnamesidentical. Iranica1988historicalnotcurrentcensus."
+    },
+    {
+      "id": "story-dambura-traditions-and-the-risk-of-a-single-regional-label",
+      "planIndex": 274,
+      "proseWords": 465,
+      "references": [
+        {
+          "title": "Baluchistan iv. Music of Baluchistan",
+          "url": "https://www.iranicaonline.org/articles/baluchistan-iv/",
+          "publisher": "Mohammad-Taqi Masudiya / Encyclopaedia Iranica",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Afghanistan: Music During the Civil War (1979–2001), recording notes",
+          "url": "https://folkways-media.si.edu/docs/folkways/artwork/UNES08320.pdf",
+          "publisher": "Smithsonian Folkways / UNESCO Collection",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Iranica~65shared273~60=>125. Smithsoniannotes~70 indexedreadPDFlargefetchfailed. No Balochi/Brahui/Hazarascope conflation or universalstringcount. Native musicianreviewneeded."
+    },
+    {
+      "id": "story-the-dhol-in-work-celebration-and-performance",
+      "planIndex": 275,
+      "proseWords": 477,
+      "references": [
+        {
+          "title": "The Tradition of Now",
+          "url": "https://folklife.si.edu/magazine/tradition-of-now-sunny-jain",
+          "publisher": "Sunny Jain / Smithsonian Center for Folklife and Cultural Heritage",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Pakistani Stage, 1976 Festival of American Folklife archival recording",
+          "url": "https://www.si.edu/object/archives/components/sova-cfch-sff-1976-ref15913",
+          "publisher": "Smithsonian Institution",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "SunnyJain~165words;archive~25. SourcehistoricalmusicnotadoptfactuallywrongJainism3000BCEorPartitiondatesfromessay. No inventedparticularrhythms/nohomogenization."
+    },
+    {
+      "id": "story-polo-in-baltistan-rules-memory-and-public-space",
+      "planIndex": 276,
+      "proseWords": 468,
+      "references": [
+        {
+          "title": "Khaplu Polo Ground, catalogue 7973",
+          "url": "https://doam.gov.pk/public/sites/7973",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Ali Sher Khan Anchan Polo Tournament Season 6, 2026",
+          "url": "https://www.visitgilgitbaltistan.gov.pk/public/pages/news/98",
+          "publisher": "Tourism, Sports, Culture, Archaeology and Museums Department, Gilgit-Baltistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Jashn-e-Baharan Polo Tournament",
+          "url": "https://e-tourism.visitgilgitbaltistan.gov.pk/festivals-and-events/jashn-e-baharan-polo-tournament",
+          "publisher": "Tourism Department Gilgit-Baltistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "DOAMidentityfromexistingverifiedcanonicalrecordlive timeout; detailedfoundingclaimswithheld. NewsindexedofficialSept28read,about50words. GBtourismdateconflictMarch7vsAprilnotrepeated; no no-rules/no-protectivegearendorsement. RelationKhapluvalid; no eventKhapluclaim."
+    },
+    {
+      "id": "story-tent-pegging-as-a-performed-skill",
+      "planIndex": 277,
+      "proseWords": 481,
+      "references": [
+        {
+          "title": "What is Tent Pegging",
+          "url": "https://itpf.net/en/",
+          "publisher": "International Tent Pegging Federation",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Rules for Tent Pegging, effective 1 January 2019",
+          "url": "https://demo.efp.com.pk/wp-content/uploads/2023/07/rulesen.pdf",
+          "publisher": "International Tent Pegging Federation / Equestrian Federation of Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "About the federation",
+          "url": "https://efp.com.pk/about-us/",
+          "publisher": "Equestrian Federation of Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "ITPFhomepage~55;2019rules~70,EFP~35. Historicalrulebooknot2026requirements; no numericalruleassertion,noequitationDIY,no uncertainoriginstoryasfact."
+    },
+    {
+      "id": "story-traditional-wrestling-and-the-institution-of-the-akhara",
+      "planIndex": 278,
+      "proseWords": 480,
+      "references": [
+        {
+          "title": "Inauguration of an akhara at New Campus, 13 May 2013",
+          "url": "https://pu.edu.pk/home/section/allpress/2605",
+          "publisher": "University of the Punjab",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Slow Fade: State Patronage, Modernity, and the Decline of the Akhara in Lahore and Gujranwala (1900–2000)",
+          "url": "https://ighsjournals.com/index.php/Historian/article/view/25",
+          "publisher": "Tayyab Butt / The Historian",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "PUprimaryevent~85words. Buttargument~65attributednotempiricalcurrentcensus; journalissuedate2023vswebpublication2025flagneedsbibliographicreview. Nohealth/dietadvice/no assumedreligionorthisexclusion."
+    },
+    {
+      "id": "story-childrens-games-as-a-changing-archive",
+      "planIndex": 279,
+      "proseWords": 482,
+      "references": [
+        {
+          "title": "Documenting traditional outdoor play practices in mountain communities and implementing action research for enhanced learning experiences in early childhood education",
+          "url": "https://ecommons.aku.edu/etd_pk_ied_med/707/",
+          "publisher": "Rubina Nawab / Aga Khan University",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Echoes of play: Traditional outdoor games of Chitral’s mountain communities",
+          "url": "https://ecommons.aku.edu/ied_p_pub/9/",
+          "publisher": "Rubina Nawab and Fozia Parveen / Aga Khan University",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Thesis~140derivedwordsbook~30; no causaluniversalhealthclaims. BookmetadatareadPDF403no inventedgamenames/rules. Consent/privacyrecommendationsoriginal."
+    }
+  ],
+  "scopeNotes": [
+    "Rubab inscription02143 does not include Pakistan; stated explicitly.",
+    "Rajasthan alghoza and Kutch surando comparisons are labelled as comparative, not Pakistani site records.",
+    "Khaplu ground relation retained; 2026 tournament explicitly at different Maqpoon ground, Skardu.",
+    "No game rules invented from inaccessible book PDF; thesis abstract supplies documented research design."
+  ]
+}

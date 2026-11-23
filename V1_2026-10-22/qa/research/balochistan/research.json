@@ -1,0 +1,2716 @@
+{
+  "region": "balochistan",
+  "accessDate": "2026-10-22",
+  "methodology": "Fresh complete federal inventory, manual named-site review, source DMS consistency, duplication/ensemble checks and unchanged ADM2 spatial validation. No image rights inferred. Additional listed records are independent of editorial/map pins.",
+  "authoritySources": [
+    {
+      "authority": "Department of Archaeology & Museums, Government of Pakistan",
+      "url": "https://doam.gov.pk/public/home",
+      "title": "Heritage of Pakistan official catalogue",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "authority": "Directorate of Archaeology & Museums, Culture, Tourism & Archives Department, Government of Balochistan",
+      "url": "https://cta.gob.pk/archaeology/",
+      "title": "Current provincial archaeology portal",
+      "accessDate": "2026-10-22"
+    }
+  ],
+  "districts": [
+    {
+      "id": "balochistan-awaran",
+      "name": "Awaran",
+      "catalogueCandidateCount": 30,
+      "candidateIds": [
+        "doam-8806",
+        "doam-8874",
+        "doam-8875",
+        "doam-8893",
+        "doam-8907",
+        "doam-8909",
+        "doam-9065",
+        "doam-10389",
+        "doam-8837",
+        "doam-8838",
+        "doam-8754",
+        "doam-9031",
+        "doam-8593",
+        "doam-8761",
+        "doam-8739",
+        "doam-8770",
+        "doam-8799",
+        "doam-8789",
+        "doam-8790",
+        "doam-8816",
+        "doam-8826",
+        "doam-8827",
+        "doam-8831",
+        "doam-8836",
+        "doam-8913",
+        "doam-8942",
+        "doam-9009",
+        "doam-9000",
+        "doam-9004",
+        "doam-8745"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-barkhan",
+      "name": "Barkhan",
+      "catalogueCandidateCount": 0,
+      "candidateIds": [],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-chagai",
+      "name": "Chagai",
+      "catalogueCandidateCount": 4,
+      "candidateIds": [
+        "doam-8424",
+        "doam-8421",
+        "doam-8422",
+        "doam-8423"
+      ],
+      "existingIds": [],
+      "acceptedIds": [
+        "major-doam-8423"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/",
+        "https://doam.gov.pk/public/sites/8423"
+      ],
+      "status": "reviewed-additional-records",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-chaman",
+      "name": "Chaman",
+      "catalogueCandidateCount": 2,
+      "candidateIds": [
+        "doam-9012",
+        "doam-10388"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-dera-bugti",
+      "name": "Dera Bugti",
+      "catalogueCandidateCount": 0,
+      "candidateIds": [],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-duki",
+      "name": "Duki",
+      "catalogueCandidateCount": 1,
+      "candidateIds": [
+        "doam-8768"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-gwadar",
+      "name": "Gwadar",
+      "catalogueCandidateCount": 38,
+      "candidateIds": [
+        "doam-8504",
+        "doam-8509",
+        "doam-8614",
+        "doam-8615",
+        "doam-8630",
+        "doam-8695",
+        "doam-8609",
+        "doam-8610",
+        "doam-8613",
+        "doam-8624",
+        "doam-8605",
+        "doam-8607",
+        "doam-8487",
+        "doam-8598",
+        "doam-8603",
+        "doam-8592",
+        "doam-8593",
+        "doam-8594",
+        "doam-8595",
+        "doam-8596",
+        "doam-8597",
+        "doam-8617",
+        "doam-8619",
+        "doam-8620",
+        "doam-8622",
+        "doam-8628",
+        "doam-8633",
+        "doam-8635",
+        "doam-8639",
+        "doam-8649",
+        "doam-10390",
+        "doam-9024",
+        "doam-9082",
+        "doam-9233",
+        "doam-8599",
+        "doam-8601",
+        "doam-8602",
+        "doam-8612"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-harnai",
+      "name": "Harnai",
+      "catalogueCandidateCount": 0,
+      "candidateIds": [],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-jaffarabad",
+      "name": "Jaffarabad",
+      "catalogueCandidateCount": 0,
+      "candidateIds": [],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-jhal-magsi",
+      "name": "Jhal Magsi",
+      "catalogueCandidateCount": 11,
+      "candidateIds": [
+        "doam-8949",
+        "doam-10392",
+        "doam-8950",
+        "doam-8951",
+        "doam-10391",
+        "doam-10394",
+        "doam-10396",
+        "doam-10400",
+        "doam-10393",
+        "doam-10397",
+        "doam-10395"
+      ],
+      "existingIds": [],
+      "acceptedIds": [
+        "major-doam-10400",
+        "major-doam-10397"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/",
+        "https://doam.gov.pk/public/sites/10400",
+        "https://doam.gov.pk/public/sites/10397"
+      ],
+      "status": "reviewed-additional-records",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-kachhi",
+      "name": "Kachhi",
+      "catalogueCandidateCount": 11,
+      "candidateIds": [
+        "doam-8949",
+        "doam-9050",
+        "doam-9057",
+        "doam-8778",
+        "doam-9059",
+        "doam-8786",
+        "doam-8950",
+        "doam-8951",
+        "doam-8927",
+        "doam-8911",
+        "doam-9055"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-kalat",
+      "name": "Kalat",
+      "catalogueCandidateCount": 33,
+      "candidateIds": [
+        "doam-8777",
+        "doam-8897",
+        "doam-8899",
+        "doam-9030",
+        "doam-9032",
+        "doam-8760",
+        "doam-8844",
+        "doam-8846",
+        "doam-8847",
+        "doam-8756",
+        "doam-8765",
+        "doam-8770",
+        "doam-8771",
+        "doam-8775",
+        "doam-8776",
+        "doam-8798",
+        "doam-8830",
+        "doam-8832",
+        "doam-8863",
+        "doam-8873",
+        "doam-8876",
+        "doam-8926",
+        "doam-8774",
+        "doam-9674",
+        "doam-8982",
+        "doam-8988",
+        "doam-8990",
+        "doam-8996",
+        "doam-9001",
+        "doam-9008",
+        "doam-9044",
+        "doam-9051",
+        "doam-9052"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-kech",
+      "name": "Kech",
+      "catalogueCandidateCount": 98,
+      "candidateIds": [
+        "doam-8676",
+        "doam-8680",
+        "doam-8683",
+        "doam-8720",
+        "doam-8795",
+        "doam-8697",
+        "doam-8443",
+        "doam-8447",
+        "doam-8448",
+        "doam-8475",
+        "doam-8479",
+        "doam-8490",
+        "doam-8575",
+        "doam-8641",
+        "doam-8673",
+        "doam-8699",
+        "doam-8716",
+        "doam-8891",
+        "doam-8924",
+        "doam-9079",
+        "doam-8469",
+        "doam-8473",
+        "doam-8474",
+        "doam-8477",
+        "doam-9065",
+        "doam-8833",
+        "doam-8837",
+        "doam-8719",
+        "doam-8686",
+        "doam-8692",
+        "doam-8721",
+        "doam-8451",
+        "doam-8449",
+        "doam-8450",
+        "doam-8500",
+        "doam-8503",
+        "doam-8573",
+        "doam-8650",
+        "doam-8660",
+        "doam-8684",
+        "doam-8642",
+        "doam-8643",
+        "doam-8645",
+        "doam-8646",
+        "doam-8723",
+        "doam-8653",
+        "doam-8654",
+        "doam-8655",
+        "doam-8666",
+        "doam-8722",
+        "doam-8657",
+        "doam-8658",
+        "doam-8663",
+        "doam-8665",
+        "doam-8668",
+        "doam-8672",
+        "doam-8687",
+        "doam-8689",
+        "doam-8690",
+        "doam-8696",
+        "doam-8698",
+        "doam-8711",
+        "doam-8712",
+        "doam-8715",
+        "doam-8718",
+        "doam-8717",
+        "doam-8724",
+        "doam-8725",
+        "doam-8726",
+        "doam-8727",
+        "doam-8729",
+        "doam-8730",
+        "doam-8731",
+        "doam-8734",
+        "doam-8835",
+        "doam-8836",
+        "doam-8679",
+        "doam-8934",
+        "doam-8943",
+        "doam-8946",
+        "doam-8948",
+        "doam-10398",
+        "doam-8485",
+        "doam-8494",
+        "doam-9068",
+        "doam-9069",
+        "doam-9071",
+        "doam-9072",
+        "doam-9073",
+        "doam-9078",
+        "doam-9080",
+        "doam-9081",
+        "doam-9082",
+        "doam-9183",
+        "doam-8470",
+        "doam-8648",
+        "doam-8675",
+        "doam-8688"
+      ],
+      "existingIds": [],
+      "acceptedIds": [
+        "major-doam-8718",
+        "major-doam-9183"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/",
+        "https://doam.gov.pk/public/sites/8718",
+        "https://doam.gov.pk/public/sites/9183"
+      ],
+      "status": "reviewed-additional-records",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-kharan",
+      "name": "Kharan",
+      "catalogueCandidateCount": 9,
+      "candidateIds": [
+        "doam-8587",
+        "doam-8591",
+        "doam-9672",
+        "doam-9676",
+        "doam-8588",
+        "doam-8590",
+        "doam-8958",
+        "doam-9674",
+        "doam-9033"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-khuzdar",
+      "name": "Khuzdar",
+      "catalogueCandidateCount": 58,
+      "candidateIds": [
+        "doam-8796",
+        "doam-8801",
+        "doam-8802",
+        "doam-8803",
+        "doam-8805",
+        "doam-8743",
+        "doam-8763",
+        "doam-8808",
+        "doam-8885",
+        "doam-8888",
+        "doam-8890",
+        "doam-8893",
+        "doam-8901",
+        "doam-8924",
+        "doam-8985",
+        "doam-9038",
+        "doam-9655",
+        "doam-8850",
+        "doam-9016",
+        "doam-8933",
+        "doam-8753",
+        "doam-8979",
+        "doam-9003",
+        "doam-8737",
+        "doam-8742",
+        "doam-8744",
+        "doam-8748",
+        "doam-8755",
+        "doam-8764",
+        "doam-8766",
+        "doam-8785",
+        "doam-8790",
+        "doam-8791",
+        "doam-8813",
+        "doam-8814",
+        "doam-8818",
+        "doam-8854",
+        "doam-8856",
+        "doam-8868",
+        "doam-8915",
+        "doam-8942",
+        "doam-8947",
+        "doam-8953",
+        "doam-8959",
+        "doam-8989",
+        "doam-9124",
+        "doam-8983",
+        "doam-8998",
+        "doam-9005",
+        "doam-9010",
+        "doam-9018",
+        "doam-9036",
+        "doam-9121",
+        "doam-9122",
+        "doam-9123",
+        "doam-8762",
+        "doam-8781",
+        "doam-8884"
+      ],
+      "existingIds": [],
+      "acceptedIds": [
+        "major-doam-9124"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/",
+        "https://doam.gov.pk/public/sites/9124"
+      ],
+      "status": "reviewed-additional-records",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-killa-abdullah",
+      "name": "Killa Abdullah",
+      "catalogueCandidateCount": 3,
+      "candidateIds": [
+        "doam-8955",
+        "doam-8968",
+        "doam-10388"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-killa-saifullah",
+      "name": "Killa Saifullah",
+      "catalogueCandidateCount": 26,
+      "candidateIds": [
+        "doam-9873",
+        "doam-9875",
+        "doam-9885",
+        "doam-9872",
+        "doam-8840",
+        "doam-9870",
+        "doam-8853",
+        "doam-8923",
+        "doam-9881",
+        "doam-9871",
+        "doam-9866",
+        "doam-9864",
+        "doam-9865",
+        "doam-9867",
+        "doam-9868",
+        "doam-9876",
+        "doam-9877",
+        "doam-9879",
+        "doam-9880",
+        "doam-9882",
+        "doam-9883",
+        "doam-9884",
+        "doam-9886",
+        "doam-9887",
+        "doam-9888",
+        "doam-9889"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-kohlu",
+      "name": "Kohlu",
+      "catalogueCandidateCount": 0,
+      "candidateIds": [],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-lasbela",
+      "name": "Lasbela",
+      "catalogueCandidateCount": 15,
+      "candidateIds": [
+        "doam-8759",
+        "doam-8777",
+        "doam-8787",
+        "doam-8886",
+        "doam-9683",
+        "doam-8883",
+        "doam-10399",
+        "doam-8750",
+        "doam-8779",
+        "doam-8932",
+        "doam-9186",
+        "doam-9681",
+        "doam-9678",
+        "doam-9685",
+        "doam-8817"
+      ],
+      "existingIds": [],
+      "acceptedIds": [
+        "major-doam-9681",
+        "major-doam-10399"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/",
+        "https://doam.gov.pk/public/sites/9681",
+        "https://doam.gov.pk/public/sites/10399"
+      ],
+      "status": "reviewed-additional-records",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-lehri",
+      "name": "Lehri",
+      "catalogueCandidateCount": 2,
+      "candidateIds": [
+        "doam-10394",
+        "doam-10395"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-loralai",
+      "name": "Loralai",
+      "catalogueCandidateCount": 29,
+      "candidateIds": [
+        "doam-8768",
+        "doam-8978",
+        "doam-9111",
+        "doam-9089",
+        "doam-9657",
+        "doam-8842",
+        "doam-8880",
+        "doam-8919",
+        "doam-8870",
+        "doam-8879",
+        "doam-8921",
+        "doam-9006",
+        "doam-9084",
+        "doam-9085",
+        "doam-9086",
+        "doam-9088",
+        "doam-9091",
+        "doam-9092",
+        "doam-9094",
+        "doam-9095",
+        "doam-9101",
+        "doam-9103",
+        "doam-9105",
+        "doam-9106",
+        "doam-9658",
+        "doam-9108",
+        "doam-9109",
+        "doam-9110",
+        "doam-8841"
+      ],
+      "existingIds": [],
+      "acceptedIds": [
+        "major-doam-9658"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/",
+        "https://doam.gov.pk/public/sites/9658"
+      ],
+      "status": "reviewed-additional-records",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-mastung",
+      "name": "Mastung",
+      "catalogueCandidateCount": 16,
+      "candidateIds": [
+        "doam-10401",
+        "doam-8788",
+        "doam-8875",
+        "doam-8917",
+        "doam-8849",
+        "doam-8758",
+        "doam-8809",
+        "doam-8810",
+        "doam-8774",
+        "doam-8961",
+        "doam-8973",
+        "doam-8975",
+        "doam-8993",
+        "doam-8996",
+        "doam-9035",
+        "doam-9047"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-musakhel",
+      "name": "Musakhel",
+      "catalogueCandidateCount": 1,
+      "candidateIds": [
+        "doam-8921"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-nasirabad",
+      "name": "Nasirabad",
+      "catalogueCandidateCount": 1,
+      "candidateIds": [
+        "doam-8829"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-nushki",
+      "name": "Nushki",
+      "catalogueCandidateCount": 0,
+      "candidateIds": [],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-panjgur",
+      "name": "Panjgur",
+      "catalogueCandidateCount": 27,
+      "candidateIds": [
+        "doam-8795",
+        "doam-8793",
+        "doam-8575",
+        "doam-8579",
+        "doam-8584",
+        "doam-8735",
+        "doam-8792",
+        "doam-8904",
+        "doam-8999",
+        "doam-8567",
+        "doam-8568",
+        "doam-8571",
+        "doam-9015",
+        "doam-8573",
+        "doam-8577",
+        "doam-8581",
+        "doam-8761",
+        "doam-8713",
+        "doam-8757",
+        "doam-8767",
+        "doam-8780",
+        "doam-8791",
+        "doam-8869",
+        "doam-8877",
+        "doam-8994",
+        "doam-9021",
+        "doam-9039"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-pishin",
+      "name": "Pishin",
+      "catalogueCandidateCount": 11,
+      "candidateIds": [
+        "doam-8892",
+        "doam-9012",
+        "doam-8882",
+        "doam-8425",
+        "doam-8812",
+        "doam-8857",
+        "doam-8871",
+        "doam-8872",
+        "doam-8987",
+        "doam-9013",
+        "doam-8944"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-quetta",
+      "name": "Quetta",
+      "catalogueCandidateCount": 43,
+      "candidateIds": [
+        "doam-8420",
+        "doam-8788",
+        "doam-8867",
+        "doam-8969",
+        "doam-8895",
+        "doam-8882",
+        "doam-9660",
+        "doam-9661",
+        "doam-8851",
+        "doam-10402",
+        "doam-10403",
+        "doam-9669",
+        "doam-9664",
+        "doam-8740",
+        "doam-8741",
+        "doam-8857",
+        "doam-8878",
+        "doam-8961",
+        "doam-8962",
+        "doam-8963",
+        "doam-8965",
+        "doam-8966",
+        "doam-8967",
+        "doam-8968",
+        "doam-8970",
+        "doam-8971",
+        "doam-8973",
+        "doam-8974",
+        "doam-8975",
+        "doam-8977",
+        "doam-10405",
+        "doam-8860",
+        "doam-8773",
+        "doam-8980",
+        "doam-9035",
+        "doam-9051",
+        "doam-9106",
+        "doam-9670",
+        "doam-9663",
+        "doam-9666",
+        "doam-9667",
+        "doam-8752",
+        "doam-8944"
+      ],
+      "existingIds": [],
+      "acceptedIds": [
+        "major-doam-9660",
+        "major-doam-9661",
+        "major-doam-9669",
+        "major-doam-9664",
+        "major-doam-9670",
+        "major-doam-9663",
+        "major-doam-9666",
+        "major-doam-9667",
+        "major-doam-10403"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/",
+        "https://doam.gov.pk/public/sites/9660",
+        "https://doam.gov.pk/public/sites/9661",
+        "https://doam.gov.pk/public/sites/9669",
+        "https://doam.gov.pk/public/sites/9664",
+        "https://doam.gov.pk/public/sites/9670",
+        "https://doam.gov.pk/public/sites/9663",
+        "https://doam.gov.pk/public/sites/9666",
+        "https://doam.gov.pk/public/sites/9667",
+        "https://doam.gov.pk/public/sites/10403"
+      ],
+      "status": "reviewed-additional-records",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-shaheed-sikandarabad",
+      "name": "Surab",
+      "catalogueCandidateCount": 9,
+      "candidateIds": [
+        "doam-8749",
+        "doam-8889",
+        "doam-8559",
+        "doam-8930",
+        "doam-8956",
+        "doam-9020",
+        "doam-9023",
+        "doam-9028",
+        "doam-9046"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-sherani",
+      "name": "Sherani",
+      "catalogueCandidateCount": 0,
+      "candidateIds": [],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-sibi",
+      "name": "Sevi",
+      "catalogueCandidateCount": 3,
+      "candidateIds": [
+        "doam-8426",
+        "doam-9190",
+        "doam-8434"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-sohbatpur",
+      "name": "Sohbatpur",
+      "catalogueCandidateCount": 0,
+      "candidateIds": [],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-washuk",
+      "name": "Washuk",
+      "catalogueCandidateCount": 29,
+      "candidateIds": [
+        "doam-8549",
+        "doam-8552",
+        "doam-8554",
+        "doam-8561",
+        "doam-8900",
+        "doam-8904",
+        "doam-9048",
+        "doam-9050",
+        "doam-9672",
+        "doam-9676",
+        "doam-8556",
+        "doam-8557",
+        "doam-8558",
+        "doam-8559",
+        "doam-8541",
+        "doam-8543",
+        "doam-8545",
+        "doam-8546",
+        "doam-8551",
+        "doam-8560",
+        "doam-8562",
+        "doam-8564",
+        "doam-8565",
+        "doam-8577",
+        "doam-8581",
+        "doam-8858",
+        "doam-9004",
+        "doam-9047",
+        "doam-8547"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-zhob",
+      "name": "Zhob",
+      "catalogueCandidateCount": 12,
+      "candidateIds": [
+        "doam-8902",
+        "doam-9862",
+        "doam-8919",
+        "doam-8859",
+        "doam-8862",
+        "doam-8881",
+        "doam-10404",
+        "doam-8952",
+        "doam-10405",
+        "doam-8992",
+        "doam-9860",
+        "doam-9861"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-ziarat",
+      "name": "Ziarat",
+      "catalogueCandidateCount": 5,
+      "candidateIds": [
+        "doam-8880",
+        "doam-8870",
+        "doam-8879",
+        "doam-9686",
+        "doam-9019"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-no-additional-coordinate-verified",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-barshore",
+      "name": "Barshore",
+      "catalogueCandidateCount": 34,
+      "candidateIds": [
+        "doam-8892",
+        "doam-9012",
+        "doam-9873",
+        "doam-9875",
+        "doam-9885",
+        "doam-9872",
+        "doam-8425",
+        "doam-8840",
+        "doam-9870",
+        "doam-8812",
+        "doam-8853",
+        "doam-8871",
+        "doam-8872",
+        "doam-8923",
+        "doam-8987",
+        "doam-9013",
+        "doam-9881",
+        "doam-9871",
+        "doam-9866",
+        "doam-9864",
+        "doam-9865",
+        "doam-9867",
+        "doam-9868",
+        "doam-9876",
+        "doam-9877",
+        "doam-9879",
+        "doam-9880",
+        "doam-9882",
+        "doam-9883",
+        "doam-9884",
+        "doam-9886",
+        "doam-9887",
+        "doam-9888",
+        "doam-9889"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-runtime-geometry-withheld",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-hub",
+      "name": "Hub",
+      "catalogueCandidateCount": 17,
+      "candidateIds": [
+        "doam-8759",
+        "doam-8787",
+        "doam-8885",
+        "doam-8886",
+        "doam-9683",
+        "doam-8883",
+        "doam-10399",
+        "doam-8750",
+        "doam-8779",
+        "doam-8854",
+        "doam-8932",
+        "doam-9186",
+        "doam-9681",
+        "doam-9678",
+        "doam-9685",
+        "doam-8884",
+        "doam-8817"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-runtime-geometry-withheld",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-north-dera-bugti",
+      "name": "North Dera Bugti",
+      "catalogueCandidateCount": 0,
+      "candidateIds": [],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-runtime-geometry-withheld",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-quetta-east",
+      "name": "Quetta East",
+      "catalogueCandidateCount": 40,
+      "candidateIds": [
+        "doam-8420",
+        "doam-8788",
+        "doam-8867",
+        "doam-8969",
+        "doam-8882",
+        "doam-9660",
+        "doam-9661",
+        "doam-8851",
+        "doam-10402",
+        "doam-10403",
+        "doam-9669",
+        "doam-9664",
+        "doam-8740",
+        "doam-8741",
+        "doam-8857",
+        "doam-8878",
+        "doam-8961",
+        "doam-8962",
+        "doam-8963",
+        "doam-8965",
+        "doam-8966",
+        "doam-8967",
+        "doam-8968",
+        "doam-8970",
+        "doam-8971",
+        "doam-8973",
+        "doam-8974",
+        "doam-8975",
+        "doam-8977",
+        "doam-8860",
+        "doam-8773",
+        "doam-8980",
+        "doam-9035",
+        "doam-9051",
+        "doam-9670",
+        "doam-9663",
+        "doam-9666",
+        "doam-9667",
+        "doam-8752",
+        "doam-8944"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-runtime-geometry-withheld",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-quetta-west",
+      "name": "Quetta West",
+      "catalogueCandidateCount": 40,
+      "candidateIds": [
+        "doam-8420",
+        "doam-8788",
+        "doam-8867",
+        "doam-8969",
+        "doam-8882",
+        "doam-9660",
+        "doam-9661",
+        "doam-8851",
+        "doam-10402",
+        "doam-10403",
+        "doam-9669",
+        "doam-9664",
+        "doam-8740",
+        "doam-8741",
+        "doam-8857",
+        "doam-8878",
+        "doam-8961",
+        "doam-8962",
+        "doam-8963",
+        "doam-8965",
+        "doam-8966",
+        "doam-8967",
+        "doam-8968",
+        "doam-8970",
+        "doam-8971",
+        "doam-8973",
+        "doam-8974",
+        "doam-8975",
+        "doam-8977",
+        "doam-8860",
+        "doam-8773",
+        "doam-8980",
+        "doam-9035",
+        "doam-9051",
+        "doam-9670",
+        "doam-9663",
+        "doam-9666",
+        "doam-9667",
+        "doam-8752",
+        "doam-8944"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-runtime-geometry-withheld",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-rakhni",
+      "name": "Rakhni",
+      "catalogueCandidateCount": 29,
+      "candidateIds": [
+        "doam-8768",
+        "doam-8978",
+        "doam-9111",
+        "doam-9089",
+        "doam-9657",
+        "doam-8842",
+        "doam-8880",
+        "doam-8919",
+        "doam-8870",
+        "doam-8879",
+        "doam-8921",
+        "doam-9006",
+        "doam-9084",
+        "doam-9085",
+        "doam-9086",
+        "doam-9088",
+        "doam-9091",
+        "doam-9092",
+        "doam-9094",
+        "doam-9095",
+        "doam-9101",
+        "doam-9103",
+        "doam-9105",
+        "doam-9106",
+        "doam-9658",
+        "doam-9108",
+        "doam-9109",
+        "doam-9110",
+        "doam-8841"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-runtime-geometry-withheld",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-south-dera-bugti",
+      "name": "South Dera Bugti",
+      "catalogueCandidateCount": 0,
+      "candidateIds": [],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-runtime-geometry-withheld",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-usta-muhammad",
+      "name": "Usta Muhammad",
+      "catalogueCandidateCount": 1,
+      "candidateIds": [
+        "doam-8829"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-runtime-geometry-withheld",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    },
+    {
+      "id": "balochistan-wadh",
+      "name": "Wadh",
+      "catalogueCandidateCount": 53,
+      "candidateIds": [
+        "doam-8796",
+        "doam-8801",
+        "doam-8802",
+        "doam-8803",
+        "doam-8805",
+        "doam-8743",
+        "doam-8763",
+        "doam-8808",
+        "doam-8888",
+        "doam-8890",
+        "doam-8893",
+        "doam-8901",
+        "doam-8985",
+        "doam-9038",
+        "doam-9655",
+        "doam-8850",
+        "doam-9016",
+        "doam-8933",
+        "doam-8753",
+        "doam-8979",
+        "doam-9003",
+        "doam-8737",
+        "doam-8742",
+        "doam-8744",
+        "doam-8755",
+        "doam-8764",
+        "doam-8766",
+        "doam-8785",
+        "doam-8790",
+        "doam-8791",
+        "doam-8813",
+        "doam-8814",
+        "doam-8818",
+        "doam-8856",
+        "doam-8868",
+        "doam-8915",
+        "doam-8942",
+        "doam-8947",
+        "doam-8953",
+        "doam-8959",
+        "doam-8989",
+        "doam-9124",
+        "doam-8983",
+        "doam-8998",
+        "doam-9005",
+        "doam-9010",
+        "doam-9018",
+        "doam-9036",
+        "doam-9121",
+        "doam-9122",
+        "doam-9123",
+        "doam-8762",
+        "doam-8781"
+      ],
+      "existingIds": [],
+      "acceptedIds": [],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://cta.gob.pk/archaeology/"
+      ],
+      "status": "reviewed-runtime-geometry-withheld",
+      "note": "All474 catalogue rows were screened by identity, source district and protected spatial context. Only individually reviewed proposals are accepted; not a declaration of district completeness or absence of heritage. Earlier university-survey and coordinate backlogs remain unresolved."
+    }
+  ],
+  "accepted": [
+    {
+      "id": "major-doam-9660",
+      "slug": "samungli-mound-no-2",
+      "status": "published",
+      "title": "Samungli Mound No. 2",
+      "shortTitle": "Samungli Mound No. 2",
+      "summary": "A low archaeological mound at Samungli preserves part of the Quetta valley’s settlement record. The federal inventory describes surviving pottery and a mound near the village, distinguishing it from the valley’s other numbered archaeological sites.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9660",
+      "sourceTitle": "Mound No. 2 village Samungli west side of Airport).",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Quetta",
+      "sourcePublication": "Archaeological Sites and Historical Monuments Protected Under the Antiquities Act, 1975",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Protected by The Antiquity Act 1975 (As amended in 1992)",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-9660-point",
+          "name": "Samungli Mound No. 2",
+          "latitude": 30.220253396,
+          "longitude": 66.974553143,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9660",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 59660,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-9661",
+      "slug": "killi-gul-muhammad-mound-no-1",
+      "status": "published",
+      "title": "Killi Gul Muhammad Mound No. 1",
+      "shortTitle": "Killi Gul Muhammad Mound No. 1",
+      "summary": "The mound catalogued near Killi Gul Muhammad preserves pottery-bearing archaeological deposits beneath and beside a later graveyard. It belongs to the Quetta valley’s early settlement landscape. Conflicting chronological statements in the inventory require specialist review before assigning a precise date.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9661",
+      "sourceTitle": "Mound No. 1 near village Killi Gul Muhammad",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Quetta",
+      "sourcePublication": "Archaeological Sites and Historical Monuments Protected Under the Antiquities Act, 1975",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Protected by The Antiquity Act 1975 (As amended in 1992)",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-9661-point",
+          "name": "Killi Gul Muhammad Mound No. 1",
+          "latitude": 30.244482311,
+          "longitude": 66.980517898,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9661",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 59661,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-9669",
+      "slug": "sheikh-manda-mound-no-10",
+      "status": "published",
+      "title": "Sheikh Manda Mound No. 10",
+      "shortTitle": "Sheikh Manda Mound No. 10",
+      "summary": "An archaeological mound near Sheikh Manda lies within the Quetta valley’s network of early settlements. The federal inventory records surviving structural traces and pottery, giving the site value beyond its modest appearance in the modern landscape.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9669",
+      "sourceTitle": "Mound No. 10 (Village Shbaikh Manda)",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Quetta",
+      "sourcePublication": "Archaeological Sites and Historical Monuments Protected Under the Antiquities Act, 1975",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Protected by The Antiquity Act 1975 (As amended in 1992)",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-9669-point",
+          "name": "Sheikh Manda Mound No. 10",
+          "latitude": 30.229175028,
+          "longitude": 66.951182361,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9669",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 59669,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-9664",
+      "slug": "kuchlak-mound-no-7",
+      "status": "published",
+      "title": "Kuchlak Mound No. 7",
+      "shortTitle": "Kuchlak Mound No. 7",
+      "summary": "A settlement mound at Kuchlak is documented beside the historic Quetta–Chaman corridor. Its raised archaeological deposits and recorded pottery preserve evidence of occupation in a valley shaped by movement between upland routes.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9664",
+      "sourceTitle": "Mound No.7 (Kachlak, Chaman Road)",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Quetta",
+      "sourcePublication": "Archaeological Sites and Historical Monuments Protected Under the Antiquities Act, 1975",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Protected by The Antiquity Act 1975 (As amended in 1992)",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-9664-point",
+          "name": "Kuchlak Mound No. 7",
+          "latitude": 30.355755415,
+          "longitude": 66.969895113,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9664",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 59664,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-9670",
+      "slug": "nauhisar-mound-no-11",
+      "status": "published",
+      "title": "Nauhisar Mound No. 11",
+      "shortTitle": "Nauhisar Mound No. 11",
+      "summary": "A small archaeological mound near Nauhisar preserves pottery-bearing deposits within the Quetta valley. The officially recorded site contributes to the regional settlement inventory without implying that its occupation sequence has been fully established.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9670",
+      "sourceTitle": "Mound No. 11 (Village Nauhisar)",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Quetta",
+      "sourcePublication": "Archaeological Sites and Historical Monuments Protected Under the Antiquities Act, 1975",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Protected by The Antiquity Act 1975 (As amended in 1992)",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-9670-point",
+          "name": "Nauhisar Mound No. 11",
+          "latitude": 30.259261834,
+          "longitude": 66.887716931,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9670",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 59670,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-9658",
+      "slug": "harian-haider-zai-mound",
+      "status": "published",
+      "title": "Harian Haider Zai Mound",
+      "shortTitle": "Harian Haider Zai Mound",
+      "summary": "A broad prehistoric mound near Harian Haider Zai contains evidence of settlement recorded through pottery and stone tools. The inventory connects this landscape with archaeological investigations around Loralai; the mound is retained as a distinct surveyed location.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9658",
+      "sourceTitle": "Pre-historic Mound (Near Harian Haider Zai)",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Loralai",
+      "sourcePublication": "Archaeological Sites and Historical Monuments Protected Under the Antiquities Act, 1975",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Protected by The Antiquity Act 1975 (As amended in 1992)",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-9658-point",
+          "name": "Harian Haider Zai Mound",
+          "latitude": 30.380310116,
+          "longitude": 68.526873581,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9658",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 59658,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-9663",
+      "slug": "shahi-khan-mound-no-6",
+      "status": "published",
+      "title": "Shahi Khan Mound No. 6",
+      "shortTitle": "Shahi Khan Mound No. 6",
+      "summary": "The archaeological mound near Shahi Khan and Pir Ballo preserves pottery-bearing settlement deposits along the Sariab corridor. Later graves form part of its recorded surface, showing how an older settlement location acquired subsequent uses.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9663",
+      "sourceTitle": "Mound No. 6 (Shahi Khan near Pir Ballo).",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Quetta",
+      "sourcePublication": "Archaeological Sites and Historical Monuments Protected Under the Antiquities Act, 1975",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Protected by The Antiquity Act 1975 (As amended in 1992)",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-9663-point",
+          "name": "Shahi Khan Mound No. 6",
+          "latitude": 30.172891173,
+          "longitude": 66.991809839,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9663",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 59663,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-9666",
+      "slug": "samali-mound-no-8",
+      "status": "published",
+      "title": "Samali Mound No. 8",
+      "shortTitle": "Samali Mound No. 8",
+      "summary": "A prominent mound at Samali forms part of the officially catalogued archaeological landscape north of Quetta. Its rounded profile and surviving deposits offer a tangible location for studying the valley’s settlement history.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9666",
+      "sourceTitle": "Mound No. 8 (Village Samali)",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Quetta",
+      "sourcePublication": "Archaeological Sites and Historical Monuments Protected Under the Antiquities Act, 1975",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Protected by The Antiquity Act 1975 (As amended in 1992)",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-9666-point",
+          "name": "Samali Mound No. 8",
+          "latitude": 30.320934271,
+          "longitude": 66.934174645,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9666",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 59666,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-9667",
+      "slug": "mehtar-zai-mound-no-9",
+      "status": "published",
+      "title": "Mehtar Zai Mound No. 9",
+      "shortTitle": "Mehtar Zai Mound No. 9",
+      "summary": "An archaeological mound at Mehtar Zai preserves evidence of an earlier settlement beneath later uses of the site. The federal description records its incorporation into a military redoubt, illustrating the reuse of raised archaeological ground.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9667",
+      "sourceTitle": "Mound No. 9 (Village Mehtar Zai)",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Quetta",
+      "sourcePublication": "Archaeological Sites and Historical Monuments Protected Under the Antiquities Act, 1975",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Protected by The Antiquity Act 1975 (As amended in 1992)",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-9667-point",
+          "name": "Mehtar Zai Mound No. 9",
+          "latitude": 30.326395493,
+          "longitude": 67.106514491,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9667",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 59667,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-9681",
+      "slug": "ibn-e-haroon-tomb-bela",
+      "status": "published",
+      "title": "Ibn-e-Haroon Tomb, Bela",
+      "shortTitle": "Ibn-e-Haroon Tomb, Bela",
+      "summary": "A substantial square brick tomb stands on Bela’s outskirts. Catalogued under the name Ibn-e-Haroon, the structure represents the town’s historic funerary architecture. The record identifies the monument without treating uncertain personal associations as established biography.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9681",
+      "sourceTitle": "Ibn-e-Haroon`s Tomb at Bela",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Las Bela",
+      "sourcePublication": "Archaeological Sites and Historical Monuments Protected Under the Antiquities Act, 1975",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Protected by The Antiquity Act 1975 (As amended in 1992)",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-9681-point",
+          "name": "Ibn-e-Haroon Tomb, Bela",
+          "latitude": 26.232439723,
+          "longitude": 66.315488814,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9681",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 59681,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-10399",
+      "slug": "robert-sandeman-tomb-bela",
+      "status": "published",
+      "title": "Robert Sandeman Tomb, Bela",
+      "shortTitle": "Robert Sandeman Tomb, Bela",
+      "summary": "A marble funerary monument in Sandeman Park at Bela commemorates the colonial administrator Robert Sandeman. Its architectural and commemorative setting provides a material record of British-period authority in the region.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/10399",
+      "sourceTitle": "Sir Robert Sandeman`s Tomb",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Las Bela",
+      "sourcePublication": "Miscellaneous",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-10399-point",
+          "name": "Robert Sandeman Tomb, Bela",
+          "latitude": 26.223645283,
+          "longitude": 66.316863848,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/10399",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 60399,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-10403",
+      "slug": "zoroastrian-graveyard-quetta",
+      "status": "published",
+      "title": "Zoroastrian Graveyard, Quetta",
+      "shortTitle": "Zoroastrian Graveyard, Quetta",
+      "summary": "A walled Zoroastrian graveyard in Quetta contains brick and marble funerary monuments with inscriptions in several languages. The cemetery is a surviving record of the city’s religious communities and their commemorative traditions.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/10403",
+      "sourceTitle": "Zoroastrians Graveyard Quetta",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Quetta",
+      "sourcePublication": "Miscellaneous",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-10403-point",
+          "name": "Zoroastrian Graveyard, Quetta",
+          "latitude": 30.214173983,
+          "longitude": 66.99482083,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/10403",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 60403,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-8423",
+      "slug": "saindak-fort",
+      "status": "published",
+      "title": "Saindak Fort",
+      "shortTitle": "Saindak Fort",
+      "summary": "A courtyard fort near Saindak uses earthen walls strengthened with straw. The official catalogue dates its construction to 1912 and records a deteriorated condition. Its surviving fabric documents frontier infrastructure in western Balochistan.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Fortification",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8423",
+      "sourceTitle": "Saindak Fort",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Chagai",
+      "sourcePublication": "Ancient Balochistan: The Glimpses of the Glorious Cultural Heritage",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-8423-point",
+          "name": "Saindak Fort",
+          "latitude": 29.241888132,
+          "longitude": 61.604721317,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/8423",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 58423,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-8718",
+      "slug": "bit-fortress",
+      "status": "published",
+      "title": "Bit Fortress",
+      "shortTitle": "Bit Fortress",
+      "summary": "The remains of a fortress occupy a terrace above Bit village near the Gish Kaur. The surveyed enclosure preserves a local defensive site within the Kech landscape; its precise construction history remains uncertain.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Fortification",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8718",
+      "sourceTitle": "Bit Fortress",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Turbat",
+      "sourcePublication": "Cartography of Ancient Settlements in Central Southern Pakistani Makran: New Data",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-8718-point",
+          "name": "Bit Fortress",
+          "latitude": 26.107530774,
+          "longitude": 63.492713553,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/8718",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 58718,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-9124",
+      "slug": "hazar-ganji-fort",
+      "status": "published",
+      "title": "Hazar Ganji Fort",
+      "shortTitle": "Hazar Ganji Fort",
+      "summary": "A rectangular fort enclosure in Khuzdar’s landscape preserves stone and mud-brick construction with rounded defensive projections. The official inventory records the site as a historic fortification, distinct from similarly named modern locations.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Fortification",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9124",
+      "sourceTitle": "Hazar Ganji Fort",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Khuzdar",
+      "sourcePublication": "New Archaeological Discoveries in Taluka, District Khuzdar, Baluchistan",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-9124-point",
+          "name": "Hazar Ganji Fort",
+          "latitude": 27.497222222,
+          "longitude": 66.170833333,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9124",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 59124,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-9183",
+      "slug": "chogaanekand-fort-turbat",
+      "status": "published",
+      "title": "Chogaanekand Fort, Turbat",
+      "shortTitle": "Chogaanekand Fort, Turbat",
+      "summary": "An earthen fort at Chogaanekand near Turbat represents the fortified compounds of historic Makran. Its recorded mud-brick construction contributes to the regional architectural inventory, although its exact foundation date is not established.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Fortification",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9183",
+      "sourceTitle": "Turbat Chogaanekand Fort",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Turbat",
+      "sourcePublication": "Forts of Balochistan (Communication)",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-9183-point",
+          "name": "Chogaanekand Fort, Turbat",
+          "latitude": 26.016049574,
+          "longitude": 63.01424022,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9183",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 59183,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-10400",
+      "slug": "baba-khatawara-ashram-gandhawa",
+      "status": "published",
+      "title": "Baba Khatawara Ashram, Gandhawa",
+      "shortTitle": "Baba Khatawara Ashram, Gandhawa",
+      "summary": "A Hindu ashram in Gandhawa’s old bazaar includes a temple, assembly space and residential rooms. Surviving decorative details and the arrangement of the compound preserve evidence of the town’s historic religious and community life.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/10400",
+      "sourceTitle": "Baba Khatawara Ashram",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Jhal Magsi",
+      "sourcePublication": "Miscellaneous",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-10400-point",
+          "name": "Baba Khatawara Ashram, Gandhawa",
+          "latitude": 28.614494,
+          "longitude": 67.483705,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/10400",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 60400,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-10397",
+      "slug": "sardar-ahmad-khan-magsi-tomb",
+      "status": "published",
+      "title": "Sardar Ahmad Khan Magsi Tomb",
+      "shortTitle": "Sardar Ahmad Khan Magsi Tomb",
+      "summary": "A square funerary monument near Jhal Magsi is distinguished by its dome and decorated wall panels. Catalogued as the tomb of Sardar Ahmad Khan Magsi, it forms part of the area’s historic cemetery architecture.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/10397",
+      "sourceTitle": "Square tomb of Sardar Ahmad Khan Magsi",
+      "sourceRegion": "Balochistan",
+      "sourceDistrict": "Jhal Magsi",
+      "sourcePublication": "Miscellaneous",
+      "verifiedDate": "2026-10-22",
+      "sourceNote": "Official catalogue identity and published point reviewed. Historical district attribution is retained as source metadata; current map context is derived from unchanged runtime boundaries. Access and visitor facilities have not been confirmed.",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "Attributed catalogue statement; not an independent assessment of current legal protection.",
+      "components": [
+        {
+          "id": "major-doam-10397-point",
+          "name": "Sardar Ahmad Khan Magsi Tomb",
+          "latitude": 28.667892616,
+          "longitude": 67.367902124,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/10397",
+          "coordinateNote": "Exact decimal coordinate from the official catalogue; DMS consistency checked. This is source verification, not a field survey."
+        }
+      ],
+      "mapDisplay": "listed",
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "productionCleared": false,
+      "featured": false,
+      "sortOrder": 60397,
+      "detailsPageStatus": "available"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "doam-9655",
+      "title": "Nindo Damb",
+      "districtId": "balochistan-khuzdar",
+      "districtIds": [
+        "balochistan-khuzdar"
+      ],
+      "sourceDistrict": "Khuzdar",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9655",
+      "reason": "duplicate",
+      "note": "Nindo Damb duplicates existing Nindowari."
+    },
+    {
+      "id": "doam-9024",
+      "title": "Sotkagen-dor",
+      "districtId": "balochistan-gwadar",
+      "districtIds": [
+        "balochistan-gwadar"
+      ],
+      "sourceDistrict": "Gwadar",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9024",
+      "reason": "duplicate",
+      "note": "Sotkagen-dor duplicates existing Sutkagen-Dor."
+    },
+    {
+      "id": "doam-8911",
+      "title": "Mehrgarh",
+      "districtId": "balochistan-kachhi",
+      "districtIds": [
+        "balochistan-kachhi"
+      ],
+      "sourceDistrict": "Kachhi",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8911",
+      "reason": "duplicate",
+      "note": "Mehrgarh already retained."
+    },
+    {
+      "id": "doam-8485",
+      "title": "Miri Kalat",
+      "districtId": "balochistan-kech",
+      "districtIds": [
+        "balochistan-kech"
+      ],
+      "sourceDistrict": "Turbat",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8485",
+      "reason": "coordinate conflict",
+      "note": "Point does not agree with description of site six km northwest of Turbat; withheld without relocation."
+    },
+    {
+      "id": "doam-9050",
+      "title": "Pirak",
+      "districtId": "balochistan-washuk",
+      "districtIds": [
+        "balochistan-washuk"
+      ],
+      "sourceDistrict": "Kachhi",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9050",
+      "reason": "coordinate conflict",
+      "note": "Pirak source point derives to Washuk, not the documented Sibi/Kachhi landscape. Existing deferred issue retained."
+    },
+    {
+      "id": "doam-9676",
+      "title": "Jhalawar Pass Tomb (Jhalawar)",
+      "districtId": "balochistan-washuk",
+      "districtIds": [
+        "balochistan-washuk"
+      ],
+      "sourceDistrict": "Kharan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9676",
+      "reason": "coordinate conflict",
+      "note": "Catalogue tomb and fort-wall coordinates are around thirteen km apart, while description says 1.5 km; tomb withheld."
+    },
+    {
+      "id": "doam-8587",
+      "title": "Kharan Fort",
+      "districtId": "balochistan-kharan",
+      "districtIds": [
+        "balochistan-kharan"
+      ],
+      "sourceDistrict": "Kharan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8587",
+      "reason": "coordinate conflict",
+      "note": "Coordinate requires independent confirmation against city-centre description; no inferred correction."
+    },
+    {
+      "id": "doam-9674",
+      "title": "Nauroze Fort (Kalat)",
+      "districtId": "balochistan-kharan",
+      "districtIds": [
+        "balochistan-kharan"
+      ],
+      "sourceDistrict": "Kalat",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9674",
+      "reason": "coordinate conflict",
+      "note": "Relationship to Kharan and stated northeast distance requires corroboration."
+    },
+    {
+      "id": "doam-10391",
+      "title": "Miri of Khan Kalat Gandhawa",
+      "districtId": "balochistan-jhal-magsi",
+      "districtIds": [
+        "balochistan-jhal-magsi"
+      ],
+      "sourceDistrict": "Jhal Magsi",
+      "sourceUrl": "https://doam.gov.pk/public/sites/10391",
+      "reason": "coordinate conflict",
+      "note": "Described as opposite Shahi Jamia Gandhawa but point is tens of km from mosque point."
+    },
+    {
+      "id": "doam-10394",
+      "title": "Tomb of Iltaz Khan",
+      "districtId": "balochistan-lehri",
+      "districtIds": [
+        "balochistan-lehri"
+      ],
+      "sourceDistrict": "Jhal Magsi",
+      "sourceUrl": "https://doam.gov.pk/public/sites/10394",
+      "reason": "coordinate conflict",
+      "note": "Tomb described south of Gandhawa but point lies north; source label also disagrees with derived Lehri."
+    },
+    {
+      "id": "doam-10395",
+      "title": "Tomb of Moti-Gohram",
+      "districtId": "balochistan-lehri",
+      "districtIds": [
+        "balochistan-lehri"
+      ],
+      "sourceDistrict": "Jhal Magsi",
+      "sourceUrl": "https://doam.gov.pk/public/sites/10395",
+      "reason": "coordinate conflict",
+      "note": "Pair of tomb points disagrees with relative-distance description."
+    },
+    {
+      "id": "doam-8567",
+      "title": "Gar Fort",
+      "districtId": "balochistan-panjgur",
+      "districtIds": [
+        "balochistan-panjgur"
+      ],
+      "sourceDistrict": "Panjgur",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8567",
+      "reason": "coordinate conflict",
+      "note": "Malformed source DMS seconds (994 and 446); decimal point not accepted without independent evidence."
+    },
+    {
+      "id": "doam-8579",
+      "title": "Hashim Tomb",
+      "districtId": "balochistan-panjgur",
+      "districtIds": [
+        "balochistan-panjgur"
+      ],
+      "sourceDistrict": "Panjgur",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8579",
+      "reason": "coordinate conflict",
+      "note": "Malformed DMS seconds and unrelated publication reference; withheld."
+    },
+    {
+      "id": "doam-8749",
+      "title": "Anjira",
+      "districtId": "balochistan-shaheed-sikandarabad",
+      "districtIds": [
+        "balochistan-shaheed-sikandarabad"
+      ],
+      "sourceDistrict": "Shaheed Sikandarabad",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8749",
+      "reason": "coordinate unavailable",
+      "note": "Historically significant catalogue lead, but coarse whole/half-minute pair does not establish a monument-scale point under this pass’s strict rule."
+    },
+    {
+      "id": "doam-8768",
+      "title": "Daber Kot",
+      "districtId": "balochistan-duki",
+      "districtIds": [
+        "balochistan-duki"
+      ],
+      "sourceDistrict": "Loralai",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8768",
+      "reason": "coordinate unavailable",
+      "note": "Historically significant catalogue lead, but coarse whole/half-minute pair does not establish a monument-scale point under this pass’s strict rule."
+    },
+    {
+      "id": "doam-8829",
+      "title": "Judeirjo-daro",
+      "districtId": "balochistan-nasirabad",
+      "districtIds": [
+        "balochistan-nasirabad"
+      ],
+      "sourceDistrict": "Nasirabad",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8829",
+      "reason": "coordinate unavailable",
+      "note": "Historically significant catalogue lead, but coarse whole/half-minute pair does not establish a monument-scale point under this pass’s strict rule."
+    },
+    {
+      "id": "doam-8874",
+      "title": "Kulli",
+      "districtId": "balochistan-awaran",
+      "districtIds": [
+        "balochistan-awaran"
+      ],
+      "sourceDistrict": "Awaran",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8874",
+      "reason": "coordinate unavailable",
+      "note": "Historically significant catalogue lead, but coarse whole/half-minute pair does not establish a monument-scale point under this pass’s strict rule."
+    },
+    {
+      "id": "doam-8978",
+      "title": "Rana Ghundai",
+      "districtId": "balochistan-loralai",
+      "districtIds": [
+        "balochistan-loralai"
+      ],
+      "sourceDistrict": "Loralai",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8978",
+      "reason": "coordinate unavailable",
+      "note": "Historically significant catalogue lead, but coarse whole/half-minute pair does not establish a monument-scale point under this pass’s strict rule."
+    },
+    {
+      "id": "doam-8750",
+      "title": "Balakot (Lasbela)",
+      "districtId": "balochistan-lasbela",
+      "districtIds": [
+        "balochistan-lasbela"
+      ],
+      "sourceDistrict": "Las Bela",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8750",
+      "reason": "coordinate unavailable",
+      "note": "Historically significant catalogue lead, but coarse whole/half-minute pair does not establish a monument-scale point under this pass’s strict rule."
+    },
+    {
+      "id": "doam-8921",
+      "title": "Mughal Kala",
+      "districtId": "balochistan-musakhel",
+      "districtIds": [
+        "balochistan-musakhel"
+      ],
+      "sourceDistrict": "Loralai",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8921",
+      "reason": "coordinate unavailable",
+      "note": "Historically significant catalogue lead, but coarse whole/half-minute pair does not establish a monument-scale point under this pass’s strict rule."
+    },
+    {
+      "id": "doam-8955",
+      "title": "Pir Alizai",
+      "districtId": "balochistan-killa-abdullah",
+      "districtIds": [
+        "balochistan-killa-abdullah"
+      ],
+      "sourceDistrict": "Killa Abdullah",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8955",
+      "reason": "coordinate unavailable",
+      "note": "Historically significant catalogue lead, but coarse whole/half-minute pair does not establish a monument-scale point under this pass’s strict rule."
+    },
+    {
+      "id": "doam-9873",
+      "title": "Boulder-1 (Mound Zyar Ghat)",
+      "districtId": "balochistan-killa-saifullah",
+      "districtIds": [
+        "balochistan-killa-saifullah"
+      ],
+      "sourceDistrict": "Killa Saifullah",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9873",
+      "reason": "unclear identity",
+      "note": "Title Boulder-1 but description Boulder9; broader Zyar Ghat rock-art ensemble requires grouped component verification."
+    },
+    {
+      "title": "Tomb of Meer Buzerg",
+      "districtId": "balochistan-barkhan",
+      "districtIds": [
+        "balochistan-barkhan"
+      ],
+      "sourceUrl": "https://ojs.uop.edu.pk/ancientpakistan/article/download/39/34/66",
+      "reason": "coordinate unavailable",
+      "note": "University of Peshawar Ancient Pakistan2016 survey establishes identity. PDF fetch failed; exact monument coordinate not verified."
+    },
+    {
+      "title": "Tomb of Mian Ismail Baba",
+      "districtId": "balochistan-harnai",
+      "districtIds": [
+        "balochistan-harnai"
+      ],
+      "sourceUrl": "https://ojs.uop.edu.pk/ancientpakistan/article/download/2118/1669/3680",
+      "reason": "coordinate unavailable",
+      "note": "University of Peshawar Ancient Pakistan2024 survey establishes identity. PDF fetch failed; exact monument coordinate not verified."
+    },
+    {
+      "title": "Ancient Fort of Nushki",
+      "districtId": "balochistan-nushki",
+      "districtIds": [
+        "balochistan-nushki"
+      ],
+      "sourceUrl": "https://www.uob.edu.pk/Journals/Balochistan-Review/data/BR%2001%202013/59-76%20NEW%20DISCOVERED%20ARCHAEOLOGICAL%20SITES%20IN%20NUSHKI%2C%20Ghulam%20Farooq%20Baloch.pdf",
+      "reason": "coordinate unavailable",
+      "note": "University survey documents fort/mound but no defensible numeric site point verified."
+    },
+    {
+      "title": "Shahli Tomb",
+      "districtId": "balochistan-usta-muhammad",
+      "districtIds": [
+        "balochistan-usta-muhammad"
+      ],
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_cultural_heritage_sites_in_Balochistan%2C_Pakistan",
+      "reason": "coordinate unavailable",
+      "note": "Lead only from tertiary list; authoritative identity and exact coordinate not established."
+    },
+    {
+      "title": "Kohlu cairns",
+      "districtId": "balochistan-kohlu",
+      "districtIds": [
+        "balochistan-kohlu"
+      ],
+      "sourceUrl": "https://irrigation.sindh.gov.pk/files/Books/133.pdf",
+      "reason": "coordinate unavailable",
+      "note": "Historical gazetteer refers to roadside cairns; individual surviving site identity and coordinate unresolved."
+    },
+    {
+      "id": "doam-8591",
+      "title": "Garuk Mound/Gar-o-kok, Saleemabad",
+      "districtIds": [
+        "balochistan-kharan"
+      ],
+      "sourceDistrict": "Kharan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8591",
+      "reason": "source/identity/coordinate review",
+      "note": "Malformed source DMS seconds (890); public decimal alone does not resolve the source-coordinate defect."
+    },
+    {
+      "id": "doam-8541",
+      "title": "Galuga Tomb A",
+      "districtIds": [
+        "balochistan-washuk"
+      ],
+      "sourceDistrict": "Washuk",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8541",
+      "reason": "source/identity/coordinate review",
+      "note": "Galuga tomb group A–G shares one source point with invalid latitude seconds79. Ensemble needs a verified group location, not seven duplicate Places."
+    },
+    {
+      "id": "doam-8867",
+      "title": "Kili Gul Mohammad",
+      "districtIds": [
+        "balochistan-quetta"
+      ],
+      "sourceDistrict": "Quetta",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8867",
+      "reason": "source/identity/coordinate review",
+      "note": "Coarse Killi Gul Muhammad entry conflicts in precision/chronology with numbered mound9661. Do not create a second public entity; retain this candidate for identity reconciliation."
+    },
+    {
+      "id": "doam-8422",
+      "title": "Kachao Fort",
+      "districtIds": [
+        "balochistan-chagai"
+      ],
+      "sourceDistrict": "Chagai",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8422",
+      "reason": "source/identity/coordinate review",
+      "note": "Kachao Fort coordinate conflicts with stated direction/distance from Taftan; no relocation inferred."
+    },
+    {
+      "id": "doam-10405",
+      "title": "Sandeman Fort",
+      "districtIds": [
+        "balochistan-quetta"
+      ],
+      "sourceDistrict": "Zhob",
+      "sourceUrl": "https://doam.gov.pk/public/sites/10405",
+      "reason": "source/identity/coordinate review",
+      "note": "Sandeman Fort is described in Zhob but the published point is in Quetta; reject coordinate."
+    },
+    {
+      "id": "doam-9190",
+      "title": "Mir Chakar Khan Tomb",
+      "districtIds": [
+        "balochistan-sibi"
+      ],
+      "sourceDistrict": "Sibi",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9190",
+      "reason": "source/identity/coordinate review",
+      "note": "Mir Chakar tomb description is a fort description and may duplicate retained Mir Chakar Fort8426. Identity unresolved."
+    },
+    {
+      "id": "doam-9657",
+      "title": "Tor Dheri Site",
+      "districtIds": [
+        "balochistan-loralai"
+      ],
+      "sourceDistrict": "Loralai",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9657",
+      "reason": "source/identity/coordinate review",
+      "note": "Tor Dheri point conflicts with its stated proximity to Dabarkot; coordinate requires corroboration."
+    },
+    {
+      "id": "doam-9683",
+      "title": "Hinidan Tombs",
+      "districtIds": [
+        "balochistan-lasbela"
+      ],
+      "sourceDistrict": "Las Bela",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9683",
+      "reason": "source/identity/coordinate review",
+      "note": "Hinidan tombs location description contains inconsistent distances; cannot establish monument-scale identity/location."
+    },
+    {
+      "id": "doam-10389",
+      "title": "Tomb of Shireen Farhad",
+      "districtIds": [
+        "balochistan-awaran"
+      ],
+      "sourceDistrict": "Awaran",
+      "sourceUrl": "https://doam.gov.pk/public/sites/10389",
+      "reason": "source/identity/coordinate review",
+      "note": "Shireen Farhad tomb is associated with folklore; relative location requires corroboration before adding the source point."
+    },
+    {
+      "id": "doam-8666",
+      "title": "Pidarak Oasis Fortress",
+      "districtIds": [
+        "balochistan-kech"
+      ],
+      "sourceDistrict": "Turbat",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8666",
+      "reason": "source/identity/coordinate review",
+      "note": "Pidarak Oasis Fortress appears twice (also8494); shared rounded point needs precision and ensemble review."
+    },
+    {
+      "id": "doam-8590",
+      "title": "Tomb at Palli Kalat",
+      "districtIds": [
+        "balochistan-kharan"
+      ],
+      "sourceDistrict": "Kharan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8590",
+      "reason": "source/identity/coordinate review",
+      "note": "Palli Kalat tomb longitude is coarse and exact monument location has not been independently resolved."
+    },
+    {
+      "id": "doam-8565",
+      "title": "Tomb of Zahida Bibi",
+      "districtIds": [
+        "balochistan-washuk"
+      ],
+      "sourceDistrict": "Washuk",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8565",
+      "reason": "source/identity/coordinate review",
+      "note": "Zahida Bibi tomb point needs corroboration against Nag locality; no invented correction."
+    },
+    {
+      "id": "doam-8581",
+      "title": "Shah Qalandar Tomb",
+      "districtIds": [
+        "balochistan-washuk"
+      ],
+      "sourceDistrict": "Panjgur",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8581",
+      "reason": "source/identity/coordinate review",
+      "note": "Shah Qalandar tomb source/derived district context differs; retain for geographic diagnosis."
+    },
+    {
+      "id": "doam-8592",
+      "title": "Tomb in Gawadar",
+      "districtIds": [
+        "balochistan-gwadar"
+      ],
+      "sourceDistrict": "Gwadar",
+      "sourceUrl": "https://doam.gov.pk/public/sites/8592",
+      "reason": "source/identity/coordinate review",
+      "note": "Gwadar tomb identity and stated city setting are insufficiently reconciled with the catalogue coordinate."
+    },
+    {
+      "id": "doam-9101",
+      "title": "Janabad",
+      "districtIds": [
+        "balochistan-loralai"
+      ],
+      "sourceDistrict": "Loralai",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9101",
+      "reason": "source/identity/coordinate review",
+      "note": "Janabad is described as completely levelled; relationship to nearby Harian Haider Zai mound9658 needs reconciliation before a separate public Place."
+    }
+  ],
+  "proposalQA": {
+    "spatialFailures": [],
+    "spatialOverlaps": []
+  }
+}

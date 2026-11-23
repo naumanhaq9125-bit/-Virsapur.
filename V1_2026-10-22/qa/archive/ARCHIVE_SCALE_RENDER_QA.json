@@ -1,0 +1,28 @@
+{
+  "checkedAt": "2026-10-22T17:45:10.437Z",
+  "syntheticOnly": true,
+  "canonicalWrites": 0,
+  "results": [
+    {
+      "size": 100,
+      "renderMs": 37,
+      "htmlBytes": 66053,
+      "initialCards": 12,
+      "fullBodiesIncluded": false
+    },
+    {
+      "size": 250,
+      "renderMs": 15.37,
+      "htmlBytes": 149256,
+      "initialCards": 12,
+      "fullBodiesIncluded": false
+    },
+    {
+      "size": 500,
+      "renderMs": 30.27,
+      "htmlBytes": 287921,
+      "initialCards": 12,
+      "fullBodiesIncluded": false
+    }
+  ]
+}

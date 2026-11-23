@@ -1,0 +1,10 @@
+import {writeFile} from 'node:fs/promises';
+const home=await fetch('https://doam.gov.pk/public/home');const html=await home.text();
+const token=html.match(/name="csrf-token" content="([^"]+)"/)?.[1];
+if(!token)throw Error('Missing public catalogue session token');
+const cookie=home.headers.getSetCookie().map(x=>x.split(';')[0]).join('; ');
+const response=await fetch('https://doam.gov.pk/public/sites/filter',{method:'POST',headers:{'content-type':'application/x-www-form-urlencoded',cookie,accept:'application/json'},body:new URLSearchParams({_token:token,city:'',type:'',era:'',province:'Punjab',visibility:'Public'})});
+if(!response.ok)throw Error('Catalogue HTTP '+response.status);
+const {data}=await response.json();
+await writeFile(new URL('./catalogue.json',import.meta.url),JSON.stringify({accessDate:'2026-10-22',sourceUrl:'https://doam.gov.pk/public/home',query:{province:'Punjab',visibility:'Public'},data},null,2)+'\n');
+console.log(JSON.stringify({records:data.length}));

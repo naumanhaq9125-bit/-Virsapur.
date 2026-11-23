@@ -1,0 +1,80 @@
+[
+  {
+    "id": "project-walled-city-revitalization",
+    "type": "project",
+    "slug": "walled-city-revitalization-initiative",
+    "status": "draft",
+    "title": "Walled City Revitalization Initiative",
+    "summary": "A multi-layered conservation project focused on historical landmarks, local craftsmen and sustainable urban tourism.",
+    "featured": false,
+    "sortOrder": 1,
+    "featuredImage": {
+      "src": "assets/project-1.png",
+      "optimizedStem": "project-1",
+      "width": 1024,
+      "height": 683,
+      "alt": "Historic urban architecture",
+      "caption": "",
+      "credit": ""
+    },
+    "body": [],
+    "location": "",
+    "dates": {
+      "start": "",
+      "end": ""
+    },
+    "partners": [],
+    "outcomes": [],
+    "references": [],
+    "relatedStoryIds": [],
+    "seo": {
+      "title": "Walled City Revitalization Initiative | Virsapur",
+      "description": "A Virsapur project record about heritage conservation and sustainable urban tourism.",
+      "image": "assets/project-1.png"
+    },
+    "relatedProgrammeIds": [
+      "programme-research-restoration"
+    ],
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  },
+  {
+    "id": "project-heritage-documentation",
+    "type": "project",
+    "slug": "heritage-documentation-public-engagement",
+    "status": "draft",
+    "title": "Heritage documentation & public engagement",
+    "summary": "Creating accessible records and public-facing interpretation around places of cultural importance.",
+    "featured": false,
+    "sortOrder": 2,
+    "featuredImage": {
+      "src": "assets/project-2.png",
+      "optimizedStem": "project-2",
+      "width": 1024,
+      "height": 683,
+      "alt": "Heritage documentation in progress",
+      "caption": "",
+      "credit": ""
+    },
+    "body": [],
+    "location": "",
+    "dates": {
+      "start": "",
+      "end": ""
+    },
+    "partners": [],
+    "outcomes": [],
+    "references": [],
+    "relatedStoryIds": [],
+    "seo": {
+      "title": "Heritage Documentation and Public Engagement | Virsapur",
+      "description": "A Virsapur project record about accessible heritage documentation.",
+      "image": "assets/project-2.png"
+    },
+    "relatedProgrammeIds": [
+      "programme-research-restoration"
+    ],
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  }
+]

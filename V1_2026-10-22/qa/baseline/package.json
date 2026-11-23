@@ -1,0 +1,26 @@
+{
+  "name": "virsapur-full-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "studio": "node studio/server.mjs",
+    "build": "npm run build:production",
+    "build:production": "node build.mjs --mode=production && node qa.mjs --mode=production && node scripts/security-qa.mjs",
+    "build:demo": "node build.mjs --mode=demo",
+    "qa:production": "node build.mjs --mode=production && node qa.mjs --mode=production",
+    "qa:studio": "node build.mjs --mode=demo && node qa.mjs --mode=studio",
+    "test": "npm run qa:production && npm run qa:studio",
+    "content:export": "node scripts/export-content.mjs",
+    "cms:migrate:dry": "node scripts/migrate-to-production-cms.mjs",
+    "cms:migrate": "node scripts/migrate-to-production-cms.mjs --apply",
+    "qa:security": "node scripts/security-qa.mjs"
+  },
+  "dependencies": {
+    "@vercel/functions": "latest",
+    "sharp": "^0.34.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

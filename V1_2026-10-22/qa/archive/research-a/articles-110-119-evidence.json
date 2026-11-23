@@ -1,0 +1,293 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 10,
+  "records": [
+    {
+      "articleId": "story-lansdowne-bridge-and-the-challenge-of-spanning-the-indus",
+      "planIndex": 110,
+      "wordCount": 443,
+      "sourceNotes": "Cambridge collection essay closely read; approximately190 derived words including site constraint, cantilevers, album, deaths and later bridge. British Library opening catalogue about30. DOAM1887 is not opening date; use1889 confirmed by primary photograph. No Jamalo legend presented as fact.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Bridging the mighty Indus: the Lansdowne Bridge at Sukkur",
+          "url": "https://specialcollections-blog.lib.cam.ac.uk/?p=14253",
+          "publisher": "Cambridge University Library, Royal Commonwealth Society collections",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Lansdowne Bridge catalogue record",
+          "url": "https://doam.gov.pk/public/sites/5119",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Opening of the Lansdowne Bridge",
+          "url": "https://searcharchives.bl.uk/catalog/041-003093946",
+          "publisher": "British Library",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-akra-archaeology-in-the-bannu-basin",
+      "planIndex": 111,
+      "wordCount": 464,
+      "sourceNotes": "Magee et al2005abstract fully read approximately120 derived words. Bannu project synthesis description approximately75; DOAM approximately45. Do not claim entire book read, uninterrupted sequence or imperial attribution for every mound.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Akra catalogue record",
+          "url": "https://doam.gov.pk/public/sites/3184",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Achaemenid Empire in South Asia and Recent Excavations in Akra in Northwest Pakistan",
+          "url": "https://repository.brynmawr.edu/arch_pubs/82/",
+          "publisher": "Bryn Mawr College repository; American Journal of Archaeology",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Archaeology of the Bannu Basin",
+          "url": "https://www.jstor.org/stable/j.ctv13pk77m",
+          "publisher": "Oxbow Books, Bannu Archaeological Project",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-charsaddas-bala-hisar-the-mound-not-peshawars-fort",
+      "planIndex": 112,
+      "wordCount": 461,
+      "sourceNotes": "Cambridge project pages treated as same work, approximately185 derived words total. DOAM identity and mound approximately45. Wheeler1958representative pottery preliminary not definitive. Avoid Peshawarfortconflation or accepted Achaemenidfoundationclaim.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Bala Hisar,Charsadda",
+          "url": "https://doam.gov.pk/public/sites/2160",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Investigating Ancient Pushkalavati: previous research",
+          "url": "https://www.arch.cam.ac.uk/research/projects/archived-projects/investigating-ancient-pushkalavati/previous-research",
+          "publisher": "University of Cambridge Department of Archaeology",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Investigating Ancient Pushkalavati: introduction",
+          "url": "https://www.arch.cam.ac.uk/research/projects/archived-projects/investigating-ancient-pushkalavati/introduction",
+          "publisher": "University of Cambridge Department of Archaeology",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-mustuj-fort-and-movement-through-upper-chitral",
+      "planIndex": 113,
+      "wordCount": 464,
+      "sourceNotes": "2025conditionreport methods/construction/damage pages14–28 closely read, approximately190 derived words. Gazetteerp33~45; propertyhistoricalaccount~30explicitlyattributed. No definitive10ccreationclaim; no presentvisitoraccessguarantee.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Mustuj Fort catalogue record",
+          "url": "https://doam.gov.pk/public/sites/1238",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mastuj Fort condition survey,2025",
+          "url": "https://www.commonwealthheritage.org/wp-content/uploads/2025/09/Mastuj-Fort-Condition-Survey-Report-1st-Stage-12.08.2025.pdf",
+          "publisher": "Wadaan Consultants / Commonwealth Heritage Forum",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Chitral Gazetteer,1928",
+          "url": "https://www.mahraka.com/pdf/chitralGazetteer-1928.pdf",
+          "publisher": "Government of India, historical gazetteer",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mastuj Fort",
+          "url": "https://hindukushheights.com/mastuj-fort-chalets-glamping/",
+          "publisher": "Hindukush Heights, property stewardship account",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-bilot-sharif-temples-and-the-stone-building-tradition",
+      "planIndex": 114,
+      "wordCount": 472,
+      "sourceNotes": "New2000primary excavation paper~175derived words for explicitly comparative NORTHKafirkot evidence, not imported into Bilot. 1996paper~35 additional,cumulative~175. DOAMBilot~75. Avoid treating DOAMthreecataloguegroups as total survivingtemplecount; no unsupportedpreciseBilotdates.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Bilot Sharif Temples",
+          "url": "https://doam.gov.pk/public/sites/1012",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Discovery of a New Temple on the Indus",
+          "url": "https://www.penn.museum/sites/expedition/discovery-of-a-new-temple-on-the-indus/",
+          "publisher": "Penn Museum; Michael W.Meister,Abdur Rehman,Farid Khan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Temples Along the Indus",
+          "url": "https://www.penn.museum/sites/expedition/temples-along-the-indus/",
+          "publisher": "Penn Museum; Michael W.Meister",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-peshawar-museum-how-a-collection-frames-gandhara",
+      "planIndex": 115,
+      "wordCount": 459,
+      "sourceNotes": "DOAMmuseumhistory/collectionrange~100words. Saeed2023primarycollectionstudy sections collectionhistory/iconographypages289–293closelyread~190derivedwords. No claim reserveobjectpubliclydisplayed; no universalGreekoriginclaim; avoid sweeping chronology of Buddhaimage.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Peshawar Museum",
+          "url": "https://doam.gov.pk/public/sites/4549",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "A Marvelous Buddha Sculpture in the Reserve Collection of Peshawar Museum",
+          "url": "https://www.esijournals.com/image/catalog/Journal%20Paper/SAHCA/2023/No%202%20%282023%29/12_Tahir.pdf",
+          "publisher": "Tahir Saeed, South Asian History,Culture and Archaeology,2023",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-gwadars-omani-fort-and-an-indian-ocean-history",
+      "planIndex": 116,
+      "wordCount": 462,
+      "sourceNotes": "DOAMbuildingdescription~65. QDLhistoricalessay~100anddistinct1949–50filecatalogue~45. GDAnewsletterp15adaptive-reuseproposal~90. Transfergiven1958onlyavoidsday/monthofficialdiscrepancy. No totalrestorationcompletionclaim,no mergedwatchtower/fortidentity.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Omani Fort",
+          "url": "https://doam.gov.pk/public/sites/10390",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Gwadar:The Omani Enclave in Pakistan",
+          "url": "https://qdl.qa/en/gwadar-omani-enclave-pakistan",
+          "publisher": "Qatar Digital Library / British Library",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Gwadar Development Authority newsletter",
+          "url": "https://gda.gov.pk/Documents/Document_1740223504.pdf",
+          "publisher": "Gwadar Development Authority",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "File8/78II:Sale of Gwadur",
+          "url": "https://www.qdl.qa/archive/81055/vdc_100057741739.0x000013",
+          "publisher": "British Library India Office Records, Qatar Digital Library",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-khojak-tunnel-and-the-landscape-of-railway-engineering",
+      "planIndex": 117,
+      "wordCount": 470,
+      "sourceNotes": "DOAM~150wordsavoidingstale115years,longestrankandprecisefatalityclaim; PBS~50construction1888–91; contemporaryrailreportindexedcompletionpassage~35, not claimedwholevolumeclose-read. No entryaccess/safety claim.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Khojak Tunnel",
+          "url": "https://doam.gov.pk/public/sites/10388",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Balochistan provincial census report,2017",
+          "url": "https://www.pbs.gov.pk/sites/default/files/population/census_reports/pcr_balochistan.pdf",
+          "publisher": "Pakistan Bureau of Statistics",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Administration report on the railways in India,1891–92",
+          "url": "https://southasiacommons.net/artifacts/2358879/administration-report-on-the-railways-in-india-for-1891-92/3349880/",
+          "publisher": "Government of India railway administration report, digitised by South Asia Commons",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-shahi-tump-and-the-archaeological-sequence-of-makran",
+      "planIndex": 118,
+      "wordCount": 476,
+      "sourceNotes": "ArScAnprimarymissionaccount~190derivedwords; no priorreusefound. DOAM~55. CNRSarchivecatalogue~70metadataonly. DistinctShahiTump/MiriQalat,temporalrelationbetweenvillage/cemeteries. No exactpopulation/ethnicityclaims.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Shahi Tump",
+          "url": "https://doam.gov.pk/public/sites/10398",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mission archéologique française au Makran",
+          "url": "https://arscan.parisnanterre.fr/umr-7041/equipes/equipe-archeologie-de-lasie-centrale/activites-de-lequipe-archeologie-de-lasie-centrale/mission-archeologique-francaise-au-makran-mafm/",
+          "publisher": "ArScAn, Université Paris Nanterre / CNRS",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "French mission in Makran archival descriptions",
+          "url": "https://archives.mshmondes.cnrs.fr/index.php/informationobject/browse?collection=157053&limit=10&media=print&sort=alphabetic&sortDir=desc&topLod=0",
+          "publisher": "Maison des Sciences de l’Homme Mondes, CNRS archives",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-hinglaj-a-sacred-place-within-a-difficult-landscape",
+      "planIndex": 119,
+      "wordCount": 464,
+      "sourceNotes": "OUPbookandchapterabstractsread,notclaimingfullbookaccess; aggregate~190derivedwords. DOAMidentitylocation~25. No currentfestivaldate/accessclaims,nouniversalcommunityagreement,no sacredritualinstructions. Remainderoriginalethical/interpretiveanalysis.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Hinglaj Mata Temple",
+          "url": "https://doam.gov.pk/public/sites/9186",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Hinglaj Devi:Identity,Change,and Solidification at a Hindu Temple in Pakistan",
+          "url": "https://academic.oup.com/book/5901",
+          "publisher": "Jürgen Schaflechner,Oxford University Press,2018",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Hinglaj in perspective,chapter abstract",
+          "url": "https://academic.oup.com/book/5901/chapter-abstract/149201192",
+          "publisher": "Oxford University Press",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

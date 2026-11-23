@@ -1,0 +1,5095 @@
+{
+  "generatedAt": "2026-10-22T18:19:39.132Z",
+  "mode": "production",
+  "siteOrigin": "http://127.0.0.1:4173/production",
+  "routes": [
+    {
+      "route": "/",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "page",
+      "redirectTo": null
+    },
+    {
+      "route": "/home",
+      "status": "archived",
+      "indexable": false,
+      "sitemap": false,
+      "type": "page",
+      "redirectTo": "/"
+    },
+    {
+      "route": "/archives/places",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "directory",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/title-index",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "directory",
+      "redirectTo": null
+    },
+    {
+      "route": "/image-credits",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "utility",
+      "redirectTo": null
+    },
+    {
+      "route": "/tours",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "tour-collection",
+      "redirectTo": null
+    },
+    {
+      "route": "/tours/custom",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "tour-builder",
+      "redirectTo": null
+    },
+    {
+      "route": "/why-virsapur",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "page",
+      "redirectTo": null
+    },
+    {
+      "route": "/programmes",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "page",
+      "redirectTo": null
+    },
+    {
+      "route": "/heritage-map",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "page",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "page",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/all",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "collection",
+      "redirectTo": null
+    },
+    {
+      "route": "/our-work",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "page",
+      "redirectTo": null
+    },
+    {
+      "route": "/search",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "page",
+      "redirectTo": null
+    },
+    {
+      "route": "/contact",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "page",
+      "redirectTo": null
+    },
+    {
+      "route": "/service/heritage-tours",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "programme",
+      "redirectTo": null
+    },
+    {
+      "route": "/service/heritageTours",
+      "status": "archived",
+      "indexable": false,
+      "sitemap": false,
+      "type": "page",
+      "redirectTo": "/service/heritage-tours"
+    },
+    {
+      "route": "/service/cultural-and-educational-workshops",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "programme",
+      "redirectTo": null
+    },
+    {
+      "route": "/service/culturalAndEducationalWorkshops",
+      "status": "archived",
+      "indexable": false,
+      "sitemap": false,
+      "type": "page",
+      "redirectTo": "/service/cultural-and-educational-workshops"
+    },
+    {
+      "route": "/service/research-and-restoration-projects",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "programme",
+      "redirectTo": null
+    },
+    {
+      "route": "/service/researchAndRestorationProjects",
+      "status": "archived",
+      "indexable": false,
+      "sitemap": false,
+      "type": "page",
+      "redirectTo": "/service/research-and-restoration-projects"
+    },
+    {
+      "route": "/service/cultural-events-and-collaborations",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "programme",
+      "redirectTo": null
+    },
+    {
+      "route": "/service/culturalEventsAndCollaborations",
+      "status": "archived",
+      "indexable": false,
+      "sitemap": false,
+      "type": "page",
+      "redirectTo": "/service/cultural-events-and-collaborations"
+    },
+    {
+      "route": "/archives/place/archaeological-ruins-at-moenjodaro",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/taxila",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/buddhist-ruins-of-takht-i-bahi-and-sahr-i-bahlol",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/fort-and-shalamar-gardens-in-lahore",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/historical-monuments-at-makli-thatta",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/rohtas-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/baltit-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mehrgarh",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/rehman-dheri",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/badshahi-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/wazir-khan-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/jahangirs-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/harappa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/katas-raj-temples",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/derawar-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hiran-minar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shah-rukn-e-alam",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bibi-jawindis-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kot-diji-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ranikot-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/naukot-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/umerkot-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chaukhandi-tombs",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/banbhore",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shah-jahan-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gori-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mohatta-palace",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shah-abdul-latif-bhittai",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mansehra-rock-edicts",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bhamala-buddhist-complex",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/butkara-i",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mahabat-khan-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gor-khatri",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sethi-house",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shahbazgarhi-rock-edicts",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bala-hisar-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/damb-sadaat",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/killi-gul-mohammad",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nausharo",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nindowari",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/spina-ghundai",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sutkagen-dor",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ziarat-residency",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/babra-tombs",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hinidan-tombs",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shigar-fort-palace",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khaplu-fort-palace",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chaqchan-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/amburiq-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/manthal-rock-buddha",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kharpocho-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hodar-rock-art",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/thalpan-rock-art",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/thagas-khanqah",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khaplu-polo-ground",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/red-fort-muzaffarabad",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sharda-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sharda-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/baral-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mangla-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ramkot-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/baghsar-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/saadabad-caravan-sarai",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ranbir-singh-baradari",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/matrani-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/rawat-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sultan-muqarrab-khans-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/pharwala-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shah-allah-ditta-caves",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ban-faqiran-stupa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/golra-sharif-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/saidpur-temple-complex",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/golra-railway-station",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/meher-ali-shah-shrine",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bari-imam-shrine",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bazira-barikot",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gurdwara-panja-sahib",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/attock-khurd-railway-station",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/marot-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mirgarh-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/noor-mahal",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ganweriwala",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/malot-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/takht-i-babri",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shahi-masjid-chiniot",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gulzar-mahal-chiniot",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/pir-adil-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shrine-of-sakhi-sarwar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mahan-singh-samadhi",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hafiz-muhammad-hayat-shrine-complex",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/akbari-baoli-gujrat",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mian-jan-muhammad-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shrine-of-sultan-bahoo",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tilla-jogian",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shrine-of-bulleh-shah",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khalid-walid-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/amb-temples",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/lahore-museum-and-national-college-of-arts",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sri-garo-lal-gee-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-sheikh-ali-baig",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sher-shah-baoli-wah-bhachran",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shrine-of-bahauddin-zakariya",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-tahir-khan-nahar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-sheikh-sadan-shaheed",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shrine-of-abul-khair-nau-lakh-hazari",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/qila-sobha-singh-hindu-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mir-chakars-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bhuman-shah-monument-complex",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-baba-farid",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bhong-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/islamgarh-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/harrand-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-khawaja-ghulam-farid",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/haveli-sujan-singh",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khem-singh-bedi-haveli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/historic-bhera",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sheikhupura-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shrine-of-imam-ali-ul-haq",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/baoli-wan-wala-khuh",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sargana-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/daira-din-panah-shrine",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/historic-murree-brewery-ruins",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/turab-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/wazirabad-dak-chowki",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/old-city-of-badin",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/roopa-mari",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khudabad-jamia-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-mian-yar-muhammad-kalhoro",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mazar-e-quaid",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/vijnot-jo-daro",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mukhi-mahal",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/pucca-qila-fortifications",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-ghulam-shah-kalhoro",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/victoria-clock-tower-jacobabad",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/grave-of-john-jacob",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shrine-of-lal-shahbaz-qalandar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sehwan-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ghaibi-khan-chandio-graveyard",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/thul-of-dribh-chandio",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/thul-of-jamro",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shrine-of-sachal-sarmast",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-shah-baharo",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/lakho-shaikh-graveyard",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hala-monuments",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chottori-tombs",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kot-sirini",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/baba-saroop-daas-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/brahmanabad-mansurah",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chanhudaro",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/thul-mir-rukan",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-mian-noor-muhammad-kalhoro",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dargah-haji-faqirullah-shah-alvi",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/frere-hall",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/empress-market",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sindh-madrassatul-islam",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/manjeera-raja-mound",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mir-masums-minaret-and-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/lansdowne-bridge",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bilawal-mari-ruins",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shiv-temple-umerkot",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mangho-pir-shrine",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/st-lukes-church-abbottabad",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/st-matthews-church-nathia-gali",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mughal-mosque-khar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/akra-archaeological-mounds",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gagra-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bala-hisar-mound-charsadda",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shahi-masjid-chitral",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mustuj-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bilot-sharif-temples",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/raisan-stupa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/saphola-stupa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chakdara-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/jatgram-manri",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/alingar-rock-inscription",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sher-kela-dherai",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dand-barai-gunbat",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/fort-of-the-nawab-of-tank",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dargai-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mughal-mosque-at-kaka-sahib",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/wooden-mosque-kalam",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hund-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/peshawar-museum",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sheikh-allah-dad-and-sheikh-karim-dad-tombs",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mastung-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/rabat-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chagai-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mir-chakar-fort-sibi",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/togau",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/jhalawar-pass-fortification",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/omani-fort-gwadar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shahi-tump",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shahi-jamia-mosque-gandhawa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sanatan-vedic-mandir-zhob",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hinglaj-mata-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khojak-railway-tunnel",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khami-kot-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/phuguch-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/upper-gahkuch-jamaat-khana",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nilt-fort-site",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kharmang-fort-boti-khar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mudoori-fort-yasin",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tarishing-safro-shikar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/zaipur-shikari-water-channel-pillar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ishal-rock-art",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/qalamdarchi-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sor-das-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/danyor-rock-inscription",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kargah-buddha",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bagh-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dera-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/rani-baoli-and-hammams",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/black-fort-muzaffarabad",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/owin-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bhrund-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/throachi-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/burjun-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mughal-mosque-bhimber",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sarai-kharbuza",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/rawal-dam-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kuri-baradari",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shahi-hammam-lahore",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mariam-zamani-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chauburji",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/javid-manzil",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/lahore-railway-station",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/lahore-general-post-office",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/faqir-khana-museum",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bradlaugh-hall",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/quaid-e-azam-library-halls",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dyal-singh-library",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/aitchison-college-historic-campus",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/punjab-assembly-historic-building",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/lahore-town-hall",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/lakshmi-building",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nau-nihal-singh-haveli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/samadhi-of-maharaja-ranjit-singh",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-nur-jahan",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-nadira-begum",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dai-angas-tomb-and-gulabi-bagh-gateway",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-ali-mardan-khan",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dai-anga-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sunehri-mosque-lahore",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/delhi-gate-lahore",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bhati-gate-lahore",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dina-nath-well",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-muhammad-iqbal",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/samadhi-of-sir-ganga-ram",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mai-moran-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shrine-of-madhu-lal-hussain",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shrine-of-mian-mir",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/data-darbar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/behram-baradari",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/attock-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chitti-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/begum-ki-sarai",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hari-mandir-hazro",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/jamgarh-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/phulra-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/al-sadiq-mosque-bahawalpur",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bijnot-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mojgarh-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chakwal-railway-station",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dalwal-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bhoun-railway-station",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-shah-burhan",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-ghazi-khan",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ranjit-singh-birthplace-haveli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/historic-mosque-of-eminabad",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/atmaramji-shrine",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/akbari-hammam-gujrat",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bahar-wali-baoli-kharian",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shrine-of-shah-sadiq-nehang",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gurdwara-choa-sahib",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nandana-fort-and-temple-remains",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sarai-mughal",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chhathanwala-gurdwara",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khura-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mahmood-kot-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-muhammad-rajan-shah",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shrine-of-sultan-ayub-qattal",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kalabagh-bridge",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tang-gali-bazaar-kalabagh",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hindu-temple-harnoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gumtan-namal-valley",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sawi-mosque-and-graves",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-shah-yusuf-gardezi",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shahi-eidgah-mosque-multan",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ghanta-ghar-multan",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shujabad-fortification-walls",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shahwala-cemetery",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mosque-of-tahir-khan-nahar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/marhi-of-baba-dhyghana-singh",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bokhari-mosque-sunkhtra",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hindu-temple-zafarwal",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mausoleum-of-daud-bandagi-shergarh",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bakhshi-khana-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/drugra-burj",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/burj-at-malka-hans",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khairgarh-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ahmadpur-lamma-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hajipur-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/historic-grand-trunk-road-margalla-pass",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/wah-mughal-gardens",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sangni-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shah-bagh-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dhan-gali-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shahi-mosque-at-chak-116-7-cr",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/samadhi-of-baba-dharmdas",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/jamia-mosque-bhera",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mosque-and-baoli-jandiala-sher-khan",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shrine-of-mian-sher-muhammad",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/markazi-eidgah-pasrur",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bari-mosque-pasrur",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sikh-temple-kalaswala",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/historic-church-talagang",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/historic-haveli-lawa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tomb-of-khawaja-mahmood-taunsa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kot-mahoi-wala-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/pakka-gurdwara-guru-nanak",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/maqbara-joiwan-da",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ranjit-singh-summer-residence",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nizamabad-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mian-ali-faqiran-archaeological-mound",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/murti-hill",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khalath-archaeological-site",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mehr-manzoor-wala-6",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/karyali-3",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gujranwala-mounds-cholistan",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chak-773-gb-pindi-mound",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/umarpur-fort-and-mound",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/assal-suleman-mounds",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chak-104-10-r-archaeological-mound",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/raj-bhir-lodhran",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/old-police-station-seerani",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/luari-sharif-shrine-complex",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/talhar-old-bridge",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/peeru-lashari-railway-station",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tharo-kot",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mir-ghulam-ali-khan-talpur-palace",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/johi-shiva-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hairo-khan-thul",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mazar-bhurgri-thul",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dada-budhal-shah-complex",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/jamia-masjid-al-farooque-rati",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/loi-saiban-jamia-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/jamia-mosque-khanpur-khan-garh",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/katcha-qila-hyderabad",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/navel-rai-market-clock-tower",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/holmstead-hall",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/training-college-for-men-hyderabad",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/talpur-palace-hyderabad",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kot-mirpur-buro",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/udi-sharif-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bahadurpur-jamia-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/loni-kot-remains",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bukharia-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gaji-khuawar-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mian-shahal-muhammad-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/thul-of-touj-pull",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/miran-ji-dedhi-bungalow",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nirano-tower",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/pir-nasirudin-shah-complex",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mir-fateh-ali-khan-talpur-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/miskeen-shah-palace",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/channi-munu-mal-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/darya-khan-marri-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kotri-kabir-jamia-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/depar-ghanghro-stupa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dalail-dero-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sakhi-jam-datar-shrine",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mir-shahdad-funerary-ensemble",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ramdas-hall",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khat-wari-mandir",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/masant-haveli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/zafar-manzil",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/amrote-sharif-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/merewether-pavilion-shikarpur",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/wazir-mansion",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/denso-hall-and-library",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hindu-gymkhana",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khaliq-dina-hall-and-library",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/merewether-clock-tower",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/karachi-cantonment-railway-station",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/d-j-sindh-government-college",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shree-swaminarayan-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/holy-trinity-church-karachi",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/parsi-dar-e-meher-karachi",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/karachi-port-trust-building",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sukkur-clock-tower",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bukkur-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/adam-shah-jo-takkar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/war-mubarak-shrine",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/agham-kot",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kirarh-ji-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mai-khairi-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/morio-leghari-archaeological-site",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/akbar-birthplace-memorial",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dabgir-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nawab-amir-khan-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/pir-patho-mosque-and-tower",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kot-raja-manjera-gujjo",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/jam-bijar-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ade-sahib-mosque-mujahideen",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kanro-qala",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/adinkhel-dherai",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bande-uba-canal-bridge",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/thandiani-church",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sir-sahibzada-abdul-qayyum-khan-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ratan-nath-temple-peshawar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/umair-mosque-dhamoon",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kitkot-larkalay-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khazano-sar-settlement",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chatpat-buddhist-complex",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mian-muhammad-umar-mosque-and-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dilip-kumar-house",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chottra-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/rehman-baba-tomb-complex",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sher-bridge-petroglyphs",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nawab-rasheed-khan-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/malaka-stupa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/basti-sher-khan-tomb-stones",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/choa-gujjar-bridge",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shah-khanai-inscription",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shunyal-archaeological-site",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/st-john-s-cathedral-peshawar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/padshah-kotkai",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kotkai-dherai",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sappare-buddhist-site",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/zarai-rock-inscription",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dunga-gali-church",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/jhangra-sikh-temple-ii",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/pir-manki-fortress",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dilazak-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gul-imam-railway-station",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gandi-umar-khan-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/baran-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/daraban-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mosque-of-faqir-nizam-ud-din",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/wajuhat-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/musazai-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bilal-mosque-dhamoon",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ekka-ghund-caravanserai",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/koto-manzary",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shagram-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/manzary-tall",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/devdas-temple-v",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kho-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chamarkand-mujahidino-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nakhtar-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ajmir-stream-bridge",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bisak-banda-stupa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bangosar-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dauray-buddhist-site",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kundichar-buddhist-site",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mir-qabar-ziarat-stupa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tarakai-qila",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sir-dherai-gambila",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tatthai-dherai",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/malamjaba-stupa-and-monastery",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sisaka-kandaro-patay-dadahara",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/stupa-near-charbagh",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/baligram-stupa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/churrai-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shararai-stupa-complex",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kapoor-haveli-peshawar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/barabru-stupa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/frontier-house-abbottabad",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/old-fort-naghar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/palosi-piran-complex",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/butkara-iii",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/badrangai-ghundai",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/governor-house-nathia-gali",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mekha-sanda",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gala-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/baoli-mosque-peshawar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/damkot-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/all-saints-church-peshawar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/abbott-museum",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/lal-mahra-sharif-tombs",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shaikhan-dheri",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nawab-said-khan-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/jamrud-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chuinj-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dam-kot-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sheri-khan-tarakai",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/udigram-rock-art",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kandag-valley-stupas",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/allaho-akbar-mosque-swat",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/garhi-habibullah-iron-bridge",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/samungli-mound-no-2",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/killi-gul-muhammad-mound-no-1",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sheikh-manda-mound-no-10",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kuchlak-mound-no-7",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nauhisar-mound-no-11",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/harian-haider-zai-mound",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shahi-khan-mound-no-6",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/samali-mound-no-8",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mehtar-zai-mound-no-9",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ibn-e-haroon-tomb-bela",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/robert-sandeman-tomb-bela",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/zoroastrian-graveyard-quetta",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/saindak-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bit-fortress",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hazar-ganji-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chogaanekand-fort-turbat",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/baba-khatawara-ashram-gandhawa",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/sardar-ahmad-khan-magsi-tomb",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/haldi-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/astana-of-syed-sultan-ali-aarif",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/baba-ghundi-astana",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/karis-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shumari-polo-ground",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/babusar-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/lashno-kot-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khanqah-e-moallah-kharkoo",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ghulwating-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/asghar-ali-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/raja-zafar-ali-khan-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/thole-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bamir-astana",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mir-muhammad-astana-khaplu",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khanqah-e-moallah-hushe",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khanqah-e-moallah-keris",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/thoqsi-khar-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/moongrong-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/braqchan-jamia-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khalti-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/qumra-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kharfaq-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/staqchen-rock-carvings-mehdiabad",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/noh-yasin-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gol-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tolti-west-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kamango-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/pande-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/lamsa-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mula-dhurbeen-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/baghardo-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mehdiabad-petroglyphs-and-inscription",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/yugo-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/balghar-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chhorbat-hasan-abad-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ghorse-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/braqkhor-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/keris-astana-complex",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bilchar-bagrote-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ghulam-ali-shah-maktab",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/soguldo-khanqah",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/troopi-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/taigrong-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/churka-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/thore-kot-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/brushal-niyazo-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/ali-mosque-bar-khas",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khanqah-e-moallah-tsino",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chandu-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hatchi-khar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/saling-khar",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khanqah-e-moallah-hashupi",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/yuno-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khagrol-parishing-rako",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/alam-bridge-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/basho-rock-carvings-and-inscriptions",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/morka-lashti-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gahkuch-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/hatun-inscriptions",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bhrund-rock-shelter",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/panthal-rock-shelter",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/pir-chinasi-rock-carvings",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/koi-kotli-saula-cup-marks",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chak-pandit-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/maera-khet",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/darbar-mai-toti-sahiba",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dongi-ratta-rock-cut-caves",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/gilani-chowk-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/tonga-stand-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/police-lines-gurdwara-muzaffarabad",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/rakhnatri-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/shamsabad-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/upper-koyian-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nala-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dehari-bagh-baoli-i",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kaini-bayan-temple-complex",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/karchai-fort",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/seri-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/taitrinot-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/irara-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kushiani-bheak-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/talab-ram-singh",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/banganga-temple",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/khoi-kotli-saulan-rock-cut-sanctuaries",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bawali-baoli",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/dudyal-gakhar-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/nokot-jamia-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/rawal-dam-archaeological-mound",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/saqa-historic-well",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mohrian-historic-well",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/mohrian-rock-shelter",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/rehara-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/meharabad-historic-pond",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/malpur-archaeological-mound",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kuri-jamia-mosque",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/bari-imam-bethak-nikka-tumair",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/chaper-mound-ii",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/place/kuri-archaeological-mound",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "heritage-place",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/category/archaeology-and-ancient-civilisations",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "archive-category",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/category/architecture-and-built-heritage",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "archive-category",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/category/sacred-heritage",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "archive-category",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/category/living-traditions",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "archive-category",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/category/objects-and-material-culture",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "archive-category",
+      "redirectTo": null
+    },
+    {
+      "route": "/archives/category/cultural-landscapes-and-historic-places",
+      "status": "published",
+      "indexable": true,
+      "sitemap": true,
+      "type": "archive-category",
+      "redirectTo": null
+    },
+    {
+      "route": "/404",
+      "status": "archived",
+      "indexable": false,
+      "sitemap": false,
+      "type": "utility",
+      "redirectTo": null
+    }
+  ]
+}

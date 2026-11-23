@@ -1,0 +1,178 @@
+{
+  "batch": "140-149",
+  "reviewDate": "2026-10-22",
+  "status": "review-drafts-not-publication-approved",
+  "count": 10,
+  "wordCounts": [
+    {
+      "id": "story-the-indus-script-why-short-texts-resist-easy-answers",
+      "words": 391
+    },
+    {
+      "id": "story-seals-and-sealings-an-archaeological-distinction",
+      "words": 399
+    },
+    {
+      "id": "story-households-and-workshops-in-an-indus-settlement",
+      "words": 421
+    },
+    {
+      "id": "story-the-disputed-granaries-of-indus-archaeology",
+      "words": 423
+    },
+    {
+      "id": "story-urban-change-after-the-mature-harappan-period",
+      "words": 425
+    },
+    {
+      "id": "story-coastal-sites-and-a-moving-shoreline",
+      "words": 419
+    },
+    {
+      "id": "story-gandhara-as-a-region-not-a-single-dynasty",
+      "words": 408
+    },
+    {
+      "id": "story-monasteries-and-towns-testing-an-economic-relationship",
+      "words": 424
+    },
+    {
+      "id": "story-why-stupas-were-rebuilt-around-older-stupas",
+      "words": 426
+    },
+    {
+      "id": "story-coins-in-context-a-date-is-not-the-whole-story",
+      "words": 433
+    }
+  ],
+  "sourceReadingNote": "Read Met object/essay pages, Kenoyer/Meadow paper introduction, Kenoyer bead chapter, Mackay excavation text, Harappa granary descriptions, UNESCO property/submission descriptions and Sutkagen Dor report. Research abstracts/search-index extracts support narrowly attributed findings for Giosan, Barikot chronology/numismatics, Butkara chronology and coin residuality. Full-text fetches for PMC, British Museum terminology and Wisconsin PDF failed; do not claim full-text reading. References to these works are limited accordingly. No verbatim quotations; each piece develops its own topic-specific analytical discussion and labels hypothetical examples.",
+  "copyrightNote": "No quoted passages. Shared-source factual paraphrases kept short; repeated background sources were avoided. Bibliographic detail and archive links do not authorize photograph reuse.",
+  "sources": [
+    {
+      "title": "A Markov model of the Indus script",
+      "url": "https://homes.cs.washington.edu/~rao/PNASIndus.pdf",
+      "publisher": "Rao and colleagues, University of Washington / PNAS",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Inscribed Objects from Harappa Excavations 1986–2007",
+      "url": "https://www.harappa.com/content/inscribed-objects-harappa-excavations-1986-2007",
+      "publisher": "Jonathan Mark Kenoyer and Richard H. Meadow / Harappa.com",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Stamp seal and modern impression: unicorn and incense burner (?)",
+      "url": "https://www.metmuseum.org/art/collection/search/324062",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Excavations at Chanhu-daro 1935–36",
+      "url": "https://www.harappa.com/content/excavations-chanhu-daro-1935-36",
+      "publisher": "Ernest Mackay / Smithsonian Institution, reproduced by Harappa.com",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Stone Beads of the Indus Tradition: New Perspectives on Harappan Bead Typology, Technology and Documentation",
+      "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer2017%20Stone%20Beads_Chapter%2007.pdf",
+      "publisher": "Jonathan Mark Kenoyer",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Ethnoarchaeological Excavations of the Bead Making Workshops of Khambhat",
+      "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer1991_Ethnoarchaeological%20Excavations%20of%20the%20Bead%20Maki.pdf",
+      "publisher": "Jonathan Mark Kenoyer and colleagues",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "“Granary,” Harappa",
+      "url": "https://www.harappa.com/indus/15.html",
+      "publisher": "Jonathan Mark Kenoyer / Harappa.com",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Granary Excavations Reveal New Facts",
+      "url": "https://www.harappa.com/blog/granary-excavations-reveal-new-facts",
+      "publisher": "Harappa.com",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Fluvial landscapes of the Harappan civilization",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3387054/",
+      "publisher": "Liviu Giosan and colleagues / PNAS",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Fluvial landscapes of the Harappan civilization — bibliographic record",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22645375/",
+      "publisher": "US National Library of Medicine",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Sutkagen Dor: An Investigation of the Western-most Harappan Trading Post",
+      "url": "https://www.harappa.com/content/sutkagen-dor-investigation-western-most-harappan-trading-post",
+      "publisher": "Harappa.com",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Fluvial landscapes of the Harappan civilization",
+      "url": "https://landscapepartnership.org/maps-data/climate-context/cc-resources/ClimateSciPDFs/PNASGiosanetalsmall.pdf/app-download-file/file/PNASGiosanetalsmall.pdf",
+      "publisher": "Liviu Giosan and colleagues / PNAS",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Kushan Empire (ca. Second Century B.C.–Third Century A.D.)",
+      "url": "https://www.metmuseum.org/essays/kushan-empire-ca-second-century-b-c-third-century-a-d",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Gandhara — collection terminology",
+      "url": "https://www.britishmuseum.org/collection/term/x21989",
+      "publisher": "The British Museum",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+      "url": "https://whc.unesco.org/en/list/140/",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Bazira-Barikot — Tentative List submission",
+      "url": "https://whc.unesco.org/en/tentativelists/7034/",
+      "publisher": "Pakistan's Permanent Delegation to UNESCO / UNESCO World Heritage Centre",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Problems of Chronology in Gandhāran Art — Olivieri and Filigenzi",
+      "url": "https://iris.unive.it/retrieve/e4239ddd-70be-7180-e053-3705fe0a3322/4%2C%20Olivieri%20and%20Filigenzi%20Offprint.pdf",
+      "publisher": "Luca Maria Olivieri and Anna Filigenzi / Ca' Foscari University repository",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "The Geography of Gandharan Art",
+      "url": "https://iris.unive.it/retrieve/e4239ddd-6ce0-7180-e053-3705fe0a3322/The%20Geography%20of%20Gandharan%20Art.pdf",
+      "publisher": "Ca' Foscari University repository",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "A Numismatic History of Barikot: Catalogue and Analysis of the Coin Finds from the Excavations at Bīr-koṭ-ghwaṇḍai",
+      "url": "https://doi.org/10.2307/jj.30599548.27",
+      "publisher": "Scholarly numismatic catalogue / JSTOR",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "A new revised chronology and cultural sequence of the Swat valley in the light of current excavations at Barikot",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168583X19303866",
+      "publisher": "Research article, Nuclear Instruments and Methods in Physics Research B",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Questions concerning the residuality of brooches and coins in Romano-British contexts",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.12205",
+      "publisher": "Oxford Journal of Archaeology",
+      "accessDate": "2026-10-22"
+    }
+  ]
+}

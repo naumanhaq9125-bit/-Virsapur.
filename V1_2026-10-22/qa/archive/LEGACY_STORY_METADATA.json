@@ -1,0 +1,502 @@
+[
+  {
+    "id": "story-wells-mohenjodaro",
+    "type": "story",
+    "slug": "the-wells-of-mohenjodaro",
+    "status": "draft",
+    "title": "The wells of Mohenjodaro",
+    "summary": "",
+    "category": "Archaeology",
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "location": "Mohenjo-daro · Sindh",
+    "province": "Sindh",
+    "district": "Mohenjo-daro",
+    "author": "",
+    "publishedAt": "",
+    "updatedAt": "",
+    "body": [],
+    "references": [],
+    "relatedProgrammeIds": [],
+    "relatedProjectIds": [],
+    "featured": false,
+    "sortOrder": 1,
+    "featuredImage": {
+      "src": "assets/archive-wells.jpg",
+      "optimizedStem": "archive-wells",
+      "width": 640,
+      "height": 404,
+      "alt": "The wells of Mohenjodaro, Mohenjo-daro, Sindh",
+      "caption": "",
+      "credit": ""
+    },
+    "seo": {
+      "title": "The wells of Mohenjodaro | Virsapur Archives",
+      "description": "A Virsapur archive record about The wells of Mohenjodaro.",
+      "image": "assets/archive-wells.jpg"
+    },
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  },
+  {
+    "id": "story-mohenjodaro-lanes",
+    "type": "story",
+    "slug": "mohenjo-daro-residential-lanes",
+    "status": "draft",
+    "title": "Mohenjo Daro Residential Lanes",
+    "summary": "",
+    "category": "Urban history",
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage",
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "location": "Mohenjo-daro · Sindh",
+    "province": "Sindh",
+    "district": "Mohenjo-daro",
+    "author": "",
+    "publishedAt": "",
+    "updatedAt": "",
+    "body": [],
+    "references": [],
+    "relatedProgrammeIds": [],
+    "relatedProjectIds": [],
+    "featured": false,
+    "sortOrder": 2,
+    "featuredImage": {
+      "src": "assets/archive-lanes.jpg",
+      "optimizedStem": "archive-lanes",
+      "width": 640,
+      "height": 426,
+      "alt": "Mohenjo Daro Residential Lanes, Mohenjo-daro, Sindh",
+      "caption": "",
+      "credit": ""
+    },
+    "seo": {
+      "title": "Mohenjo Daro Residential Lanes | Virsapur Archives",
+      "description": "A Virsapur archive record about Mohenjo Daro Residential Lanes.",
+      "image": "assets/archive-lanes.jpg"
+    },
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  },
+  {
+    "id": "story-mohenjodaro-architecture",
+    "type": "story",
+    "slug": "mohenjo-daro-architecture",
+    "status": "draft",
+    "title": "Mohenjo Daro Architecture",
+    "summary": "",
+    "category": "Architecture",
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage",
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "location": "Mohenjo-daro · Sindh",
+    "province": "Sindh",
+    "district": "Mohenjo-daro",
+    "author": "",
+    "publishedAt": "",
+    "updatedAt": "",
+    "body": [],
+    "references": [],
+    "relatedProgrammeIds": [],
+    "relatedProjectIds": [],
+    "featured": false,
+    "sortOrder": 3,
+    "featuredImage": {
+      "src": "assets/archive-architecture.webp",
+      "optimizedStem": "archive-architecture",
+      "width": 640,
+      "height": 426,
+      "alt": "Mohenjo Daro Architecture, Mohenjo-daro, Sindh",
+      "caption": "",
+      "credit": ""
+    },
+    "seo": {
+      "title": "Mohenjo Daro Architecture | Virsapur Archives",
+      "description": "A Virsapur archive record about Mohenjo Daro Architecture.",
+      "image": "assets/archive-architecture.webp"
+    },
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  },
+  {
+    "id": "story-priest-king",
+    "type": "story",
+    "slug": "priest-king",
+    "status": "draft",
+    "title": "Priest-King",
+    "summary": "",
+    "category": "Object story",
+    "primaryCategoryId": "archive-category-objects-material-culture",
+    "categoryIds": [
+      "archive-category-objects-material-culture",
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "location": "Mohenjo-daro · Sindh",
+    "province": "Sindh",
+    "district": "Mohenjo-daro",
+    "author": "",
+    "publishedAt": "",
+    "updatedAt": "",
+    "body": [],
+    "references": [],
+    "relatedProgrammeIds": [],
+    "relatedProjectIds": [],
+    "featured": false,
+    "sortOrder": 4,
+    "featuredImage": {
+      "src": "assets/archive-priest-king.jpg",
+      "optimizedStem": "archive-priest-king",
+      "width": 640,
+      "height": 426,
+      "alt": "Priest-King, Mohenjo-daro, Sindh",
+      "caption": "",
+      "credit": ""
+    },
+    "seo": {
+      "title": "Priest-King | Virsapur Archives",
+      "description": "A Virsapur archive record about Priest-King.",
+      "image": "assets/archive-priest-king.jpg"
+    },
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  },
+  {
+    "id": "story-tomb-anarkali",
+    "type": "story",
+    "slug": "tomb-of-anarkali",
+    "status": "draft",
+    "title": "Tomb of Anarkali",
+    "summary": "",
+    "category": "Built heritage",
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "location": "Lahore · Punjab",
+    "province": "Punjab",
+    "district": "Lahore",
+    "author": "",
+    "publishedAt": "",
+    "updatedAt": "",
+    "body": [],
+    "references": [],
+    "relatedProgrammeIds": [],
+    "relatedProjectIds": [],
+    "featured": false,
+    "sortOrder": 5,
+    "featuredImage": {
+      "src": "assets/archive-anarkali.jpg",
+      "optimizedStem": "archive-anarkali",
+      "width": 640,
+      "height": 426,
+      "alt": "Tomb of Anarkali, Lahore, Punjab",
+      "caption": "",
+      "credit": ""
+    },
+    "seo": {
+      "title": "Tomb of Anarkali | Virsapur Archives",
+      "description": "A Virsapur archive record about Tomb of Anarkali.",
+      "image": "assets/archive-anarkali.jpg"
+    },
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  },
+  {
+    "id": "story-gurdwara-lahura",
+    "type": "story",
+    "slug": "gurdwara-lahura-sahib",
+    "status": "draft",
+    "title": "Gurdwara Lahura Sahib",
+    "summary": "",
+    "category": "Sacred heritage",
+    "primaryCategoryId": "archive-category-sacred-heritage",
+    "categoryIds": [
+      "archive-category-sacred-heritage",
+      "archive-category-architecture-built-heritage"
+    ],
+    "location": "Punjab",
+    "province": "Punjab",
+    "district": "",
+    "author": "",
+    "publishedAt": "",
+    "updatedAt": "",
+    "body": [],
+    "references": [],
+    "relatedProgrammeIds": [],
+    "relatedProjectIds": [],
+    "featured": false,
+    "sortOrder": 6,
+    "featuredImage": {
+      "src": "assets/archive-gurdwara.jpg",
+      "optimizedStem": "archive-gurdwara",
+      "width": 639,
+      "height": 426,
+      "alt": "Gurdwara Lahura Sahib, Punjab",
+      "caption": "",
+      "credit": ""
+    },
+    "seo": {
+      "title": "Gurdwara Lahura Sahib | Virsapur Archives",
+      "description": "A Virsapur archive record about Gurdwara Lahura Sahib.",
+      "image": "assets/archive-gurdwara.jpg"
+    },
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  },
+  {
+    "id": "story-shaheed-ganj",
+    "type": "story",
+    "slug": "gurudwara-shaheed-ganj-singh-singhnian",
+    "status": "draft",
+    "title": "Gurudwara Shaheed Ganj Singh Singhnian",
+    "summary": "",
+    "category": "Sacred heritage",
+    "primaryCategoryId": "archive-category-sacred-heritage",
+    "categoryIds": [
+      "archive-category-sacred-heritage",
+      "archive-category-architecture-built-heritage"
+    ],
+    "location": "Lahore · Punjab",
+    "province": "Punjab",
+    "district": "Lahore",
+    "author": "",
+    "publishedAt": "",
+    "updatedAt": "",
+    "body": [],
+    "references": [],
+    "relatedProgrammeIds": [],
+    "relatedProjectIds": [],
+    "featured": false,
+    "sortOrder": 7,
+    "featuredImage": {
+      "src": "assets/archive-gurdwara.jpg",
+      "optimizedStem": "archive-gurdwara",
+      "width": 639,
+      "height": 426,
+      "alt": "Gurudwara Shaheed Ganj Singh Singhnian, Lahore, Punjab",
+      "caption": "",
+      "credit": ""
+    },
+    "seo": {
+      "title": "Gurudwara Shaheed Ganj Singh Singhnian | Virsapur Archives",
+      "description": "A Virsapur archive record about Gurudwara Shaheed Ganj Singh Singhnian.",
+      "image": "assets/archive-gurdwara.jpg"
+    },
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  },
+  {
+    "id": "story-katas-raj",
+    "type": "story",
+    "slug": "katas-raj",
+    "status": "draft",
+    "title": "Katas Raj",
+    "summary": "",
+    "category": "Sacred heritage",
+    "primaryCategoryId": "archive-category-sacred-heritage",
+    "categoryIds": [
+      "archive-category-sacred-heritage",
+      "archive-category-cultural-landscapes-historic-places"
+    ],
+    "location": "Chakwal · Punjab",
+    "province": "Punjab",
+    "district": "Chakwal",
+    "author": "",
+    "publishedAt": "",
+    "updatedAt": "",
+    "body": [],
+    "references": [],
+    "relatedProgrammeIds": [],
+    "relatedProjectIds": [],
+    "featured": false,
+    "sortOrder": 8,
+    "featuredImage": {
+      "src": "assets/archive-katas.jpg",
+      "optimizedStem": "archive-katas",
+      "width": 640,
+      "height": 379,
+      "alt": "Katas Raj, Chakwal, Punjab",
+      "caption": "",
+      "credit": ""
+    },
+    "seo": {
+      "title": "Katas Raj | Virsapur Archives",
+      "description": "A Virsapur archive record about Katas Raj.",
+      "image": "assets/archive-katas.jpg"
+    },
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  },
+  {
+    "id": "story-satgraha-temples",
+    "type": "story",
+    "slug": "satgraha-temples",
+    "status": "draft",
+    "title": "Satgraha Temples",
+    "summary": "",
+    "category": "Architecture",
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage",
+      "archive-category-sacred-heritage"
+    ],
+    "location": "Katas Raj · Punjab",
+    "province": "Punjab",
+    "district": "Katas Raj",
+    "author": "",
+    "publishedAt": "",
+    "updatedAt": "",
+    "body": [],
+    "references": [],
+    "relatedProgrammeIds": [],
+    "relatedProjectIds": [],
+    "featured": false,
+    "sortOrder": 9,
+    "featuredImage": {
+      "src": "assets/temple_distant.jpg",
+      "optimizedStem": "temple-distant",
+      "width": 1200,
+      "height": 800,
+      "alt": "Satgraha Temples, Katas Raj, Punjab",
+      "caption": "",
+      "credit": ""
+    },
+    "seo": {
+      "title": "Satgraha Temples | Virsapur Archives",
+      "description": "A Virsapur archive record about Satgraha Temples.",
+      "image": "assets/temple_distant.jpg"
+    },
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  },
+  {
+    "id": "story-havan-kund",
+    "type": "story",
+    "slug": "havan-kund",
+    "status": "draft",
+    "title": "Havan Kund",
+    "summary": "",
+    "category": "Living traditions",
+    "primaryCategoryId": "archive-category-living-traditions",
+    "categoryIds": [
+      "archive-category-living-traditions",
+      "archive-category-sacred-heritage"
+    ],
+    "location": "Katas Raj · Punjab",
+    "province": "Punjab",
+    "district": "Katas Raj",
+    "author": "",
+    "publishedAt": "",
+    "updatedAt": "",
+    "body": [],
+    "references": [],
+    "relatedProgrammeIds": [],
+    "relatedProjectIds": [],
+    "featured": false,
+    "sortOrder": 10,
+    "featuredImage": {
+      "src": "assets/temple_entrance.jpg",
+      "optimizedStem": "temple-entrance",
+      "width": 1200,
+      "height": 800,
+      "alt": "Havan Kund, Katas Raj, Punjab",
+      "caption": "",
+      "credit": ""
+    },
+    "seo": {
+      "title": "Havan Kund | Virsapur Archives",
+      "description": "A Virsapur archive record about Havan Kund.",
+      "image": "assets/temple_entrance.jpg"
+    },
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  },
+  {
+    "id": "story-khewra-mines",
+    "type": "story",
+    "slug": "khewra-salt-mines",
+    "status": "draft",
+    "title": "Khewra Salt Mines",
+    "summary": "",
+    "category": "Cultural landscape",
+    "primaryCategoryId": "archive-category-cultural-landscapes-historic-places",
+    "categoryIds": [
+      "archive-category-cultural-landscapes-historic-places"
+    ],
+    "location": "Jhelum · Punjab",
+    "province": "Punjab",
+    "district": "Jhelum",
+    "author": "",
+    "publishedAt": "",
+    "updatedAt": "",
+    "body": [],
+    "references": [],
+    "relatedProgrammeIds": [],
+    "relatedProjectIds": [],
+    "featured": false,
+    "sortOrder": 11,
+    "featuredImage": {
+      "src": "assets/pillar_white.jpg",
+      "optimizedStem": "pillar-white",
+      "width": 1200,
+      "height": 800,
+      "alt": "Khewra Salt Mines, Jhelum, Punjab",
+      "caption": "",
+      "credit": ""
+    },
+    "seo": {
+      "title": "Khewra Salt Mines | Virsapur Archives",
+      "description": "A Virsapur archive record about Khewra Salt Mines.",
+      "image": "assets/pillar_white.jpg"
+    },
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  },
+  {
+    "id": "story-great-bath",
+    "type": "story",
+    "slug": "great-bath-of-mohenjo-daro",
+    "status": "draft",
+    "title": "Great Bath of Mohenjo-Daro",
+    "summary": "",
+    "category": "Archaeology",
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "location": "Mohenjo-daro · Sindh",
+    "province": "Sindh",
+    "district": "Mohenjo-daro",
+    "author": "",
+    "publishedAt": "",
+    "updatedAt": "",
+    "body": [],
+    "references": [],
+    "relatedProgrammeIds": [],
+    "relatedProjectIds": [],
+    "featured": false,
+    "sortOrder": 12,
+    "featuredImage": {
+      "src": "assets/archive-architecture.webp",
+      "optimizedStem": "archive-architecture",
+      "width": 640,
+      "height": 426,
+      "alt": "Great Bath of Mohenjo-Daro, Mohenjo-daro, Sindh",
+      "caption": "",
+      "credit": ""
+    },
+    "seo": {
+      "title": "Great Bath of Mohenjo-Daro | Virsapur Archives",
+      "description": "A Virsapur archive record about Great Bath of Mohenjo-Daro.",
+      "image": "assets/archive-architecture.webp"
+    },
+    "relatedDistrictIds": [],
+    "previousSlugs": []
+  }
+]

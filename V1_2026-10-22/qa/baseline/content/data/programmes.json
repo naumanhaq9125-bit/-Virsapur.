@@ -1,0 +1,198 @@
+[
+  {
+    "id": "programme-heritage-tours",
+    "type": "programme",
+    "slug": "heritage-tours",
+    "legacySlug": "heritageTours",
+    "status": "published",
+    "title": "Heritage Tours",
+    "summary": "Guided encounters with ancient landmarks, living neighbourhoods and the stories that shaped them.",
+    "body": "Heritage tours offer travelers a chance to explore ancient landmarks, vibrant cultures, and timeless traditions that reflect the rich history and identity of diverse civilizations. These journeys go beyond typical sightseeing, guiding visitors through historical monuments, traditional settings, museums and sacred sites that hold deep significance.",
+    "featured": true,
+    "sortOrder": 1,
+    "featuredImage": {
+      "src": "assets/archive-katas.jpg",
+      "optimizedStem": "archive-katas",
+      "width": 640,
+      "height": 379,
+      "alt": "Historic temple architecture at Katas Raj",
+      "caption": "",
+      "credit": ""
+    },
+    "practical": {
+      "audience": "",
+      "format": "",
+      "duration": "",
+      "location": "",
+      "availability": "",
+      "price": ""
+    },
+    "cta": {
+      "type": "enquiry",
+      "label": "Enquire about heritage tours",
+      "target": "/contact?type=heritage-tours"
+    },
+    "relatedStoryIds": [],
+    "seo": {
+      "title": "Heritage Tours in Pakistan | Virsapur",
+      "description": "Explore Virsapur’s approach to guided heritage tours and enquire about a cultural experience.",
+      "image": "assets/archive-katas.jpg"
+    },
+    "kind": "experience",
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Enquire about heritage tours"
+    },
+    "scheduleNotes": ""
+  },
+  {
+    "id": "programme-cultural-educational-workshops",
+    "type": "programme",
+    "slug": "cultural-and-educational-workshops",
+    "legacySlug": "culturalAndEducationalWorkshops",
+    "status": "published",
+    "title": "Cultural & Educational Workshops",
+    "summary": "Immersive learning that connects history, material culture and community knowledge.",
+    "body": "Cultural and educational workshops combine learning with immersive experiences through hands-on activities, interactive discussion and practical exposure beyond conventional classroom learning.",
+    "featured": true,
+    "sortOrder": 2,
+    "featuredImage": {
+      "src": "assets/fresco_strip.jpg",
+      "optimizedStem": "fresco-strip",
+      "width": 1035,
+      "height": 320,
+      "alt": "Historic painted architectural detail",
+      "caption": "",
+      "credit": ""
+    },
+    "practical": {
+      "audience": "",
+      "format": "",
+      "duration": "",
+      "location": "",
+      "availability": "",
+      "price": ""
+    },
+    "cta": {
+      "type": "enquiry",
+      "label": "Discuss a workshop",
+      "target": "/contact?type=workshops"
+    },
+    "relatedStoryIds": [],
+    "seo": {
+      "title": "Cultural and Educational Workshops | Virsapur",
+      "description": "Explore Virsapur’s cultural and educational workshop approach and discuss a learning programme.",
+      "image": "assets/fresco_strip.jpg"
+    },
+    "kind": "workshop",
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Discuss a workshop"
+    },
+    "scheduleNotes": ""
+  },
+  {
+    "id": "programme-research-restoration",
+    "type": "programme",
+    "slug": "research-and-restoration-projects",
+    "legacySlug": "researchAndRestorationProjects",
+    "status": "published",
+    "title": "Research & Restoration Projects",
+    "summary": "Research, documentation and interpretation supporting the preservation of cultural heritage.",
+    "body": "Research and restoration work supports the careful documentation, conservation and interpretation of cultural heritage through planned collaboration and specialist knowledge.",
+    "featured": true,
+    "sortOrder": 3,
+    "featuredImage": {
+      "src": "assets/archive-wells.jpg",
+      "optimizedStem": "archive-wells",
+      "width": 640,
+      "height": 404,
+      "alt": "Archaeological remains and historic wells at Mohenjo-daro",
+      "caption": "",
+      "credit": ""
+    },
+    "practical": {
+      "audience": "",
+      "format": "",
+      "duration": "",
+      "location": "",
+      "availability": "",
+      "price": ""
+    },
+    "cta": {
+      "type": "enquiry",
+      "label": "Discuss research or restoration",
+      "target": "/contact?type=research"
+    },
+    "relatedStoryIds": [],
+    "seo": {
+      "title": "Heritage Research and Restoration Projects | Virsapur",
+      "description": "Learn about Virsapur’s research, documentation and heritage-preservation approach.",
+      "image": "assets/archive-wells.jpg"
+    },
+    "kind": "project programme",
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Discuss research or restoration"
+    },
+    "scheduleNotes": ""
+  },
+  {
+    "id": "programme-cultural-events-collaborations",
+    "type": "programme",
+    "slug": "cultural-events-and-collaborations",
+    "legacySlug": "culturalEventsAndCollaborations",
+    "status": "published",
+    "title": "Cultural Events & Collaborations",
+    "summary": "Public programmes and partnerships that foster creativity, dialogue and cultural participation.",
+    "body": "Cultural events and collaborations create platforms where people can celebrate, share and learn from different traditions and artistic expressions through thoughtful partnerships.",
+    "featured": true,
+    "sortOrder": 4,
+    "featuredImage": {
+      "src": "assets/archive-gurdwara.jpg",
+      "optimizedStem": "archive-gurdwara",
+      "width": 639,
+      "height": 426,
+      "alt": "Historic gurdwara architecture in Punjab",
+      "caption": "",
+      "credit": ""
+    },
+    "practical": {
+      "audience": "",
+      "format": "",
+      "duration": "",
+      "location": "",
+      "availability": "",
+      "price": ""
+    },
+    "cta": {
+      "type": "enquiry",
+      "label": "Propose a collaboration",
+      "target": "/contact?type=collaboration"
+    },
+    "relatedStoryIds": [],
+    "seo": {
+      "title": "Cultural Events and Collaborations | Virsapur",
+      "description": "Explore Virsapur’s approach to cultural programming and institutional collaboration.",
+      "image": "assets/archive-gurdwara.jpg"
+    },
+    "kind": "experience",
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Propose a collaboration"
+    },
+    "scheduleNotes": ""
+  }
+]

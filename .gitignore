@@ -1,0 +1,28 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# Dependencies
+**/node_modules/
+
+# Local runtime and temporary files
+**/local-runtime/
+**/qa-artifacts/
+**/qa-screenshots/
+**/backups/
+**/.vercel/
+
+# Generated builds and old build backups
+**/dist-production/
+**/dist-demo/
+**/dist-local-production-review-*/
+**/dist-production-before-*/
+**/dist-demo-before-*/
+
+# Logs
+*.log
+
+# Large ZIP packages (over GitHub's normal 100 MB limit)
+*.zip

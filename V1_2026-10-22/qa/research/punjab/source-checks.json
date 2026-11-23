@@ -1,0 +1,1384 @@
+{
+  "accessDate": "2026-10-22",
+  "method": "Read-only unauthenticated GET of every accepted DOAM source/component URL; HTTP availability does not independently verify accuracy.",
+  "results": [
+    {
+      "url": "https://doam.gov.pk/public/sites/10087",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10087",
+      "title": "Jame Masjid Al-Sadiq",
+      "h1": [
+        "Jame Masjid Al-Sadiq"
+      ],
+      "sha256": "86c2760f7728ea68bfb68ab8ca84ad205b10a1208968ff4fce39e8bbc441e6ef",
+      "bytes": 18804,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10104",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10104",
+      "title": "Tomb of Hazrat Khawaja Mahmood at Taunsa Sharif",
+      "h1": [
+        "Tomb of Hazrat Khawaja Mahmood at Taunsa Sharif"
+      ],
+      "sha256": "2e3b5ea83770c68d0cfa1f6532d74a041ee3c71eaf070d805550eae9291a2f13",
+      "bytes": 15517,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10107",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10107",
+      "title": "Ancient Mosque at Eminabad",
+      "h1": [
+        "Ancient Mosque at Eminabad"
+      ],
+      "sha256": "c7041e70e98af9862fb71aa7a828c1ff2f73cb8b7d781d346a8ad2f56c1da11e",
+      "bytes": 15632,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10109",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10109",
+      "title": "Atmaramji Shrine",
+      "h1": [
+        "Atmaramji Shrine"
+      ],
+      "sha256": "c36b769b1c859994f308ae9695b12a83b98a371179c5677136d14fc9c75d2f0b",
+      "bytes": 16017,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10111",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10111",
+      "title": "Ranjit Singh Birthplace",
+      "h1": [
+        "Ranjit Singh Birthplace"
+      ],
+      "sha256": "63dc814976f7f25ac1f18f1be65075eb270319e6403da4dce4912af2c69e9501",
+      "bytes": 21478,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10112",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10112",
+      "title": "Ranjit Singh Summer Residence",
+      "h1": [
+        "Ranjit Singh Summer Residence"
+      ],
+      "sha256": "8e14ec39b9982f0904720b211ac7fe8b435362636e0fa368d5d61aeb1dbbf9c6",
+      "bytes": 15807,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10122",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10122",
+      "title": "Akbari Hamam",
+      "h1": [
+        "Akbari Hamam"
+      ],
+      "sha256": "8bc3e86177b0e604785e97b47c886b19ccdce6089990d80bf011f07d9218e539",
+      "bytes": 15827,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10125",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10125",
+      "title": "Bahar Wali Baoli, Kharian",
+      "h1": [
+        "Bahar Wali Baoli, Kharian"
+      ],
+      "sha256": "defedf6eeba456fed6bb0bb6ec7f5297bb41c57d737904e7dc0ccbc7dccacbe5",
+      "bytes": 15591,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10126",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10126",
+      "title": "Shrine of Hazrat Sadiq Nihang",
+      "h1": [
+        "Shrine of Hazrat Sadiq Nihang"
+      ],
+      "sha256": "dffb32d8dadeae0b79fd9cf0e5da4aba24a7ae70105a941be0cd75c27e1716ff",
+      "bytes": 17017,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10146",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10146",
+      "title": "Aitchison College, Lahore",
+      "h1": [
+        "Aitchison College, Lahore"
+      ],
+      "sha256": "c43117c8ed8bd10f87caf41c5a7506c32cfc2823110aae0fb001b3b9ed40a61e",
+      "bytes": 16021,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10149",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10149",
+      "title": "Assembly Chambers, Lahore",
+      "h1": [
+        "Assembly Chambers, Lahore"
+      ],
+      "sha256": "a6e67cce5438c83ba1db307ac6baef53b4f18244f3270ad2a23eaee443fa4675",
+      "bytes": 16149,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10152",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10152",
+      "title": "Montgomery Hall (Quaid-i-Azam Library)",
+      "h1": [
+        "Montgomery Hall (Quaid-i-Azam Library)"
+      ],
+      "sha256": "adcd96cbc5aad8bad64922b16440558b0eb9e5431dda0061d469b8054209ddcc",
+      "bytes": 16478,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10157",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10157",
+      "title": "General Post Office Lahore",
+      "h1": [
+        "General Post Office Lahore"
+      ],
+      "sha256": "fca101d1444ebe50a3a0a4103341313925f64c334237cc5f11d600341049d9a7",
+      "bytes": 15680,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10163",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10163",
+      "title": "Town Hall",
+      "h1": [
+        "Town Hall"
+      ],
+      "sha256": "292d7d0f9800fb773c68503be0d06ea7b277e5b945790a3f4159fc950b1341c8",
+      "bytes": 16891,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10164",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10164",
+      "title": "Lakshmi Building",
+      "h1": [
+        "Lakshmi Building"
+      ],
+      "sha256": "2dbb1c0bf8e9e399695475855eac054de81dc40d29648a9232ccd2a4437408f6",
+      "bytes": 15734,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10167",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10167",
+      "title": "Faqir Khana Museum",
+      "h1": [
+        "Faqir Khana Museum"
+      ],
+      "sha256": "c076d2e77e020b046ad4a03e1cc0d9141f6555c5a14482ed0c933454a5c3525c",
+      "bytes": 16561,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10171",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10171",
+      "title": "Bradlaugh Hall",
+      "h1": [
+        "Bradlaugh Hall"
+      ],
+      "sha256": "df632b70504229a76bd4821941975e0969cebfcc6d8598685ec8d7b40118e057",
+      "bytes": 16332,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10172",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10172",
+      "title": "Lahore Railway Station",
+      "h1": [
+        "Lahore Railway Station"
+      ],
+      "sha256": "7afb0d974a46fb8ad7d71718bd8c653d42e88b6cefa409adead04d6b53acde64",
+      "bytes": 16172,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10187",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10187",
+      "title": "Dyal Singh Trust Library",
+      "h1": [
+        "Dyal Singh Trust Library"
+      ],
+      "sha256": "bee7bc2aa68e44e8dcd68240ade3453d88bbd33e220ef866ee79a956b1731667",
+      "bytes": 16373,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10190",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10190",
+      "title": "Sunehri Masjid (Lahore)",
+      "h1": [
+        "Sunehri Masjid (Lahore)"
+      ],
+      "sha256": "0bce1764ae5ef47804dc14bf4072d6639b93d3bba3eeb5466fe485e48ad2950d",
+      "bytes": 16049,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10200",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10200",
+      "title": "Shrine of Hazrat Data Ganj Bakhsh",
+      "h1": [
+        "Shrine of Hazrat Data Ganj Bakhsh"
+      ],
+      "sha256": "d4d7c2b865a78a1516e6b931fe94d8e4550a072f72483dcabbf5510b46335da5",
+      "bytes": 16118,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10203",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10203",
+      "title": "Shrine of Hazrat Madhu Lal Hussain",
+      "h1": [
+        "Shrine of Hazrat Madhu Lal Hussain"
+      ],
+      "sha256": "8cc853f33026797eb2ce485399d9a43b3b77390bd0b84fbb46d8f1f32aa32fda",
+      "bytes": 15516,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10236",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10236",
+      "title": "Mai Moran Masjid",
+      "h1": [
+        "Mai Moran Masjid"
+      ],
+      "sha256": "70b61cafb35ea37f607ce2d2e911bd5a18d80bde42333d850253ed7b8f8cc57a",
+      "bytes": 16183,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10240",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10240",
+      "title": "Samadh of Sir Ganga Ram",
+      "h1": [
+        "Samadh of Sir Ganga Ram"
+      ],
+      "sha256": "3aa136e56de200f32217428c33bb1caba1d768a678ab5f9e18b484227c480a52",
+      "bytes": 15975,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10252",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10252",
+      "title": "Shrine of Hazrat Mian Meer Sahib",
+      "h1": [
+        "Shrine of Hazrat Mian Meer Sahib"
+      ],
+      "sha256": "2fe43ddc7588adef21c9df75b17aa48d762018c309220af537d3fc7d9f4e939e",
+      "bytes": 16735,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10256",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10256",
+      "title": "Shrine of Hazrat Sultan Ayub Qattal",
+      "h1": [
+        "Shrine of Hazrat Sultan Ayub Qattal"
+      ],
+      "sha256": "d061ec424fcdca2c7d1709190b0c1d575c398c5a8a38ea778f5954f34a6d5c45",
+      "bytes": 15389,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10297",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10297",
+      "title": "Fortification Wall of Shuja Abad City",
+      "h1": [
+        "Fortification Wall of Shuja Abad City"
+      ],
+      "sha256": "000edd364276e1ce40872b9bcaabcd83c58794d4d86812fc0d1a56eba1fd5e1b",
+      "bytes": 16398,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10301",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10301",
+      "title": "Mausoleum of Hazrat Daud Bandgi, Shergarh",
+      "h1": [
+        "Mausoleum of Hazrat Daud Bandgi, Shergarh"
+      ],
+      "sha256": "60dd23cedbf7ed0ce0290429fe5476bb4f05c3748da0dbd6c0108cf5b5dd6325",
+      "bytes": 16578,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10307",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10307",
+      "title": "Ahmad Pur Lamma Fortress",
+      "h1": [
+        "Ahmad Pur Lamma Fortress"
+      ],
+      "sha256": "e9f36c73d7195c83856b5d614491356f72eaa69e11745dd3eaf268286fb70578",
+      "bytes": 15711,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10311",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10311",
+      "title": "Haji Pur Temple",
+      "h1": [
+        "Haji Pur Temple"
+      ],
+      "sha256": "89491eae24e2f66addef9d3e26cbee93f9905079397577e8bd761f0e3415a477",
+      "bytes": 15321,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10314",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10314",
+      "title": "Jame Masjid Bhera",
+      "h1": [
+        "Jame Masjid Bhera"
+      ],
+      "sha256": "efa3a673ae259fe345dbb318abf47be3bdf795ad806795fc91c0ea9bd7494535",
+      "bytes": 16522,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10316",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10316",
+      "title": "Shrine of Mian Sher Muhammad",
+      "h1": [
+        "Shrine of Mian Sher Muhammad"
+      ],
+      "sha256": "ae699389f5208b260c90db6605fb477216dd1e0686251934de401e897d180865",
+      "bytes": 17735,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10357",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10357",
+      "title": "Gurdwara Sri Choa Sahib Ji",
+      "h1": [
+        "Gurdwara Sri Choa Sahib Ji"
+      ],
+      "sha256": "53abad09185dfbad36607c3a820a27eefaee663359047f022b1bd766c638e535",
+      "bytes": 21194,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10369",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10369",
+      "title": "Shahi Eidgah Mosque",
+      "h1": [
+        "Shahi Eidgah Mosque"
+      ],
+      "sha256": "f97d7e84d7a99003c1401b8da3464dea80508c8e05fcb2fa553ffbdcec522192",
+      "bytes": 22777,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/10385",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/10385",
+      "title": "Ghanta Ghar Multan",
+      "h1": [
+        "Ghanta Ghar Multan"
+      ],
+      "sha256": "bb58fe1c43b89764c658b88d76e40f18531bfaf38ee94ab72c0d6623c4f87368",
+      "bytes": 18786,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/5491",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/5491",
+      "title": "Assal Suleman Site",
+      "h1": [
+        "Assal Suleman Site"
+      ],
+      "sha256": "9a07d41ce8b5d66d67fe5af410218ed3c59e0649a5407f65210981fa33964f21",
+      "bytes": 15455,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/5615",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/5615",
+      "title": "Chhathanwala Gurduara",
+      "h1": [
+        "Chhathanwala Gurduara"
+      ],
+      "sha256": "823a2f9e7de2b030371b640a3ce9f066235ec36d3339d6d1ebd8de6f6b2cedad",
+      "bytes": 15549,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/5969",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/5969",
+      "title": "Sarai Mughal",
+      "h1": [
+        "Sarai Mughal"
+      ],
+      "sha256": "b3d1eed366a2605701388ac29436b0adb2e6015277a1b32366ec339aa77aec4b",
+      "bytes": 15518,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6081",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6081",
+      "title": "Bakhshi Khana Fort",
+      "h1": [
+        "Bakhshi Khana Fort"
+      ],
+      "sha256": "8bac4fca4926c4b129ec44d5a7965075d719790990470e46b5d994792776f0db",
+      "bytes": 15345,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6087",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6087",
+      "title": "Burj Malka Hans",
+      "h1": [
+        "Burj Malka Hans"
+      ],
+      "sha256": "123ea6d96605f1f20d829ab7e28bc752b3102760ff42e77ce81ce7ab2a9368b3",
+      "bytes": 15193,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6107",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6107",
+      "title": "Ruined Shahi Mosque at Chak 116/7 CR",
+      "h1": [
+        "Ruined Shahi Mosque at Chak 116/7 CR"
+      ],
+      "sha256": "86c6cdfeb1afc37aacabbd86d2a12a8f4a7e960cf1ebba7f2fbd88f127d9248a",
+      "bytes": 15586,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6115",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6115",
+      "title": "Drugra Burj (Kos Minar)",
+      "h1": [
+        "Drugra Burj (Kos Minar)"
+      ],
+      "sha256": "87d8225f9877a52db344ebc4e78785e814095e5731571acc6555f1548e42c189",
+      "bytes": 15449,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6117",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6117",
+      "title": "Baba Dharmdas Smadh",
+      "h1": [
+        "Baba Dharmdas Smadh"
+      ],
+      "sha256": "ff5e86cc1e0e35727a2d6e50519436aa7955f0f7c9fd4b735dcbe7662f00d474",
+      "bytes": 15515,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6119",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6119",
+      "title": "Pakka Gurduara Gru Nanak",
+      "h1": [
+        "Pakka Gurduara Gru Nanak"
+      ],
+      "sha256": "7b3e6f6ca9ed1a90ce9815c1cfd0bd240a9a694ba1e730c5d603c0b929474aee",
+      "bytes": 15375,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6158",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6158",
+      "title": "Maqbara Joiwan Da",
+      "h1": [
+        "Maqbara Joiwan Da"
+      ],
+      "sha256": "9d56607b1f740a871c2ba2cd6f5773d62e535d477d04e4faa41be1f51808ae55",
+      "bytes": 15444,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6187",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6187",
+      "title": "Muhammad Rajan Shah Tomb",
+      "h1": [
+        "Muhammad Rajan Shah Tomb"
+      ],
+      "sha256": "6146eacb90c7a37a56f00c5c715b4ea053b41963e5fe117c1e1730a384415d78",
+      "bytes": 15447,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6199",
+      "status": 500,
+      "finalUrl": "https://doam.gov.pk/public/sites/6199",
+      "title": "The URL you requested has been blocked",
+      "h1": [],
+      "sha256": "5e3be6ef2c7a7fed6c1dd8d6c1140fb91b96cf0f1d9d184e65013e9c84929e78",
+      "bytes": 39122,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6211",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6211",
+      "title": "Shah Burhan Tomb",
+      "h1": [
+        "Shah Burhan Tomb"
+      ],
+      "sha256": "3fbc7c3bc1d282a02fa97eaaec4fe8bd826b38bec2ff93b2797585081de035b9",
+      "bytes": 19910,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6213",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6213",
+      "title": "Marhi Baba Dhyghana Singh",
+      "h1": [
+        "Marhi Baba Dhyghana Singh"
+      ],
+      "sha256": "a4c2bb7ea64ee020f1307c1c40108240fd4ae9c890043f4101d9824431d6eda9",
+      "bytes": 15279,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6215",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6215",
+      "title": "Sikh Temple Kalas Wala",
+      "h1": [
+        "Sikh Temple Kalas Wala"
+      ],
+      "sha256": "677cc8a1874918c0a4bf4305f57d53b07e704a1e9c7a759697976308d92addb2",
+      "bytes": 15652,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6217",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6217",
+      "title": "Bari Masjid Pasrur",
+      "h1": [
+        "Bari Masjid Pasrur"
+      ],
+      "sha256": "afde4db52dbca0ca45925209893b063705418fa89e6db80e21b148896212a13a",
+      "bytes": 15621,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6218",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6218",
+      "title": "Markazi Eidgah (Sialkot)",
+      "h1": [
+        "Markazi Eidgah (Sialkot)"
+      ],
+      "sha256": "379bdb2bbb68ba5308453d343cad5e93a43b39114f3c2a84c20d66fdca4dde5e",
+      "bytes": 15332,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6376",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6376",
+      "title": "Shahwala Graveyard",
+      "h1": [
+        "Shahwala Graveyard"
+      ],
+      "sha256": "91f8384c173af225d4ce18979da661b040b3e12707c7c132a73109dbc226380a",
+      "bytes": 15397,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6397",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6397",
+      "title": "Farud Gah Shahn-e-Mughalia (Tank and Garden)",
+      "h1": [
+        "Farud Gah Shahn-e-Mughalia (Tank and Garden)"
+      ],
+      "sha256": "3454a4c8fd4fb612be4d87975b69d836dc82ebece6c3b36b688b9cd7fbea2363",
+      "bytes": 20270,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6416",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6416",
+      "title": "Mosque of Tahir Khan Nahar (Sitpur)",
+      "h1": [
+        "Mosque of Tahir Khan Nahar (Sitpur)"
+      ],
+      "sha256": "9846891abe6383a2dc6b7797204f057aa8e75e8dff1ff6b83f13db7ec5b7c7d3",
+      "bytes": 15844,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6424",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6424",
+      "title": "Mosque and Baoli (Jandiala Sher Khan)",
+      "h1": [
+        "Mosque and Baoli (Jandiala Sher Khan)"
+      ],
+      "sha256": "5ca1f71c934daddb95059379e73b5cb81c9d2179d184e5e29b3f0e1451795960",
+      "bytes": 20239,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6428",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6428",
+      "title": "Tomb of Shah Yusuf Gardezi",
+      "h1": [
+        "Tomb of Shah Yusuf Gardezi"
+      ],
+      "sha256": "73c6fa4bff744ea14501aa90892f86b35cb2a93b45d77619c4e41ab5216632ce",
+      "bytes": 15705,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6433",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6433",
+      "title": "Sawi Masjid and Graves",
+      "h1": [
+        "Sawi Masjid and Graves"
+      ],
+      "sha256": "a7768c7870b0c356a94de23f373b716bdf0f835a22e72286e2975621b831cc9f",
+      "bytes": 15661,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6435",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6435",
+      "title": "Mariam Zamani Mosque (Begum Shahi Mosque)",
+      "h1": [
+        "Mariam Zamani Mosque (Begum Shahi Mosque)"
+      ],
+      "sha256": "3108c356c9ec7e1052c5a2aa3db4959d6d213a6ede2f761bd9c50fcc7b496ec6",
+      "bytes": 20298,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6439",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6439",
+      "title": "Dai Anga`s Mosque",
+      "h1": [
+        "Dai Anga`s Mosque"
+      ],
+      "sha256": "2093c0ca53b1874246d6bb4e77b7bea57fdeb2329206fdac851fa1277b723a43",
+      "bytes": 20038,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6446",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6446",
+      "title": "Haveli Nau Nihal Singh (Including garden, quarters)",
+      "h1": [
+        "Haveli Nau Nihal Singh (Including garden, quarters)"
+      ],
+      "sha256": "cd71317124b8c7f14cf5df5aa71d72feb784cf8f9a90842a29c101b02e8aa0df",
+      "bytes": 20100,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6449",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6449",
+      "title": "Delhi Gate",
+      "h1": [
+        "Delhi Gate"
+      ],
+      "sha256": "793600a663d885d45657da5e4a5aca162a3675f10995fb2bcc4dbb8fd28f944c",
+      "bytes": 19924,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6458",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6458",
+      "title": "Bhati Gate",
+      "h1": [
+        "Bhati Gate"
+      ],
+      "sha256": "a332fdf2fc726c73ddfaa398181ce4db363dd84b60c4d8a61a964f5da2dda2d9",
+      "bytes": 15568,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6462",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6462",
+      "title": "Well of Raja Dina Nath (Chowk Wazir Khan)",
+      "h1": [
+        "Well of Raja Dina Nath (Chowk Wazir Khan)"
+      ],
+      "sha256": "2becb51d340c0cad5e9651693e3f16f8711717deb9d88703b23a61a2644748b4",
+      "bytes": 15589,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6470",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6470",
+      "title": "Samadh of Ranjit Singh",
+      "h1": [
+        "Samadh of Ranjit Singh"
+      ],
+      "sha256": "1dce72418f79dc3a2df72ad6421db039b6ab93531a66e68a1b88479d179d6584",
+      "bytes": 20277,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6472",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6472",
+      "title": "Tomb of Nur Jahan",
+      "h1": [
+        "Tomb of Nur Jahan"
+      ],
+      "sha256": "9a7bb22b3cb713e899cf48e7b4deaee75165103aed7776b27149ed3972494df2",
+      "bytes": 20108,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6485",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6485",
+      "title": "Nadira Begum`s Tomb and Tank",
+      "h1": [
+        "Nadira Begum`s Tomb and Tank"
+      ],
+      "sha256": "df0a20aa81e2af6bc346f3c4f1675a24e87e46862587b7562cf728264a39f7a0",
+      "bytes": 20344,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6493",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6493",
+      "title": "Gulabi Bagh Gateway",
+      "h1": [
+        "Gulabi Bagh Gateway"
+      ],
+      "sha256": "a81aa7b688c42412ed09805662fb6e25b905bcf7186bd5c1dabaf3759eb52343",
+      "bytes": 15523,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6495",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6495",
+      "title": "Chauburji (Mazang)",
+      "h1": [
+        "Chauburji (Mazang)"
+      ],
+      "sha256": "5341c5761c51cc46c262f00ebdf4d2d8a236a62c9a4f596835960bc5b9e08b72",
+      "bytes": 20177,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6498",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6498",
+      "title": "Tomb of Dr. Muhammad Iqbal",
+      "h1": [
+        "Tomb of Dr. Muhammad Iqbal"
+      ],
+      "sha256": "2438e5543eec806a9bf4fe984afee412c11318c412bac39e83eeb5791ccfe572",
+      "bytes": 17988,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6513",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6513",
+      "title": "Dai Anga`s Tomb",
+      "h1": [
+        "Dai Anga`s Tomb"
+      ],
+      "sha256": "bca6edd6d295b24b90073a2fe0cf0b2c8cf0e45e6d1981e840559848505108b9",
+      "bytes": 20173,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6527",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6527",
+      "title": "Tomb of Ali Mardan Khan",
+      "h1": [
+        "Tomb of Ali Mardan Khan"
+      ],
+      "sha256": "6ac0388eef57827f51af3a7f60246f31ec2b7021b29abbee105cfabc08df3828",
+      "bytes": 20057,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6547",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6547",
+      "title": "Tomb of Ghazi Khan (Mohalla Zemindaran)",
+      "h1": [
+        "Tomb of Ghazi Khan (Mohalla Zemindaran)"
+      ],
+      "sha256": "6498e50af6a8a4aa7c79ca1f6f59e6fec64782b8394872ce4e41fcd333baba66",
+      "bytes": 15722,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6557",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6557",
+      "title": "Behram ki Baradari",
+      "h1": [
+        "Behram ki Baradari"
+      ],
+      "sha256": "14d7f059c084f48637d96d3959f792d1426a7be9a506276d3b449bf8ff6f9a03",
+      "bytes": 20348,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6559",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6559",
+      "title": "Attock Tomb",
+      "h1": [
+        "Attock Tomb"
+      ],
+      "sha256": "5dfe4b4307cf74f8480d19ad85354fe419279dc7392154a2259dee01b4a714d4",
+      "bytes": 19896,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6563",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6563",
+      "title": "Chitti Baoli",
+      "h1": [
+        "Chitti Baoli"
+      ],
+      "sha256": "045a7bd867e0f9843d40f54b6017aca64eb2f13972976ede4e1364c349da72cb",
+      "bytes": 15459,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6567",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6567",
+      "title": "Begum Ki Sarai",
+      "h1": [
+        "Begum Ki Sarai"
+      ],
+      "sha256": "cafc84ff05f48ee8f0f5a3ad1c73b22c01c64ed7910d6cdc036f3a90c8269d4e",
+      "bytes": 20510,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6585",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6585",
+      "title": "Mound Mian Ali Faqiran",
+      "h1": [
+        "Mound Mian Ali Faqiran"
+      ],
+      "sha256": "88bb5f39fc4ea8c87a1a311b52a5edb5a45acff73fa21d611a8e8ff1e16536a5",
+      "bytes": 16047,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6684",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6684",
+      "title": "Grand Trunk Road Remains, Margalla Pass",
+      "h1": [
+        "Grand Trunk Road Remains, Margalla Pass"
+      ],
+      "sha256": "71a491f497add0c25df97772ab9a94068dbe1a82ee4560b432d348b165e1f9da",
+      "bytes": 19878,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6744",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6744",
+      "title": "Church",
+      "h1": [
+        "Church"
+      ],
+      "sha256": "e92d26528389011c8ef6033b7b91789312a4d7eb93986a1df4cf1fca7ac3fec7",
+      "bytes": 15655,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6754",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6754",
+      "title": "Dalwal Temple-I",
+      "h1": [
+        "Dalwal Temple-I"
+      ],
+      "sha256": "3819f008099479d29f912e0eb4a4943d1af5dd00292e7c1bf58a0d20a71e924e",
+      "bytes": 15420,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6806",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6806",
+      "title": "Haveli-I (Tehsil, Talagang)",
+      "h1": [
+        "Haveli-I (Tehsil, Talagang)"
+      ],
+      "sha256": "76036112c9b95994110e73212c3b910aa05020ccb564bc11c9551c89c6066a58",
+      "bytes": 16368,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6833",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6833",
+      "title": "Bhoun Railway Station",
+      "h1": [
+        "Bhoun Railway Station"
+      ],
+      "sha256": "eec08081b6cba2d28d6d2f9976e563352d02084efaeea0d956ead627d31bd966",
+      "bytes": 15834,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6835",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6835",
+      "title": "Chakwal Railway Station",
+      "h1": [
+        "Chakwal Railway Station"
+      ],
+      "sha256": "43e3e66ce1755d6f0122b6090f24c71255e2159c415590b8445447cd700f6c5c",
+      "bytes": 15388,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6880",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6880",
+      "title": "Baoli in Khura",
+      "h1": [
+        "Baoli in Khura"
+      ],
+      "sha256": "1dd8c73a07e22c88c26f5a88dab401fe20d3247802b7b89a0b52e8b4568c8a02",
+      "bytes": 15518,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6922",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6922",
+      "title": "Sangni Fort",
+      "h1": [
+        "Sangni Fort"
+      ],
+      "sha256": "27f2395938560d2bcab87e73bceed298eb3789542805fa391983fc170004f79a",
+      "bytes": 19902,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6923",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6923",
+      "title": "Dhan Gali Fort",
+      "h1": [
+        "Dhan Gali Fort"
+      ],
+      "sha256": "b0e1051c391a5b69fca606fa0c66c38623b0b71d3574fe3ab3c3418d72cebf6a",
+      "bytes": 19842,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6973",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6973",
+      "title": "Jamgarh Fort",
+      "h1": [
+        "Jamgarh Fort"
+      ],
+      "sha256": "a49f3199897ab0162812abeef39c122e374515cfd1bb24f204929c2778b60bac",
+      "bytes": 15431,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/6978",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/6978",
+      "title": "Khairgarh Fort",
+      "h1": [
+        "Khairgarh Fort"
+      ],
+      "sha256": "c996b1c05955c539f335e33e7d07b7d0aa06d88cc30e8613e63770eeae228962",
+      "bytes": 15535,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/7005",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/7005",
+      "title": "Mojgarh Fort",
+      "h1": [
+        "Mojgarh Fort"
+      ],
+      "sha256": "e3766bd831ef8a703e471bfbfa5edc27913d59b46d9556cef190d8ce55d7ac07",
+      "bytes": 15595,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/7008",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/7008",
+      "title": "Phulra Fort",
+      "h1": [
+        "Phulra Fort"
+      ],
+      "sha256": "a0d765ed419e1ea83e70a0ccbd4c2cc651b72724470249182e01879ee59f3afd",
+      "bytes": 15473,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/7034",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/7034",
+      "title": "Bijnot Fort",
+      "h1": [
+        "Bijnot Fort"
+      ],
+      "sha256": "d5d184cbb8fd1920e211b637d0077a0649165f7f538bf2d1abb2492d44029c20",
+      "bytes": 15409,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/7048",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/7048",
+      "title": "Shah Bagh Baoli I",
+      "h1": [
+        "Shah Bagh Baoli I"
+      ],
+      "sha256": "19dcee15bdd11b2b9255891a2648120b0e65c3e4f88943e21a5c842eca4e9185",
+      "bytes": 19847,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/7055",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/7055",
+      "title": "Bewal Temple",
+      "h1": [
+        "Bewal Temple"
+      ],
+      "sha256": "de24f2bd15e5e66b05e0662d9d513d58e1cc301690c3bad416139734db6a5e35",
+      "bytes": 17754,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/7252",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/7252",
+      "title": "Gujranwala",
+      "h1": [
+        "Gujranwala"
+      ],
+      "sha256": "5950c8f8de7ac08b75b4a1c66abe43cb293c40ecbcb517de522df6aeaebb6bfc",
+      "bytes": 15362,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/7659",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/7659",
+      "title": "Hari Mandir at Hazro",
+      "h1": [
+        "Hari Mandir at Hazro"
+      ],
+      "sha256": "dfcade3ddb331a2590a0284c168121feeb033b6aff02eefb7b7de5944770a594",
+      "bytes": 16252,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/7980",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/7980",
+      "title": "Mehr Manzoor Wala-6",
+      "h1": [
+        "Mehr Manzoor Wala-6"
+      ],
+      "sha256": "1515abd7a7f681e1765da09a3287f0ce94d3a505117a6a2092c81a8d92957fa5",
+      "bytes": 15367,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/8159",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/8159",
+      "title": "Karyali-3",
+      "h1": [
+        "Karyali-3"
+      ],
+      "sha256": "6630ff8405059e293c881f9e25b04fe134da1d7e3ef63e74942c58d0d81676a7",
+      "bytes": 15331,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/8254",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/8254",
+      "title": "Masjid Bokhari Sunkhtra",
+      "h1": [
+        "Masjid Bokhari Sunkhtra"
+      ],
+      "sha256": "8af906622637f8e9b1c4b2f3a8e4852b461bdcdd6fb30cc57ecfcfcb2c213dd7",
+      "bytes": 15363,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/8267",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/8267",
+      "title": "Nandana Fort",
+      "h1": [
+        "Nandana Fort"
+      ],
+      "sha256": "b3ef806715434bdfc18feb7165ea79f1d59194a004fea7069dde29110589e1ce",
+      "bytes": 22042,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/8309",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/8309",
+      "title": "Hindu Temple Zafarwal",
+      "h1": [
+        "Hindu Temple Zafarwal"
+      ],
+      "sha256": "381b830e1b755977ad34eafc40fe6371b1597a96d8d2fcb3771eb9fca65fbe23",
+      "bytes": 15367,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/8362",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/8362",
+      "title": "Chak 773 GB Pindi",
+      "h1": [
+        "Chak 773 GB Pindi"
+      ],
+      "sha256": "d06f17370c36f93c55980b281ad5bfc6126bc0a6c99d51dd376d942e46bfe6e9",
+      "bytes": 15463,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/8669",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/8669",
+      "title": "Raj Bhir (Lodhran)",
+      "h1": [
+        "Raj Bhir (Lodhran)"
+      ],
+      "sha256": "d344ed7c02529444687dda6786dd8bbf17009cfc0305c8f5227b68541fa06dc3",
+      "bytes": 15569,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/8671",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/8671",
+      "title": "Chak 104-10R (Mound Bhir)",
+      "h1": [
+        "Chak 104-10R (Mound Bhir)"
+      ],
+      "sha256": "a9fb7cd4d2cc309c5934279cc7014bf3b5e9124c1594c389ab5102e47d1c45ca",
+      "bytes": 15666,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/8747",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/8747",
+      "title": "Umar Pur Fort &amp; Mound",
+      "h1": [
+        "Umar Pur Fort &amp; Mound"
+      ],
+      "sha256": "81e7e6b0b872a8074063fce065c4089d16a6b4d1b650c1a455694f9bfe74dd85",
+      "bytes": 15535,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/9169",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/9169",
+      "title": "Nizam Abad Baoli",
+      "h1": [
+        "Nizam Abad Baoli"
+      ],
+      "sha256": "2c2691f0fcf35bf006d6c8c2ce07174828bb0f23882c8a70f0bbd3c37d7496c8",
+      "bytes": 15182,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/9241",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/9241",
+      "title": "Mahmood Kot Fort",
+      "h1": [
+        "Mahmood Kot Fort"
+      ],
+      "sha256": "2db797a89bcdf76e2c13fb05976eab80fa314cba4265de30420da10e693403bf",
+      "bytes": 15165,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/9504",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/9504",
+      "title": "Khalath",
+      "h1": [
+        "Khalath"
+      ],
+      "sha256": "f8de4fa9bc6d40b8e79b7d48c555667426820b1a7260a0a10b7796f56e732f14",
+      "bytes": 15603,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/9766",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/9766",
+      "title": "Murti Hill",
+      "h1": [
+        "Murti Hill"
+      ],
+      "sha256": "7d1e2ab97e11245e0ab44ff26502d0639f91809de6b3cd9a95ceb196b4add965",
+      "bytes": 16056,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/9776",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/9776",
+      "title": "Javid Manzil",
+      "h1": [
+        "Javid Manzil"
+      ],
+      "sha256": "9e2e836db148e9f9f1412106d9fbe3a77ff9592af947ee4e2a08d17a7c1b4b43",
+      "bytes": 20686,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/9778",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/9778",
+      "title": "Wazir Khan Hammam",
+      "h1": [
+        "Wazir Khan Hammam"
+      ],
+      "sha256": "cb95ae3ea2377bb5057b46d73ff7376e9305dccc2c2ca3dadd4aac35fab3d92a",
+      "bytes": 20930,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/9922",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/9922",
+      "title": "Kalabagh Bridge",
+      "h1": [
+        "Kalabagh Bridge"
+      ],
+      "sha256": "7f48d493cb325b011c92ba602f3cbc4215c740cd7c8f5ec09060e8ef5ba783fc",
+      "bytes": 19644,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/9924",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/9924",
+      "title": "Tang Gali Bazar, Kalabagh",
+      "h1": [
+        "Tang Gali Bazar, Kalabagh"
+      ],
+      "sha256": "09537da6dfd64848412f9bf9d7d4bc98eb5a22810ba078a3510689c0a976983f",
+      "bytes": 15402,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/9926",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/9926",
+      "title": "Gumtan in Namal Valley",
+      "h1": [
+        "Gumtan in Namal Valley"
+      ],
+      "sha256": "622edc36d03333305f22e2be7c05cadbc46a84c81bf7d3147f1961799795e9f9",
+      "bytes": 15479,
+      "accessDate": "2026-10-22"
+    },
+    {
+      "url": "https://doam.gov.pk/public/sites/9934",
+      "status": 200,
+      "finalUrl": "https://doam.gov.pk/public/sites/9934",
+      "title": "Hindu Temple, Harnoli",
+      "h1": [
+        "Hindu Temple, Harnoli"
+      ],
+      "sha256": "85e4e0a026a5fe9f446650c1849926b615ca97860842a1802aa5b57248e5b0b2",
+      "bytes": 15513,
+      "accessDate": "2026-10-22"
+    }
+  ]
+}

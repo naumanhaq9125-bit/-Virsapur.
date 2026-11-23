@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "story-kharmang-fort-and-the-remains-of-a-mountain-seat",
+    "type": "story",
+    "slug": "kharmang-fort-and-the-remains-of-a-mountain-seat",
+    "title": "Kharmang Fort and the remains of a mountain seat",
+    "summary": "Kharmang’s old fort, Boti Khar, should be distinguished from the palace recorded nearby. Keeping those identities separate is the first step toward understanding the surviving mountain seat.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The name Kharmang Fort can appear beside photographs of an impressive residence, creating the impression that every description refers to the same building. The official archaeological catalogue makes a distinction that should be preserved. It records an old fort called Boti Khar separately from Kharmang Palace. Before interpreting the architecture, an archive needs to establish which asset a photograph or account actually describes."
+      },
+      {
+        "type": "paragraph",
+        "text": "The fort entry characterises Boti Khar as a two-storey structure and attributes its construction to a Kharpon ruler before 1565. It also mentions another fort, Soma Khar, which it says no longer survives. These statements come from a built-heritage inventory rather than a dated building inscription presented with the entry, so their attribution should remain visible."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A fort is not automatically the palace"
+      },
+      {
+        "type": "paragraph",
+        "text": "The separate palace record describes a three-level building associated with Raja Jaffer Ali Khan. It records a rectangular arrangement, a courtyard and verandah on the upper level, and different seasonal and storage uses across the floors. These details should not be transferred to Boti Khar merely because the places are close together or their names are used loosely."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is a practical problem in heritage documentation. A photograph may be correctly located in Kharmang yet incorrectly captioned as a particular fort. An architectural feature may then be repeated in later descriptions until it seems to establish the fort’s form. Careful identification interrupts that chain before an error becomes familiar."
+      },
+      {
+        "type": "paragraph",
+        "text": "The district tourism account explains the name Kharmang through the Balti terms for fort and abundance. That regional association helps explain why several fortified places can enter local histories. It does not mean that one surviving structure represents all of them, or that a regional name can supply a construction date."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What a measured record would clarify"
+      },
+      {
+        "type": "paragraph",
+        "text": "Plans and dated photographs could help separate the surviving assets and document their relationship. Useful questions include where one enclosure ends, how entrances connect to surrounding ground and which wall junctions indicate alteration. Family records and local testimony could add histories of ownership and use, provided those accounts remain attributed."
+      },
+      {
+        "type": "paragraph",
+        "text": "None of this requires turning a private building into an unrestricted visitor attraction. The catalogue records private ownership. Documentation and interpretation should respect the people responsible for the property, and an online description should not imply permission to enter rooms or enclosed ground."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Preserving the right story"
+      },
+      {
+        "type": "paragraph",
+        "text": "The immediate value of Boti Khar is not diminished by uncertainty over individual historical details. On the contrary, the need to distinguish it from neighbouring buildings shows why a precise record matters. Conservation decisions depend on knowing what survives and which history belongs to it."
+      },
+      {
+        "type": "paragraph",
+        "text": "Kharmang deserves an account in which the old fort, the later palace and the memory of other strongholds retain separate identities. Together they can illuminate a mountain seat over time. Merging them into one picturesque monument would make that history simpler, but much less informative."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "heritage-place",
+      "Kharmang Fort (Boti Khar) heritage"
+    ],
+    "province": "Gilgit-Baltistan",
+    "district": "Kharmang",
+    "relatedDistrictIds": [
+      "gilgit-baltistan-kharmang"
+    ],
+    "provinceRegionIds": [
+      "gilgit-baltistan"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-7978"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "heritage-place",
+    "seo": {
+      "title": "Kharmang Fort and the remains of a mountain seat | Virsapur Archives",
+      "description": "Kharmang’s old fort, Boti Khar, should be distinguished from the palace recorded nearby. Keeping those identities separate is the first step toward understanding the surviving mountain seat.",
+      "primaryKeyword": "Kharmang Fort (Boti Khar) heritage",
+      "socialTitle": "Kharmang Fort and the remains of a mountain seat",
+      "socialDescription": "Kharmang’s old fort, Boti Khar, should be distinguished from the palace recorded nearby. Keeping those identities separate is the first step toward understanding the surviving mountain seat."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Kharmang Fort",
+        "url": "https://doam.gov.pk/public/sites/7978",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Kharmang Palace",
+        "url": "https://doam.gov.pk/public/sites/8228",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Kharmang district",
+        "url": "https://e-tourism.visitgilgitbaltistan.gov.pk/districts/kharmang",
+        "publisher": "Government of Gilgit-Baltistan Tourism Department",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Fort andpalacecatalogue derived fromsameunpublishedBuiltHeritageGBinventory:aggregate~185derivedwords. GBdistrict~35. Sixteenthcenturydateattributednotindependentlyconfirmed; nearidenticalsourcecoordinates do not prove identicalasset. No canonicalgeometrychange.\nSource-led draft; factual and cultural editorial review required before publication.",
+    "editorialReason": "Present the documented structure without reconstructing vanished palace life as fact.",
+    "wordCount": 462,
+    "publicationHold": false
+  },
+  {
+    "id": "story-yasins-mudoori-fort-and-contested-remembrance",
+    "type": "story",
+    "slug": "yasins-mudoori-fort-and-contested-remembrance",
+    "title": "Yasin’s Mudoori Fort and contested remembrance",
+    "summary": "Mudoori in Yasin is a place of remembrance as well as a recorded fort. Conflicting dates and casualty figures require explicit source criticism, not a dramatic narrative assembled from repetition.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Mudoori Fort at Sandi in the Yasin valley is not an uncomplicated scenic ruin. Accounts connect it with nineteenth-century violence and the deaths of people who sought protection there. A responsible introduction must acknowledge that association while being careful about the dates, numbers and political explanations attached to it."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Department of Archaeology and Museums’ short catalogue entry gives 1862 for an attack and includes a casualty estimate. Nineteenth-century accounts associated with George Hayward and G. W. Leitner instead place the massacre in 1863. This discrepancy should not be resolved by silently choosing the most frequently repeated version of an online story."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Reading a source and its argument"
+      },
+      {
+        "type": "paragraph",
+        "text": "Leitner’s published historical chronology records violence against women and children at Yasin in 1863. An earlier volume reproduces Hayward’s forceful criticism of the Kashmir authorities and British policy. Editorial notes in the same material qualify some of Hayward’s political assertions, including claims about hereditary rights in Gilgit."
+      },
+      {
+        "type": "paragraph",
+        "text": "That combination is revealing. The text preserves an accusation of serious violence, but it is also part of a dispute about political authority and intervention. Reading the charge and the editorial qualifications together is more informative than extracting a dramatic sentence and treating it as a complete, neutral account."
+      },
+      {
+        "type": "paragraph",
+        "text": "The existence of disagreement does not justify dismissing the suffering being described. It does require separating several questions: what happened, when it happened, who was affected, how many people were involved and what political conclusions a writer wanted readers to draw. Evidence may be stronger for one question than for another."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Remembrance is not a casualty competition"
+      },
+      {
+        "type": "paragraph",
+        "text": "An exact death toll should not be presented merely because precision feels authoritative. Estimates may derive from different witnesses, categories or later retellings. Without reconciliation, a range of incompatible numbers can obscure rather than honour the people remembered."
+      },
+      {
+        "type": "paragraph",
+        "text": "Likewise, a contemporary community’s relationship to the place deserves its own documentation. Oral history can explain how an event is recalled, where commemoration occurs and which family or local narratives remain important. It should not be mined only for colourful details to decorate an account written elsewhere."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What the fort can contribute"
+      },
+      {
+        "type": "paragraph",
+        "text": "The surviving place and the documentary history are related but not identical evidence. A wall or defensible position may help explain the physical setting, yet it cannot independently establish a particular sequence of killings. Archaeological work would need clearly defined questions and sensitivity toward the community’s understanding of the site."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mudoori therefore calls for an interpretation that combines acknowledgement with restraint. Its record should preserve source dates, identify disagreements and avoid converting uncertainty into either spectacle or denial. The most useful first account is one that makes the evidence traceable and leaves space for local testimony. That approach recognises the place’s seriousness while refusing to manufacture a certainty the sources do not support."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "heritage-place",
+      "Mudoori Fort, Yasin heritage"
+    ],
+    "province": "Gilgit-Baltistan",
+    "district": "Gupis-Yasin",
+    "relatedDistrictIds": [
+      "gilgit-baltistan-gupis-yasin"
+    ],
+    "provinceRegionIds": [
+      "gilgit-baltistan"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-8030"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "heritage-place",
+    "seo": {
+      "title": "Yasin’s Mudoori Fort and contested remembrance | Virsapur Archives",
+      "description": "Mudoori in Yasin is a place of remembrance as well as a recorded fort. Conflicting dates and casualty figures require explicit source criticism, not a dramatic narrative assembled from repetition.",
+      "primaryKeyword": "Mudoori Fort, Yasin heritage",
+      "socialTitle": "Yasin’s Mudoori Fort and contested remembrance",
+      "socialDescription": "Mudoori in Yasin is a place of remembrance as well as a recorded fort. Conflicting dates and casualty figures require explicit source criticism, not a dramatic narrative assembled from repetition."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Mudoori Fort Sandi Yasin",
+        "url": "https://doam.gov.pk/public/sites/8030",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Dardistan in1866,1886and1893",
+        "url": "https://pahar.in/pahar/Books%20and%20Articles/Afghanistan/1893%20Dardistan%20in%201866%2C%201886%20and%201893%20by%20Leitner%20s.pdf",
+        "publisher": "G.W.Leitner, historical account",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "The Languages and Races of Dardistan,1878",
+        "url": "https://pahar.in/pahar/Books%20and%20Articles/Afghanistan/1878%20Languages%20and%20Races%20of%20Dardistan%20by%20Leitner%20s.pdf",
+        "publisher": "G.W.Leitner,including George Hayward correspondence",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "DOAMshortentry~65. Leitner1893chronology indexedp73read~55; 1878Haywardappendix indexedpassageandeditorialfootnotesread~100; directPDF403notclaimingfullread. Underlyingoverlappingaccountsaggregate~155. Catalogue1862vsHayward1863explicit; casualtynumberomitted. Historicalsourcecolonialviewpointacknowledged.\nSource-led draft; factual and cultural editorial review required before publication.",
+    "editorialReason": "Distinguish physical remains, historical documentation and later memory with attributed accounts.",
+    "wordCount": 447,
+    "publicationHold": false
+  },
+  {
+    "id": "story-qalamdarchi-fort-at-a-northern-passage",
+    "type": "story",
+    "slug": "qalamdarchi-fort-at-a-northern-passage",
+    "title": "Qalamdarchi Fort at a northern passage",
+    "summary": "Qalamdarchi Fort looks toward the northern approaches of Hunza. Its twentieth-century military purpose is clearer when the route network, water supply and surviving enclosure are considered together.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Qalamdarchi Fort belongs to the northern approaches of Hunza, above Misgar and in relation to routes toward the Kilik and Mintaka passes. Its location makes a wide landscape relevant to a comparatively compact structure. The fort was not intended to dominate a great urban square; its purpose is better understood through movement along mountain corridors."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Gilgit-Baltistan Tourism Department dates its construction to 1932–33 during British rule. The Department of Archaeology and Museums classifies it as a twentieth-century military building. These records offer a more precise framework than describing it simply as an ancient frontier fort, a phrase that can conceal a very recent historical context."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "An enclosure with practical requirements"
+      },
+      {
+        "type": "paragraph",
+        "text": "The archaeological catalogue describes an oblong plan, a defensive wall and a watchtower at one corner. It also records a well within the enclosure. Together these features shift attention from the distant view to the requirements of the people stationed there: observation, protected space and water."
+      },
+      {
+        "type": "paragraph",
+        "text": "A well is not an incidental detail in such an account. A position chosen for visibility also has to support occupation. The relationship between supply and defensibility is therefore worth examining alongside the direction in which a watchtower faces. An imposing location alone does not explain how a post functioned."
+      },
+      {
+        "type": "paragraph",
+        "text": "The tourism department notes use by successive military formations and changes during that use. This means that the present appearance should not be assumed to reproduce the original building without alteration. Dated plans or photographs would help distinguish construction, adaptation and repair."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Routes are not empty lines"
+      },
+      {
+        "type": "paragraph",
+        "text": "A map showing the passes can explain the fort’s broader setting, but it should not make the valleys appear empty before the arrival of a military post. A route is experienced by people with different purposes, obligations and local knowledge. Trade, residence and political control are related dimensions, not interchangeable descriptions."
+      },
+      {
+        "type": "paragraph",
+        "text": "The term frontier also deserves a date. Boundaries and institutions change, and a twentieth-century surveillance position should not be projected unchanged into every earlier period of movement through the region. Historical maps can be especially useful when their dates and intended purposes are stated clearly."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A careful visual record"
+      },
+      {
+        "type": "paragraph",
+        "text": "The most informative presentation would pair a contextual landscape image with an accurately identified view of the enclosure. A caption should explain the connection between the fort and the northern approaches without turning every visible valley into a documented historic itinerary."
+      },
+      {
+        "type": "paragraph",
+        "text": "Military association also means that heritage interest should not be confused with access permission. A catalogue description is not an invitation to enter controlled ground or photograph restricted activity. Public interpretation can remain useful without supplying operational details."
+      },
+      {
+        "type": "paragraph",
+        "text": "Qalamdarchi’s significance lies in the relationship between a particular building and the geography it was meant to observe. Its restrained architecture can be read through that relationship. Giving it a clear twentieth-century history makes the place more distinctive than a vague claim of timeless strategic importance."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "heritage-place",
+      "Qalamdarchi Fort heritage"
+    ],
+    "province": "Gilgit-Baltistan",
+    "district": "Hunza",
+    "relatedDistrictIds": [
+      "gilgit-baltistan-hunza"
+    ],
+    "provinceRegionIds": [
+      "gilgit-baltistan"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-7809"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "heritage-place",
+    "seo": {
+      "title": "Qalamdarchi Fort at a northern passage | Virsapur Archives",
+      "description": "Qalamdarchi Fort looks toward the northern approaches of Hunza. Its twentieth-century military purpose is clearer when the route network, water supply and surviving enclosure are considered together.",
+      "primaryKeyword": "Qalamdarchi Fort heritage",
+      "socialTitle": "Qalamdarchi Fort at a northern passage",
+      "socialDescription": "Qalamdarchi Fort looks toward the northern approaches of Hunza. Its twentieth-century military purpose is clearer when the route network, water supply and surviving enclosure are considered together."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Qalamdarchi Fort",
+        "url": "https://doam.gov.pk/public/sites/7809",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Kalamdarchi Fort",
+        "url": "https://www.visitgilgitbaltistan.gov.pk/tour/id/43",
+        "publisher": "Government of Gilgit-Baltistan Tourism Department",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Kalam Darchi Fort destination record",
+        "url": "https://e-tourism.visitgilgitbaltistan.gov.pk/tourist-destinations/kalamdarchi-fort",
+        "publisher": "Government of Gilgit-Baltistan Tourism Department",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "DOAM~135. Tourismtwoentriesaggregate~85date1932–33/locationonly; newerentrybroadpreborderclaimnotadopted. Avoid exoticising saintetymology; no currentmilitaryschedule/accessinstructions.\nSource-led draft; factual and cultural editorial review required before publication.",
+    "editorialReason": "Explain the fort’s strategic setting without using a modern adventure-travel frame.",
+    "wordCount": 465,
+    "publicationHold": false
+  },
+  {
+    "id": "story-rani-baoli-and-hammams-water-architecture-in-bhimber",
+    "type": "story",
+    "slug": "rani-baoli-and-hammams-water-architecture-in-bhimber",
+    "title": "Rani Baoli and Hammams: water architecture in Sudhnoti",
+    "summary": "Rani Baoli stands at Palandri in Sudhnoti, not Bhimber. Its stepped tanks, courtyard and adjoining cells reveal a carefully organised water building whose precise chronology remains uncertain.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Rani Baoli and its adjoining cells belong to Palandri in Sudhnoti. The location needs stating at the outset because a mistaken association with Bhimber can send the building into the wrong regional story. The official archaeological record places it near Palandri’s administrative centre, and the AJK archaeology department includes it among Sudhanoti’s heritage sites."
+      },
+      {
+        "type": "paragraph",
+        "text": "The building offers a compact lesson in how water can organise architecture. It is not simply a well with an ornamental surround. The Department of Archaeology and Museums describes a rectangular enclosure entered from the south, with an octagonal stepped tank in the courtyard and rooms arranged along its northern and western sides."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Water, enclosure and privacy"
+      },
+      {
+        "type": "paragraph",
+        "text": "The catalogue records another stepped tank within the larger central cell, together with smaller troughs outside the enclosure. It also notes pointed-arched entrances, surviving wooden doors and perforated projections associated with curtains. These details suggest that access, privacy and different points of water use were considered within the design."
+      },
+      {
+        "type": "paragraph",
+        "text": "The rooms are described as possible hammams rather than every function being conclusively established. That qualification matters. The presence of a tank or enclosed chamber is not enough to reconstruct a complete bathing routine, heating system or division of users. Those interpretations require additional evidence from the fabric and documentary record."
+      },
+      {
+        "type": "paragraph",
+        "text": "The distinction between the central courtyard and individual cells is nevertheless observable in the published description. Water is encountered at more than one scale: in a shared open area, within a room and at the exterior edge. A plan can make those relationships clearer than a photograph concerned only with a picturesque arch."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A name and an unsettled chronology"
+      },
+      {
+        "type": "paragraph",
+        "text": "The AJK archaeology department also calls the site Balaspuri Baoli and associates its construction with a rani of Balaspur in the Dogra period. The federal catalogue gives a broad relative chronology of 1799–1849. These attributions do not establish an exact construction year, and they should not be combined into an invented inscription or foundation event."
+      },
+      {
+        "type": "paragraph",
+        "text": "Names can preserve patronage traditions even where documentary details remain incomplete. Recording the tradition is worthwhile, provided readers can distinguish it from a date demonstrated by a contemporary source. A measured survey, archival search and study of repairs could help refine the sequence."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The building as a connected system"
+      },
+      {
+        "type": "paragraph",
+        "text": "Conservation should consider the tanks, walls, doors and external ground together. Repairing an attractive façade while overlooking drainage or structural movement would address only part of the building. Equally, a newly uniform surface could hide evidence of different construction episodes."
+      },
+      {
+        "type": "paragraph",
+        "text": "Rani Baoli rewards close attention precisely because its scale is manageable. A reader can follow the movement from entrance to courtyard to chamber and consider how water structured that movement. Keeping the location correct and the uncertain functions qualified allows the architecture to speak more clearly, without relying on a romantic story that the available evidence cannot securely sustain."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "heritage-place",
+      "Rani Baoli and Hammams heritage"
+    ],
+    "province": "Azad Jammu and Kashmir",
+    "district": "Sudhnoti",
+    "relatedDistrictIds": [
+      "azad-kashmir-sudhnoti"
+    ],
+    "provinceRegionIds": [
+      "azad-kashmir"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-10366"
+    ],
+    "relatedStoryIds": [
+      "story-stepwells-as-designed-journeys-to-water",
+      "story-bhimber-and-the-architecture-of-a-route"
+    ],
+    "contentType": "heritage-place",
+    "seo": {
+      "title": "Rani Baoli and Hammams: water architecture in Sudhnoti | Virsapur Archives",
+      "description": "Rani Baoli stands at Palandri in Sudhnoti, not Bhimber. Its stepped tanks, courtyard and adjoining cells reveal a carefully organised water building whose precise chronology remains uncertain.",
+      "primaryKeyword": "Rani Baoli and Hammams heritage",
+      "socialTitle": "Rani Baoli and Hammams: water architecture in Sudhnoti",
+      "socialDescription": "Rani Baoli stands at Palandri in Sudhnoti, not Bhimber. Its stepped tanks, courtyard and adjoining cells reveal a carefully organised water building whose precise chronology remains uncertain."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Rani Baoli & Hammams",
+        "url": "https://doam.gov.pk/public/sites/10366",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Sudhanoti heritage sites",
+        "url": "https://archaeology.ajk.gov.pk/sudhanoti/",
+        "publisher": "AJK Tourism and Archaeology Department",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "PLAN CORRECTION:index123titleBhimber->Sudhnoti; stableID/slugretained perroot; plandistrictandrelateddistrictalreadySudhnoti. DOAMarchitecture~185derivedwords; AJK~60. DOAM1799–1849relativechronologyvsAJKDogra attribution notresolved. Hammamfunctionqualifiedasofficialcataloguepossibility.\nSource-led draft; factual and cultural editorial review required before publication.",
+    "editorialReason": "Read the linked stepped-well and bath structures as one ensemble.",
+    "wordCount": 457,
+    "publicationHold": false
+  },
+  {
+    "id": "story-throachi-fort-a-local-stronghold-in-its-terrain",
+    "type": "story",
+    "slug": "throachi-fort-a-local-stronghold-in-its-terrain",
+    "title": "Throachi Fort: a local stronghold in its terrain",
+    "summary": "Throachi Fort follows the rock on which it stands. Its irregular enclosure, water storage and surviving bastions explain more about the stronghold than an unsupported account of a famous siege.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Throachi Fort is a useful reminder that a defensive building need not begin with a regular geometric plan. The published archaeological survey describes a fort near Gulpur in Kotli whose enclosure follows a rock outcrop. Its irregular form is therefore part of the relationship between construction and terrain, not a failure to achieve symmetry."
+      },
+      {
+        "type": "paragraph",
+        "text": "The record identifies limestone blocks set in lime mortar and two water-storage pits cut into the softer bedrock within the enclosure. These details bring together two aspects of occupation: controlling a defensible position and sustaining people within it. A strong wall and a water supply address different needs, but neither can be understood entirely in isolation."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Following the ground"
+      },
+      {
+        "type": "paragraph",
+        "text": "An irregular plan encourages a different kind of looking. Instead of searching for a central axis, the reader can ask where the rock changes level, where access is possible and how the walls respond. A measured plan would make those decisions easier to follow than a frontal photograph alone."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is also a reason to resist judging the fort primarily by size. A compact stronghold can exploit a difficult approach, while a larger enclosure may face other constraints. The relevant question is how a particular position was organised, not whether it resembles a more famous fort elsewhere."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Reading what is no longer present"
+      },
+      {
+        "type": "paragraph",
+        "text": "The survey records bastions at the ends of the entrance wall and evidence of an upper storey whose timber floor no longer survives. It describes stairs and defensive wall features. These observations allow an interpretation of vertical movement without pretending that every lost room can be reconstructed confidently."
+      },
+      {
+        "type": "paragraph",
+        "text": "An absent floor changes the way a ruin is perceived. Spaces that were once separated may now appear continuous, and a view through the structure may be a result of loss rather than original design. Interpretive drawings should identify reconstructed portions clearly so that possibility does not become apparent fact."
+      },
+      {
+        "type": "paragraph",
+        "text": "The same care applies to the water pits. Their presence is recorded, but a complete account of supply, cleaning and distribution would require further investigation. A visible feature can establish a useful question without answering every aspect of operation."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Later meanings within an older place"
+      },
+      {
+        "type": "paragraph",
+        "text": "The catalogue mentions a shrine associated with a local holy man, while explicitly acknowledging that its history could not be established. That caution should remain in any retelling. The shrine may be important to understanding later relationships with the ruins, but the record does not justify an invented ancient sacred lineage."
+      },
+      {
+        "type": "paragraph",
+        "text": "Throachi’s strongest introduction is therefore architectural and spatial. Rock, masonry, storage and circulation provide enough evidence for a thoughtful account without attaching an unsupported siege narrative. The place can be appreciated for the decisions visible in its surviving fabric and for the questions that remain."
+      },
+      {
+        "type": "paragraph",
+        "text": "Preserving those distinctions is itself a form of care. It lets future documentation add to the story rather than first having to undo a confident but untraceable history."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "heritage-place",
+      "Throachi Fort heritage"
+    ],
+    "province": "Azad Jammu and Kashmir",
+    "district": "Kotli",
+    "relatedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "provinceRegionIds": [
+      "azad-kashmir"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6671"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "heritage-place",
+    "seo": {
+      "title": "Throachi Fort: a local stronghold in its terrain | Virsapur Archives",
+      "description": "Throachi Fort follows the rock on which it stands. Its irregular enclosure, water storage and surviving bastions explain more about the stronghold than an unsupported account of a famous siege.",
+      "primaryKeyword": "Throachi Fort heritage",
+      "socialTitle": "Throachi Fort: a local stronghold in its terrain",
+      "socialDescription": "Throachi Fort follows the rock on which it stands. Its irregular enclosure, water storage and surviving bastions explain more about the stronghold than an unsupported account of a famous siege."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Throachi Fort,2020survey record",
+        "url": "https://doam.gov.pk/public/sites/6671",
+        "publisher": "Department of Archaeology and Museums; Taxila Institute of Asian Civilizations survey",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Official2020survey entry closely read. Approximately190derivedwords factualarchitecture/location/shrineuncertainty; remainderexplicitoriginalinterpretivequestions. Sparseevidence acknowledged; noinventedfounder/siegeexactdate. Single-source factual scope intentionallybounded.\nSource-led draft; factual and cultural editorial review required before publication.",
+    "editorialReason": "Examine documented surviving fabric and landscape rather than an unsourced siege narrative.",
+    "wordCount": 468,
+    "publicationHold": false
+  },
+  {
+    "id": "story-sarai-kharbuza-a-roadside-stop-within-the-modern-capital",
+    "type": "story",
+    "slug": "sarai-kharbuza-a-roadside-stop-within-the-modern-capital",
+    "title": "Sarai Kharbuza: a roadside stop within the modern capital",
+    "summary": "Sarai Kharbuza preserves the logic of a roadside enclosure within Islamabad’s wider landscape. Jahangir’s account and the surviving fabric answer different questions about its history.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Islamabad’s modern identity can make older roadside settlements seem like exceptions to the capital’s history. Sarai Kharbuza suggests a different approach: the present city occupies a landscape through which people were already travelling, stopping and building. The sarai belongs to that longer geography of movement."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Department of Archaeology and Museums describes a square enclosure with arched gateways in the northern and southern walls. Living cells and a verandah run along the perimeter. This arrangement makes the building intelligible as a place that combined an inward-facing protected space with access from a route outside it."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A name in an emperor’s journey"
+      },
+      {
+        "type": "paragraph",
+        "text": "Jahangir’s memoir records a stop at Kharbuza during his journey toward Kabul in 1607. He associates the name with a melon-shaped dome built earlier by the Gakhars, who collected tolls from travellers. The passage is valuable evidence for how the place was described at that time."
+      },
+      {
+        "type": "paragraph",
+        "text": "It is not, however, a measured survey of all the surviving sarai. The emperor’s mention of a dome does not date every wall now identified with the complex. Nor should a brief account of a stop be expanded into a detailed description of accommodation that the text does not provide."
+      },
+      {
+        "type": "paragraph",
+        "text": "This distinction is especially important where an evocative name attracts repeated retelling. A place-name explanation may be historically recorded while the relationship between the named feature and later buildings remains a separate question. Keeping both points clear produces a more reliable narrative than assigning the whole site to one celebrated visit."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Materials reveal different episodes"
+      },
+      {
+        "type": "paragraph",
+        "text": "The archaeological catalogue records small-brick masonry with lime-surkhi plaster. It also describes a mosque at the northwestern corner that has been repaired and covered with cement mortar, with painted decoration inside. These observations indicate why a uniform date should not be assumed from the appearance of the complex today."
+      },
+      {
+        "type": "paragraph",
+        "text": "The record additionally reports remains of a baoli associated with an earlier period beneath the mosque area. Because that information is presented as a reported identification, it should not be turned into a fully reconstructed water system without further investigation."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A roadside building within a living settlement"
+      },
+      {
+        "type": "paragraph",
+        "text": "The most useful questions concern relationships: how the gateways connect to the surrounding streets, how cells relate to the enclosure and which parts preserve earlier materials. Answering them requires documentation that respects current occupants and users rather than treating a living place as an empty archaeological diagram."
+      },
+      {
+        "type": "paragraph",
+        "text": "A sarai also invites reflection on the infrastructure of travel. Routes depend on places where people can pause, organise goods and obtain necessities. Such support is easy to overlook when history is told only through journeys between major cities."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sarai Kharbuza makes that intermediate scale visible. Its value lies in the meeting of a documented stopping place, surviving architectural arrangements and later adaptation. The modern capital becomes historically richer when those layers are recognised rather than forced into a single, picturesque origin story."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "heritage-place",
+      "Sarai Kharbuza heritage"
+    ],
+    "province": "Islamabad Capital Territory",
+    "district": "Islamabad",
+    "relatedDistrictIds": [
+      "islamabad-islamabad"
+    ],
+    "provinceRegionIds": [
+      "islamabad"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6227"
+    ],
+    "relatedStoryIds": [
+      "story-sarai-architecture-and-the-logistics-of-travel",
+      "story-the-capitals-older-places"
+    ],
+    "contentType": "heritage-place",
+    "seo": {
+      "title": "Sarai Kharbuza: a roadside stop within the modern capital | Virsapur Archives",
+      "description": "Sarai Kharbuza preserves the logic of a roadside enclosure within Islamabad’s wider landscape. Jahangir’s account and the surviving fabric answer different questions about its history.",
+      "primaryKeyword": "Sarai Kharbuza heritage",
+      "socialTitle": "Sarai Kharbuza: a roadside stop within the modern capital",
+      "socialDescription": "Sarai Kharbuza preserves the logic of a roadside enclosure within Islamabad’s wider landscape. Jahangir’s account and the surviving fabric answer different questions about its history."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Sarai Kharbuza",
+        "url": "https://doam.gov.pk/public/sites/6227",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "The Tuzuk-i-Jahangiri,volumeI,p98",
+        "url": "https://www.gutenberg.org/files/53674/53674-h/53674-h.htm",
+        "publisher": "Jahangir; translation Alexander Rogers,edited Henry Beveridge",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "DOAMlivefetchsuccessfulafterwebtimeout; approximately175derivedwords. JahangirmemoirKharbuza passagep98read~80derivedwords, noverbatimquotation. Use1607journeycontextnotfrequentlymisstated1605. Nooriginalfoundingyearorfreeaccommodationclaim.\nSource-led draft; factual and cultural editorial review required before publication.",
+    "editorialReason": "Recover the architectural logic of a sarai without claiming that every surviving wall shares one date.",
+    "wordCount": 461,
+    "publicationHold": false
+  },
+  {
+    "id": "story-early-farming-in-the-kachi-plain-evidence-rather-than-an-origin-myth",
+    "type": "story",
+    "slug": "early-farming-in-the-kachi-plain-evidence-rather-than-an-origin-myth",
+    "title": "Early farming in the Kachi plain: evidence rather than an origin myth",
+    "summary": "Mehrgarh is central to understanding early farming in the Kachi plain, but evidence for crops and livestock is not the same as proof of a single isolated invention. The important story is a process, not an origin slogan.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Mehrgarh’s importance is often compressed into a declaration that farming began here. That statement is too blunt for the evidence. The site in the Kachi plain is central to the study of early food production in northwestern South Asia, but the questions it raises are more interesting than a competition to identify one first place."
+      },
+      {
+        "type": "paragraph",
+        "text": "The published field reports bring together architecture, burials, tools, plants and animals. Yale’s archaeological index of those reports describes evidence relating to early cereals and livestock, including sheep, goats and cattle. Farming is therefore studied through several connected categories of material, not inferred from a single object that looks agricultural."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Cultivation and domestication are different questions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cultivation concerns what people do with plants: tending, sowing or managing them. Domestication concerns changes in populations of plants or animals through their relationship with people. The two processes are connected, but evidence for one does not automatically demonstrate the timing or location of the other."
+      },
+      {
+        "type": "paragraph",
+        "text": "Archaeobotanist Dorian Fuller’s review emphasises the need to study the physical changes associated with domestication and the gaps in evidence for earlier foraging and initial cultivation. In its discussion of Balochistan, the review notes the importance of introduced crops and livestock alongside unresolved questions about local developments and connections farther west."
+      },
+      {
+        "type": "paragraph",
+        "text": "This approach avoids a false choice between complete isolation and passive borrowing. A community can adopt a crop from elsewhere while developing distinctive ways of growing, storing or combining it with other resources. Movement of a plant does not mean that the whole social system travelled unchanged with it."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What the assemblage can establish"
+      },
+      {
+        "type": "paragraph",
+        "text": "The field-report description identifies cereal evidence including barley, with variation in the degree to which domesticated characteristics are apparent. That qualification matters. A grain is not merely a token in a list of foods; its identification, condition and archaeological context affect the conclusions drawn from it."
+      },
+      {
+        "type": "paragraph",
+        "text": "The same applies to animal remains. Species identification alone does not tell us whether an animal was hunted, herded or obtained through exchange. Researchers have to examine additional patterns rather than treating every familiar domestic species as proof of a fully developed farming economy."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A history of decisions and connections"
+      },
+      {
+        "type": "paragraph",
+        "text": "An origin myth makes change appear instantaneous. Archaeological evidence instead encourages questions about repeated choices: how people obtained food, managed risk, organised storage and responded to local conditions. Different parts of that process may have changed at different speeds."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chronology also needs to remain open to revision as better samples and methods become available. An early date repeated in textbooks should not substitute for checking which deposit was dated and how the result was obtained."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mehrgarh is most valuable when it is allowed to complicate the story. It reveals early communities making livelihoods through a combination of practices and relationships. Understanding that process gives the Kachi plain a substantial place in the history of farming without asking the site to prove a simplified claim of exclusive invention."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "archaeology",
+      "Mehrgarh early farming"
+    ],
+    "province": "Balochistan",
+    "district": "Kachhi",
+    "relatedDistrictIds": [
+      "balochistan-kachhi"
+    ],
+    "provinceRegionIds": [
+      "balochistan"
+    ],
+    "relatedHeritageIds": [
+      "curated-mehrgarh"
+    ],
+    "relatedStoryIds": [
+      "story-mehrgarh-before-the-indus-cities",
+      "story-radiocarbon-dates-are-ranges-not-birthdays",
+      "story-animal-bones-and-the-limits-of-ancient-menus",
+      "story-terracotta-figurines-without-invented-identities"
+    ],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "Early farming in the Kachi plain: evidence rather than an origin myth | Virsapur Archives",
+      "description": "Mehrgarh is central to understanding early farming in the Kachi plain, but evidence for crops and livestock is not the same as proof of a single isolated invention. The important story is a process, not an origin slogan.",
+      "primaryKeyword": "Mehrgarh early farming",
+      "socialTitle": "Early farming in the Kachi plain: evidence rather than an origin myth",
+      "socialDescription": "Mehrgarh is central to understanding early farming in the Kachi plain, but evidence for crops and livestock is not the same as proof of a single isolated invention. The important story is a process, not an origin slogan."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Finding Plant Domestication in the Indian Subcontinent",
+        "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/658900",
+        "publisher": "Dorian Q.Fuller,Current Anthropology,2011",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Mehrgarh Field Reports1975–1985,publication description",
+        "url": "https://ehrafarchaeology.yale.edu/traditions/aq40/documents/002",
+        "publisher": "Yale eHRAF Archaeology",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Archaeological Site of Mehrgarh",
+        "url": "https://whc.unesco.org/en/tentativelists/1876/",
+        "publisher": "UNESCO World Heritage Centre",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "FullerabstractandindexedBaluchistansectionread~175derivedwords; fulltext403notclaimedread. Yaleindexedprimaryfieldreportdescription~100. UNESCOlocation~12,cumulativeunder200. Avoidold7000BCEpresentedsettled; revisedchronologyhandledinarticle19,notreusedMutinbudget. Cultivation/domesticationdistinctionnotclaimallmorphologiesdocumented.\nSource-led draft; factual and cultural editorial review required before publication.",
+    "editorialReason": "Separate plant, animal and settlement evidence from claims that one place invented agriculture.",
+    "wordCount": 468,
+    "publicationHold": false
+  },
+  {
+    "id": "story-how-archaeologists-build-an-indus-chronology",
+    "type": "story",
+    "slug": "how-archaeologists-build-an-indus-chronology",
+    "title": "How archaeologists build an Indus chronology",
+    "summary": "An Indus chronology is built by connecting stratigraphy, artefact comparison and scientific dating. Period names organise the evidence, but they should not be mistaken for events that happened everywhere at once.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A timeline of the Indus civilisation can look deceptively simple: an early phase, an urban phase and a later phase arranged in neat blocks. The archaeological work behind those blocks is less tidy. Researchers have to establish relationships between deposits, compare material and evaluate dates before deciding how a sequence should be described."
+      },
+      {
+        "type": "paragraph",
+        "text": "A particularly revealing example appears in Dales and Kenoyer’s report on the Harappa Project’s 1986–89 seasons. The authors explain the need for a secure internal relative chronology supported by radiocarbon dates. They also warn that broad labels can obscure regional and temporal variation. Their numbered periods were analytical tools, not natural divisions waiting to be discovered intact."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "First establish the order"
+      },
+      {
+        "type": "paragraph",
+        "text": "Relative chronology asks which event or deposit came before another. A floor covered by later material, a wall cut by a pit or a sequence of rebuilding can provide such relationships. The result is an order of events even before any calendar date has been attached."
+      },
+      {
+        "type": "paragraph",
+        "text": "That order is not always a simple vertical stack. Later activity can cut into earlier deposits, while older material can be moved into a newer fill. The location and character of a find matter as much as the depth at which it appears."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Harappa report’s caution about terminology is important here. If material is assigned to a phase solely because it resembles another assemblage, the classification should not then be used uncritically as independent proof that the two deposits are exactly contemporary."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Bringing dates into a recorded sequence"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Beas Landscape and Settlement Survey provides a concrete example from a test trench. Its authors distinguish cultural fills, hearths, burnt floors, water-related deposits and mudbrick structures. Radiocarbon results from different positions in that sequence were considered alongside the pottery rather than replacing the stratigraphic observations."
+      },
+      {
+        "type": "paragraph",
+        "text": "The published discussion also treats a possible early occupation as something that further study could resolve. That wording is part of the result, not an inconvenience to remove from a public account. A small number of diagnostic-looking sherds can support a hypothesis without making it final."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "From one settlement to a region"
+      },
+      {
+        "type": "paragraph",
+        "text": "Connecting a local sequence to an Indus-wide chronology requires another step. Similar changes need not occur in every settlement at precisely the same moment. A regional phase is a useful framework for comparison, but it should not erase differences in the evidence from particular places."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is why a good timeline should identify approximate ranges, the source of its dates and the meaning of its period labels. It should also distinguish an older published framework from a later revision rather than mixing their dates without explanation."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chronology is not merely a preliminary list of numbers attached to a finished history. It is an argument about relationships in the evidence. Understanding how that argument is built makes the Indus past more accessible, because readers can see why an interpretation changes and what new work would be needed to improve it."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "archaeology",
+      "Indus civilisation chronology"
+    ],
+    "province": "",
+    "district": "",
+    "relatedDistrictIds": [
+      "punjab-sahiwal",
+      "sindh-larkana"
+    ],
+    "provinceRegionIds": [
+      "punjab",
+      "sindh"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6579",
+      "unesco-138"
+    ],
+    "relatedStoryIds": [
+      "story-wells-mohenjodaro",
+      "story-mohenjodaro-lanes",
+      "story-mohenjodaro-architecture",
+      "story-priest-king"
+    ],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "How archaeologists build an Indus chronology | Virsapur Archives",
+      "description": "An Indus chronology is built by connecting stratigraphy, artefact comparison and scientific dating. Period names organise the evidence, but they should not be mistaken for events that happened everywhere at once.",
+      "primaryKeyword": "Indus civilisation chronology",
+      "socialTitle": "How archaeologists build an Indus chronology",
+      "socialDescription": "An Indus chronology is built by connecting stratigraphy, artefact comparison and scientific dating. Period names organise the evidence, but they should not be mistaken for events that happened everywhere at once."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "The Harappa Project1986–1989:New Investigation at an Ancient Indus City",
+        "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer1993_The%20Harappa%20Project%201986-1989%20New%20Investigations.pdf",
+        "publisher": "George F.Dales and J.Mark Kenoyer,1993",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Test Trench and Chronology,Beas survey",
+        "url": "https://www.harappa.com/beas/test-trench-chronology",
+        "publisher": "Rita P.Wright,Joseph Shuldenrein,M.Rafique Mughal; Harappa.com",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "DalesKenoyer1993pp471–472~185derivedwords; historical1993provisionalperiodnumbersnotpresentedcurrent. Beasprimarytesttrench~150derivedwords avoidingoverprecisesinglepointdatesreproducedasbirthday. Remainingmethodologicalanalysisoriginal.\nSource-led draft; factual and cultural editorial review required before publication.",
+    "editorialReason": "Explain how stratigraphy and material comparisons establish phases, not a memorised timeline.",
+    "wordCount": 470,
+    "publicationHold": false
+  },
+  {
+    "id": "story-what-a-pottery-assemblage-can-say-about-a-settlement",
+    "type": "story",
+    "slug": "what-a-pottery-assemblage-can-say-about-a-settlement",
+    "title": "What a pottery assemblage can say about a settlement",
+    "summary": "A pottery assemblage reveals patterns that an isolated decorated vessel cannot. Recording fabric, form, quantity and context helps distinguish evidence of making, use and deposition from attractive speculation.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A decorated pot can make a striking museum object, but an assemblage asks a different question: what can a group of pottery fragments reveal when their relationships are recorded? The answer depends on keeping ordinary material in view. Plain body sherds, damaged rims and undecorated bases can be as important as the pieces selected for display."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Chartered Institute for Archaeologists’ pottery guidance separates attributes such as fabric, form, surface treatment and decoration. It also emphasises quantities, including fragment count and weight. These records allow patterns to be examined rather than leaving interpretation dependent on the most memorable examples."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Counting fragments is not counting pots"
+      },
+      {
+        "type": "paragraph",
+        "text": "One vessel may break into many pieces, while another is represented by a single rim. A hundred sherds therefore do not necessarily mean a hundred pots. The method used to estimate vessel numbers needs to be stated, and different measures may answer different questions."
+      },
+      {
+        "type": "paragraph",
+        "text": "The guidance also recommends retaining the relationship between pottery and its contextual unit. That connection makes it possible to compare material from different deposits or structural areas. A spreadsheet of attractive vessel types without context would lose much of the archaeological value of the collection."
+      },
+      {
+        "type": "paragraph",
+        "text": "Official catalogue descriptions of surface finds illustrate the range that may be present: pitchers, cooking vessels, dishes, bowls, lids and different surface treatments. Such lists can identify a promising assemblage, but surface collection does not provide the same chronological control as material recovered from recorded layers."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A settlement sequence through ceramics"
+      },
+      {
+        "type": "paragraph",
+        "text": "George Dales’s first excavation report on Balakot offers a comparative example. The published abstract distinguishes an earlier occupation sequence from a later Harappan period and notes relationships between its pottery and ceramic traditions in Balochistan and the southern Indus region. The point was not simply that painted pottery existed there, but that excavation could place comparisons within a sequence."
+      },
+      {
+        "type": "paragraph",
+        "text": "That distinction remains useful. Similar decoration may suggest a connection, yet it does not automatically show that a vessel was imported. Clay composition, manufacturing traces and the wider assemblage can support or challenge that interpretation. Appearance is evidence, but it is only one category of evidence."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The journey into the ground"
+      },
+      {
+        "type": "paragraph",
+        "text": "A pottery group also reflects what happened after use. Material can be discarded, moved, broken again or incorporated into later construction. An assemblage from a fill may contain objects older than the event that created the fill. Its significance depends partly on understanding that history of deposition."
+      },
+      {
+        "type": "paragraph",
+        "text": "For a public archive, the best explanation makes these relationships visible without overwhelming the reader with codes. A few carefully chosen examples can show the difference between a fabric group, a vessel form and a decorative treatment."
+      },
+      {
+        "type": "paragraph",
+        "text": "The result is a richer picture of a settlement. Pottery becomes evidence for practices and connections rather than a collection of isolated motifs. The ordinary fragments matter because together, and in context, they allow questions that no single beautiful vessel can answer."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "archaeology",
+      "archaeological pottery assemblages"
+    ],
+    "province": "",
+    "district": "",
+    "relatedDistrictIds": [
+      "punjab-khanewal",
+      "punjab-lodhran"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-8671",
+      "major-doam-8669"
+    ],
+    "relatedStoryIds": [
+      "story-from-sherd-to-published-argument",
+      "story-a-cooking-pot-and-its-traces-of-use",
+      "story-the-perforated-vessel-as-an-archaeological-puzzle"
+    ],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "What a pottery assemblage can say about a settlement | Virsapur Archives",
+      "description": "A pottery assemblage reveals patterns that an isolated decorated vessel cannot. Recording fabric, form, quantity and context helps distinguish evidence of making, use and deposition from attractive speculation.",
+      "primaryKeyword": "archaeological pottery assemblages",
+      "socialTitle": "What a pottery assemblage can say about a settlement",
+      "socialDescription": "A pottery assemblage reveals patterns that an isolated decorated vessel cannot. Recording fabric, form, quantity and context helps distinguish evidence of making, use and deposition from attractive speculation."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Approaches to recording pottery",
+        "url": "https://www.archaeologists.net/work/toolkits/pottery/approaches-recording",
+        "publisher": "Chartered Institute for Archaeologists",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Excavations at Balakot,Pakistan,1973",
+        "url": "https://architexturez.net/doc/doi-10-1179/jfa-1974-1-1-2-3",
+        "publisher": "George F.Dales,Journal of Field Archaeology1974; abstract reproduced by Aζ South Asia",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Archaeological catalogue record8671",
+        "url": "https://doam.gov.pk/public/sites/8671",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Archaeological catalogue record8669",
+        "url": "https://doam.gov.pk/public/sites/8669",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "CIfAprofessionalmethodsrecording~185derivedwords noUKtypologytransferred. Dales1974abstract~95,fullpublisher403honest. DOAMsurfaceassemblageexamplesaggregate~75. RelatedDOAMsitesnotclaimedBalakot; Balakotexplicitcomparativeexcavatedcase.\nSource-led draft; factual and cultural editorial review required before publication.",
+    "editorialReason": "Show why fragments, contexts and proportions matter more than a single attractive pot.",
+    "wordCount": 465,
+    "publicationHold": false
+  },
+  {
+    "id": "story-the-hakra-phase-a-research-label-explained",
+    "type": "story",
+    "slug": "the-hakra-phase-a-research-label-explained",
+    "title": "The Hakra phase: a research label explained",
+    "summary": "Hakra is an archaeological classification built from material evidence, not the securely known name of an ancient people. Its varied pottery and uneven dating require careful use of the label.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The expression Hakra phase can sound like the name of a clearly bounded period ruled by a known people. In archaeological use, it is a research classification derived from material evidence, especially pottery. It helps organise comparisons, but it should not be mistaken for a name recovered from an ancient community’s own written records."
+      },
+      {
+        "type": "paragraph",
+        "text": "The distinction matters because labels travel easily from specialist reports into maps and popular histories. Once printed beside a coloured territory, a ceramic classification can begin to look like a political state. That visual certainty may be much stronger than the evidence on which the original term depended."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What is being grouped together?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alessandro Ceccarelli and Cameron Petrie discuss the varied shapes, surface treatments and manufacturing techniques included within Hakra assemblages. Their review identifies major limitations: many defining collections came from surveyed, unexcavated sites, while secure stratigraphic evidence and absolute chronology remained uneven."
+      },
+      {
+        "type": "paragraph",
+        "text": "The authors also caution that roughened or slurry-treated surfaces occur in several ceramic traditions. Such a treatment cannot reliably date a deposit by itself. This is a useful corrective to the idea that a single visually distinctive sherd always supplies an unambiguous cultural identity."
+      },
+      {
+        "type": "paragraph",
+        "text": "Official archaeological catalogue entries from the wider Punjab record appliqué pottery assigned to the Hakra phase, sometimes alongside grey wares or burnished surfaces. These observations are valuable as records of what surveyors encountered. They do not by themselves establish a complete occupation sequence beneath the collected material."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "From resemblance to a stronger argument"
+      },
+      {
+        "type": "paragraph",
+        "text": "A stronger classification compares several attributes together. Form, fabric, decoration and manufacturing traces may support one another, while the excavated context helps establish their chronological relationship. One resemblance should not outweigh contradictory evidence from the rest of the assemblage."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ceccarelli and Petrie point to material from excavated early levels at Harappa and Jalilpur as useful for refining the discussion, while retaining questions about diversity and dating. The implication is not that the Hakra label should be discarded. It is that its meaning needs to remain connected to the evidence and purpose of a particular study."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A phase is not a person"
+      },
+      {
+        "type": "paragraph",
+        "text": "People can share ways of making vessels without sharing a single government, language or identity. Conversely, a community can use more than one ceramic tradition. The passage from a pottery group to a social explanation therefore requires additional argument, not merely a change in terminology."
+      },
+      {
+        "type": "paragraph",
+        "text": "For an atlas, this means that a Hakra attribution should be accompanied by a short explanation of its basis. Was the material collected on the surface or excavated? Which features were considered diagnostic? Is the date independently supported or inferred through comparison?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Those questions do not make the label unusable. They make it informative. Hakra becomes a way to explore patterns and unresolved relationships in early material culture, rather than a deceptively simple answer to who lived everywhere a particular kind of pottery has been found."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "archaeology",
+      "Hakra phase archaeology"
+    ],
+    "province": "Punjab",
+    "district": "Leiah",
+    "relatedDistrictIds": [
+      "punjab-leiah"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-7980",
+      "major-doam-8159"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "The Hakra phase: a research label explained | Virsapur Archives",
+      "description": "Hakra is an archaeological classification built from material evidence, not the securely known name of an ancient people. Its varied pottery and uneven dating require careful use of the label.",
+      "primaryKeyword": "Hakra phase archaeology",
+      "socialTitle": "The Hakra phase: a research label explained",
+      "socialDescription": "Hakra is an archaeological classification built from material evidence, not the securely known name of an ancient people. Its varied pottery and uneven dating require careful use of the label."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Cultural Evolutionary Paradigms and Technological Transformations",
+        "url": "https://easaa.org/wp-content/uploads/2023/01/Alessandro-Ceccarelli-1.pdf",
+        "publisher": "Alessandro Ceccarelli and Cameron A.Petrie",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Hakra-phase surface collection record7980",
+        "url": "https://doam.gov.pk/public/sites/7980",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Hakra-phase surface collection record8159",
+        "url": "https://doam.gov.pk/public/sites/8159",
+        "publisher": "Department of Archaeology and Museums",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "CeccarelliPetriepp10–11specificHakraargument~190derivedwords; avoidreuseelsewhereexcept<=10. DOAMtwoentries~75aggregate. Nofixedethnicity/dynasty/dateorallappliquereliablediagnostic. Surfaceobservationversussecurestratigraphyexplicit.\nSource-led draft; factual and cultural editorial review required before publication.",
+    "editorialReason": "Clarify the term and limits of attribution rather than imply a bounded ethnic people.",
+    "wordCount": 459,
+    "publicationHold": false
+  }
+]

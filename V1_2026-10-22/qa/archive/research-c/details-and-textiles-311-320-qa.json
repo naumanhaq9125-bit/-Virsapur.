@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-22",
+  "records": [
+    {
+      "index": 311,
+      "id": "story-a-cenotaph-is-not-the-burial-itself",
+      "words": 465,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 312,
+      "id": "story-marble-inlay-as-a-material-assembly",
+      "words": 465,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 313,
+      "id": "story-one-glazed-tile-many-conservation-questions",
+      "words": 473,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 314,
+      "id": "story-carved-wooden-panels-after-their-removal",
+      "words": 473,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 315,
+      "id": "story-an-ajrak-textile-under-close-examination",
+      "words": 455,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 316,
+      "id": "story-ralli-quilts-and-the-evidence-of-stitching",
+      "words": 457,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 317,
+      "id": "story-phulkari-stitch-cloth-and-regional-variation",
+      "words": 460,
+      "references": 1,
+      "status": "review"
+    },
+    {
+      "index": 318,
+      "id": "story-embroidery-motifs-are-not-a-universal-code",
+      "words": 452,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 319,
+      "id": "story-silver-ornaments-and-the-stories-a-museum-label-omits",
+      "words": 472,
+      "references": 1,
+      "status": "review"
+    },
+    {
+      "index": 320,
+      "id": "story-brass-and-copper-water-vessels-in-everyday-life",
+      "words": 452,
+      "references": 2,
+      "status": "review"
+    }
+  ],
+  "duplicateIds": false,
+  "sourceMethod": "Topic-specific primary and institutional sources examined through web pages, selected document passages, indexed excerpts and catalogue metadata. Access and evidence limitations are recorded in individual internalNotes; not every full publication was accessible. No verbatim passages used; original analytical examples are not field observations. References do not imply institutional endorsement. All records require human editorial review."
+}

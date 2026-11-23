@@ -1,0 +1,98 @@
+[
+  {
+    "id": "collaborator-global-shapers-community",
+    "name": "Global Shapers Community",
+    "logo": "assets/collaborators/global-shapers-community.png",
+    "url": "",
+    "width": 271,
+    "height": 217,
+    "sortOrder": 1,
+    "status": "published",
+    "featured": true,
+    "showOnHomepage": true
+  },
+  {
+    "id": "collaborator-rizq",
+    "name": "Rizq",
+    "logo": "assets/collaborators/rizq.png",
+    "url": "",
+    "width": 394,
+    "height": 385,
+    "sortOrder": 2,
+    "status": "published",
+    "featured": true,
+    "showOnHomepage": true
+  },
+  {
+    "id": "collaborator-alkhidmat",
+    "name": "Alkhidmat",
+    "logo": "assets/collaborators/alkhidmat.png",
+    "url": "",
+    "width": 864,
+    "height": 953,
+    "sortOrder": 3,
+    "status": "published",
+    "featured": true,
+    "showOnHomepage": true
+  },
+  {
+    "id": "collaborator-rukh-foundation",
+    "name": "Rukh Foundation",
+    "logo": "assets/collaborators/rukh-foundation.png",
+    "url": "",
+    "width": 329,
+    "height": 173,
+    "sortOrder": 4,
+    "status": "published",
+    "featured": true,
+    "showOnHomepage": true
+  },
+  {
+    "id": "collaborator-earc",
+    "name": "EARC",
+    "logo": "assets/collaborators/earc.png",
+    "url": "",
+    "width": 368,
+    "height": 398,
+    "sortOrder": 5,
+    "status": "published",
+    "featured": true,
+    "showOnHomepage": true
+  },
+  {
+    "id": "collaborator-lahore-museum",
+    "name": "Lahore Museum",
+    "logo": "assets/collaborators/lahore-museum.png",
+    "url": "",
+    "width": 256,
+    "height": 227,
+    "sortOrder": 6,
+    "status": "published",
+    "featured": true,
+    "showOnHomepage": true
+  },
+  {
+    "id": "collaborator-chughtai-public-library",
+    "name": "Chughtai Public Library",
+    "logo": "assets/collaborators/chughtai-public-library.png",
+    "url": "",
+    "width": 386,
+    "height": 377,
+    "sortOrder": 7,
+    "status": "published",
+    "featured": true,
+    "showOnHomepage": true
+  },
+  {
+    "id": "collaborator-digital-archaeology-group",
+    "name": "Digital Archaeology Group",
+    "logo": "assets/collaborators/digital-archaeology-group.png",
+    "url": "",
+    "width": 412,
+    "height": 296,
+    "sortOrder": 8,
+    "status": "published",
+    "featured": true,
+    "showOnHomepage": true
+  }
+]

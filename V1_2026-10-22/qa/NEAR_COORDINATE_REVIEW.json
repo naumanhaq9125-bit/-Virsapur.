@@ -1,0 +1,17 @@
+{
+  "reviewedAt": "2026-10-22",
+  "pairs": [
+    {
+      "ids": ["major-doam-9778", "major-doam-6449"],
+      "decision": "Retain as distinct neighbouring monuments; do not merge or move coordinates.",
+      "reason": "The bathhouse and gateway have separate DOAM identities. WCLA describes the hammam beside Delhi Gate; AKDN identifies the conserved bathhouse in the Delhi Gate area. Close proximity is therefore expected, not evidence of a duplicated place.",
+      "sources": [
+        "https://doam.gov.pk/public/sites/9778",
+        "https://doam.gov.pk/public/sites/6449",
+        "https://walledcitylahore.gop.pk/gates/",
+        "https://the.akdn/en/where-we-work/south-asia/pakistan/walled-city-of-lahore-conservation-pakistan"
+      ],
+      "scope": "Identity/proximity review only. Source coordinates are retained, not claimed as a new survey."
+    }
+  ]
+}

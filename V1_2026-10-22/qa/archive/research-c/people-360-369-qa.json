@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-22",
+  "records": [
+    {
+      "index": 360,
+      "id": "story-iqbal-between-house-manuscript-and-public-memory",
+      "words": 460,
+      "references": 4,
+      "status": "review"
+    },
+    {
+      "index": 361,
+      "id": "story-sadequains-mural-as-a-public-commission",
+      "words": 469,
+      "references": 4,
+      "status": "review"
+    },
+    {
+      "index": 362,
+      "id": "story-anna-molka-ahmed-and-the-building-of-art-education",
+      "words": 473,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 363,
+      "id": "story-yasmeen-lari-conservation-and-the-people-who-use-buildings",
+      "words": 473,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 364,
+      "id": "story-noorjehan-bilgrami-and-the-documentation-of-ajrak",
+      "words": 489,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 365,
+      "id": "story-nusrat-fateh-ali-khan-across-recording-and-live-performance",
+      "words": 487,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 366,
+      "id": "story-shah-abdul-latif-as-a-reader-of-landscapes",
+      "words": 475,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 367,
+      "id": "story-bulleh-shah-reading-a-poet-beyond-famous-quotations",
+      "words": 477,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 368,
+      "id": "story-khwaja-ghulam-farid-and-the-vocabulary-of-rohi",
+      "words": 472,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 369,
+      "id": "story-baba-farid-textual-memory-and-a-historic-place",
+      "words": 477,
+      "references": 2,
+      "status": "review"
+    }
+  ],
+  "duplicateIds": false,
+  "sourceMethod": "Topic-specific primary and institutional sources examined through web pages, selected document passages, indexed excerpts and catalogue metadata. Access and evidence limitations are recorded in individual internalNotes; not every full publication was accessible. No verbatim passages used; original analytical examples are not field observations. References do not imply institutional endorsement. All records require human editorial review."
+}

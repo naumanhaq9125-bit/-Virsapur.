@@ -1,0 +1,208 @@
+{
+  "batch": "170-179",
+  "count": 10,
+  "reviewDate": "2026-10-22",
+  "status": "review",
+  "wordCounts": [
+    {
+      "id": "story-brick-bonds-as-evidence-of-building-change",
+      "words": 470
+    },
+    {
+      "id": "story-lime-mortar-and-the-problem-with-incompatible-repair",
+      "words": 474
+    },
+    {
+      "id": "story-why-timber-matters-in-mountain-architecture",
+      "words": 481
+    },
+    {
+      "id": "story-a-jharokha-looking-out-and-being-seen",
+      "words": 481
+    },
+    {
+      "id": "story-carved-doors-and-the-architecture-of-thresholds",
+      "words": 470
+    },
+    {
+      "id": "story-tile-mosaic-and-glazed-brick-not-interchangeable-terms",
+      "words": 473
+    },
+    {
+      "id": "story-fresco-painted-plaster-and-later-repainting",
+      "words": 483
+    },
+    {
+      "id": "story-ghalibkari-and-the-shaping-of-a-decorated-ceiling",
+      "words": 472
+    },
+    {
+      "id": "story-calligraphy-as-part-of-an-architectural-facade",
+      "words": 479
+    },
+    {
+      "id": "story-the-mihrab-and-the-organisation-of-a-prayer-hall",
+      "words": 467
+    }
+  ],
+  "sourceReadingNote": "DOAM door/haveli records and SPAB brick guidance opened directly; primary institutional project accounts and technical publications read through web excerpts. No technical conclusions inferred solely from linked-place membership. Published evidence does not warrant universal earthquake-proof claims or a site-specific conservation prescription.",
+  "copyrightNote": "No verbatim excerpts. Source-specific paraphrases kept concise; original interpretive questions and clearly hypothetical examples supply the explanatory structure. WCLA monuments entry used only for limited ghalibkari definition and Calligraphers Bazaar location.",
+  "sources": [
+    {
+      "title": "A guide to the repair of old brick walls",
+      "url": "https://www.spab.org.uk/advice/guide-repair-old-brick-walls",
+      "publisher": "Society for the Protection of Ancient Buildings",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Brick",
+      "url": "https://www.engineshed.scot/building-advice/building-materials/brick/",
+      "publisher": "Historic Environment Scotland",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Lime",
+      "url": "https://www.spab.org.uk/advice/lime",
+      "publisher": "Society for the Protection of Ancient Buildings",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Lime mortar in conservation for historic buildings of Pakistan",
+      "url": "https://nja.pastic.gov.pk/journals/index.php/PJS/article/view/4458",
+      "publisher": "Pakistan Journal of Science",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Walled city of Lahore conservation",
+      "url": "https://www-hetz2.the.akdn/en/where-we-work/south-asia/pakistan/walled-city-of-lahore-conservation-pakistan",
+      "publisher": "Aga Khan Development Network",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Shigar Fort Palace",
+      "url": "https://doam.gov.pk/public/sites/7998",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Conservation of Khaplu Palace Complex, Pakistan",
+      "url": "https://www.whitr-ap.org/index.php?classid=1490&newsid=2013&t=show",
+      "publisher": "World Heritage Institute of Training and Research for Asia and the Pacific",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Conservation and development in Gilgit-Baltistan",
+      "url": "https://www-hetz2.the.akdn/en/where-we-work/south-asia/pakistan/conservation-and-development-in-gilgit-baltistan-pakistan",
+      "publisher": "Aga Khan Development Network",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Haveli Nau Nihal Singh, including garden and quarters",
+      "url": "https://doam.gov.pk/public/sites/6446",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Khaplu Fort",
+      "url": "https://www.visitgilgitbaltistan.gov.pk/tour/id/65",
+      "publisher": "Government of Gilgit-Baltistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Khaplu Palace, Yabgo Khar",
+      "url": "https://doam.gov.pk/public/sites/7841",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Haveli Sujan Singh",
+      "url": "https://doam.gov.pk/public/sites/9419",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Haveli-I, Tehsil Talagang",
+      "url": "https://doam.gov.pk/public/sites/6806",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Persian Tiles",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Persian_Tiles.pdf",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Shahjahani Mosque / Jamia Mosque, Thatta",
+      "url": "https://doam.gov.pk/public/sites/5625",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "The Getty Peacock Fresco",
+      "url": "https://www.getty.edu/publications/getty-research-journal/21/the-getty-peacock-fresco/",
+      "publisher": "Getty Research Journal",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Organic Materials in Wall Paintings",
+      "url": "https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/omwp_report.pdf",
+      "publisher": "Getty Conservation Institute",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Lal Burj",
+      "url": "https://walledcitylahore.gop.pk/lal-burj/",
+      "publisher": "Punjab Walled Cities and Heritage Areas Authority",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Monuments: Wazir Khan Mosque",
+      "url": "https://walledcitylahore.gop.pk/monuments/",
+      "publisher": "Punjab Walled Cities and Heritage Areas Authority",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Jahangir's Tomb and Compound",
+      "url": "https://doam.gov.pk/public/sites/6479",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Organic Materials in Wall Paintings",
+      "url": "https://www.getty.edu/projects/organic-materials-wall-paintings/",
+      "publisher": "Getty Conservation Institute",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Calligraphy in Islamic Art",
+      "url": "https://www.metmuseum.org/es/essays/calligraphy-in-islamic-art",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Tile Panel, object 12.34.3",
+      "url": "https://www.metmuseum.org/art/collection/search/446200",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Mihrab, Image 4: Art of the Islamic World",
+      "url": "https://www.metmuseum.org/de/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/featured-works-of-art/image-4",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Mosque architecture, an introduction",
+      "url": "https://smarthistory.org/introduction-to-mosque-architecture/",
+      "publisher": "Smarthistory",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Common types of mosque architecture",
+      "url": "https://smarthistory.org/common-types-of-mosque-architecture/",
+      "publisher": "Smarthistory",
+      "accessDate": "2026-10-22"
+    }
+  ]
+}

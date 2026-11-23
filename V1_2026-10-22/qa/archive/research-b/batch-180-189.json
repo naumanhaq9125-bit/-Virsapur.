@@ -1,0 +1,202 @@
+{
+  "batch": "180-189",
+  "count": 10,
+  "reviewDate": "2026-10-22",
+  "status": "review",
+  "wordCounts": [
+    {
+      "id": "story-a-minaret-is-not-a-clock-tower",
+      "words": 458
+    },
+    {
+      "id": "story-stepwells-as-designed-journeys-to-water",
+      "words": 475
+    },
+    {
+      "id": "story-sarai-architecture-and-the-logistics-of-travel",
+      "words": 477
+    },
+    {
+      "id": "story-defensive-gates-bends-levels-and-lines-of-approach",
+      "words": 466
+    },
+    {
+      "id": "story-bastion-curtain-wall-and-parapet-reading-a-fort",
+      "words": 476
+    },
+    {
+      "id": "story-earthen-forts-and-the-labour-of-maintenance",
+      "words": 476
+    },
+    {
+      "id": "story-stone-temples-of-the-salt-range-a-regional-comparison",
+      "words": 481
+    },
+    {
+      "id": "story-sikh-samadhis-and-regional-architectural-exchange",
+      "words": 461
+    },
+    {
+      "id": "story-colonial-railway-stations-beyond-a-single-style",
+      "words": 477
+    },
+    {
+      "id": "story-the-clock-tower-and-the-making-of-civic-space",
+      "words": 483
+    }
+  ],
+  "sourceReadingNote": "DOAM catalogue entries and UNESCO Rohtas statement read directly, with indexed official excerpts for timeout pages. Getty institutional conservation sources supply bounded comparative context. Full catalogue histories are not copied. Attock Khurd record contains inconsistent dates/classification; Nandana chronology and older samadhi stylistic judgements were not adopted. Current access, clock operation and condition remain unverified.",
+  "copyrightNote": "No quotations. Per-source factual paraphrase bounded, including sources shared across tower topics; original comparisons/questions do not claim to reproduce historical events.",
+  "sources": [
+    {
+      "title": "Mir Masum's Minar and Tomb",
+      "url": "https://doam.gov.pk/public/sites/5135",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Victoria Clock Tower",
+      "url": "https://doam.gov.pk/public/sites/4365",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Mosque architecture, an introduction",
+      "url": "https://smarthistory.org/introduction-to-mosque-architecture/",
+      "publisher": "Smarthistory",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Akbari Baoli, Gujrat Town",
+      "url": "https://doam.gov.pk/public/sites/6544",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Sher Shah Baoli, Wah Buchhran",
+      "url": "https://doam.gov.pk/public/sites/6582",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Losar Baoli, Wah Cantt",
+      "url": "https://doam.gov.pk/public/sites/6413",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Sarai Kharbuza",
+      "url": "https://doam.gov.pk/public/sites/6227",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Begum Ki Sarai",
+      "url": "https://doam.gov.pk/public/sites/6567",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Rohtas Fort",
+      "url": "https://whc.unesco.org/en/list/586/",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Naukot Fort",
+      "url": "https://doam.gov.pk/public/sites/5504",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Harrand Fort",
+      "url": "https://doam.gov.pk/public/sites/6193",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Sangni Fort",
+      "url": "https://doam.gov.pk/public/sites/6922",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "The Delicate Balance of Conserving Earthen Archaeological Sites",
+      "url": "https://www.getty.edu/news/the-delicate-balance-of-conserving-earthen-archaeological-sites/",
+      "publisher": "Getty Conservation Institute",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Conservation and Rehabilitation Plan for the Kasbah of Taourirt",
+      "url": "https://www.getty.edu/projects/conservation-rehabilitation-plan-kasbah-taourirt/",
+      "publisher": "Getty Conservation Institute",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Earthen Architecture Conservation: teaching resources",
+      "url": "https://www.getty.edu/research-conservation/teaching-learning-resources/earthen-architecture-conservation/",
+      "publisher": "Getty Conservation Institute",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Malot Temple",
+      "url": "https://doam.gov.pk/public/sites/6535",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Amb Temple",
+      "url": "https://doam.gov.pk/public/sites/6897",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Temples Along the Indus",
+      "url": "https://www.penn.museum/sites/expedition/temples-along-the-indus/",
+      "publisher": "Penn Museum; Michael W. Meister",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Nandana Fort",
+      "url": "https://doam.gov.pk/public/sites/8267",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Samadh of Ranjit Singh",
+      "url": "https://doam.gov.pk/public/sites/6470",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Mahan Singh Samadhi",
+      "url": "https://doam.gov.pk/public/sites/10110",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Lahore Railway Station",
+      "url": "https://doam.gov.pk/public/sites/10172",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Attock Khurd Railway Station",
+      "url": "https://doam.gov.pk/public/sites/10358",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Golra Railway Station",
+      "url": "https://doam.gov.pk/public/sites/6310",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Ghanta Ghar Multan",
+      "url": "https://doam.gov.pk/public/sites/10385",
+      "publisher": "Department of Archaeology and Museums, Pakistan",
+      "accessDate": "2026-10-22"
+    }
+  ]
+}

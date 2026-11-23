@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-22T18:30:04.928Z",
+  "output": "D:\\Virsapur-Website-Developer-Handoff\\V1_2026-10-22",
+  "preflightOnly": false,
+  "finalAcceptance": true,
+  "fileCount": 1850,
+  "bytes": 308080953,
+  "errors": [],
+  "manualReview": [],
+  "passed": true,
+  "exclusionsFromManifest": [
+    "FILE_MANIFEST.csv",
+    "qa/FILE_INVENTORY.json",
+    "qa/PACKAGE_VERIFICATION.json"
+  ],
+  "secretScan": "High-confidence credential signatures, private-key files, non-template env files and nonempty sensitive template values. No credential values are logged. This is not a guarantee against every possible secret encoding."
+}

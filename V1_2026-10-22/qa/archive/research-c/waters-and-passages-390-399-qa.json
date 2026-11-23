@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-22",
+  "records": [
+    {
+      "index": 390,
+      "id": "story-thar-settlement-around-scarce-water",
+      "words": 479,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 391,
+      "id": "story-manchar-as-a-lived-waterscape",
+      "words": 472,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 392,
+      "id": "story-the-sukkur-crossing-as-a-landscape-of-engineering",
+      "words": 473,
+      "references": 4,
+      "status": "review"
+    },
+    {
+      "index": 393,
+      "id": "story-swats-terraces-and-archaeological-visibility",
+      "words": 471,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 394,
+      "id": "story-the-peshawar-valley-as-a-network-of-places",
+      "words": 460,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 395,
+      "id": "story-chitrals-seasonal-knowledge-and-local-horizons",
+      "words": 481,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 396,
+      "id": "story-the-khyber-passage-and-the-problem-of-the-timeless-gateway",
+      "words": 459,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 397,
+      "id": "story-kachi-plain-the-landscape-around-early-villages",
+      "words": 481,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 398,
+      "id": "story-makrans-inland-routes-and-coastal-horizons",
+      "words": 466,
+      "references": 5,
+      "status": "review"
+    },
+    {
+      "index": 399,
+      "id": "story-khojak-a-pass-transformed-by-a-tunnel",
+      "words": 465,
+      "references": 4,
+      "status": "review"
+    }
+  ],
+  "duplicateIds": false,
+  "sourceMethod": "Topic-specific primary and institutional sources examined through web pages, selected document passages, indexed excerpts and catalogue metadata. Access and evidence limitations are recorded in individual internalNotes; not every full publication was accessible. No verbatim passages used; original analytical examples are not field observations. References do not imply institutional endorsement. All records require human editorial review."
+}

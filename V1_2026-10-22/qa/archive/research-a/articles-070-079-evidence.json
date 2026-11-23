@@ -1,0 +1,275 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 10,
+  "records": [
+    {
+      "articleId": "story-baghsar-fort-walls-courts-and-regional-power",
+      "planIndex": 70,
+      "wordCount": 475,
+      "sourceNotes": "DOAMapproximately65words;2023surveyapproximately120words(sharedbudget71<=75);architectureinventoryapproximately85words. Inventory conflicts on storeys/materials avoided. Jahangir death notasserted;currentrestrictedaccessnotadvised. No precise counts fromweakrecord.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Baghsar Fort",
+          "url": "https://doam.gov.pk/public/sites/6665",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Bhimber heritage survey, Baghsar Fort and Sarai Saad Abad, page673",
+          "url": "https://www.ojs.ahss.org.pk/journal/article/download/278/280/401",
+          "publisher": "Annals of Human and Social Sciences, volume4 number2,2023",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Baghsar Fort",
+          "url": "https://pakheritage.org/baghsar-fort/",
+          "publisher": "Naqoosh-e-Javidan, Architecture History and Heritage of Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-saadabad-caravan-sarai-and-the-architecture-of-stopping",
+      "planIndex": 71,
+      "wordCount": 483,
+      "sourceNotes": "DOAMapproximately185words;AHSSapproximately70words cumulative190with70. Bothsourcesspecificcloseread. No exactfounder or continuouslyoccupiedclaim. Moderninhabitationreported2023notcurrentcensus;relocationplansnotinvented.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Saadabad Caravan Sarai",
+          "url": "https://doam.gov.pk/public/sites/6680",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Bhimber heritage survey, Sarai Saad Abad, page673",
+          "url": "https://www.ojs.ahss.org.pk/journal/article/download/278/280/401",
+          "publisher": "Annals of Human and Social Sciences, volume4 number2,2023",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-rawat-fort-the-enclosure-and-the-tombs",
+      "planIndex": 72,
+      "wordCount": 458,
+      "sourceNotes": "DOAMapproximately180words;RadioPakistanreadindexedapproximately30;yearbookapproximately40(sharedremainder160). Excluded impossible1546SherShahbattleclaim inAPP2016; no assertionpreciseSarangsonsidentities. Designanalysisoriginal.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Rawat Fort",
+          "url": "https://doam.gov.pk/public/sites/6232",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Jamal Shah directs for speedy completion of Rawat Fort",
+          "url": "https://www.radio.gov.pk/06-01-2024/jamal-shah-directs-for-speedy-completion-of-rawat-fort",
+          "publisher": "Radio Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "National Heritage and Culture Division Year Book2022–23, page45",
+          "url": "https://www.heritage.pakistan.gov.pk/SiteImage/Misc/files/Year%20Book%202022-23%2004-11-2024.pdf",
+          "publisher": "National Heritage and Culture Division, Government of Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-pharwala-fort-and-the-gakhar-landscape",
+      "planIndex": 73,
+      "wordCount": 465,
+      "sourceNotes": "DOAMapproximately85words;UNESCOsubmissionapproximately190;yearbookapproximately25 cumulative65with72. Explicit6vs7gatediscrepancy. DOAM54sqkm/garrisonfigures excluded. Traditional1008foundationqualified,notnewcanonicaldata.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Pharwala Fort",
+          "url": "https://doam.gov.pk/public/sites/6224",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Pharwala Fort, Tentative List submission7027",
+          "url": "https://whc.unesco.org/en/tentativelists/7027/",
+          "publisher": "UNESCO World Heritage Centre, submission by Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "National Heritage and Culture Division Year Book2022–23, page45",
+          "url": "https://www.heritage.pakistan.gov.pk/SiteImage/Misc/files/Year%20Book%202022-23%2004-11-2024.pdf",
+          "publisher": "National Heritage and Culture Division, Government of Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-shah-allah-ditta-caves-separating-layers-of-use",
+      "planIndex": 74,
+      "wordCount": 469,
+      "sourceNotes": "DOAMapproximately155words;PIDapproximately180;APPapproximately30. SourceidentificationconflictBuddha/Vishnukeptuncertain;2,400yearmuralsclaimnotrepeated. Announcementnotactualopening. No continuousoccupationorAlexanderrouteassertions.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Shah Allah Ditta Caves",
+          "url": "https://doam.gov.pk/public/sites/6344",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Minister lays foundation stone of Shah Alla Ditta Caves preservation and development project,1January2024",
+          "url": "https://pid.gov.pk/site/press_detail/24286",
+          "publisher": "Press Information Department, Government of Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Shah Allah Ditta Caves to be opened for visitors in first half of October,8September2026",
+          "url": "https://www.app.com.pk/national/shah-allah-ditta-caves-to-be-opened-for-visitors-in-first-half-of-october-minister/",
+          "publisher": "Associated Press of Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-ban-faqiran-stupa-above-the-capital",
+      "planIndex": 75,
+      "wordCount": 481,
+      "sourceNotes": "DOAMapproximately90words;Loneprimaryindexedintro andartifactpages~185words;APP2018approximately90. FullprimaryPDF403; indexed passagescloseread plusmirroredextractnotclaimedwholebook. Findsstratificationavoidsoldcoin=stupadate;noTaxilaUNESCOboundaryclaim.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Ban Faqiran Stupa",
+          "url": "https://doam.gov.pk/public/sites/6315",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Preliminary Report: Excavation of the Buddhist Stupa at Ban Faqiran-Islamabad",
+          "url": "https://iris.unive.it/retrieve/e4239ddd-bd16-7180-e053-3705fe0a3322/Archaeology%20New%202019%20%20%2025-06-2020.pdf",
+          "publisher": "Pakistan Archaeology, Abdul Ghafoor Lone",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Conservation of Ban Faqiran Heritage Site to Enhance Beauty, Attraction of Capital",
+          "url": "https://www.urdupoint.com/en/pakistan/conservation-of-ban-faqiran-heritage-site-t-381097.html",
+          "publisher": "Associated Press of Pakistan, syndicated by UrduPoint",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-saidpurs-temple-complex-in-a-changing-village",
+      "planIndex": 76,
+      "wordCount": 461,
+      "sourceNotes": "DOAMapproximately105words;NEDfieldstudyindexedpassageapproximately155words (PDFfontunreadablebutsearchparsed);NAprimaryanswerapproximately90words datedandcriticallyattributednotendorsed. No ancientage/founderattributionorcurrentworshiprestrictionsstatedasfact.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Said Pur Temple Complex",
+          "url": "https://doam.gov.pk/public/sites/6230",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Saidpur Village revitalisation case study,JRAP2015firstissue",
+          "url": "https://jrap.neduet.edu.pk/arch-journal/JRAP_2015(FirstIssue)/JRAP-2015(1stIssue).pdf",
+          "publisher": "NED University of Engineering and Technology, Journal of Research in Architecture and Planning",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "National Assembly questions and answers,22February2016, question on Saidpur temple",
+          "url": "https://www.na.gov.pk/uploads/documents/questions/1456146034_129.pdf",
+          "publisher": "National Assembly of Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-golra-railway-station-objects-within-a-working-railway-setting",
+      "planIndex": 77,
+      "wordCount": 472,
+      "sourceNotes": "DOAMapproximately100words;APP2026curatorinterviewapproximately180;ArabNews2024approximately45museumsettingonly. Erroneous1826locomotivecaptionnotused, no presenttrains/ticketsclaim. Institutionalcollectionandoperatingrailwaydistinguished.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Golra Railway Station",
+          "url": "https://doam.gov.pk/public/sites/6310",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Golra Railway Museum: A living archive of Pakistan’s railway heritage",
+          "url": "https://www.app.com.pk/features/golra-railway-museum-a-living-archive-of-pakistans-railway-heritage/",
+          "publisher": "Associated Press of Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Museum documents150-year history of Pakistan Railways, rumbling through modern times",
+          "url": "https://www.arabnews.pk/pakistan/museum-documents-150-year-history-of-pakistan-railways-rumbling-through-modern-times-2477126",
+          "publisher": "Arab News, reporting from Golra",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-bazira-barikot-and-the-evidence-of-a-long-lived-town",
+      "planIndex": 78,
+      "wordCount": 469,
+      "sourceNotes": "UNESCOsubmissionapproximately180words;universityexcavationaccountapproximately190. AvoidconfusingearlyapsidalShrineHwithlateTempleHdifferentnomenclature. Nofirst/oldestworldclaim. TentativeListnotinscription. Datesprojectsummarynotcurrentcampaignstatus.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Bazira-Barikot, Tentative List submission7034",
+          "url": "https://whc.unesco.org/en/tentativelists/7034/",
+          "publisher": "UNESCO World Heritage Centre, submission by Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Excavations: Archaeology at Ca’ Foscari, Italian Archaeological Mission in Pakistan",
+          "url": "https://www.unive.it/pag/44639/",
+          "publisher": "Ca’ Foscari University of Venice",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-attock-khurd-station-at-the-indus-crossing",
+      "planIndex": 79,
+      "wordCount": 471,
+      "sourceNotes": "DOAMapproximately120words;NAMprimarycollectionapproximately180;APPdated2024tourreportapproximately40. DOAMinternally1880/1883stationdatesandwrongSindhlegalstatus excluded. NAMcorrectOCallaghanoriginalengineer,not1929designer. No trainbookingpromise.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Attock Khurd Railway Station",
+          "url": "https://doam.gov.pk/public/sites/10358",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Attock Railway Bridge,13February1907, accession1985-09-17-93",
+          "url": "https://collection.nam.ac.uk/detail.php?acc=1985-09-17-93",
+          "publisher": "National Army Museum, London",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Railways lauded for excellent initiative for families in KP",
+          "url": "https://www.app.com.pk/domestic/railways-lauded-for-excellent-initiative-for-families-in-kp/",
+          "publisher": "Associated Press of Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

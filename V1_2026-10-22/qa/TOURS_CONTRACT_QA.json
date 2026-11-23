@@ -1,0 +1,81 @@
+{
+  "checkedAt": "2026-10-22T18:13:24.686Z",
+  "checks": [
+    {
+      "name": "Valid 3-place request",
+      "passed": true
+    },
+    {
+      "name": "Valid 10-place request",
+      "passed": true
+    },
+    {
+      "name": "Valid 20-place request",
+      "passed": true
+    },
+    {
+      "name": "Unknown place rejected",
+      "passed": true
+    },
+    {
+      "name": "Duplicate place rejected",
+      "passed": true
+    },
+    {
+      "name": "Internal fields rejected",
+      "passed": true
+    },
+    {
+      "name": "Too many places rejected",
+      "passed": true
+    },
+    {
+      "name": "Invalid calendar date rejected",
+      "passed": true
+    },
+    {
+      "name": "Invalid group size rejected",
+      "passed": true
+    },
+    {
+      "name": "Manual amount rejects coercion",
+      "passed": true
+    },
+    {
+      "name": "Admin cannot alter itinerary or contact",
+      "passed": true
+    },
+    {
+      "name": "Origin configurable",
+      "passed": true
+    },
+    {
+      "name": "Concurrent writes retain all20",
+      "passed": true
+    },
+    {
+      "name": "All concurrent rows persisted",
+      "passed": true
+    },
+    {
+      "name": "Public receipt exposes no customer/internal fields",
+      "passed": true
+    },
+    {
+      "name": "Status filtering and update",
+      "passed": true
+    },
+    {
+      "name": "Admin pagination",
+      "passed": true
+    },
+    {
+      "name": "Default price remains null",
+      "passed": true
+    },
+    {
+      "name": "Server-derived origin/status",
+      "passed": true
+    }
+  ]
+}

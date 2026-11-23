@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 10,
+  "records": [
+    {
+      "articleId": "story-kharpocho-fort-and-the-view-over-skardu",
+      "planIndex": 60,
+      "wordCount": 461,
+      "sourceNotes": "DOAM approximately185 derivedwords;tourismportal approximately70. Excluded contradictory1490–1505 attribution to AliSherKhan in older official page, unverified305m relativeheight,accesspromises. 1884inscription attributed catalogue not independently read.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Kharpocho Fort Complex",
+          "url": "https://doam.gov.pk/public/sites/7818",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Kharpocho Fort",
+          "url": "https://e-tourism.visitgilgitbaltistan.gov.pk/tourist-destinations/kharpocho-fort",
+          "publisher": "Tourism Department, Gilgit-Baltistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-hodar-learning-to-read-a-rock-art-field",
+      "planIndex": 61,
+      "wordCount": 466,
+      "sourceNotes": "DOAM approximately150words;Hodar1999volume approximately185 including metadata and close-readindexedstone65 entries. No absolute date from patina, population identity from script, or guessedtranslation. Source fullURLopencachemiss but indexedpage read.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Hodar",
+          "url": "https://doam.gov.pk/public/sites/8249",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Die Felsbildstation Hodar, catalogue page297, stone65",
+          "url": "https://digi.hadw-bw.de/view/manp3/0319",
+          "publisher": "Heidelberg Academy of Sciences and Humanities, Ditte Bandini and Gérard Fussman, editors",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-thalpan-and-the-meeting-of-image-and-inscription",
+      "planIndex": 62,
+      "wordCount": 471,
+      "sourceNotes": "DOAM approximately155words;MANP7stone142 approximately180words. DonorVarunapriya paraphrased fromGermantranslation;no biography/ethnicityinference. Singleheader9–8millennium notusedasentirefielddate. Indexedcataloguefullpagecloseread;directopencachemiss.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Thalpan",
+          "url": "https://doam.gov.pk/public/sites/8278",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Die Felsbildstation Thalpan, volume2, catalogue page116, stone142",
+          "url": "https://digi.hadw-bw.de/view/manp7/0134",
+          "publisher": "Heidelberg Academy of Sciences and Humanities, Oskar von Hinüber",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-thagas-khanqah-and-communal-sacred-space",
+      "planIndex": 63,
+      "wordCount": 475,
+      "sourceNotes": "DOAMapproximately145words;Klimburgapproximately180words totalarticle63,regionalcomparisonsidentifiednotallThagasfacts. Thagas/Tagasspellingvariant matchedneighbouringMirArif/MirIshaqastanas. No exactfoundationyearorcurrentwomenaccessscheduleasserted.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Khanqah e Moallah Thagas",
+          "url": "https://doam.gov.pk/public/sites/7966",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Traditional Art and Architecture in Baltistan",
+          "url": "https://s3.amazonaws.com/media.archnet.org/system/publications/contents/4874/original/DPC1587.pdf?1384787082=",
+          "publisher": "Max Klimburg, Archnet / Aga Khan Trust for Culture",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-khaplu-polo-ground-as-a-historic-public-place",
+      "planIndex": 64,
+      "wordCount": 471,
+      "sourceNotes": "DOAMdirectfetch200evidence7973saved approximately100words;2018firstpersonfestivalreport approximately130words;ADPindexedbudgetline approximately25words(notcompletionclaim). Dates1890/1972 attributedcatalogue, no weeklyeventpromiseorunchangedboundaries.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Khaplu Polo Ground",
+          "url": "https://doam.gov.pk/public/sites/7973",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "From this year’s Jashn-e-Ghanche",
+          "url": "https://blogs.arynews.tv/blog/12855",
+          "publisher": "ARY Blogs, Abdul Hameed",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Annual Development Programme2024–25, boundary wall improvement at Shahi Polo Ground Khaplu",
+          "url": "https://gilgitbaltistan.gov.pk/storage/downloads/7mHWgRfQQPlmIabvIrVJrv7D6d9Tv2-metaQURQIDIwMjQtMjUgLnBkZg%3D%3D-.pdf",
+          "publisher": "Government of Gilgit-Baltistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-muzaffarabads-red-fort-beside-the-river",
+      "planIndex": 65,
+      "wordCount": 470,
+      "sourceNotes": "DOAMapproximately145words;WCLAindexedfullprojecttextapproximately185words.1559/1646/19c attributedauthority;futurehotel/restaurant notclaimedoperational. No completedrestoration/accessassertions.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Red Fort",
+          "url": "https://doam.gov.pk/public/sites/6663",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Muzaffarabad: Red Fort conservation project",
+          "url": "https://walledcitylahore.gop.pk/muzaffarabad/",
+          "publisher": "Walled City of Lahore Authority",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-sharda-temple-architecture-and-the-limits-of-attribution",
+      "planIndex": 66,
+      "wordCount": 473,
+      "sourceNotes": "DOAMapproximately150words;2022fieldstudyapproximately185words. Criticaluniversityidentificationattributedstudy, notdenialalllearningtradition. Cataloguecontradictoryorientation/exactstairsnotrepeated. Avoidscriptoriginclaimandunverifiedroyalfounder.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Sharda Temple",
+          "url": "https://doam.gov.pk/public/sites/6633",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "History, Architecture and Tourism Prospects of the Sharda Temple in Neelum Valley, Pakistan: An Appraisal",
+          "url": "https://grrjournal.com/article/history-architecture-and-tourism-prospects-of-the-sharda-temple-in-neelum-valley-pakistan-an-appraisal",
+          "publisher": "Global Regional Review, Junaid Ahmad, Anas Mahmud Arif and Adnan Anwar",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-sharda-fort-distinguishing-neighbouring-monuments",
+      "planIndex": 67,
+      "wordCount": 459,
+      "sourceNotes": "DOAMapproximately190words;governmenttourismlistapproximately20words demonstrates broadclassificationnotnewhistory. Sparseindependentfortstudy; no potterysurfaceprovesancientsettlement, precisegarrisoncount or geographyconflict. Article analytical focusidentityandmaterials, not paddedbiography.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Sharda Fort",
+          "url": "https://doam.gov.pk/public/sites/6666",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Tourism, Annual Development Programme2013–14: cultural heritage assets",
+          "url": "https://pndajk.gov.pk/ADP/2013-2014/Tourism.pdf",
+          "publisher": "Planning and Development Department, Azad Jammu and Kashmir",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-mangla-fort-after-the-landscape-changed",
+      "planIndex": 68,
+      "wordCount": 474,
+      "sourceNotes": "DOAMapproximately165words;WAPDAapproximately75sharedbudgetwith69remaining125. No ancientQueenManglalegend;templesreportedlocaltraditionnotfact; no submergedstructureclaims or damengineeringnumbers.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Mangla Fort",
+          "url": "https://doam.gov.pk/public/sites/6675",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mangla Dam",
+          "url": "https://wapda.gov.pk/mangla-dam/",
+          "publisher": "Water and Power Development Authority",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-ramkot-fort-and-its-water-bound-setting",
+      "planIndex": 69,
+      "wordCount": 467,
+      "sourceNotes": "DOAMapproximately185words;WAPDAapproximately35words cumulative110with68;APPindexedOct2reportapproximately75words. No currentboat/safetypromise, templeidentificationunsupportedexcluded;earlierpatronattributionqualified.2020conditionnotclaimedcurrent.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Ramkot Fort",
+          "url": "https://doam.gov.pk/public/sites/6676",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mangla Dam",
+          "url": "https://wapda.gov.pk/mangla-dam/",
+          "publisher": "Water and Power Development Authority",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Restoration, Tourism Development Of Centuries-old Ramkot Fort Reviewed",
+          "url": "https://www.urdupoint.com/en/pakistan/restoration-tourism-development-of-centuries-2264554.html",
+          "publisher": "Associated Press of Pakistan, syndicated by UrduPoint",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

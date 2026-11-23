@@ -1,0 +1,202 @@
+{
+  "batch": "160-169",
+  "count": 10,
+  "reviewDate": "2026-10-22",
+  "status": "review only; not approved for publication",
+  "wordCounts": [
+    {
+      "id": "story-burial-archaeology-and-respectful-interpretation",
+      "words": 457
+    },
+    {
+      "id": "story-historic-archaeology-after-the-ancient-period",
+      "words": 477
+    },
+    {
+      "id": "story-old-excavation-reports-valuable-records-with-limits",
+      "words": 472
+    },
+    {
+      "id": "story-from-sherd-to-published-argument",
+      "words": 477
+    },
+    {
+      "id": "story-how-a-mughal-charbagh-organises-movement",
+      "words": 471
+    },
+    {
+      "id": "story-the-pavilion-a-small-building-with-several-jobs",
+      "words": 475
+    },
+    {
+      "id": "story-a-courtyard-is-more-than-empty-space",
+      "words": 487
+    },
+    {
+      "id": "story-from-square-room-to-dome-squinches-and-pendentives",
+      "words": 481
+    },
+    {
+      "id": "story-the-dome-and-the-roof-are-not-always-the-same-shell",
+      "words": 474
+    },
+    {
+      "id": "story-reading-a-shikhara-without-guessing-a-date",
+      "words": 487
+    }
+  ],
+  "sourceReadingNote": "Primary institutional pages and research abstracts were consulted. Some catalogue and PDF leads were available only as indexed excerpts; articles avoid unsupported site-specific deductions. Sethi courtyard, Khamseen teaching material and reported comparisons should receive editorial source review before publication.",
+  "copyrightNote": "Original explanatory prose, no verbatim quotations. Reused Mackay and Kenoyer sources are confined to narrow observations; no broad retelling of their works.",
+  "sources": [
+    {
+      "title": "Skeletal Paleopathology of Human Remains From Cemetery R37 at Harappa, excavated in 1987 and 1988",
+      "url": "https://www.harappa.com/content/skeletal-paleopathology-human-remains-cemetery-r37-harappa-excavated-1987-and-1988",
+      "publisher": "Nancy Lovell",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Stewardship of Human Remains",
+      "url": "https://www.metmuseum.org/policies/human-remains-guidelines",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Human Remains Policy",
+      "url": "https://www.ucl.ac.uk/social-historical-sciences/archaeology/research/human-remains-policy",
+      "publisher": "UCL Institute of Archaeology",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "What is Historical Archaeology?",
+      "url": "https://sha.org/what-is-historical-archaeology/",
+      "publisher": "Society for Historical Archaeology",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Brahmanabad (Mansurah)",
+      "url": "https://doam.gov.pk/public/heritage-sites/447",
+      "publisher": "Department of Archaeology and Museums, Government of Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "A short note on contexts and chronology of the materials from Saidu Sharif, Amluk-dara, Gumbat and Barikot",
+      "url": "https://oaj.fupress.net/index.php/ra/article/view/7357",
+      "publisher": "Luca Maria Olivieri / Restauro Archeologico",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Excavations at Chanhu-daro 1935–36",
+      "url": "https://www.harappa.com/content/excavations-chanhu-daro-1935-36",
+      "publisher": "Ernest Mackay / Smithsonian Institution",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Stone Beads of the Indus Tradition: New Perspectives on Harappan Bead Typology, Technology and Documentation",
+      "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer2017%20Stone%20Beads_Chapter%2007.pdf",
+      "publisher": "Jonathan Mark Kenoyer",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Approaches to reporting",
+      "url": "https://www.archaeologists.net/work/toolkits/pottery/approaches-reporting",
+      "publisher": "Chartered Institute for Archaeologists",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Approaches to recording",
+      "url": "https://www.archaeologists.net/work/toolkits/pottery/approaches-recording",
+      "publisher": "Chartered Institute for Archaeologists",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Reporting",
+      "url": "https://www.archaeologists.net/work/toolkits/pottery/reporting",
+      "publisher": "Chartered Institute for Archaeologists",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Fabric Analysis — Pottery in Archaeology",
+      "url": "https://www.cambridge.org/core/books/abs/pottery-in-archaeology/fabric-analysis/CC3FB0EED69E6F196A3CA77B64DB355E",
+      "publisher": "Clive Orton and Michael Hughes / Cambridge University Press",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Fort and Shalamar Gardens in Lahore",
+      "url": "https://whc.unesco.org/en/list/171",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Gardens of the Mughal Empire — Shalamar Garden",
+      "url": "https://www.mughalgardens.org/html/shalamar.html",
+      "publisher": "Mughal Gardens research project",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Shalamar Garden — Preservation and Restoration",
+      "url": "https://www.icomos.org/public/publications/93garden20.pdf",
+      "publisher": "ICOMOS",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Hiran Minar and Tank, Sheikhupura — Tentative List submission",
+      "url": "https://whc.unesco.org/en/tentativelists/1281/",
+      "publisher": "Pakistan National Commission for UNESCO",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Humayun Tomb",
+      "url": "https://srdc.delhi.gov.in/en/srdc/humayun-tomb",
+      "publisher": "Shahjahanabad Redevelopment Corporation, Government of NCT of Delhi",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Archaeology Task Force Report",
+      "url": "https://dost.kp.gov.pk/wp-content/uploads/2026/01/Archeology_TF-Report.pdf",
+      "publisher": "Directorate of Science and Technology, Government of Khyber Pakhtunkhwa",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "The Royal Trail",
+      "url": "https://artsandculture.google.com/story/the-royal-trail-walled-city-of-lahore-authority-wcla/bwWBgVXIrhEA8A?hl=en",
+      "publisher": "Walled City of Lahore Authority",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Sethi House",
+      "url": "https://doam.gov.pk/public/sites/3485",
+      "publisher": "Department of Archaeology and Museums, Government of Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Squinch and Pendentive",
+      "url": "https://sites.lsa.umich.edu/khamseen/terms/2022/squinch-and-pendentive/",
+      "publisher": "Patricia Blessing / University of Michigan Khamseen",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Byzantine Architecture — architectural technology teaching material",
+      "url": "https://openlab.citytech.cuny.edu/arch-1121-history-of-architectural-technology/files/2014/01/Lecture-07-Byzantine-Architecture.pdf",
+      "publisher": "New York City College of Technology, CUNY",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Understanding Historic Buildings and Landscapes",
+      "url": "https://historicengland.org.uk/advice/technical-advice/recording-heritage/recording-buildings/",
+      "publisher": "Historic England",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Temples Along the Indus",
+      "url": "https://www.penn.museum/sites/expedition/temples-along-the-indus/",
+      "publisher": "Michael W. Meister / Penn Museum",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "The Salt Range Temples of the Shahi Period",
+      "url": "https://shahi.pubpub.org/pub/the-salt-range-temples-of-the-shahi-period/release/1",
+      "publisher": "Shahi research publication",
+      "accessDate": "2026-10-22"
+    }
+  ]
+}

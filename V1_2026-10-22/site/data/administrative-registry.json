@@ -1,0 +1,5895 @@
+[
+  {
+    "id": "azad-kashmir-bagh",
+    "slug": "bagh",
+    "officialDisplayName": "Bagh",
+    "sourceName": "Bagh",
+    "aliases": [
+      "Bagh"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "azad-kashmir",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "azad-kashmir-bhimber",
+    "slug": "bhimber",
+    "officialDisplayName": "Bhimber",
+    "sourceName": "Bhimber",
+    "aliases": [
+      "Bhimber"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "azad-kashmir",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "azad-kashmir-haveli",
+    "slug": "haveli",
+    "officialDisplayName": "Haveli",
+    "sourceName": "Haveli",
+    "aliases": [
+      "Haveli"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "azad-kashmir",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "azad-kashmir-jhelum-valley",
+    "slug": "jhelum-valley",
+    "officialDisplayName": "Jhelum Valley",
+    "sourceName": "Jhelum Valley",
+    "aliases": [
+      "Jhelum Valley",
+      "Hattian Bala",
+      "Jehlum Valley"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "ajk-food-district-table-2026"
+    ],
+    "parentRegionId": "azad-kashmir",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "ajk-food-district-table-2026"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "azad-kashmir-kotli",
+    "slug": "kotli",
+    "officialDisplayName": "Kotli",
+    "sourceName": "Kotli",
+    "aliases": [
+      "Kotli"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "azad-kashmir",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "azad-kashmir-mirpur",
+    "slug": "mirpur",
+    "officialDisplayName": "Mirpur",
+    "sourceName": "Mirpur",
+    "aliases": [
+      "Mirpur"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "azad-kashmir",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "azad-kashmir-muzaffarabad",
+    "slug": "muzaffarabad",
+    "officialDisplayName": "Muzaffarabad",
+    "sourceName": "Muzaffarabad",
+    "aliases": [
+      "Muzaffarabad"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "azad-kashmir",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "azad-kashmir-neelum",
+    "slug": "neelum",
+    "officialDisplayName": "Neelum",
+    "sourceName": "Neelum",
+    "aliases": [
+      "Neelum"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "azad-kashmir",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "azad-kashmir-poonch",
+    "slug": "poonch",
+    "officialDisplayName": "Poonch",
+    "sourceName": "Poonch",
+    "aliases": [
+      "Poonch"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "azad-kashmir",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "azad-kashmir-sudhnoti",
+    "slug": "sudhnoti",
+    "officialDisplayName": "Sudhnoti",
+    "sourceName": "Sudhnoti",
+    "aliases": [
+      "Sudhnoti"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "azad-kashmir",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-awaran",
+    "slug": "awaran",
+    "officialDisplayName": "Awaran",
+    "sourceName": "Awaran",
+    "aliases": [
+      "Awaran"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-barkhan",
+    "slug": "barkhan",
+    "officialDisplayName": "Barkhan",
+    "sourceName": "Barkhan",
+    "aliases": [
+      "Barkhan"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-barshore",
+    "slug": "barshore",
+    "officialDisplayName": "Barshore",
+    "sourceName": "Barshore",
+    "aliases": [
+      "Barshore",
+      "Breshore"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "balochistan-chagai",
+    "slug": "chagai",
+    "officialDisplayName": "Chagai",
+    "sourceName": "Chagai",
+    "aliases": [
+      "Chagai"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-chaman",
+    "slug": "chaman",
+    "officialDisplayName": "Chaman",
+    "sourceName": "Chaman",
+    "aliases": [
+      "Chaman"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-dera-bugti",
+    "slug": "dera-bugti",
+    "officialDisplayName": "Dera Bugti",
+    "sourceName": "Dera Bugti",
+    "aliases": [
+      "Dera Bugti"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "historical-only",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "review-required",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [
+      "balochistan-north-dera-bugti",
+      "balochistan-south-dera-bugti"
+    ],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-duki",
+    "slug": "duki",
+    "officialDisplayName": "Duki",
+    "sourceName": "Duki",
+    "aliases": [
+      "Duki"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-gwadar",
+    "slug": "gwadar",
+    "officialDisplayName": "Gwadar",
+    "sourceName": "Gwadar",
+    "aliases": [
+      "Gwadar"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-harnai",
+    "slug": "harnai",
+    "officialDisplayName": "Harnai",
+    "sourceName": "Harnai",
+    "aliases": [
+      "Harnai"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-hub",
+    "slug": "hub",
+    "officialDisplayName": "Hub",
+    "sourceName": "Hub",
+    "aliases": [
+      "Hub"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [
+      "balochistan-lasbela"
+    ],
+    "supersedes": [
+      "balochistan-lasbela"
+    ],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "balochistan-jaffarabad",
+    "slug": "jaffarabad",
+    "officialDisplayName": "Jaffarabad",
+    "sourceName": "Jaffarabad",
+    "aliases": [
+      "Jaffarabad"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-jhal-magsi",
+    "slug": "jhal-magsi",
+    "officialDisplayName": "Jhal Magsi",
+    "sourceName": "Jhal Magsi",
+    "aliases": [
+      "Jhal Magsi"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-kachhi",
+    "slug": "kachhi",
+    "officialDisplayName": "Kachhi",
+    "sourceName": "Kachhi",
+    "aliases": [
+      "Kachhi"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-kalat",
+    "slug": "kalat",
+    "officialDisplayName": "Kalat",
+    "sourceName": "Kalat",
+    "aliases": [
+      "Kalat"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-kech",
+    "slug": "kech",
+    "officialDisplayName": "Kech",
+    "sourceName": "Kech",
+    "aliases": [
+      "Kech"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-kharan",
+    "slug": "kharan",
+    "officialDisplayName": "Kharan",
+    "sourceName": "Kharan",
+    "aliases": [
+      "Kharan"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-khuzdar",
+    "slug": "khuzdar",
+    "officialDisplayName": "Khuzdar",
+    "sourceName": "Khuzdar",
+    "aliases": [
+      "Khuzdar"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-killa-abdullah",
+    "slug": "killa-abdullah",
+    "officialDisplayName": "Killa Abdullah",
+    "sourceName": "Killa Abdullah",
+    "aliases": [
+      "Killa Abdullah"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-killa-saifullah",
+    "slug": "killa-saifullah",
+    "officialDisplayName": "Killa Saifullah",
+    "sourceName": "Killa Saifullah",
+    "aliases": [
+      "Killa Saifullah"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-kohlu",
+    "slug": "kohlu",
+    "officialDisplayName": "Kohlu",
+    "sourceName": "Kohlu",
+    "aliases": [
+      "Kohlu"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-lasbela",
+    "slug": "lasbela",
+    "officialDisplayName": "Lasbela",
+    "sourceName": "Lasbela",
+    "aliases": [
+      "Lasbela"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-lehri",
+    "slug": "lehri",
+    "officialDisplayName": "Lehri",
+    "sourceName": "Lehri",
+    "aliases": [
+      "Lehri"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "historical-only",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "review-required",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-loralai",
+    "slug": "loralai",
+    "officialDisplayName": "Loralai",
+    "sourceName": "Loralai",
+    "aliases": [
+      "Loralai"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-mastung",
+    "slug": "mastung",
+    "officialDisplayName": "Mastung",
+    "sourceName": "Mastung",
+    "aliases": [
+      "Mastung"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-musakhel",
+    "slug": "musakhel",
+    "officialDisplayName": "Musakhel",
+    "sourceName": "Musakhel",
+    "aliases": [
+      "Musakhel"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-nasirabad",
+    "slug": "nasirabad",
+    "officialDisplayName": "Nasirabad",
+    "sourceName": "Nasirabad",
+    "aliases": [
+      "Nasirabad"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-north-dera-bugti",
+    "slug": "north-dera-bugti",
+    "officialDisplayName": "North Dera Bugti",
+    "sourceName": "North Dera Bugti",
+    "aliases": [
+      "North Dera Bugti"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [
+      "balochistan-dera-bugti"
+    ],
+    "supersedes": [
+      "balochistan-dera-bugti"
+    ],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "balochistan-nushki",
+    "slug": "nushki",
+    "officialDisplayName": "Nushki",
+    "sourceName": "Nushki",
+    "aliases": [
+      "Nushki"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-panjgur",
+    "slug": "panjgur",
+    "officialDisplayName": "Panjgur",
+    "sourceName": "Panjgur",
+    "aliases": [
+      "Panjgur"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-pishin",
+    "slug": "pishin",
+    "officialDisplayName": "Pishin",
+    "sourceName": "Pishin",
+    "aliases": [
+      "Pishin"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-quetta",
+    "slug": "quetta",
+    "officialDisplayName": "Quetta",
+    "sourceName": "Quetta",
+    "aliases": [
+      "Quetta"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "historical-only",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "review-required",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [
+      "balochistan-quetta-east",
+      "balochistan-quetta-west"
+    ],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-quetta-east",
+    "slug": "quetta-east",
+    "officialDisplayName": "Quetta East",
+    "sourceName": "Quetta East",
+    "aliases": [
+      "Quetta East"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [
+      "balochistan-quetta"
+    ],
+    "supersedes": [
+      "balochistan-quetta"
+    ],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "balochistan-quetta-west",
+    "slug": "quetta-west",
+    "officialDisplayName": "Quetta West",
+    "sourceName": "Quetta West",
+    "aliases": [
+      "Quetta West"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [
+      "balochistan-quetta"
+    ],
+    "supersedes": [
+      "balochistan-quetta"
+    ],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "balochistan-rakhni",
+    "slug": "rakhni",
+    "officialDisplayName": "Rakhni",
+    "sourceName": "Rakhni",
+    "aliases": [
+      "Rakhni"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [
+      "balochistan-barkhan"
+    ],
+    "supersedes": [
+      "balochistan-barkhan"
+    ],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "balochistan-sibi",
+    "slug": "sevi",
+    "officialDisplayName": "Sevi",
+    "sourceName": "Sibi",
+    "aliases": [
+      "Sibi",
+      "Sevi"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "historical-only",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "review-required",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-sherani",
+    "slug": "sherani",
+    "officialDisplayName": "Sherani",
+    "sourceName": "Sherani",
+    "aliases": [
+      "Sherani"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-sohbatpur",
+    "slug": "sohbatpur",
+    "officialDisplayName": "Sohbatpur",
+    "sourceName": "Sohbatpur",
+    "aliases": [
+      "Sohbatpur"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-south-dera-bugti",
+    "slug": "south-dera-bugti",
+    "officialDisplayName": "South Dera Bugti",
+    "sourceName": "South Dera Bugti",
+    "aliases": [
+      "South Dera Bugti"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [
+      "balochistan-dera-bugti"
+    ],
+    "supersedes": [
+      "balochistan-dera-bugti"
+    ],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "balochistan-shaheed-sikandarabad",
+    "slug": "surab",
+    "officialDisplayName": "Surab",
+    "sourceName": "Shaheed Sikandarabad",
+    "aliases": [
+      "Shaheed Sikandarabad",
+      "Surab"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "historical-only",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "review-required",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-usta-muhammad",
+    "slug": "usta-muhammad",
+    "officialDisplayName": "Usta Muhammad",
+    "sourceName": "Usta Muhammad",
+    "aliases": [
+      "Usta Muhammad"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [
+      "balochistan-jaffarabad"
+    ],
+    "supersedes": [
+      "balochistan-jaffarabad"
+    ],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "balochistan-wadh",
+    "slug": "wadh",
+    "officialDisplayName": "Wadh",
+    "sourceName": "Wadh",
+    "aliases": [
+      "Wadh"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "balochistan-gazette-index-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [
+      "balochistan-khuzdar"
+    ],
+    "supersedes": [
+      "balochistan-khuzdar"
+    ],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "balochistan-washuk",
+    "slug": "washuk",
+    "officialDisplayName": "Washuk",
+    "sourceName": "Washuk",
+    "aliases": [
+      "Washuk"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-zhob",
+    "slug": "zhob",
+    "officialDisplayName": "Zhob",
+    "sourceName": "Zhob",
+    "aliases": [
+      "Zhob"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "balochistan-ziarat",
+    "slug": "ziarat",
+    "officialDisplayName": "Ziarat",
+    "sourceName": "Ziarat",
+    "aliases": [
+      "Ziarat"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "balochistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-astore",
+    "slug": "astore",
+    "officialDisplayName": "Astore",
+    "sourceName": "Astore",
+    "aliases": [
+      "Astore"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-darel",
+    "slug": "darel",
+    "officialDisplayName": "Darel",
+    "sourceName": "Darel",
+    "aliases": [
+      "Darel"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-diamir",
+    "slug": "diamir",
+    "officialDisplayName": "Diamir",
+    "sourceName": "Diamir",
+    "aliases": [
+      "Diamir"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-ghanche",
+    "slug": "ghanche",
+    "officialDisplayName": "Ghanche",
+    "sourceName": "Ghanche",
+    "aliases": [
+      "Ghanche"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-ghizer",
+    "slug": "ghizer",
+    "officialDisplayName": "Ghizer",
+    "sourceName": "Ghizer",
+    "aliases": [
+      "Ghizer"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-gilgit",
+    "slug": "gilgit",
+    "officialDisplayName": "Gilgit",
+    "sourceName": "Gilgit",
+    "aliases": [
+      "Gilgit"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-gupis-yasin",
+    "slug": "gupis-yasin",
+    "officialDisplayName": "Gupis-Yasin",
+    "sourceName": "Gupis-Yasin",
+    "aliases": [
+      "Gupis-Yasin"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-hunza",
+    "slug": "hunza",
+    "officialDisplayName": "Hunza",
+    "sourceName": "Hunza",
+    "aliases": [
+      "Hunza"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-kharmang",
+    "slug": "kharmang",
+    "officialDisplayName": "Kharmang",
+    "sourceName": "Kharmang",
+    "aliases": [
+      "Kharmang"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-nagar",
+    "slug": "nagar",
+    "officialDisplayName": "Nagar",
+    "sourceName": "Nagar",
+    "aliases": [
+      "Nagar"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-rondu",
+    "slug": "rondu",
+    "officialDisplayName": "Rondu",
+    "sourceName": "Rondu",
+    "aliases": [
+      "Rondu"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-shigar",
+    "slug": "shigar",
+    "officialDisplayName": "Shigar",
+    "sourceName": "Shigar",
+    "aliases": [
+      "Shigar"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-skardu",
+    "slug": "skardu",
+    "officialDisplayName": "Skardu",
+    "sourceName": "Skardu",
+    "aliases": [
+      "Skardu"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "gilgit-baltistan-tangir",
+    "slug": "tangir",
+    "officialDisplayName": "Tangir",
+    "sourceName": "Tangir",
+    "aliases": [
+      "Tangir"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "gilgit-baltistan",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "islamabad-islamabad",
+    "slug": "islamabad",
+    "officialDisplayName": "Islamabad",
+    "sourceName": "Islamabad",
+    "aliases": [
+      "Islamabad"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "islamabad",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-abbottabad",
+    "slug": "abbottabad",
+    "officialDisplayName": "Abbottabad",
+    "sourceName": "Abbottabad",
+    "aliases": [
+      "Abbottabad"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-allai",
+    "slug": "allai",
+    "officialDisplayName": "Allai",
+    "sourceName": "Allai",
+    "aliases": [
+      "Allai"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "virsapur-editorial-review-seed-2026"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "virsapur-editorial-review-seed-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-bajaur",
+    "slug": "bajaur",
+    "officialDisplayName": "Bajaur",
+    "sourceName": "Bajaur",
+    "aliases": [
+      "Bajaur"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-bannu",
+    "slug": "bannu",
+    "officialDisplayName": "Bannu",
+    "sourceName": "Bannu",
+    "aliases": [
+      "Bannu"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-batagram",
+    "slug": "batagram",
+    "officialDisplayName": "Batagram",
+    "sourceName": "Batagram",
+    "aliases": [
+      "Batagram"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-buner",
+    "slug": "buner",
+    "officialDisplayName": "Buner",
+    "sourceName": "Buner",
+    "aliases": [
+      "Buner"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-central-dir",
+    "slug": "central-dir",
+    "officialDisplayName": "Central Dir",
+    "sourceName": "Central Dir",
+    "aliases": [
+      "Central Dir"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "virsapur-editorial-review-seed-2026"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "virsapur-editorial-review-seed-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-charsadda",
+    "slug": "charsadda",
+    "officialDisplayName": "Charsadda",
+    "sourceName": "Charsadda",
+    "aliases": [
+      "Charsadda"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-chitral-lower",
+    "slug": "chitral-lower",
+    "officialDisplayName": "Chitral Lower",
+    "sourceName": "Chitral Lower",
+    "aliases": [
+      "Chitral Lower"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-chitral-upper",
+    "slug": "chitral-upper",
+    "officialDisplayName": "Chitral Upper",
+    "sourceName": "Chitral Upper",
+    "aliases": [
+      "Chitral Upper"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-d-i-khan",
+    "slug": "d-i-khan",
+    "officialDisplayName": "D. I. Khan",
+    "sourceName": "D. I. Khan",
+    "aliases": [
+      "D. I. Khan"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-hangu",
+    "slug": "hangu",
+    "officialDisplayName": "Hangu",
+    "sourceName": "Hangu",
+    "aliases": [
+      "Hangu"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-haripur",
+    "slug": "haripur",
+    "officialDisplayName": "Haripur",
+    "sourceName": "Haripur",
+    "aliases": [
+      "Haripur"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-karak",
+    "slug": "karak",
+    "officialDisplayName": "Karak",
+    "sourceName": "Karak",
+    "aliases": [
+      "Karak"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-khyber",
+    "slug": "khyber",
+    "officialDisplayName": "Khyber",
+    "sourceName": "Khyber",
+    "aliases": [
+      "Khyber"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-kohat",
+    "slug": "kohat",
+    "officialDisplayName": "Kohat",
+    "sourceName": "Kohat",
+    "aliases": [
+      "Kohat"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-kohistan-lower",
+    "slug": "kohistan-lower",
+    "officialDisplayName": "Kohistan Lower",
+    "sourceName": "Kohistan Lower",
+    "aliases": [
+      "Kohistan Lower"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-kohistan-upper",
+    "slug": "kohistan-upper",
+    "officialDisplayName": "Kohistan Upper",
+    "sourceName": "Kohistan Upper",
+    "aliases": [
+      "Kohistan Upper"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-kolai-palas-kohistan",
+    "slug": "kolai-palas-kohistan",
+    "officialDisplayName": "Kolai Palas Kohistan",
+    "sourceName": "Kolai Palas Kohistan",
+    "aliases": [
+      "Kolai Palas Kohistan"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-kurram",
+    "slug": "kurram",
+    "officialDisplayName": "Kurram",
+    "sourceName": "Kurram",
+    "aliases": [
+      "Kurram"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-lakki-marwat",
+    "slug": "lakki-marwat",
+    "officialDisplayName": "Lakki Marwat",
+    "sourceName": "Lakki Marwat",
+    "aliases": [
+      "Lakki Marwat"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-lower-dir",
+    "slug": "lower-dir",
+    "officialDisplayName": "Lower Dir",
+    "sourceName": "Lower Dir",
+    "aliases": [
+      "Lower Dir"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-malakand",
+    "slug": "malakand",
+    "officialDisplayName": "Malakand",
+    "sourceName": "Malakand",
+    "aliases": [
+      "Malakand"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-mansehra",
+    "slug": "mansehra",
+    "officialDisplayName": "Mansehra",
+    "sourceName": "Mansehra",
+    "aliases": [
+      "Mansehra"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-mardan",
+    "slug": "mardan",
+    "officialDisplayName": "Mardan",
+    "sourceName": "Mardan",
+    "aliases": [
+      "Mardan"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-mohmand",
+    "slug": "mohmand",
+    "officialDisplayName": "Mohmand",
+    "sourceName": "Mohmand",
+    "aliases": [
+      "Mohmand"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-north-waziristan",
+    "slug": "north-waziristan",
+    "officialDisplayName": "North Waziristan",
+    "sourceName": "North Waziristan",
+    "aliases": [
+      "North Waziristan"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-nowshera",
+    "slug": "nowshera",
+    "officialDisplayName": "Nowshera",
+    "sourceName": "Nowshera",
+    "aliases": [
+      "Nowshera"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-orakzai",
+    "slug": "orakzai",
+    "officialDisplayName": "Orakzai",
+    "sourceName": "Orakzai",
+    "aliases": [
+      "Orakzai"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-paharpur",
+    "slug": "paharpur",
+    "officialDisplayName": "Paharpur",
+    "sourceName": "Paharpur",
+    "aliases": [
+      "Paharpur"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "virsapur-editorial-review-seed-2026"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "virsapur-editorial-review-seed-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-peshawar",
+    "slug": "peshawar",
+    "officialDisplayName": "Peshawar",
+    "sourceName": "Peshawar",
+    "aliases": [
+      "Peshawar"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-shangla",
+    "slug": "shangla",
+    "officialDisplayName": "Shangla",
+    "sourceName": "Shangla",
+    "aliases": [
+      "Shangla"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-south-waziristan",
+    "slug": "south-waziristan",
+    "officialDisplayName": "South Waziristan",
+    "sourceName": "South Waziristan",
+    "aliases": [
+      "South Waziristan"
+    ],
+    "nameStatus": "historical",
+    "nameSourceIds": [
+      "kp-internship-current-district-list-2026",
+      "kp-dgipr-upper-south-waziristan-2025"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "superseded",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "kp-internship-current-district-list-2026",
+      "kp-dgipr-upper-south-waziristan-2025"
+    ],
+    "geometryStatus": "historical-only",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "historical-only",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [
+      "khyber-pakhtunkhwa-south-waziristan-upper",
+      "khyber-pakhtunkhwa-south-waziristan-lower"
+    ],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-south-waziristan-lower",
+    "slug": "south-waziristan-lower",
+    "officialDisplayName": "South Waziristan Lower",
+    "sourceName": "South Waziristan Lower",
+    "aliases": [
+      "South Waziristan Lower",
+      "Lower South Waziristan"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "kp-internship-current-district-list-2026"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "kp-internship-current-district-list-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [
+      "khyber-pakhtunkhwa-south-waziristan"
+    ],
+    "supersedes": [
+      "khyber-pakhtunkhwa-south-waziristan"
+    ],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-south-waziristan-upper",
+    "slug": "south-waziristan-upper",
+    "officialDisplayName": "South Waziristan Upper",
+    "sourceName": "South Waziristan Upper",
+    "aliases": [
+      "South Waziristan Upper",
+      "Upper South Waziristan"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "kp-internship-current-district-list-2026",
+      "kp-dgipr-upper-south-waziristan-2025"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "kp-internship-current-district-list-2026",
+      "kp-dgipr-upper-south-waziristan-2025"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [
+      "khyber-pakhtunkhwa-south-waziristan"
+    ],
+    "supersedes": [
+      "khyber-pakhtunkhwa-south-waziristan"
+    ],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-swabi",
+    "slug": "swabi",
+    "officialDisplayName": "Swabi",
+    "sourceName": "Swabi",
+    "aliases": [
+      "Swabi"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-swat",
+    "slug": "swat",
+    "officialDisplayName": "Swat",
+    "sourceName": "Swat",
+    "aliases": [
+      "Swat"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-tank",
+    "slug": "tank",
+    "officialDisplayName": "Tank",
+    "sourceName": "Tank",
+    "aliases": [
+      "Tank"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-tor-ghar",
+    "slug": "tor-ghar",
+    "officialDisplayName": "Tor Ghar",
+    "sourceName": "Tor Ghar",
+    "aliases": [
+      "Tor Ghar"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-upper-dir",
+    "slug": "upper-dir",
+    "officialDisplayName": "Upper Dir",
+    "sourceName": "Upper Dir",
+    "aliases": [
+      "Upper Dir"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "khyber-pakhtunkhwa-upper-swat",
+    "slug": "upper-swat",
+    "officialDisplayName": "Upper Swat",
+    "sourceName": "Upper Swat",
+    "aliases": [
+      "Upper Swat",
+      "Bar Swat"
+    ],
+    "nameStatus": "reported-not-verified",
+    "nameSourceIds": [
+      "virsapur-editorial-review-seed-2026"
+    ],
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "administrativeLevel": 2,
+    "legalStatus": "reported-not-verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "virsapur-editorial-review-seed-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "punjab-attock",
+    "slug": "attock",
+    "officialDisplayName": "Attock",
+    "sourceName": "Attock",
+    "aliases": [
+      "Attock"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-bahawalnagar",
+    "slug": "bahawalnagar",
+    "officialDisplayName": "Bahawalnagar",
+    "sourceName": "Bahawalnagar",
+    "aliases": [
+      "Bahawalnagar"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-bahawalpur",
+    "slug": "bahawalpur",
+    "officialDisplayName": "Bahawalpur",
+    "sourceName": "Bahawalpur",
+    "aliases": [
+      "Bahawalpur"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-bhakkar",
+    "slug": "bhakkar",
+    "officialDisplayName": "Bhakkar",
+    "sourceName": "Bhakkar",
+    "aliases": [
+      "Bhakkar"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-chakwal",
+    "slug": "chakwal",
+    "officialDisplayName": "Chakwal",
+    "sourceName": "Chakwal",
+    "aliases": [
+      "Chakwal"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "geometryStatus": "derived-from-official-units",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-chiniot",
+    "slug": "chiniot",
+    "officialDisplayName": "Chiniot",
+    "sourceName": "Chiniot",
+    "aliases": [
+      "Chiniot"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-dera-ghazi-khan",
+    "slug": "dera-ghazi-khan",
+    "officialDisplayName": "Dera Ghazi Khan",
+    "sourceName": "Dera Ghazi Khan",
+    "aliases": [
+      "Dera Ghazi Khan"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "punjab-pera-district-list-2025"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "punjab-pera-district-list-2025"
+    ],
+    "geometryStatus": "derived-from-official-units",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-faisalabad",
+    "slug": "faisalabad",
+    "officialDisplayName": "Faisalabad",
+    "sourceName": "Faisalabad",
+    "aliases": [
+      "Faisalabad"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-gujranwala",
+    "slug": "gujranwala",
+    "officialDisplayName": "Gujranwala",
+    "sourceName": "Gujranwala",
+    "aliases": [
+      "Gujranwala"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "geometryStatus": "derived-from-official-units",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-gujrat",
+    "slug": "gujrat",
+    "officialDisplayName": "Gujrat",
+    "sourceName": "Gujrat",
+    "aliases": [
+      "Gujrat"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-hafizabad",
+    "slug": "hafizabad",
+    "officialDisplayName": "Hafizabad",
+    "sourceName": "Hafizabad",
+    "aliases": [
+      "Hafizabad"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-jhang",
+    "slug": "jhang",
+    "officialDisplayName": "Jhang",
+    "sourceName": "Jhang",
+    "aliases": [
+      "Jhang"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-jhelum",
+    "slug": "jhelum",
+    "officialDisplayName": "Jhelum",
+    "sourceName": "Jhelum",
+    "aliases": [
+      "Jhelum"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-kasur",
+    "slug": "kasur",
+    "officialDisplayName": "Kasur",
+    "sourceName": "Kasur",
+    "aliases": [
+      "Kasur"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-khanewal",
+    "slug": "khanewal",
+    "officialDisplayName": "Khanewal",
+    "sourceName": "Khanewal",
+    "aliases": [
+      "Khanewal"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-khushab",
+    "slug": "khushab",
+    "officialDisplayName": "Khushab",
+    "sourceName": "Khushab",
+    "aliases": [
+      "Khushab"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-kot-addu",
+    "slug": "kot-addu",
+    "officialDisplayName": "Kot Addu",
+    "sourceName": "Kot Addu",
+    "aliases": [
+      "Kot Addu"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "geometryStatus": "derived-from-official-units",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [
+      "punjab-muzaffargarh"
+    ],
+    "supersedes": [
+      "punjab-muzaffargarh"
+    ],
+    "succeededBy": [],
+    "validFrom": "2026-08-05",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Boundary derived reproducibly from official PBS tehsil geometry: KOT ADDU and CHOWK SARWAR SHAHEED."
+  },
+  {
+    "id": "punjab-lahore",
+    "slug": "lahore",
+    "officialDisplayName": "Lahore",
+    "sourceName": "Lahore",
+    "aliases": [
+      "Lahore"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-leiah",
+    "slug": "leiah",
+    "officialDisplayName": "Leiah",
+    "sourceName": "Leiah",
+    "aliases": [
+      "Leiah"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-lodhran",
+    "slug": "lodhran",
+    "officialDisplayName": "Lodhran",
+    "sourceName": "Lodhran",
+    "aliases": [
+      "Lodhran"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-mandi-bahauddin",
+    "slug": "mandi-bahauddin",
+    "officialDisplayName": "Mandi Bahauddin",
+    "sourceName": "Mandi Bahauddin",
+    "aliases": [
+      "Mandi Bahauddin"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-mianwali",
+    "slug": "mianwali",
+    "officialDisplayName": "Mianwali",
+    "sourceName": "Mianwali",
+    "aliases": [
+      "Mianwali"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-multan",
+    "slug": "multan",
+    "officialDisplayName": "Multan",
+    "sourceName": "Multan",
+    "aliases": [
+      "Multan"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-murree",
+    "slug": "murree",
+    "officialDisplayName": "Murree",
+    "sourceName": "Murree",
+    "aliases": [
+      "Murree"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "geometryStatus": "derived-from-official-units",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [
+      "punjab-rawalpindi"
+    ],
+    "supersedes": [
+      "punjab-rawalpindi"
+    ],
+    "succeededBy": [],
+    "validFrom": "2026-08-05",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Boundary derived reproducibly from official PBS tehsil geometry: KOTLI SATTIAN and MURREE."
+  },
+  {
+    "id": "punjab-muzaffargarh",
+    "slug": "muzaffargarh",
+    "officialDisplayName": "Muzaffargarh",
+    "sourceName": "Muzaffargarh",
+    "aliases": [
+      "Muzaffargarh"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "geometryStatus": "derived-from-official-units",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-nankana-sahib",
+    "slug": "nankana-sahib",
+    "officialDisplayName": "Nankana Sahib",
+    "sourceName": "Nankana Sahib",
+    "aliases": [
+      "Nankana Sahib"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-narowal",
+    "slug": "narowal",
+    "officialDisplayName": "Narowal",
+    "sourceName": "Narowal",
+    "aliases": [
+      "Narowal"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-okara",
+    "slug": "okara",
+    "officialDisplayName": "Okara",
+    "sourceName": "Okara",
+    "aliases": [
+      "Okara"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-pakpattan",
+    "slug": "pakpattan",
+    "officialDisplayName": "Pakpattan",
+    "sourceName": "Pakpattan",
+    "aliases": [
+      "Pakpattan"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-rahim-yar-khan",
+    "slug": "rahim-yar-khan",
+    "officialDisplayName": "Rahim Yar Khan",
+    "sourceName": "Rahim Yar Khan",
+    "aliases": [
+      "Rahim Yar Khan"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-rajanpur",
+    "slug": "rajanpur",
+    "officialDisplayName": "Rajanpur",
+    "sourceName": "Rajanpur",
+    "aliases": [
+      "Rajanpur"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-rawalpindi",
+    "slug": "rawalpindi",
+    "officialDisplayName": "Rawalpindi",
+    "sourceName": "Rawalpindi",
+    "aliases": [
+      "Rawalpindi"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "geometryStatus": "derived-from-official-units",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-sahiwal",
+    "slug": "sahiwal",
+    "officialDisplayName": "Sahiwal",
+    "sourceName": "Sahiwal",
+    "aliases": [
+      "Sahiwal"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-sargodha",
+    "slug": "sargodha",
+    "officialDisplayName": "Sargodha",
+    "sourceName": "Sargodha",
+    "aliases": [
+      "Sargodha"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-sheikhupura",
+    "slug": "sheikhupura",
+    "officialDisplayName": "Sheikhupura",
+    "sourceName": "Sheikhupura",
+    "aliases": [
+      "Sheikhupura"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-sialkot",
+    "slug": "sialkot",
+    "officialDisplayName": "Sialkot",
+    "sourceName": "Sialkot",
+    "aliases": [
+      "Sialkot"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-talagang",
+    "slug": "talagang",
+    "officialDisplayName": "Talagang",
+    "sourceName": "Talagang",
+    "aliases": [
+      "Talagang"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "geometryStatus": "derived-from-official-units",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [
+      "punjab-chakwal"
+    ],
+    "supersedes": [
+      "punjab-chakwal"
+    ],
+    "succeededBy": [],
+    "validFrom": "2026-08-05",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Boundary derived reproducibly from official PBS tehsil geometry: LAWA and TALA GANG."
+  },
+  {
+    "id": "punjab-taunsa",
+    "slug": "taunsa",
+    "officialDisplayName": "Taunsa",
+    "sourceName": "Taunsa",
+    "aliases": [
+      "Taunsa"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "punjab-pera-district-list-2025"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "punjab-pera-district-list-2025"
+    ],
+    "geometryStatus": "derived-from-official-units",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [
+      "punjab-dera-ghazi-khan"
+    ],
+    "supersedes": [
+      "punjab-dera-ghazi-khan"
+    ],
+    "succeededBy": [],
+    "validFrom": "2026-08-05",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Boundary derived reproducibly from official PBS tehsil geometry: KOH-E-SULEMAN and TAUNSA."
+  },
+  {
+    "id": "punjab-toba-tek-singh",
+    "slug": "toba-tek-singh",
+    "officialDisplayName": "Toba Tek Singh",
+    "sourceName": "Toba Tek Singh",
+    "aliases": [
+      "Toba Tek Singh"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-vehari",
+    "slug": "vehari",
+    "officialDisplayName": "Vehari",
+    "sourceName": "Vehari",
+    "aliases": [
+      "Vehari"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's current reconciled Punjab boundary reference."
+  },
+  {
+    "id": "punjab-wazirabad",
+    "slug": "wazirabad",
+    "officialDisplayName": "Wazirabad",
+    "sourceName": "Wazirabad",
+    "aliases": [
+      "Wazirabad"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "parentRegionId": "punjab",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "punjab-smbr-functionalization-2022",
+      "punjab-pera-district-list-2025"
+    ],
+    "geometryStatus": "derived-from-official-units",
+    "geometrySourceId": "pbs-psi-census-2023-boundaries",
+    "geometryVersion": "2026-08-05",
+    "publicationStatus": "publishable",
+    "splitFrom": [
+      "punjab-gujranwala"
+    ],
+    "supersedes": [
+      "punjab-gujranwala"
+    ],
+    "succeededBy": [],
+    "validFrom": "2026-08-05",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Boundary derived reproducibly from official PBS tehsil geometry: WAZIRABAD."
+  },
+  {
+    "id": "sindh-badin",
+    "slug": "badin",
+    "officialDisplayName": "Badin",
+    "sourceName": "Badin",
+    "aliases": [
+      "Badin"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-central-karachi",
+    "slug": "central-karachi",
+    "officialDisplayName": "Central Karachi",
+    "sourceName": "Central Karachi",
+    "aliases": [
+      "Central Karachi"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-dadu",
+    "slug": "dadu",
+    "officialDisplayName": "Dadu",
+    "sourceName": "Dadu",
+    "aliases": [
+      "Dadu"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-east-karachi",
+    "slug": "east-karachi",
+    "officialDisplayName": "East Karachi",
+    "sourceName": "East Karachi",
+    "aliases": [
+      "East Karachi"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-ghotki",
+    "slug": "ghotki",
+    "officialDisplayName": "Ghotki",
+    "sourceName": "Ghotki",
+    "aliases": [
+      "Ghotki"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-hyderabad",
+    "slug": "hyderabad",
+    "officialDisplayName": "Hyderabad",
+    "sourceName": "Hyderabad",
+    "aliases": [
+      "Hyderabad"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-jacobabad",
+    "slug": "jacobabad",
+    "officialDisplayName": "Jacobabad",
+    "sourceName": "Jacobabad",
+    "aliases": [
+      "Jacobabad"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-jamshoro",
+    "slug": "jamshoro",
+    "officialDisplayName": "Jamshoro",
+    "sourceName": "Jamshoro",
+    "aliases": [
+      "Jamshoro"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-kambar-shahdad-kot",
+    "slug": "kambar-shahdad-kot",
+    "officialDisplayName": "Kambar Shahdad Kot",
+    "sourceName": "Kambar Shahdad Kot",
+    "aliases": [
+      "Kambar Shahdad Kot"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-kashmore",
+    "slug": "kashmore",
+    "officialDisplayName": "Kashmore",
+    "sourceName": "Kashmore",
+    "aliases": [
+      "Kashmore"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-keamari",
+    "slug": "keamari",
+    "officialDisplayName": "Keamari",
+    "sourceName": "Keamari",
+    "aliases": [
+      "Keamari"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "sindh-current-official-directory-2026"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "sindh-current-official-directory-2026"
+    ],
+    "geometryStatus": "pending-authoritative-boundary",
+    "geometrySourceId": null,
+    "geometryVersion": null,
+    "publicationStatus": "withheld",
+    "splitFrom": [
+      "sindh-west-karachi"
+    ],
+    "supersedes": [
+      "sindh-west-karachi"
+    ],
+    "succeededBy": [],
+    "validFrom": "",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2026-09-04",
+    "summary": "This administrative record is withheld from the polygon layer until an authoritative boundary is available."
+  },
+  {
+    "id": "sindh-khairpur",
+    "slug": "khairpur",
+    "officialDisplayName": "Khairpur",
+    "sourceName": "Khairpur",
+    "aliases": [
+      "Khairpur"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-korangi-karachi",
+    "slug": "korangi-karachi",
+    "officialDisplayName": "Korangi Karachi",
+    "sourceName": "Korangi Karachi",
+    "aliases": [
+      "Korangi Karachi"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-larkana",
+    "slug": "larkana",
+    "officialDisplayName": "Larkana",
+    "sourceName": "Larkana",
+    "aliases": [
+      "Larkana"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-malir-karachi",
+    "slug": "malir-karachi",
+    "officialDisplayName": "Malir Karachi",
+    "sourceName": "Malir Karachi",
+    "aliases": [
+      "Malir Karachi"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-matiari",
+    "slug": "matiari",
+    "officialDisplayName": "Matiari",
+    "sourceName": "Matiari",
+    "aliases": [
+      "Matiari"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-mirpur-khas",
+    "slug": "mirpur-khas",
+    "officialDisplayName": "Mirpur Khas",
+    "sourceName": "Mirpur Khas",
+    "aliases": [
+      "Mirpur Khas"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-naushahro-feroze",
+    "slug": "naushahro-feroze",
+    "officialDisplayName": "Naushahro Feroze",
+    "sourceName": "Naushahro Feroze",
+    "aliases": [
+      "Naushahro Feroze"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-sanghar",
+    "slug": "sanghar",
+    "officialDisplayName": "Sanghar",
+    "sourceName": "Sanghar",
+    "aliases": [
+      "Sanghar"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-shaheed-benazir-abad",
+    "slug": "shaheed-benazir-abad",
+    "officialDisplayName": "Shaheed Benazir Abad",
+    "sourceName": "Shaheed Benazir Abad",
+    "aliases": [
+      "Shaheed Benazir Abad"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-shikarpur",
+    "slug": "shikarpur",
+    "officialDisplayName": "Shikarpur",
+    "sourceName": "Shikarpur",
+    "aliases": [
+      "Shikarpur"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-south-karachi",
+    "slug": "south-karachi",
+    "officialDisplayName": "South Karachi",
+    "sourceName": "South Karachi",
+    "aliases": [
+      "South Karachi"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-sujawal",
+    "slug": "sujawal",
+    "officialDisplayName": "Sujawal",
+    "sourceName": "Sujawal",
+    "aliases": [
+      "Sujawal"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-sukkur",
+    "slug": "sukkur",
+    "officialDisplayName": "Sukkur",
+    "sourceName": "Sukkur",
+    "aliases": [
+      "Sukkur"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-tando-allahyar",
+    "slug": "tando-allahyar",
+    "officialDisplayName": "Tando Allahyar",
+    "sourceName": "Tando Allahyar",
+    "aliases": [
+      "Tando Allahyar"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-tando-muhammad-khan",
+    "slug": "tando-muhammad-khan",
+    "officialDisplayName": "Tando Muhammad Khan",
+    "sourceName": "Tando Muhammad Khan",
+    "aliases": [
+      "Tando Muhammad Khan"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-tharparkar",
+    "slug": "tharparkar",
+    "officialDisplayName": "Tharparkar",
+    "sourceName": "Tharparkar",
+    "aliases": [
+      "Tharparkar"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-thatta",
+    "slug": "thatta",
+    "officialDisplayName": "Thatta",
+    "sourceName": "Thatta",
+    "aliases": [
+      "Thatta"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-umer-kot",
+    "slug": "umer-kot",
+    "officialDisplayName": "Umer Kot",
+    "sourceName": "Umer Kot",
+    "aliases": [
+      "Umer Kot"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "wfp-ocha-adm2-2022"
+    ],
+    "geometryStatus": "verified",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "publishable",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  },
+  {
+    "id": "sindh-west-karachi",
+    "slug": "west-karachi",
+    "officialDisplayName": "West Karachi",
+    "sourceName": "West Karachi",
+    "aliases": [
+      "West Karachi"
+    ],
+    "nameStatus": "verified",
+    "nameSourceIds": [
+      "sindh-current-official-directory-2026"
+    ],
+    "parentRegionId": "sindh",
+    "administrativeLevel": 2,
+    "legalStatus": "verified",
+    "legalEffectiveDate": "",
+    "legalSourceIds": [
+      "sindh-current-official-directory-2026"
+    ],
+    "geometryStatus": "historical-only",
+    "geometrySourceId": "wfp-ocha-adm2-2022",
+    "geometryVersion": "2022-09-09",
+    "publicationStatus": "review-required",
+    "splitFrom": [],
+    "supersedes": [],
+    "succeededBy": [],
+    "validFrom": "2022-09-09",
+    "validTo": null,
+    "lastCheckedDate": "2026-08-05",
+    "nextReviewDate": "2027-02-01",
+    "summary": "Explore this district within Virsapur's dated administrative boundary reference."
+  }
+]

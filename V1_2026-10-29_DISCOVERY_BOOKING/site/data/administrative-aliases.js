@@ -1,0 +1,62 @@
+export const ADMINISTRATIVE_ALIASES = {
+  "azad-kashmir/hattian-bala": {
+    "type": "alternate-spelling",
+    "canonicalId": "azad-kashmir-jhelum-valley",
+    "canonicalSlug": "jhelum-valley"
+  },
+  "azad-kashmir/jehlum-valley": {
+    "type": "alternate-spelling",
+    "canonicalId": "azad-kashmir-jhelum-valley",
+    "canonicalSlug": "jhelum-valley"
+  },
+  "balochistan/breshore": {
+    "type": "alternate-spelling",
+    "canonicalId": "balochistan-barshore",
+    "canonicalSlug": "barshore"
+  },
+  "balochistan/sibi": {
+    "type": "alternate-spelling",
+    "canonicalId": "balochistan-sibi",
+    "canonicalSlug": "sevi"
+  },
+  "balochistan/shaheed-sikandarabad": {
+    "type": "alternate-spelling",
+    "canonicalId": "balochistan-shaheed-sikandarabad",
+    "canonicalSlug": "surab"
+  },
+  "khyber-pakhtunkhwa/lower-south-waziristan": {
+    "type": "alternate-spelling",
+    "canonicalId": "khyber-pakhtunkhwa-south-waziristan-lower",
+    "canonicalSlug": "south-waziristan-lower"
+  },
+  "khyber-pakhtunkhwa/upper-south-waziristan": {
+    "type": "alternate-spelling",
+    "canonicalId": "khyber-pakhtunkhwa-south-waziristan-upper",
+    "canonicalSlug": "south-waziristan-upper"
+  },
+  "khyber-pakhtunkhwa/bar-swat": {
+    "type": "alternate-spelling",
+    "canonicalId": "khyber-pakhtunkhwa-upper-swat",
+    "canonicalSlug": "upper-swat"
+  },
+  "khyber-pakhtunkhwa/south-waziristan": {
+    "type": "split",
+    "formerDistrictId": "khyber-pakhtunkhwa-south-waziristan",
+    "parentRegionId": "khyber-pakhtunkhwa",
+    "successorIds": [
+      "khyber-pakhtunkhwa-south-waziristan-upper",
+      "khyber-pakhtunkhwa-south-waziristan-lower"
+    ],
+    "message": "The former South Waziristan district was divided. Successor polygons remain unavailable until authoritative boundaries can be published."
+  },
+  "balochistan/surab": {
+    "type": "review-pending",
+    "canonicalId": "balochistan-shaheed-sikandarabad",
+    "proposedCanonicalId": "balochistan-surab"
+  },
+  "balochistan/sevi": {
+    "type": "review-pending",
+    "canonicalId": "balochistan-sibi",
+    "proposedCanonicalId": "balochistan-sevi"
+  }
+};

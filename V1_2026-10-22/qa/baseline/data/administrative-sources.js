@@ -1,0 +1,339 @@
+export const ADMINISTRATIVE_SOURCES = [
+  {
+    "id": "wfp-ocha-adm2-2022",
+    "authority": "World Food Programme / UNOCHA Pakistan Common Operational Dataset",
+    "jurisdiction": "Pakistan",
+    "sourceType": "authoritative-boundary-dataset",
+    "title": "Pakistan: Admin Level 2 Boundaries",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://data.humdata.org/dataset/cod-ab-pak",
+    "localArchivePath": "work/source-snapshots/wfp-ocha-adm2-2022/2026-08-05.json",
+    "checksum": "5c2a973dcbc6e7f8ee12e2ce6f8c5fae3d4bb51695535ed8a3f32e7d1a5841d8",
+    "licenceOrTerms": "COD/FOD Registry Terms of Use",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": true,
+    "notes": "The source of the prototype's existing 160 district polygons; it is a dated geometry baseline, not proof of later legal changes."
+  },
+  {
+    "id": "punjab-smbr-functionalization-2022",
+    "authority": "Government of Punjab / Board of Revenue",
+    "jurisdiction": "Punjab",
+    "sourceType": "official-district-portal",
+    "title": "SMBR Chairs High Level Meeting Regarding Functionalization of District Offices",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://punjab.gov.pk/node/5143",
+    "localArchivePath": "work/source-snapshots/punjab-smbr-functionalization-2022/2026-08-05.json",
+    "checksum": "",
+    "licenceOrTerms": "Official public-sector source; verify reuse terms before redistribution.",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": true,
+    "notes": "Officially corroborates Murree, Kot Addu, Wazirabad and Talagang as newly created districts. The controlling creation notifications and notification numbers were not located."
+  },
+  {
+    "id": "punjab-pera-district-list-2025",
+    "authority": "Punjab Enforcement and Regulatory Authority, Government of Punjab",
+    "jurisdiction": "Punjab",
+    "sourceType": "official-district-portal",
+    "title": "Enforcement Officer and Investigation Officer district vacancy list",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://pera.punjab.gov.pk/system/files/PERA%20EO%20%26%20IO%20Advertisement%20Final%2025-06-2025_0.pdf",
+    "localArchivePath": "work/source-snapshots/punjab-pera-district-list-2025/2026-08-05.json",
+    "checksum": "",
+    "licenceOrTerms": "Official public-sector source; verify reuse terms before redistribution.",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": true,
+    "notes": "Enumerates Kot Addu, Murree, Talagang, Taunsa and Wazirabad in current Punjab district operations."
+  },
+  {
+    "id": "sindh-current-official-directory-2026",
+    "authority": "Government of Sindh",
+    "jurisdiction": "Sindh",
+    "sourceType": "official-district-portal",
+    "title": "Government of Sindh official portal — Commissioners and Deputy Commissioners directory",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://www.sindh.gov.pk/",
+    "localArchivePath": "work/source-snapshots/sindh-current-official-directory-2026/2026-08-05.json",
+    "checksum": "",
+    "licenceOrTerms": "Official public-sector source; verify reuse terms before redistribution.",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": true,
+    "notes": "Lists a Deputy Commissioner for Keamari. The controlling Keamari creation notification and notification number were not located."
+  },
+  {
+    "id": "kp-internship-current-district-list-2026",
+    "authority": "Government of Khyber Pakhtunkhwa",
+    "jurisdiction": "Khyber Pakhtunkhwa",
+    "sourceType": "official-district-portal",
+    "title": "Khyber Pakhtunkhwa Internship Portal district selector",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://internships.kp.gov.pk/view-internship/517",
+    "localArchivePath": "work/source-snapshots/kp-internship-current-district-list-2026/2026-08-05.json",
+    "checksum": "",
+    "licenceOrTerms": "Official public-sector source; verify reuse terms before redistribution.",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": true,
+    "notes": "Uses the official operational forms South Waziristan Upper and South Waziristan Lower; it does not provide the controlling split notification or geometry."
+  },
+  {
+    "id": "kp-dgipr-upper-south-waziristan-2025",
+    "authority": "Directorate General Information and Public Relations, Government of Khyber Pakhtunkhwa",
+    "jurisdiction": "Khyber Pakhtunkhwa",
+    "sourceType": "official-district-portal",
+    "title": "Health Secretariat meeting regarding South Waziristan",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://dgipr.kp.gov.pk/health1-29-12-25/",
+    "localArchivePath": "work/source-snapshots/kp-dgipr-upper-south-waziristan-2025/2026-08-05.json",
+    "checksum": "",
+    "licenceOrTerms": "Official public-sector source; verify reuse terms before redistribution.",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": true,
+    "notes": "Names the District Health Officer, Upper South Waziristan."
+  },
+  {
+    "id": "balochistan-gazette-index-2026",
+    "authority": "Government of Balochistan",
+    "jurisdiction": "Balochistan",
+    "sourceType": "gazette-notification",
+    "title": "Gazette — Official Web Gateway to Balochistan",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://balochistan.gov.pk/gazette/",
+    "localArchivePath": "work/source-snapshots/balochistan-gazette-index-2026/2026-08-05.json",
+    "checksum": "",
+    "licenceOrTerms": "Official public-sector source; verify reuse terms before redistribution.",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": false,
+    "requiresManualReview": true,
+    "notes": "The public page did not expose a July 2026 district reorganization instrument. No controlling notification was located for the reported 41-district package."
+  },
+  {
+    "id": "ict-administration-2026",
+    "authority": "Islamabad Capital Territory Administration",
+    "jurisdiction": "Islamabad",
+    "sourceType": "official-district-portal",
+    "title": "Islamabad Capital Territory Administration",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://ictadministration.gov.pk/about-icta/",
+    "localArchivePath": "work/source-snapshots/ict-administration-2026/2026-08-05.json",
+    "checksum": "",
+    "licenceOrTerms": "Official public-sector source; verify reuse terms before redistribution.",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": true,
+    "notes": "Confirms the single ICT civil administration and Deputy Commissioner structure."
+  },
+  {
+    "id": "ajk-food-district-table-2026",
+    "authority": "Food Department, Government of Azad Jammu and Kashmir",
+    "jurisdiction": "Azad Jammu and Kashmir",
+    "sourceType": "bureau-of-statistics-record",
+    "title": "District Wise Area and Population",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://food.ajk.gov.pk/elementor-111/",
+    "localArchivePath": "work/source-snapshots/ajk-food-district-table-2026/2026-08-05.json",
+    "checksum": "",
+    "licenceOrTerms": "Official public-sector source; verify reuse terms before redistribution.",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": true,
+    "notes": "Lists ten districts and uses Jhelum Valley as the district name; Hattian Bala is retained as an alias and district headquarters/tehsil name."
+  },
+  {
+    "id": "gb-ppra-current-district-records-2026",
+    "authority": "Public Procurement Regulatory Authority, Government of Gilgit-Baltistan",
+    "jurisdiction": "Gilgit-Baltistan",
+    "sourceType": "official-district-portal",
+    "title": "Gilgit-Baltistan Public Procurement Regulatory Authority district records",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://ppra.gbit.gov.pk/procurements/1",
+    "localArchivePath": "work/source-snapshots/gb-ppra-current-district-records-2026/2026-08-05.json",
+    "checksum": "",
+    "licenceOrTerms": "Official public-sector source; verify reuse terms before redistribution.",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": true,
+    "notes": "Current records corroborate operation of the 14 names in the baseline, including Darel, Tangir, Gupis-Yasin and Rondu. A single controlling 14-district schedule was not located."
+  },
+  {
+    "id": "punjab-board-of-revenue-repository",
+    "authority": "Board of Revenue, Government of Punjab",
+    "jurisdiction": "Pakistan",
+    "sourceType": "official-district-portal",
+    "title": "Board of Revenue notification repository",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://bor.punjab.gov.pk/",
+    "localArchivePath": "work/source-snapshots/punjab-board-of-revenue-repository/2026-08-05.json",
+    "checksum": "",
+    "licenceOrTerms": "Official public-sector source; verify reuse terms before redistribution.",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": true,
+    "notes": "Configured as a controlling-source repository. A district change is not verified merely because the repository URL loads."
+  },
+  {
+    "id": "sindh-board-of-revenue-repository",
+    "authority": "Board of Revenue, Government of Sindh",
+    "jurisdiction": "Pakistan",
+    "sourceType": "official-district-portal",
+    "title": "Board of Revenue notification repository",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://bor.sindh.gov.pk/",
+    "localArchivePath": "work/source-snapshots/sindh-board-of-revenue-repository/2026-08-05.json",
+    "checksum": "",
+    "licenceOrTerms": "Official public-sector source; verify reuse terms before redistribution.",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": true,
+    "notes": "Configured as a controlling-source repository. A district change is not verified merely because the repository URL loads."
+  },
+  {
+    "id": "kp-revenue-notification-repository",
+    "authority": "Revenue and Estate Department, Government of Khyber Pakhtunkhwa",
+    "jurisdiction": "Pakistan",
+    "sourceType": "official-district-portal",
+    "title": "Revenue notification repository",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://revenue.kp.gov.pk/",
+    "localArchivePath": "work/source-snapshots/kp-revenue-notification-repository/2026-08-05.json",
+    "checksum": "",
+    "licenceOrTerms": "Official public-sector source; verify reuse terms before redistribution.",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": true,
+    "notes": "Configured as a controlling-source repository. A district change is not verified merely because the repository URL loads."
+  },
+  {
+    "id": "balochistan-board-of-revenue-repository",
+    "authority": "Board of Revenue, Government of Balochistan",
+    "jurisdiction": "Pakistan",
+    "sourceType": "official-district-portal",
+    "title": "Board of Revenue repository",
+    "notificationNumber": "Notification number not located",
+    "publicationDate": "",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "https://bor.balochistan.gov.pk/",
+    "localArchivePath": "work/source-snapshots/balochistan-board-of-revenue-repository/2026-08-05.json",
+    "checksum": "",
+    "licenceOrTerms": "Official public-sector source; verify reuse terms before redistribution.",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": true,
+    "notes": "Configured as a controlling-source repository. A district change is not verified merely because the repository URL loads."
+  },
+  {
+    "id": "virsapur-editorial-review-seed-2026",
+    "authority": "Virsapur editorial review",
+    "jurisdiction": "Pakistan",
+    "sourceType": "reputable-secondary-report",
+    "title": "Post-2022 administrative review seed supplied for reconciliation",
+    "notificationNumber": "Not applicable",
+    "publicationDate": "2026-08-05",
+    "effectiveDate": "",
+    "accessedDate": "2026-08-05",
+    "url": "local:ADMINISTRATIVE_RECONCILIATION_2026-08-05.md",
+    "localArchivePath": "ADMINISTRATIVE_RECONCILIATION_2026-08-05.md",
+    "checksum": "2e7476152e8f964d6c340eb4d21f533aa5f18aad44d3ca6edf936d71ed14ec7f",
+    "licenceOrTerms": "Internal editorial working record",
+    "administrativeLevels": [
+      2
+    ],
+    "automatedRetrievalPermitted": false,
+    "requiresManualReview": true,
+    "notes": "A review queue only. This record does not legally verify any district and cannot be used as sole publication evidence."
+  },
+  {
+    "id": "pbs-psi-census-2023-boundaries",
+    "authority": "Pakistan Bureau of Statistics, GIS Section",
+    "jurisdiction": "Pakistan",
+    "sourceType": "official-administrative-boundary-service",
+    "title": "Pakistan Spatial Insights — Digital Census 2023 district and tehsil GeoJSON",
+    "notificationNumber": "District creation notifications corroborated by Election Commission of Pakistan re-description notification F.15(1)/2022",
+    "publicationDate": "2023",
+    "effectiveDate": "2023",
+    "accessedDate": "2026-08-05",
+    "url": "https://psi.pbos.gov.pk/",
+    "localArchivePath": "work/source-data/pbs-psi-district-2023.geojson; work/source-data/pbs-psi-tehsil-2023.geojson",
+    "checksum": "77d9ec74a2d5879cb9768d4483f34060f48cf94e00509cd98a39abe79e01a52e;02be65e4ca48fcb1b4c1709ca70b235717e3a6610ee16fc1cbaafdc8d5e8a039",
+    "licenceOrTerms": "Official public-sector census map; public page states all content is available under the Pakistan Bureau of Statistics.",
+    "administrativeLevels": [
+      2,
+      4
+    ],
+    "automatedRetrievalPermitted": true,
+    "requiresManualReview": false,
+    "notes": "Punjab is rebuilt from the official district footprint. Five post-baseline districts are generated by unioning named official tehsil units, clipping the union to the former parent district, and subtracting the result from that parent. Coordinates are deterministically quantized to seven decimals before overlay."
+  }
+];

@@ -1,0 +1,47 @@
+/* Local programme discovery and booking, using the approved visual palette. */
+.sample-notice{padding:14px 18px;background:#f6f5f2;border-left:2px solid var(--terracotta,#b56e4d);font-size:.9rem;line-height:1.6}
+.activity-filters,.booking-contact{display:grid;grid-template-columns:2fr 1fr;gap:24px;margin:28px 0}
+.active-programmes label,.booking-section label{display:grid;gap:8px;font-weight:600;font-size:.9rem}
+.active-programmes input,.active-programmes select,.booking-section input,.booking-section select{box-sizing:border-box;width:100%;min-width:0;padding:14px;border:1px solid #c9ced0;border-radius:4px;background:white;color:#303438;font:inherit}
+.activity-row{display:grid;grid-template-columns:76px minmax(0,1fr) 185px;gap:28px;align-items:center;padding:30px 0;border-top:1px solid #d9dcdd}
+.activity-row[hidden],.booking-section [hidden],.active-programmes [hidden]{display:none!important}
+.activity-date{display:grid;align-content:center;text-align:center;border:1px solid #d9dcdd;min-height:88px;border-radius:4px;text-transform:uppercase;font-size:.75rem;letter-spacing:.1em}
+.activity-date strong{font:2rem Georgia,serif;letter-spacing:0}.activity-row h3{font-size:clamp(1.35rem,2vw,1.8rem);margin:8px 0}.activity-row p{margin:8px 0;font-size:.92rem}.activity-price{display:grid;gap:5px}.activity-price span{font-size:.8rem;color:#63707b}.activity-price .text-action{margin-top:12px;font-size:.75rem}.activity-detail-price{font-size:1.5rem}.activity-detail-price small{display:block;font-size:.8rem}
+.booking-section{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.2fr);gap:clamp(32px,6vw,96px);scroll-margin-top:120px;border-top:1px solid #d9dcdd}.booking-section form{display:grid;gap:20px}.booking-section fieldset{border:0;padding:0;margin:0;min-width:0}.booking-section legend{font-size:1.1rem;font-weight:600;margin-bottom:16px}.booking-section [data-participants]{display:grid;gap:16px}.booking-contact{grid-template-columns:1fr 1fr;margin:0}.booking-total{display:flex;justify-content:space-between;gap:20px;font-size:1.25rem;padding:18px 0;border-block:1px solid #d9dcdd}
+.booking-dialog{box-sizing:border-box;width:min(600px,calc(100vw - 32px));max-height:85svh;overflow:auto;border:1px solid #d9dcdd;border-radius:8px;padding:36px;color:#303438;background:white}.booking-dialog::backdrop{background:rgba(35,41,47,.48)}.booking-dialog h2{padding-right:24px}.booking-outcomes{display:grid;gap:12px}.booking-dialog .dialog-close{position:absolute;right:12px;top:12px}.booking-dialog button:disabled{opacity:.6;cursor:wait}.booking-section [data-booking-result] li{padding:8px 0}.booking-section [data-booking-result] small{display:block;color:#65717a}
+@media(max-width:760px){.activity-row{grid-template-columns:54px minmax(0,1fr);gap:18px;padding:24px 0}.activity-date{min-height:72px}.activity-price{grid-column:2}.activity-filters,.booking-contact,.booking-section{grid-template-columns:1fr}.activity-filters{gap:16px}.booking-dialog{padding:28px 22px}.booking-section select{font-size:.84rem}.activity-row h3{overflow-wrap:anywhere}}
+
+.booking-dialog button.text-action,.booking-section button.text-action{border:0;background:transparent;text-align:left;color:var(--terracotta,#b56e4d);padding:12px 0;cursor:pointer}
+
+/* Official tour cards: image-led layout with a clear trip schedule and action. */
+.active-programmes[data-activity-catalogue] {min-width:0}
+.active-programmes[data-activity-catalogue]>div:has(.activity-card){display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.activity-card{display:flex;min-width:0;overflow:hidden;flex-direction:column;padding:0;border:1px solid var(--line,#d9dcdd);border-radius:18px;background:#fff;box-shadow:0 10px 28px rgba(48,51,58,.07);transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease}
+.activity-card:hover{transform:translateY(-3px);border-color:rgba(173,86,48,.34);box-shadow:0 16px 36px rgba(48,51,58,.12)}
+.activity-card-image{display:block;width:100%;aspect-ratio:16/9;overflow:hidden;background:#eee7e0}
+.activity-card-image img{display:block;width:100%;height:100%;object-fit:cover;object-position:center 48%}
+.editorial-panel.activity-card .activity-card-image{aspect-ratio:16/9}
+.editorial-panel.activity-card .activity-card-image img{aspect-ratio:16/9}
+.activity-card-copy{display:flex;min-width:0;flex:1;flex-direction:column;align-items:stretch;padding:24px 26px 26px}
+.activity-card-copy>.overline{margin:0 0 13px;color:#99451f;font:700 11px/1.35 var(--sans,Inter,sans-serif);letter-spacing:.15em;text-transform:uppercase}
+.activity-card-copy h3{margin:0 0 13px;font:600 clamp(30px,3vw,42px)/1.02 var(--serif,"EB Garamond",Georgia,serif);letter-spacing:-.025em;color:#25282d}
+.activity-card-copy h3 a{color:inherit;text-decoration:none}
+.activity-card-copy h3 a:hover,.activity-card-copy h3 a:focus-visible{text-decoration:underline;text-decoration-color:#bd7352;text-underline-offset:5px}
+.activity-card-summary{min-height:3.15em;margin:0 0 24px;color:#44464a;font:400 clamp(15px,1.3vw,19px)/1.55 var(--sans,Inter,sans-serif)}
+.activity-card-schedule{display:grid;grid-template-columns:94px minmax(0,1fr);gap:20px;align-items:center;padding:20px 0;border-top:1px solid #d5d5d5;border-bottom:1px solid #d5d5d5}
+.activity-card .activity-date{display:grid;min-height:82px;align-content:center;justify-items:center;border:0;border-right:1px solid #c9c9ca;border-radius:0;text-align:center}
+.activity-card .activity-date span{grid-row:2;color:#93421f;font:700 15px/1.2 var(--sans,Inter,sans-serif);letter-spacing:.08em;text-transform:uppercase}
+.activity-card .activity-date strong{grid-row:1;margin-bottom:5px;color:#25282d;font:600 42px/.9 var(--serif,"EB Garamond",Georgia,serif)}
+.activity-card-when{display:grid;gap:10px;min-width:0}
+.activity-card-when p{display:grid;grid-template-columns:24px minmax(0,1fr);align-items:center;gap:10px;margin:0;color:#303237;font:400 16px/1.4 var(--sans,Inter,sans-serif);text-align:left;overflow-wrap:anywhere}
+.activity-card-when svg,.activity-card-facts svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;color:#303237}
+.activity-card-facts{display:flex;min-height:72px;align-items:center;gap:18px;padding:14px 0;color:#303237;font:500 15px/1.4 var(--sans,Inter,sans-serif)}
+.activity-card-facts>span{display:flex;min-width:0;align-items:center;gap:10px}
+.activity-card-facts>i{width:1px;height:38px;flex:0 0 1px;background:#c9c9ca}
+.activity-card-facts svg{flex:0 0 24px;width:24px;height:24px}
+.activity-card-cta{display:flex;width:100%;min-height:58px;box-sizing:border-box;align-items:center;justify-content:space-between;gap:14px;margin-top:auto;padding:14px 22px;border:1px solid #a74720;border-radius:11px;background:#a74720;color:#fff;font:700 15px/1.2 var(--sans,Inter,sans-serif);letter-spacing:.045em;text-decoration:none;text-transform:uppercase;transition:background .18s ease,border-color .18s ease}
+.activity-card-cta:hover,.activity-card-cta:focus-visible{border-color:#883b1d;background:#883b1d;color:#fff}
+.activity-card-cta span{font-size:24px;line-height:1}
+@media(max-width:1000px){.active-programmes[data-activity-catalogue]>div:has(.activity-card){grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.activity-card-copy{padding:21px}.activity-card-schedule{grid-template-columns:76px minmax(0,1fr);gap:14px}.activity-card-when p{font-size:14px}.activity-card-facts{gap:12px;font-size:13px}}
+@media(max-width:680px){.active-programmes[data-activity-catalogue]>div:has(.activity-card){grid-template-columns:minmax(0,1fr);gap:18px}.activity-card{border-radius:14px}.activity-card-copy{padding:20px}.activity-card-copy h3{font-size:36px}.activity-card-summary{min-height:0;margin-bottom:20px}.activity-card-schedule{grid-template-columns:82px minmax(0,1fr)}.activity-card-when p{font-size:15px}.activity-card-facts{min-height:64px}}
+@media(max-width:380px){.activity-card-copy{padding:17px}.activity-card-schedule{grid-template-columns:68px minmax(0,1fr);gap:12px}.activity-card-when p{grid-template-columns:20px minmax(0,1fr);gap:8px;font-size:13px}.activity-card-facts{gap:10px;font-size:12px}.activity-card-facts>span{gap:7px}.activity-card-cta{min-height:52px;font-size:13px}}

@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-10-29T15:43:05.506Z",
+  "bookingStore": 6,
+  "tourContract": 19,
+  "mediaValidation": 5,
+  "backendContract": 9,
+  "contentArchitecture": true,
+  "archiveDiscovery": true,
+  "localEditor": true,
+  "itinerarySizes": [
+    3,
+    10,
+    20
+  ],
+  "browserBooking": {
+    "participants": 2,
+    "total": 9000,
+    "outcomes": [
+      "declined",
+      "success",
+      "cancelled"
+    ],
+    "ticketDownload": "QA-SAMPLE-TICKETS.html"
+  },
+  "notDeployed": true
+}

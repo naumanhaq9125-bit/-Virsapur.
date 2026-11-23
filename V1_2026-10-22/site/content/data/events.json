@@ -1,0 +1,288 @@
+[
+  {
+    "id": "official trip-1795439902076",
+    "type": "occurrence",
+    "scheduleType": "heritage-trip",
+    "slug": "official-trip-1795439902076",
+    "status": "published",
+    "title": "Whole Pakistan Trip",
+    "summary": "Full visit",
+    "programmeId": "programme-heritage-tours",
+    "start": "2026-11-25T18:18",
+    "end": "2026-11-30T18:19",
+    "location": "Lahore train station",
+    "registrationState": "open",
+    "capacity": 15,
+    "officialTrip": {
+      "transportation": "Car",
+      "tripType": "Friends",
+      "budget": 40000,
+      "travelPace": "Moderate",
+      "travelerCount": 1
+    },
+    "relatedHeritageIds": [
+      "unesco-139",
+      "unesco-138",
+      "major-doam-6467",
+      "major-doam-6680"
+    ],
+    "commerce": {
+      "enabled": true,
+      "mode": "registration",
+      "currency": "PKR",
+      "amount": 35000,
+      "label": "Pay & book"
+    },
+    "image": {
+      "src": "",
+      "alt": "",
+      "focalX": 50,
+      "focalY": 50
+    },
+    "category": "",
+    "province": "",
+    "district": "",
+    "districtId": "",
+    "author": "",
+    "publishedAt": "",
+    "body": [],
+    "seo": {
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "createdAt": "2026-11-23T13:20:19.807Z",
+    "updatedAt": "2026-11-23T13:20:26.620Z"
+  },
+  {
+    "id": "official trip-1795188911536",
+    "type": "occurrence",
+    "scheduleType": "heritage-trip",
+    "slug": "official-trip-1795188911536",
+    "status": "published",
+    "title": "Nankana Sahab",
+    "summary": "Visit to Nankana",
+    "programmeId": "programme-heritage-tours",
+    "start": "2026-11-26T20:36",
+    "end": "2026-11-28T20:36",
+    "location": "Okara bypass",
+    "registrationState": "open",
+    "capacity": 1,
+    "officialTrip": {
+      "transportation": "Car",
+      "tripType": "Educational",
+      "budget": 6000,
+      "travelPace": "Relaxed",
+      "travelerCount": 3
+    },
+    "relatedHeritageIds": [
+      "major-doam-6213",
+      "major-doam-10315"
+    ],
+    "commerce": {
+      "enabled": true,
+      "mode": "registration",
+      "currency": "PKR",
+      "amount": 10000,
+      "label": "Pay & book"
+    },
+    "image": {
+      "src": "",
+      "alt": "",
+      "focalX": 50,
+      "focalY": 50
+    },
+    "category": "",
+    "province": "",
+    "district": "",
+    "districtId": "",
+    "author": "",
+    "publishedAt": "",
+    "body": [],
+    "seo": {
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "createdAt": "2026-11-20T15:37:37.327Z",
+    "updatedAt": "2026-11-23T13:20:26.620Z"
+  },
+  {
+    "id": "official trip-1795101964039",
+    "type": "occurrence",
+    "scheduleType": "heritage-trip",
+    "slug": "official-trip-1795101964039",
+    "status": "published",
+    "title": "Gandhawa trip",
+    "summary": "A visit to gandhawa heritages",
+    "programmeId": "programme-heritage-tours",
+    "start": "2026-11-26T20:27",
+    "end": "2026-11-29T20:27",
+    "location": "Lahore train station",
+    "registrationState": "open",
+    "capacity": 10,
+    "officialTrip": {
+      "transportation": "Car",
+      "tripType": "Friends",
+      "budget": 2000,
+      "travelPace": "Relaxed",
+      "travelerCount": 5
+    },
+    "relatedHeritageIds": [
+      "major-doam-10396",
+      "major-doam-10400"
+    ],
+    "commerce": {
+      "enabled": true,
+      "mode": "registration",
+      "currency": "PKR",
+      "amount": 15000,
+      "label": "Pay & book"
+    },
+    "image": {
+      "src": "",
+      "alt": "",
+      "focalX": 50,
+      "focalY": 50
+    },
+    "category": "",
+    "province": "",
+    "district": "",
+    "districtId": "",
+    "author": "",
+    "publishedAt": "",
+    "body": [],
+    "seo": {
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "createdAt": "2026-11-19T15:28:56.097Z",
+    "updatedAt": "2026-11-23T13:20:26.620Z"
+  },
+  {
+    "id": "official trip-1795100363568",
+    "type": "occurrence",
+    "scheduleType": "heritage-trip",
+    "slug": "official-trip-1795100363568",
+    "status": "published",
+    "title": "Mohenjadaro heritage trip",
+    "summary": "A visit to mohenjadaro , an indus civilzation gateway",
+    "programmeId": "programme-heritage-tours",
+    "start": "2026-11-22T20:00",
+    "end": "2026-11-24T20:00",
+    "location": "Mohenjadaro bypass",
+    "registrationState": "draft",
+    "capacity": 10,
+    "officialTrip": {
+      "transportation": "Car",
+      "tripType": "Friends",
+      "budget": 18000,
+      "travelPace": "Relaxed",
+      "travelerCount": 5
+    },
+    "relatedHeritageIds": [
+      "unesco-138",
+      "unesco-143",
+      "major-doam-5231"
+    ],
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Contact about this trip"
+    },
+    "image": {
+      "src": "assets/hero-badshahi.jpg",
+      "optimizedStem": "hero-badshahi",
+      "width": 1918,
+      "height": 1080,
+      "alt": "",
+      "focalX": 50,
+      "focalY": 50
+    },
+    "category": "",
+    "province": "",
+    "district": "",
+    "districtId": "",
+    "author": "",
+    "publishedAt": "",
+    "body": [],
+    "seo": {
+      "title": "",
+      "description": "",
+      "image": "assets/hero-badshahi.jpg"
+    },
+    "createdAt": "2026-11-19T15:02:55.849Z",
+    "updatedAt": "2026-11-23T13:20:26.620Z"
+  },
+  {
+    "id": "official trip-1795011008403",
+    "type": "occurrence",
+    "scheduleType": "heritage-trip",
+    "slug": "official-trip-1795011008403",
+    "status": "published",
+    "title": "Harrapa",
+    "summary": "We are going to explore the haritages of harrapa today",
+    "programmeId": "programme-indus-thatta-route",
+    "start": "2026-11-21T19:21",
+    "end": "2026-11-21T19:36",
+    "location": "Sahiwal Bus Station",
+    "registrationState": "open",
+    "capacity": 1,
+    "officialTrip": {
+      "transportation": "Car",
+      "tripType": "Educational",
+      "budget": 30000,
+      "travelPace": "Relaxed",
+      "travelerCount": 13
+    },
+    "relatedHeritageIds": [
+      "major-doam-6579",
+      "unesco-140"
+    ],
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Contact about this trip"
+    },
+    "image": {
+      "src": "assets/hero-badshahi.jpg",
+      "optimizedStem": "hero-badshahi",
+      "width": 1918,
+      "height": 1080,
+      "alt": "",
+      "focalX": 50,
+      "focalY": 50,
+      "credit": "",
+      "sourceUrl": "",
+      "license": "",
+      "clearanceStatus": "unreviewed",
+      "approvedUsage": "",
+      "productionCleared": false
+    },
+    "category": "Informative",
+    "province": "Punjab",
+    "district": "Sahiwal",
+    "districtId": "Punjab-Sahiwal",
+    "author": "Nauman",
+    "publishedAt": "2026-11-18",
+    "body": [],
+    "seo": {
+      "title": "Trip which gives you much pleasure",
+      "description": "",
+      "image": "assets/hero-badshahi.jpg",
+      "primaryKeyword": "",
+      "socialTitle": "",
+      "socialDescription": "",
+      "socialImage": "",
+      "noindex": false
+    },
+    "tags": [],
+    "createdAt": "2026-11-18T15:48:33.887Z",
+    "updatedAt": "2026-11-23T13:20:26.620Z"
+  }
+]

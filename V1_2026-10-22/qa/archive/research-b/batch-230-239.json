@@ -1,0 +1,288 @@
+{
+  "date": "2026-10-22",
+  "planIndices": [
+    230,
+    239
+  ],
+  "records": 10,
+  "proseWordCounts": [
+    {
+      "id": "story-wooden-mosques-and-regional-building-knowledge",
+      "words": 486
+    },
+    {
+      "id": "story-temple-sculpture-removed-from-its-original-setting",
+      "words": 505
+    },
+    {
+      "id": "story-pilgrimage-paths-and-the-places-between-monuments",
+      "words": 480
+    },
+    {
+      "id": "story-conserving-a-sacred-building-with-its-community",
+      "words": 495
+    },
+    {
+      "id": "story-the-shrine-courtyard-as-social-space",
+      "words": 491
+    },
+    {
+      "id": "story-sacred-calendars-and-administrative-calendars",
+      "words": 477
+    },
+    {
+      "id": "story-photographing-sacred-art-without-losing-its-context",
+      "words": 494
+    },
+    {
+      "id": "story-punjabi-across-more-than-one-script",
+      "words": 483
+    },
+    {
+      "id": "story-sindhis-writing-traditions-and-the-making-of-print",
+      "words": 500
+    },
+    {
+      "id": "story-pashto-literary-forms-beyond-a-single-poet",
+      "words": 494
+    }
+  ],
+  "sources": [
+    {
+      "id": "story-wooden-mosques-and-regional-building-knowledge",
+      "references": [
+        {
+          "title": "Chaqchan Mosque",
+          "url": "https://visitgilgitbaltistan.gov.pk/tour/id/67",
+          "publisher": "Government of Gilgit-Baltistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "2005 Asia-Pacific Heritage Conservation Award winners",
+          "url": "https://articles.unesco.org/sites/default/files/medias/fichiers/2023/06/2005-winners.pdf",
+          "publisher": "UNESCO",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Maina Kalay Wooden Mosque",
+          "url": "https://doam.gov.pk/public/sites/1730",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "limits": "DOAM Kalam live fetch failed; do not invent construction or institutional specifics. Amburiq museum use is explicitly the 2005 award account, not current access advice. Chaqchan founder traditions and broad style labels not adopted as established facts."
+    },
+    {
+      "id": "story-temple-sculpture-removed-from-its-original-setting",
+      "references": [
+        {
+          "title": "Murti Hill",
+          "url": "https://doam.gov.pk/public/sites/9766",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Chandigarh Museum: Murti, Salt Range photographs",
+          "url": "https://vmis.in/ArchiveCategories/collection_gallery_parent?count=24&id=1366&maxrange=0&minrange=0&siteid=7365",
+          "publisher": "American Institute of Indian Studies, Center for Art and Archaeology",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Introduction to Object ID",
+          "url": "https://www.getty.edu/publications/resources/virtuallibrary/0892365722.pdf",
+          "publisher": "Getty Information Institute",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "limits": "DOAM classification/chronology and VMIS date ranges differ; no harmonised foundation date or universal religious identity invented. VMIS is documentation of objects, not proof of their legal transfer. No collection encouragement."
+    },
+    {
+      "id": "story-pilgrimage-paths-and-the-places-between-monuments",
+      "references": [
+        {
+          "title": "SGPC jatha departs for Khalsa Sajna Diwas at Panja Sahib",
+          "url": "https://sgpc.net/sgpc-jatha-departs-for-celebrating-khalsa-sajna-diwas-at-gurdwara-sri-panja-sahib-pakistan/",
+          "publisher": "Shiromani Gurdwara Parbandhak Committee",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "A Hindu festival in southwestern Pakistan brings a mountainous region to life",
+          "url": "https://apnews.com/article/bbebc541b403875a15c675bab353821c",
+          "publisher": "Associated Press, firsthand reporting, 28 April 2024",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Sarai Kharbuza",
+          "url": "https://doam.gov.pk/public/sites/6227",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "limits": "AP contribution kept under100 words; SGPC extracted page lacks year, so no year/current itinerary supplied. Sarai is explicitly comparative, not claimed as a documented stop for either linked pilgrimage. No cross-country route generated."
+    },
+    {
+      "id": "story-conserving-a-sacred-building-with-its-community",
+      "references": [
+        {
+          "title": "2005 Asia-Pacific Heritage Conservation Award winners",
+          "url": "https://articles.unesco.org/sites/default/files/medias/fichiers/2023/06/2005-winners.pdf",
+          "publisher": "UNESCO",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Project profiles for 2016 UNESCO Heritage Award winners",
+          "url": "https://articles.unesco.org/sites/default/files/medias/fichiers/2023/06/2016-winners_1.pdf",
+          "publisher": "UNESCO",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "limits": "Amburiq 2005 account used under100 words cumulatively with230. Shahi Hammam expressly a bathhouse comparator, not relabelled sacred. Consultation framework is editorial analysis, not a claimed project participation history. No current access/use promise."
+    },
+    {
+      "id": "story-the-shrine-courtyard-as-social-space",
+      "references": [
+        {
+          "title": "Integrated Development Planning and Revamping of Data Darbar Complex, Lahore: PC-II",
+          "url": "https://pnd.punjab.gov.pk/system/files/Auqaf%29%20Integrated%20Development%20Planning%20%26%20Revamping%20of%20Data%20Darbar%20Complex%2C%20Lahore%20%28PC-II%29.pdf",
+          "publisher": "Planning and Development Board, Government of Punjab",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Hazrat Baba Fariduddin Masud Gunj Shakar, Pakpattan",
+          "url": "https://auqaf.punjab.gov.pk/shrine-baba-farid",
+          "publisher": "Auqaf and Religious Affairs Department, Punjab",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Itikaf arrangements at Data Darbar",
+          "url": "https://www.app.com.pk/punjab/2600-apply-for-itikaf-at-data-darbar-1200-selected-auqaf-secretary/",
+          "publisher": "Associated Press of Pakistan, reporting the Auqaf secretary",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "limits": "PC-II indexed substantive scope read; direct PDF403, explicitly planning not completion. APP dated Ramadan2026 report treated as attributed administrative statement. Auqaf Baba Farid page contains problematic biography (Ibn Battuta meeting); only physical doors/location used."
+    },
+    {
+      "id": "story-sacred-calendars-and-administrative-calendars",
+      "references": [
+        {
+          "title": "Arrangements for sighting the moon of Ramadan 1447 AH / 2026",
+          "url": "https://www.mora.gov.pk/NewsDetail/ZTk4OGVhOGMtMjYzNi00M2ZiLTg1ZTYtODJiYWNiYTI2Y2Ji",
+          "publisher": "Ministry of Religious Affairs and Interfaith Harmony, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Coordinates and chance for sighting the new moon of Safar1447 AH",
+          "url": "https://cdpc.pmd.gov.pk/SAFAR_1447_AH.pdf",
+          "publisher": "Pakistan Meteorological Department",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Pilgrims can deposit passports up to January11 for Khalsa Sajna Diwas pilgrimage",
+          "url": "https://new.sgpc.net/pilgrims-willing-to-visit-sikh-shrines-in-pakistan-on-khalsa-sajna-diwas-can-now-deposit-passports-up-to-january-11/",
+          "publisher": "Shiromani Gurdwara Parbandhak Committee",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Auqaf highlights and dated Urs announcements",
+          "url": "https://auqaf.punjab.gov.pk/index.php/",
+          "publisher": "Auqaf and Religious Affairs Department, Punjab",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "limits": "Some direct pages fail but indexed titles/text support bounded examples; no current event date provided. SGPC example explicitly January2023 not thisyear. Administrative framework original explanatory analysis, not legal/travel advice."
+    },
+    {
+      "id": "story-photographing-sacred-art-without-losing-its-context",
+      "references": [
+        {
+          "title": "ICOM Code of Ethics for Museums,2004 revision/2017 publication",
+          "url": "https://icom.museum/wp-content/uploads/2018/07/ICOM-code-En-web.pdf",
+          "publisher": "International Council of Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Introduction to Object ID",
+          "url": "https://www.getty.edu/publications/resources/virtuallibrary/0892365722.pdf",
+          "publisher": "Getty Information Institute",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "ICOM Code of Ethics: revision status",
+          "url": "https://icom.museum/en/resources/standards-guidelines/code-of-ethics/",
+          "publisher": "International Council of Museums",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "limits": "Historical2004 code edition identified rather than falsely current (2026 revisionexists). ICOM-derivedcontent under150, Gettycumulative231+236under180. Practical photo workflow editorialframework; not legaladvice. No newphotos or permissionclaim."
+    },
+    {
+      "id": "story-punjabi-across-more-than-one-script",
+      "references": [
+        {
+          "title": "Proposal to encode Arabic letter lam with small Arabic letter tah above",
+          "url": "https://unicode.org/wg2/docs/n5048-19111r-punjabi-lam.pdf",
+          "publisher": "Lorna Priest Evans and M.G.Abbas Malik, Unicode proposal",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Shahmukhi to Gurmukhi Transliteration System",
+          "url": "https://learnpunjabi.org/pdf/gslehal-pap15.pdf",
+          "publisher": "Tejinder Singh Saini, Gurpreet Singh Lehal and VirinderS.Kalra, Punjabi University research",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Annual Quality Assurance Report2007–2008",
+          "url": "https://www.punjabiuniversity.ac.in/pages/Images/IQAC/AQAR2007-2008.pdf",
+          "publisher": "Punjabi University, Patiala",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "limits": "No obsolete speaker counts or unqualified scriptstandardisationclaims adopted. Technical proposaltreatedhistorically not allUnicodecurrentstatus. NativePunjabi/scriptreview required; no invented bilingualexamples."
+    },
+    {
+      "id": "story-sindhis-writing-traditions-and-the-making-of-print",
+      "references": [
+        {
+          "title": "Final Proposal to Encode the Khudawadi Script",
+          "url": "https://www.unicode.org/L2/L2011/11022-khudawadi.pdf",
+          "publisher": "Anshuman Pandey, University of Michigan / Unicode",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Request to Rename Sindhi to Khudawadi",
+          "url": "https://www.unicode.org/L2/L2010/10420-sindhi-name-change.pdf",
+          "publisher": "Anshuman Pandey, Script Encoding Initiative",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "limits": "Eachsourceunder200words;2011proposal~155facts/2010~65,restoriginaledition-readinganalysis. No broadclaims late19c officialscript or obsoletecommunityusage; no claim entireSindhiliteratureinventedcolonially. Nativeeditorreview required."
+    },
+    {
+      "id": "story-pashto-literary-forms-beyond-a-single-poet",
+      "references": [
+        {
+          "title": "Afghanistan, Pashto and the Creation of a Literary Language",
+          "url": "https://international.ucla.edu/asia/event/10161",
+          "publisher": "C.Ryan Perkins, research lecture abstract hosted by UCLA",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Pashto Literature in North India in the16th–18thCenturies",
+          "url": "https://www.international.ucla.edu/apc/event/13112",
+          "publisher": "Mikhail Pelevin, research lecture abstract hosted by UCLA",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "IO Islamic4820: Fazl namah",
+          "url": "https://searcharchives.bl.uk/catalog/032-004342266",
+          "publisher": "British Library",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "limits": "Abstracts attributed as researcharguments notfullpaperread. BritishLibrarycodex1795 date notauthorlife/compositiondate. No quotedverse. Wideroralgenresnotclaimedexhaustive; specialistPashtoedition/native-reviewgate remains."
+    }
+  ],
+  "sourceIntegrity": "No pnca.org.pk material used. Primary institutional sources and explicitly attributed firsthand reporting. No verse quotations. Per-source facts paraphrased conservatively; Getty Object ID and UNESCO2005 shared budget tracked across this batch. Historical ICOM code identified as old edition; current revision checked.",
+  "publication": "Review only; no canonical ingestion, image clearing, publication or build."
+}

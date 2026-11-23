@@ -1,0 +1,30 @@
+{
+  "name": "virsapur-full-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "studio": "node studio/server.mjs",
+    "build": "node scripts/build-candidate.mjs",
+    "build:candidate": "node scripts/build-candidate.mjs",
+    "build:preview": "node build.mjs --mode=demo",
+    "stage:local-production": "node scripts/stage-local-production.mjs",
+    "build:production": "node build.mjs --mode=production && node qa.mjs --mode=production && node scripts/security-qa.mjs",
+    "build:demo": "node build.mjs --mode=demo",
+    "qa:production": "node build.mjs --mode=production && node qa.mjs --mode=production",
+    "qa:studio": "node build.mjs --mode=demo && node qa.mjs --mode=studio",
+    "test": "node scripts/content-architecture-qa.mjs && node scripts/archive-discovery-qa.mjs && node scripts/tours-qa.mjs && node scripts/itinerary-state-qa.mjs && node studio/local-editor.test.mjs && node scripts/backend-contract-qa.mjs && node scripts/media-validation-regression-qa.mjs",
+    "content:export": "node scripts/export-content.mjs",
+    "cms:migrate:dry": "node scripts/migrate-to-production-cms.mjs",
+    "cms:migrate": "node scripts/migrate-to-production-cms.mjs --apply",
+    "qa:security": "node scripts/security-qa.mjs"
+  },
+  "dependencies": {
+    "@vercel/functions": "3.10.3",
+    "sharp": "0.35.5"
+  },
+  "engines": {
+    "node": ">=24.19.0 <25"
+  },
+  "packageManager": "npm@12.2.1"
+}

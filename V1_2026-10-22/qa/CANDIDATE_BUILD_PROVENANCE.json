@@ -1,0 +1,4342 @@
+{
+  "builtAt": "2026-10-22T18:17:48.400Z",
+  "node": "v24.19.0",
+  "mode": "local candidate; NOT DEPLOYED",
+  "siteOrigin": "http://127.0.0.1:4173/production",
+  "inputHashes": [
+    {
+      "path": "src/archive-discovery.css",
+      "sha256": "ccbeaa005a67620e519f33a432bd4dd17d67f5d043336a2b5d9e08428ae2f28f"
+    },
+    {
+      "path": "src/archive-discovery.mjs",
+      "sha256": "dacd474b87a6b6cfb6d65240575c440a450ccff37796b35e4ff4cb41861106f5"
+    },
+    {
+      "path": "src/atlas-interface.css",
+      "sha256": "84233777c7de09570d8520fea39a630ce2db6daa6f19c88e4061c0fd9b0bb3d4"
+    },
+    {
+      "path": "src/cms/config.mjs",
+      "sha256": "545cc4338e71389ef39240a76803af0279144c9835b6718cce3a272179528b36"
+    },
+    {
+      "path": "src/cms/content-source.mjs",
+      "sha256": "2b33581d2229f0a70e5ff5709bce231728c13224d857f2c0a7227864b3751b83"
+    },
+    {
+      "path": "src/cms/media-build.mjs",
+      "sha256": "5cdfbcc55dfba7df8fe900660ad8b41be91a778918cb5708b1348b627b469042"
+    },
+    {
+      "path": "src/cms/private-media.mjs",
+      "sha256": "f7c530c123d7f817682d8438ee03c233e6b9144bfba65b9146511143d2a23875"
+    },
+    {
+      "path": "src/cms/provider.mjs",
+      "sha256": "80b914d184463c454c204d25d80b22b7d7173386363862143773bada28c69c4d"
+    },
+    {
+      "path": "src/cms/providers/local.mjs",
+      "sha256": "237f19ef056d274c49432b706b074e1b0f02c7f207e1f07cdf4d4c53ad3bd52f"
+    },
+    {
+      "path": "src/cms/providers/supabase.mjs",
+      "sha256": "853056dba96983d1eacd1cf7a98ca5e5968ff37aa7cce7f659ee0c1c13554737"
+    },
+    {
+      "path": "src/cms/validation.mjs",
+      "sha256": "c70e50953eccdbe4a607a16ff39ba84910c9de9e5e3666fe93bd7227f2872fb1"
+    },
+    {
+      "path": "src/discovery-directories.mjs",
+      "sha256": "eff44c8d3115f0e8d8f158673d9fb60e4f033181f01dc3e243e669c4eeca0cd9"
+    },
+    {
+      "path": "src/heritage-connections.css",
+      "sha256": "c339ca8f6f6e7cb64fcd4213b4c5bd9cfd85b405bb7161255aef4b895757e8fc"
+    },
+    {
+      "path": "src/heritage-context.mjs",
+      "sha256": "a96b9234d12a8aac6b7631c22894cb5c0f44450ea62ceb358d6ae3746f32d24d"
+    },
+    {
+      "path": "src/heritage-pages.mjs",
+      "sha256": "6263ae4d4e9beb9b1291dc2c09ebff5977fc3b174a4eb3e5a4cc4d05c6e6b029"
+    },
+    {
+      "path": "src/heritage-relations.mjs",
+      "sha256": "bbfcb0dd9f1a79f897f33ea8f739fc1d6b84b127442e07e5a07f053b0e0c7f40"
+    },
+    {
+      "path": "src/heritage-spatial.mjs",
+      "sha256": "b0fae402f0995f4a056be7884fcbae87232bcd8ef1c3362f7cfdd0e3e90265ee"
+    },
+    {
+      "path": "src/media-policy.mjs",
+      "sha256": "c6500d933df340309210b2e210e26ec84fad6f0a7b162c670c1349e187f3b1a6"
+    },
+    {
+      "path": "src/platform.css",
+      "sha256": "6e3a1db71e0b21340607c665d0ccec20b3c86d91c127aad32b250fd63e4bac1a"
+    },
+    {
+      "path": "src/prototype-index.html",
+      "sha256": "f133939c36c99c019cbb3b0d4662604d8ce3f1cb048aa472468c0925fef443de"
+    },
+    {
+      "path": "src/qa-platform.mjs",
+      "sha256": "aad2bae506d39cd61f867ea654ae47a8ce79c88ba42f1c42afce2b212e7e4e81"
+    },
+    {
+      "path": "src/release-refinements.css",
+      "sha256": "6771f63d408797f7ea02eff76ec2262ad96431fe420e48cbdbf2034da923a14a"
+    },
+    {
+      "path": "src/site-builder.mjs",
+      "sha256": "1cbca7b058ba960a1fae54495867efc66d7da310b0e9535d3e820b543d7dd7b1"
+    },
+    {
+      "path": "src/tour-contract.mjs",
+      "sha256": "fbb0019552f097583a1a3588da01b5b1ea8f52bd6407557607747cc8d832a306"
+    },
+    {
+      "path": "src/tour-pages.mjs",
+      "sha256": "bab3768f352404f711e84d49667d4e57546c30f1e5a3c4463a5207a45e220f95"
+    },
+    {
+      "path": "src/tours.css",
+      "sha256": "9f045e076d4708f749e27437f65e2de505939d3c77f82e1884316994519f07bb"
+    },
+    {
+      "path": "components/archive-discovery.js",
+      "sha256": "311bd6f8f4f69743de9138dd947470feafc9ee3c942512adb8ec1e5d015e9700"
+    },
+    {
+      "path": "components/heritage-map.js",
+      "sha256": "ae86ef6f67756074a02c3736c1d68f71b1ecfea8baa2697f72480052b746414f"
+    },
+    {
+      "path": "components/tour-builder.js",
+      "sha256": "6a683f6d93d0154a57866e1314a894b46a4ad1689b2b03a4106556522f90000a"
+    },
+    {
+      "path": "content/atlas-major-selection.json",
+      "sha256": "78a2da3fce3fee65c72d08d11ba94ac22cf81c6cee548c884e3ec83de56a2081"
+    },
+    {
+      "path": "content/courses.mjs",
+      "sha256": "84ef4f72a17bd5329961bc81afb36a8bacba128d8022c8647d21afe0e5d9849d"
+    },
+    {
+      "path": "content/data/archive-categories.json",
+      "sha256": "2106a5814405482f5f1720c0c5ed8c238d65c48d0b10e0efae1a9db0c9033ee4"
+    },
+    {
+      "path": "content/data/atlas-scope-media.json",
+      "sha256": "00038f9d63dae078a8d79982f49a60a60a4f3f99164f011b733da1625a965041"
+    },
+    {
+      "path": "content/data/collaborators.json",
+      "sha256": "856ac8c68d33a3d0ff11e7da2df3d836c1c0536f759aa75fb93592dd7dfbb449"
+    },
+    {
+      "path": "content/data/events.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "content/data/heritage-places.json",
+      "sha256": "572c66149bcf8d435813f0def1ad88dcee3312ee6277636eaee3ce91cf63d36c"
+    },
+    {
+      "path": "content/data/homepage.json",
+      "sha256": "68b4f616918f6b05e2e1dc1fa475a9e455991f39f83252b85fb3b914d973cf8a"
+    },
+    {
+      "path": "content/data/media.json",
+      "sha256": "43621121dd97db9df6f75e726cbad6199a4ea422938477d1c4a798898e01340e"
+    },
+    {
+      "path": "content/data/people.json",
+      "sha256": "1a96ee25e65a5bdb57d063eeb6c42890e28b9bc577360503c7ac60bb2f830f68"
+    },
+    {
+      "path": "content/data/programmes.json",
+      "sha256": "439de3485963621f037381d940cf60c21dd8e409479393a1b70becbe175f4944"
+    },
+    {
+      "path": "content/data/projects.json",
+      "sha256": "d4343a5a4e13d70e0f2e03ec0e300704e0a415a1ac0e3c1da5942481863dea86"
+    },
+    {
+      "path": "content/data/release-media-overrides.json",
+      "sha256": "2a07ddd940d7eba1743ca4aa62f0a9fe191fedc7474fc31870af6b8624536785"
+    },
+    {
+      "path": "content/data/site.json",
+      "sha256": "7ec98c8631fc8e63aa7381fa575a5867cd474539d602cfef1ceb199a9e8fb03c"
+    },
+    {
+      "path": "content/data/stories.json",
+      "sha256": "f9249df4910d34b43b850db3b70a6a96ad9ba0f1f9f36356b47f489f1cd6660f"
+    },
+    {
+      "path": "content/data/temporary-image-overrides.json",
+      "sha256": "a28ce61214f85e74ee631ca1855a2d20c08c142b00ac0c0d3cd1f2eefb486361"
+    },
+    {
+      "path": "content/data/testimonials.json",
+      "sha256": "4c818ece0b5ef5b3bf214a0f03871b00d038e68854a58e96f3c1b6fc450b29ae"
+    },
+    {
+      "path": "content/fixtures/demo.json",
+      "sha256": "6eb3623e76bfc9eb8c2de195c7ff35986e197f468b632146e66e55f78cc44a13"
+    },
+    {
+      "path": "content/fixtures/heritage-interconnection.json",
+      "sha256": "73917a2f25034ec3ec4d4eee29442f7c3f1157e84521acb610f1649b3e19a64b"
+    },
+    {
+      "path": "content/homepage.mjs",
+      "sha256": "65f1ec1570624e4b037f3716321f949ef2d7f9beaad9d82e24daad761a68edfa"
+    },
+    {
+      "path": "content/people.mjs",
+      "sha256": "fc6a2f9e4fb6ac6d2ad3d29b00d02ebcbed6471ab16f7114491fc39b36dde07f"
+    },
+    {
+      "path": "content/programmes.mjs",
+      "sha256": "41ed9e87ec3a0203f64e997ba187b007fbd1aad938d7ad32621a21562994cc21"
+    },
+    {
+      "path": "content/projects.mjs",
+      "sha256": "0909572a6beaaedc02b1124c7438945cf3d1e4645f1a8486313d6e8709c82a89"
+    },
+    {
+      "path": "content/site.mjs",
+      "sha256": "95c04238e121e9f892769e11c2d2a85ff6d502d069b9a4f3e5298c0670adc614"
+    },
+    {
+      "path": "content/stories.mjs",
+      "sha256": "7e08ccb72eaf938ee03aba76d6ab36beba856762fd708c21ddf3792d8806b5b1"
+    },
+    {
+      "path": "content/testimonials.mjs",
+      "sha256": "4863323a7a0d4d37d11c33976a93f3ade273202a0cd2640f33858fe81eae881c"
+    },
+    {
+      "path": "content/trails.mjs",
+      "sha256": "ff923eb8cad0acc8d8f3cae927017b9babe6a79e0044d4f57300dbc1e3d9eba3"
+    },
+    {
+      "path": "content/workshops.mjs",
+      "sha256": "593b2c7fa3d347fe016f0a853ecb20bee90b59b53b069878512d99b68cb0f1d7"
+    },
+    {
+      "path": "data/administrative-aliases.js",
+      "sha256": "c9fc0b044b5176804f66ce627821d299b123e39f08e1db46b959de09d9ccc985"
+    },
+    {
+      "path": "data/administrative-aliases.json",
+      "sha256": "de30d90b78415bcae880e000b88df4d8809b7ea84f3804c00866ec45a077f973"
+    },
+    {
+      "path": "data/administrative-registry.js",
+      "sha256": "afa0e2d76d787bc63e4bdb6a9cc5ec0357f8ac37e70892f02cabf83b38da945e"
+    },
+    {
+      "path": "data/administrative-registry.json",
+      "sha256": "852918c5499a3624f495824e39bca97dae4be68f6ce7ac9b156cb7f918d45f2c"
+    },
+    {
+      "path": "data/administrative-snapshot.js",
+      "sha256": "eafdd66a42275f4f8be407de7af8d00d4b1d698948ba9d4d1c4b99a4f025a5df"
+    },
+    {
+      "path": "data/administrative-snapshot.json",
+      "sha256": "c52af081dfe91721c6386562f12eaff737fbce4f55a6cf9ae71c631bde41ed82"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/administrative-aliases.json",
+      "sha256": "f75f4b9743f43a203a1eb5d25d13dfa446be9e8224c9ce5671e2656df8fddf80"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/administrative-registry.json",
+      "sha256": "9abd64ee43cd54238d826f6628472069bd9bb8cd8594deec19fe07b3e8bfaf3b"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/administrative-snapshot.json",
+      "sha256": "26ef3ce60e613e1196142d2726764e737f904014ba952dd53c25a225c9bd4fae"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/administrative-sources.json",
+      "sha256": "9a917ae8af2f01781170356ce2f75ccd0bbe20f6106f4afc50d07f2cad7e5b74"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/aliases.json",
+      "sha256": "f75f4b9743f43a203a1eb5d25d13dfa446be9e8224c9ce5671e2656df8fddf80"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/artifacts/administrative-snapshot.js",
+      "sha256": "70c309db1be5a8091d41cebb40a1361bfc0b8ad3ccd05c5a0351c8f9c19ded28"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/artifacts/districts.js",
+      "sha256": "f79d3cfe7cf440856f0f7e1f37b0b811a3454ee9c0858755fc00a4891cac64e8"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/registry.json",
+      "sha256": "9abd64ee43cd54238d826f6628472069bd9bb8cd8594deec19fe07b3e8bfaf3b"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/runtime/azad-kashmir-admin-2.geojson",
+      "sha256": "d84a1d87914d98be2e7402124189246996a5a730c5fac0c0ecbabde49c6c4a16"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/runtime/balochistan-admin-2.geojson",
+      "sha256": "df66bef40ebe039dbb51ccb0930d69353a33129d05b658414aa3cfcfeffe79ee"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/runtime/gilgit-baltistan-admin-2.geojson",
+      "sha256": "38b3208a63203effb5db8e6df32791984c5f5568f7ae48865cbb111cd0ee6d9c"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/runtime/islamabad-admin-2.geojson",
+      "sha256": "4d6d206b6bb5c75e098cd17896a269cddc2a4f8e8311807f912ae5033e947c5b"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/runtime/khyber-pakhtunkhwa-admin-2.geojson",
+      "sha256": "25836e02560db8e499d90058214edfe2fc7cf1b3e5ccbc701f684a83e8dfe72f"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/runtime/punjab-admin-2.geojson",
+      "sha256": "737469932b534c0fd36878e01948a595746b0272256ab8dd860b9093fd80a525"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/runtime/sindh-admin-2.geojson",
+      "sha256": "71f84c31d92fcedded2ca0af16d2af9dcc4785e4bfa3022c458dca8fe42623a7"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/snapshot.json",
+      "sha256": "c010436bcc172bfd7808564c4ab54b0bc421c2c8343c27fe43adc9c480eaa084"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/source-manifest.json",
+      "sha256": "25fe703172fd50c7a57f070118e2462f7df4e3e2fad35260005ac9e4c56f41b8"
+    },
+    {
+      "path": "data/administrative-snapshots/2022-09-09/unresolved-administrative-boundaries.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/administrative-aliases.json",
+      "sha256": "de30d90b78415bcae880e000b88df4d8809b7ea84f3804c00866ec45a077f973"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/administrative-registry.json",
+      "sha256": "852918c5499a3624f495824e39bca97dae4be68f6ce7ac9b156cb7f918d45f2c"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/administrative-snapshot.json",
+      "sha256": "c52af081dfe91721c6386562f12eaff737fbce4f55a6cf9ae71c631bde41ed82"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/administrative-sources.json",
+      "sha256": "8332ab3c0cf8e977bae4f07312ad76851cd5b50673d47b329becb094e8637709"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/aliases.json",
+      "sha256": "de30d90b78415bcae880e000b88df4d8809b7ea84f3804c00866ec45a077f973"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/artifacts/administrative-snapshot.js",
+      "sha256": "eafdd66a42275f4f8be407de7af8d00d4b1d698948ba9d4d1c4b99a4f025a5df"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/artifacts/districts.js",
+      "sha256": "17f5c76da3b9166719de234b816127328e43f4a4b8e8287703f09e86cba6343d"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/registry.json",
+      "sha256": "852918c5499a3624f495824e39bca97dae4be68f6ce7ac9b156cb7f918d45f2c"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/runtime/azad-kashmir-admin-2.geojson",
+      "sha256": "d84a1d87914d98be2e7402124189246996a5a730c5fac0c0ecbabde49c6c4a16"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/runtime/balochistan-admin-2.geojson",
+      "sha256": "df66bef40ebe039dbb51ccb0930d69353a33129d05b658414aa3cfcfeffe79ee"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/runtime/gilgit-baltistan-admin-2.geojson",
+      "sha256": "38b3208a63203effb5db8e6df32791984c5f5568f7ae48865cbb111cd0ee6d9c"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/runtime/islamabad-admin-2.geojson",
+      "sha256": "4d6d206b6bb5c75e098cd17896a269cddc2a4f8e8311807f912ae5033e947c5b"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/runtime/khyber-pakhtunkhwa-admin-2.geojson",
+      "sha256": "25836e02560db8e499d90058214edfe2fc7cf1b3e5ccbc701f684a83e8dfe72f"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/runtime/punjab-admin-2.geojson",
+      "sha256": "f6b8e76c3aaefc3c1a1f50beaa771fa212af5538d22d8aff25de5124afbb158f"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/runtime/sindh-admin-2.geojson",
+      "sha256": "71f84c31d92fcedded2ca0af16d2af9dcc4785e4bfa3022c458dca8fe42623a7"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/snapshot.json",
+      "sha256": "c52af081dfe91721c6386562f12eaff737fbce4f55a6cf9ae71c631bde41ed82"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/source-manifest.json",
+      "sha256": "01656fd5a179dc88521addfb4d123b63ed7fb9a70e4556244941e5fc77c8c820"
+    },
+    {
+      "path": "data/administrative-snapshots/2026-08-05/unresolved-administrative-boundaries.json",
+      "sha256": "33d5a83040e628e7c3e52a7f889e7e3efd7b8c40d5bc3d88daa6d780c08004f5"
+    },
+    {
+      "path": "data/administrative-snapshots/active.json",
+      "sha256": "1547890cd7badc27c6fd99d59447f987104715838c8662987dcd3b7a09fd63d1"
+    },
+    {
+      "path": "data/administrative-sources.js",
+      "sha256": "9dc6d6f701131efe9d4821abbee9d571aa147e66d1a750090316bd3fab00caf6"
+    },
+    {
+      "path": "data/administrative-sources.json",
+      "sha256": "8332ab3c0cf8e977bae4f07312ad76851cd5b50673d47b329becb094e8637709"
+    },
+    {
+      "path": "data/administrative-statuses.js",
+      "sha256": "39a04d3b5bd87ee7a0837433dffd56753facc7f7f9287bfae9626d6b32e9d5cb"
+    },
+    {
+      "path": "data/districts.js",
+      "sha256": "17f5c76da3b9166719de234b816127328e43f4a4b8e8287703f09e86cba6343d"
+    },
+    {
+      "path": "data/regions.js",
+      "sha256": "8fce201999becd939d1d7d9baf4fa4dda7776829616960a42287580937546cdf"
+    },
+    {
+      "path": "data/unresolved-administrative-boundaries.js",
+      "sha256": "f0becf3e8aeadb50b53b9beafaaf2e871455f7d3e718b84d9502e16d694da6ec"
+    },
+    {
+      "path": "data/unresolved-administrative-boundaries.json",
+      "sha256": "33d5a83040e628e7c3e52a7f889e7e3efd7b8c40d5bc3d88daa6d780c08004f5"
+    },
+    {
+      "path": "data/world-context/natural-earth-110m-admin-0.geojson",
+      "sha256": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f"
+    },
+    {
+      "path": "data/world-context/SOURCE.md",
+      "sha256": "45f82e606e49bdb109a9adbf75ccd3b90fdb0aef8d3b530254016a85fa0681a1"
+    },
+    {
+      "path": "data/world-context.js",
+      "sha256": "016972a5a8b3acbd9280dea4d9ee109b5c46eb046e8931a791df4824e7beb26d"
+    },
+    {
+      "path": "assets/archive-anarkali.jpg",
+      "sha256": "117642cdfd207c5f2651502108d38898961566bf676e525547279f0d7ea765c1"
+    },
+    {
+      "path": "assets/archive-architecture.webp",
+      "sha256": "fdf3796fc8a42272eedc83fd201f61733ac51754f5481a9894e4aa6f702c83c0"
+    },
+    {
+      "path": "assets/archive-gurdwara.jpg",
+      "sha256": "2a4dd9d4f21b984da0dea06788d05a450ce1fdf81a63847fdb44083e0650d600"
+    },
+    {
+      "path": "assets/archive-katas.jpg",
+      "sha256": "734c15b9897493231e9b3737fc0dd54c0f61362c19059a9dafc701ec417b13a3"
+    },
+    {
+      "path": "assets/archive-lanes.jpg",
+      "sha256": "3f8ae40ef9efece822e16c29df4d40ab389d81852d7ea77d6761a8c670aa5ca4"
+    },
+    {
+      "path": "assets/archive-priest-king.jpg",
+      "sha256": "be91353b89233ba57e28f9dd855ef91c63f5d66dfb889ef804cad4ff1f6120bc"
+    },
+    {
+      "path": "assets/archive-wells.jpg",
+      "sha256": "28f65371bf5eebb0d01a8bdf7be7c572b8614f9d03f74bedcb15ee406775af87"
+    },
+    {
+      "path": "assets/cleared/release-badshahi-courtyard.jpg",
+      "sha256": "9fed008730bad8fa010b4f37ab143f936e587eef760f735ceb58e32ce4e21af7"
+    },
+    {
+      "path": "assets/cleared/release-badshahi-night.jpg",
+      "sha256": "185eae0648a572edbe1727ba814d1eed95e7c36856a743bf109e4ed87ee0a631"
+    },
+    {
+      "path": "assets/cleared/release-badshahi-prayer-hall.jpg",
+      "sha256": "b3137bcce680f2a38f1ae103475af67efb2a5222b4cd43d5485a204518a54210"
+    },
+    {
+      "path": "assets/cleared/release-baltit-rakaposhi.jpg",
+      "sha256": "3b7b033795722899b46c06f32eee58c942b33b6c46d979b3a6c0f2a388579179"
+    },
+    {
+      "path": "assets/cleared/release-mohenjodaro.jpg",
+      "sha256": "329efad597392a5c67a698d800741c931302433e92e002d02a4d70c64d73da79"
+    },
+    {
+      "path": "assets/cleared/release-rohtas.jpg",
+      "sha256": "c881fa95d3a0bbc3cb09d6805b89b00755a35168d128ece39fecc45cc34ef830"
+    },
+    {
+      "path": "assets/cleared/release-shah-jahan-courtyard.jpg",
+      "sha256": "9bafb31e04f3ac74fb7a33cc41e8567cb0d6f7d90107ff7b7a2f0b13f42543ec"
+    },
+    {
+      "path": "assets/cleared/release-shah-jahan-portrait.jpg",
+      "sha256": "6ed8e26b6df5d8788431a9cd935ea3b3dcd884428fef314a574915703c34cbaf"
+    },
+    {
+      "path": "assets/cleared/release-shalimar.jpg",
+      "sha256": "acdb37c457c2723d568c6eab65d1113c7f6d94af266172dedd02e0ccf2735857"
+    },
+    {
+      "path": "assets/cleared/release-takht-i-bahi.jpg",
+      "sha256": "6d2e73b3b12c54927c358d3a684030826eadab03d05279559017d08647b95555"
+    },
+    {
+      "path": "assets/collaborators/alkhidmat.png",
+      "sha256": "5205eff98c748af75f6c5b779c0794342397e2de78c9259add469a9448c22c80"
+    },
+    {
+      "path": "assets/collaborators/chughtai-public-library.png",
+      "sha256": "a9439b29947975007e1cab15e371b07b13d4d1062f0f1fe71abc5c07d59abb09"
+    },
+    {
+      "path": "assets/collaborators/digital-archaeology-group.png",
+      "sha256": "78aa07362f822580b674234371d81a511185d51b3f609b3e6fa87f81b29648c5"
+    },
+    {
+      "path": "assets/collaborators/earc.png",
+      "sha256": "bf3f87c419c30eb6f12fe090e61956f7c8367c465405070c8299185645cd28b5"
+    },
+    {
+      "path": "assets/collaborators/global-shapers-community.png",
+      "sha256": "d46ef924cc3308e726ad07c1c5018e1210b00c2322aaafdab1eba1a739339f15"
+    },
+    {
+      "path": "assets/collaborators/lahore-museum.png",
+      "sha256": "25c79b18a824488a0d034d6c33071b44b0b1b7e4b1ef4571fc6b4148bedeba4a"
+    },
+    {
+      "path": "assets/collaborators/rizq.png",
+      "sha256": "7cce6eec6c6153decb9989f81a46686fad4248f962ea5826b0744e95873dfdcd"
+    },
+    {
+      "path": "assets/collaborators/rukh-foundation.png",
+      "sha256": "4c4265c2ca8136a54e2489da2991fa3804e181eda1bbe0df7452a119784de93c"
+    },
+    {
+      "path": "assets/founder-ahmad.jpg",
+      "sha256": "c518e338612ee4916b8eb94ecaf586eb8df0a49e1d6da283336f6621093957be"
+    },
+    {
+      "path": "assets/founder-altamash.jpeg",
+      "sha256": "722399fb4c6e46b9a8d033515b20abb15aa66dfa667893caaf5d0ba67d717885"
+    },
+    {
+      "path": "assets/fresco_room.jpg",
+      "sha256": "07f392c9f3e44c83452d4e6d435703cc80ad664ab9444fa23c1393fb9578f297"
+    },
+    {
+      "path": "assets/fresco_strip.jpg",
+      "sha256": "9d00cebf1ab68b9f062fcb7deadc79830236b79601d2626c0d70e12a315cee88"
+    },
+    {
+      "path": "assets/hero-badshahi.jpg",
+      "sha256": "7ed35d4930e5aa11bc9830970c6efd7f7eddbd6014cf0856b34019438b5dd107"
+    },
+    {
+      "path": "assets/logo_full_slate.png",
+      "sha256": "b0ad1b97f7d0001abb10c94cf6c365ee188dbd79703941bf4100fa6c8faa88d0"
+    },
+    {
+      "path": "assets/logo_full_white.png",
+      "sha256": "f47ff119310d035d66d69cdfe18074f606685599bbe07160f1becfcceb0bf233"
+    },
+    {
+      "path": "assets/maps/districts/azad-kashmir-admin-2.geojson",
+      "sha256": "d84a1d87914d98be2e7402124189246996a5a730c5fac0c0ecbabde49c6c4a16"
+    },
+    {
+      "path": "assets/maps/districts/azad-kashmir-admin-2.js",
+      "sha256": "25e2703439d3223270de7b5b7e8f0f1e494435701968927db0bfe6abb66835d0"
+    },
+    {
+      "path": "assets/maps/districts/balochistan-admin-2.geojson",
+      "sha256": "df66bef40ebe039dbb51ccb0930d69353a33129d05b658414aa3cfcfeffe79ee"
+    },
+    {
+      "path": "assets/maps/districts/balochistan-admin-2.js",
+      "sha256": "96facceb272c3fcfcd83b8bac8f4a515849c05d3af900cfe196c5c8b3a375ffa"
+    },
+    {
+      "path": "assets/maps/districts/full-resolution/azad-kashmir-admin-2.geojson",
+      "sha256": "6414445b85d2dd01e1808d2f6662a4daf21ffe4bd8fa1fbd26c6b1d1d8949de7"
+    },
+    {
+      "path": "assets/maps/districts/full-resolution/balochistan-admin-2.geojson",
+      "sha256": "89c42217f2fa71d1de985ba9ce660b7d786ae0428d4b5c539d859d6543dce1d4"
+    },
+    {
+      "path": "assets/maps/districts/full-resolution/gilgit-baltistan-admin-2.geojson",
+      "sha256": "faaf9e3e526663f6a515dca34e7f4fb946b29c59a12d60b122ce0e41d2cd4bcb"
+    },
+    {
+      "path": "assets/maps/districts/full-resolution/islamabad-admin-2.geojson",
+      "sha256": "15bde76ea4ac58618dcba546e4e2bfce9f69e395b87fea6a6e13663b4fc48c03"
+    },
+    {
+      "path": "assets/maps/districts/full-resolution/khyber-pakhtunkhwa-admin-2.geojson",
+      "sha256": "6e62387ba968d94626301b998acb893db38e9569ea720c68935922398d536106"
+    },
+    {
+      "path": "assets/maps/districts/full-resolution/punjab-admin-2.geojson",
+      "sha256": "e07f425af167cb10be9cba980dc80c7afdfd13b0b5e103db8f296396cd39a364"
+    },
+    {
+      "path": "assets/maps/districts/full-resolution/sindh-admin-2.geojson",
+      "sha256": "1e9200f57e74cb0380b969bc33679213d6a2b6c315e391985d719d71067d708c"
+    },
+    {
+      "path": "assets/maps/districts/gilgit-baltistan-admin-2.geojson",
+      "sha256": "38b3208a63203effb5db8e6df32791984c5f5568f7ae48865cbb111cd0ee6d9c"
+    },
+    {
+      "path": "assets/maps/districts/gilgit-baltistan-admin-2.js",
+      "sha256": "4cfe1f5823dde4d20d721c2ca2da90ee5c4a6e59643e27e8a8972683d81f948e"
+    },
+    {
+      "path": "assets/maps/districts/islamabad-admin-2.geojson",
+      "sha256": "4d6d206b6bb5c75e098cd17896a269cddc2a4f8e8311807f912ae5033e947c5b"
+    },
+    {
+      "path": "assets/maps/districts/islamabad-admin-2.js",
+      "sha256": "32b940c9ca61e4e45383e8162071390bf547e7a30043df50913c159504c14dd2"
+    },
+    {
+      "path": "assets/maps/districts/khyber-pakhtunkhwa-admin-2.geojson",
+      "sha256": "25836e02560db8e499d90058214edfe2fc7cf1b3e5ccbc701f684a83e8dfe72f"
+    },
+    {
+      "path": "assets/maps/districts/khyber-pakhtunkhwa-admin-2.js",
+      "sha256": "d23aa9d1cc5223b43557d89ecd501b04ea71cc8ab574a76723e2038dfebdb83d"
+    },
+    {
+      "path": "assets/maps/districts/punjab-admin-2.geojson",
+      "sha256": "737469932b534c0fd36878e01948a595746b0272256ab8dd860b9093fd80a525"
+    },
+    {
+      "path": "assets/maps/districts/punjab-admin-2.js",
+      "sha256": "88346715ea4d855b891980da27f20cf46fed45bd9617717601318372d290da68"
+    },
+    {
+      "path": "assets/maps/districts/sindh-admin-2.geojson",
+      "sha256": "71f84c31d92fcedded2ca0af16d2af9dcc4785e4bfa3022c458dca8fe42623a7"
+    },
+    {
+      "path": "assets/maps/districts/sindh-admin-2.js",
+      "sha256": "1eafcea79534b72d1606d50f13f97cd8bc8ceb15f5091ab1d022c4388d681e0b"
+    },
+    {
+      "path": "assets/maps/pakistan-admin-1.geojson",
+      "sha256": "d6b4848e0f80bd27c70933c26e6f733e305e04f398e169280e4a1210c7733013"
+    },
+    {
+      "path": "assets/maps/pakistan-admin-1.js",
+      "sha256": "4a54a5d5304b9230fb901c561afc531a3219d1f57ce1d5199ac478867f5e14f6"
+    },
+    {
+      "path": "assets/maps/runtime/districts/azad-kashmir-admin-2.geojson",
+      "sha256": "d84a1d87914d98be2e7402124189246996a5a730c5fac0c0ecbabde49c6c4a16"
+    },
+    {
+      "path": "assets/maps/runtime/districts/azad-kashmir-admin-2.js",
+      "sha256": "25e2703439d3223270de7b5b7e8f0f1e494435701968927db0bfe6abb66835d0"
+    },
+    {
+      "path": "assets/maps/runtime/districts/balochistan-admin-2.geojson",
+      "sha256": "df66bef40ebe039dbb51ccb0930d69353a33129d05b658414aa3cfcfeffe79ee"
+    },
+    {
+      "path": "assets/maps/runtime/districts/balochistan-admin-2.js",
+      "sha256": "96facceb272c3fcfcd83b8bac8f4a515849c05d3af900cfe196c5c8b3a375ffa"
+    },
+    {
+      "path": "assets/maps/runtime/districts/gilgit-baltistan-admin-2.geojson",
+      "sha256": "38b3208a63203effb5db8e6df32791984c5f5568f7ae48865cbb111cd0ee6d9c"
+    },
+    {
+      "path": "assets/maps/runtime/districts/gilgit-baltistan-admin-2.js",
+      "sha256": "4cfe1f5823dde4d20d721c2ca2da90ee5c4a6e59643e27e8a8972683d81f948e"
+    },
+    {
+      "path": "assets/maps/runtime/districts/islamabad-admin-2.geojson",
+      "sha256": "4d6d206b6bb5c75e098cd17896a269cddc2a4f8e8311807f912ae5033e947c5b"
+    },
+    {
+      "path": "assets/maps/runtime/districts/islamabad-admin-2.js",
+      "sha256": "32b940c9ca61e4e45383e8162071390bf547e7a30043df50913c159504c14dd2"
+    },
+    {
+      "path": "assets/maps/runtime/districts/khyber-pakhtunkhwa-admin-2.geojson",
+      "sha256": "25836e02560db8e499d90058214edfe2fc7cf1b3e5ccbc701f684a83e8dfe72f"
+    },
+    {
+      "path": "assets/maps/runtime/districts/khyber-pakhtunkhwa-admin-2.js",
+      "sha256": "d23aa9d1cc5223b43557d89ecd501b04ea71cc8ab574a76723e2038dfebdb83d"
+    },
+    {
+      "path": "assets/maps/runtime/districts/punjab-admin-2.geojson",
+      "sha256": "f6b8e76c3aaefc3c1a1f50beaa771fa212af5538d22d8aff25de5124afbb158f"
+    },
+    {
+      "path": "assets/maps/runtime/districts/punjab-admin-2.js",
+      "sha256": "244392ee62808587187f56d259c9c48775f9a8181344e6757934673be62484cf"
+    },
+    {
+      "path": "assets/maps/runtime/districts/sindh-admin-2.geojson",
+      "sha256": "71f84c31d92fcedded2ca0af16d2af9dcc4785e4bfa3022c458dca8fe42623a7"
+    },
+    {
+      "path": "assets/maps/runtime/districts/sindh-admin-2.js",
+      "sha256": "1eafcea79534b72d1606d50f13f97cd8bc8ceb15f5091ab1d022c4388d681e0b"
+    },
+    {
+      "path": "assets/maps/source/districts/azad-kashmir-admin-2.geojson",
+      "sha256": "6414445b85d2dd01e1808d2f6662a4daf21ffe4bd8fa1fbd26c6b1d1d8949de7"
+    },
+    {
+      "path": "assets/maps/source/districts/balochistan-admin-2.geojson",
+      "sha256": "89c42217f2fa71d1de985ba9ce660b7d786ae0428d4b5c539d859d6543dce1d4"
+    },
+    {
+      "path": "assets/maps/source/districts/gilgit-baltistan-admin-2.geojson",
+      "sha256": "faaf9e3e526663f6a515dca34e7f4fb946b29c59a12d60b122ce0e41d2cd4bcb"
+    },
+    {
+      "path": "assets/maps/source/districts/islamabad-admin-2.geojson",
+      "sha256": "15bde76ea4ac58618dcba546e4e2bfce9f69e395b87fea6a6e13663b4fc48c03"
+    },
+    {
+      "path": "assets/maps/source/districts/khyber-pakhtunkhwa-admin-2.geojson",
+      "sha256": "6e62387ba968d94626301b998acb893db38e9569ea720c68935922398d536106"
+    },
+    {
+      "path": "assets/maps/source/districts/punjab-admin-2.geojson",
+      "sha256": "f6b8e76c3aaefc3c1a1f50beaa771fa212af5538d22d8aff25de5124afbb158f"
+    },
+    {
+      "path": "assets/maps/source/districts/sindh-admin-2.geojson",
+      "sha256": "1e9200f57e74cb0380b969bc33679213d6a2b6c315e391985d719d71067d708c"
+    },
+    {
+      "path": "assets/optimized/alkhidmat-640.webp",
+      "sha256": "8edf5e5cfb906d8adcd948c3760051eae187b0e820f28102bff4270bce44b072"
+    },
+    {
+      "path": "assets/optimized/alkhidmat-864.webp",
+      "sha256": "3f6d4ddcf4bf108e0f38c3dbbb690540bf27602257063da06e3b5fab4bd21165"
+    },
+    {
+      "path": "assets/optimized/archive-anarkali-640.webp",
+      "sha256": "3cb654d74af37038fd8168dac93bbdc1cc7257e240b41dd95f7109335e1a6d72"
+    },
+    {
+      "path": "assets/optimized/archive-anarkali-800.webp",
+      "sha256": "68a89a3ae682bd80d55e80105965de14400cca8265bdd51224492186099502af"
+    },
+    {
+      "path": "assets/optimized/archive-architecture-1200.webp",
+      "sha256": "982bef802bf6941285d136dea59a436a3512172b0e50b029a23b589f2301b107"
+    },
+    {
+      "path": "assets/optimized/archive-architecture-640.webp",
+      "sha256": "3853eb7f26ff579addfc4ac248d9dd9a329515fe6d194000529beb58277adcbb"
+    },
+    {
+      "path": "assets/optimized/archive-gurdwara-639.webp",
+      "sha256": "ebbcb4f883fadabda57c567e0dc78ffb2efcd164350de469e3821ceeef2d4699"
+    },
+    {
+      "path": "assets/optimized/archive-katas-640.webp",
+      "sha256": "7f11cf7591b08235297cf3d6a63d7daaf63791c2379412bb75dd5365ddadb06f"
+    },
+    {
+      "path": "assets/optimized/archive-lanes-640.webp",
+      "sha256": "c6083fa374f52deee56d62ce4b068fb5e96c70a87a4d9229522d976f0d895904"
+    },
+    {
+      "path": "assets/optimized/archive-lanes-726.webp",
+      "sha256": "e7ffeb79673ed201e21d457da1cf7b02ab580bb068734f4656dc73767f2b25ef"
+    },
+    {
+      "path": "assets/optimized/archive-priest-king-590.webp",
+      "sha256": "5402f4a93ebcbc25fd51bae492301ececfbe52e44a66eefe7c8dbca92eba317b"
+    },
+    {
+      "path": "assets/optimized/archive-wells-640.webp",
+      "sha256": "27dfe5fe4dbbf0a32441f17ee029ffb906027f25cf63e0872e1bf08f98f2cecc"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-10365-640.webp",
+      "sha256": "92a107e3d2e4f061af1a903e7e4072385469746a767b7ac1987fa3a6900f8bc5"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-10375-640.webp",
+      "sha256": "ce8596e21c5d8262e33f1261dd4fd650e52c28560048bb6df7a2343a88dc44d8"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-136-640.webp",
+      "sha256": "c4b2b10e492c2df60230cc5fcdc6aaf296a693c8ea7b85e17cc0c6ccb1753892"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-1810-640.webp",
+      "sha256": "fe71acdc79a58e581998d460cc42c1f91070bdd27266b608deef0559c5209905"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-3304-640.webp",
+      "sha256": "084d9c022d9e053fa6e2959c7a9b0da9e5843c1e80aa6ff631491c0379e78331"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-3485-640.webp",
+      "sha256": "5182df28dca8ea91b2ad6799f4d33682cc98a736a6e22a10e0f16d61e9af101d"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-4399-640.webp",
+      "sha256": "43026edc20af48cf9a64d7abaf2257eadcbc188e1ab3c5cfb24b7d03736769ac"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-4607-640.webp",
+      "sha256": "c677afe4946385dc311beec491f0a3ef2660a72ae0b921dcf4daf4ee3b10b28f"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-4621-640.webp",
+      "sha256": "e36bc442916f516cc7296ed825ba5af311f8ab90c3485baf647649ce2ebdaf76"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-4624-640.webp",
+      "sha256": "77253c8858360d29ecd85ca1949c4b7aeac73bb3e9cc8b24a5b16028a9cbf88a"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-4696-640.webp",
+      "sha256": "26d2d8db3ba6105ebe31d11ee950a641c960953378ba011652ddb68a7a8592f4"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-4870-640.webp",
+      "sha256": "8412d13e51c9f3f0b94e8078a9559fe39d5e390d4c8af227664cea48659ea21d"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-5168-640.webp",
+      "sha256": "947c3d817f4bc9d1bf687378eeb5b4ff33501c6e60986daa2dced38ce7141376"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-5206-640.webp",
+      "sha256": "a4ddca37d226264d2e0e111cf04acb7b41720a07df804d0755d785cca9283f6b"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-5499-640.webp",
+      "sha256": "f8d7034931b45489346363bb561ba29ae0ed92b6c862674ee16aabb4afa755af"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-5504-640.webp",
+      "sha256": "b73afd7685ec2df17d1a48e0ef4cdedfab159effe53bec8202bb9e9f19b98bd0"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-5509-640.webp",
+      "sha256": "b69763c6fcb252fad21762203076f0a1a23b3e6147ef9146d8b22e75516fa500"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-5512-640.webp",
+      "sha256": "9ca79f4f79fa4f518f560fc473d36ad716fde50f7e4762abe28df3ed0a5b52b8"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-5527-640.webp",
+      "sha256": "0cbc7d04c112ac53c3017c5f3d1ece32ebbc7182ddbb5ae36a80b35d7d437835"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-5625-640.webp",
+      "sha256": "8e2ea290481f4a59a360763424e994d83e5ec1c5f8be93560116973475149234"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-5815-640.webp",
+      "sha256": "bc2391b02ef61ee0d0efe5da7714dbfa7f3246522778eb54b5f7c50c13c932cd"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6036-640.webp",
+      "sha256": "03257114f5cbe032940addf4fbccfd0632bcd35ec4b997a19c959a64356697a8"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6224-640.webp",
+      "sha256": "771ceb00ae9ce52ac53e7feb27de7534bd0f1cb07fc9304f9602954246880d32"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6230-640.webp",
+      "sha256": "863966ef901fccf0ab82b21a77f0431604d99d40b059a06194403acdb5cd4fed"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6232-640.webp",
+      "sha256": "5d0de8c756f8bdb842cc212c053c507a3dc24bb9e4606cd40ef2eb94ab909bd8"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6233-640.webp",
+      "sha256": "2329f49b1d94e9272c82a940754de4db8f3b64ec30672a7d3c1708a30ad0986d"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6310-640.webp",
+      "sha256": "c8eaacdb8c22eee813d517ffa5b98218f08f84e45aa2993da223e64ff8c23e31"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6311-640.webp",
+      "sha256": "1956f0fe6ac00b97fddd070a26e732abc9d38ee10b9d1caacea073a1e9e112c8"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6315-640.webp",
+      "sha256": "9c649508fdacc6d1574de381797fdfd2aa21d9da3f2016ce25c224765018f3d7"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6344-640.webp",
+      "sha256": "fef7ed5573658b0de0f95e1e15333ea2f0568def67a7d5580feacf825aa21c32"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6347-640.webp",
+      "sha256": "784d2deffc31f810fb21e8ad5ebd13849605cfcb62efde4146b1ce5c5b296c7f"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6423-640.webp",
+      "sha256": "945591973424f93a25dd5af5e0972f17be59529a92f9512c2310377cb1dcd828"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6431-640.webp",
+      "sha256": "ee4f9877a27a3bc0c0dbaad525cde9c600420105496dae62bddb029eab630151"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6467-640.webp",
+      "sha256": "b2795b65b87b1d438332f71cbd97b66a09d6771ca1a76a66918fb2c65a38d679"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6479-640.webp",
+      "sha256": "e161f519f49802fd923c1f1c276ee8b723e3425e27ab41a7963ee33abc54bbae"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6502-640.webp",
+      "sha256": "45c8ab3cb5623e65e40fe6f0c65f29013e0a6a18fdc5214bc47c5740c3ea2f2c"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6537-640.webp",
+      "sha256": "3118ba4f57c3cc16fc6f9df7fd5f2099c5f736825da6ca2a95925db99afb527a"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6552-640.webp",
+      "sha256": "42176cf3115d53aae717033a6cbe3c2aedd33faf6213b3aa62f000c04a356a0b"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6633-640.webp",
+      "sha256": "444455211987a8430f4589a1f9e893140a009acaa2bdd82267a2eeb2fd1e4d0a"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6650-640.webp",
+      "sha256": "fa128715a7085a9c3b4a84281891d41be47098361d1f0d48c2653ac78e3e7f56"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6663-640.webp",
+      "sha256": "8814f80cb19907ba8e45fe402bfaf97b26443cd3d3041e172ab34b1eb7b796d7"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6665-640.webp",
+      "sha256": "0a069efa2869d50ad4e40c91ef7d601aef5e0f989dcd0ac6860832a5f02ad3e3"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6666-640.webp",
+      "sha256": "8c29cee93672a43cfdd55d6aa9d5196999d5e249a9bba3aaf69425f91299cf4b"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6675-640.webp",
+      "sha256": "26478fb9e16be59d5bb9ae5492f60ffc1d48489955755299bb647510416f69ac"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6676-640.webp",
+      "sha256": "84f8e7f7d3767e696232a00b6882c7846fa9c8b8d8e66e4a66aff36aad40a365"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6680-640.webp",
+      "sha256": "d55de071c23c77404d20dd95a15e0a09c51c99071c1aa3d66877de04b5eb13db"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6710-640.webp",
+      "sha256": "594e0fd5e35426f2b5cf6007049f044bdf096aeeaa95a3a4f23a0abee798c108"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6750-640.webp",
+      "sha256": "3cc8aed4219b57e441bddc4c6ec45540dd5d36f9372a39478b00bc8eb765f58b"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-6959-640.webp",
+      "sha256": "b76efa0404788a9668c6a9551d595dbcfd5ec4342e8d38ac21142e41751f466e"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-7705-640.webp",
+      "sha256": "bd0a949cc7fcaa0db6507dc62d1399ff8d5da67926eedd3245972a5730f98c2c"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-7804-640.webp",
+      "sha256": "3738bede34e7342d21c70020a35f9d76278975e10d8473cc3777c72b5f78ce5e"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-7974-640.webp",
+      "sha256": "08982b0709ce458d157957d6b2bc4d947a06abcc5944e0293b81a032b0b73b8f"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-8229-640.webp",
+      "sha256": "c46a9401814d905de8413317d9471be8d1e50099c09a272452e1bf65a88afdad"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-823-640.webp",
+      "sha256": "5b3e070c15f78a5be2ae9ce51c5daf96f8e3455d68b2a0d0583c805ad1e25edf"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-8249-640.webp",
+      "sha256": "8f7d7f8fdc84246bf7d5977c28e14925249a1c2b2951dc16d4c1a30c8bea02bf"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-8278-640.webp",
+      "sha256": "4ebd7a9566bb241edd27cc0bad08216ee3a663e6c630771a408cfb89c88fba36"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-8773-640.webp",
+      "sha256": "fb9f160a346feba0b4cb10bc8ad1639238882aff73922ed35d1cc4b2745da4e5"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-8911-640.webp",
+      "sha256": "4d07fcea98dc6de512d368fc3de73ab7fda6efc896fd399b9af09556e9e0db17"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-8927-640.webp",
+      "sha256": "4aac08161587173ffb5d4c1d40530445449a4b35b19d1f7e59642312dbeaed46"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-8933-640.webp",
+      "sha256": "0cb468f96b4ad70e6c2012c7f903880c90e9986c63b3ea6ab66af971008333db"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-9182-640.webp",
+      "sha256": "849b34f7103ab195c3314965d0660650ab60cd3b15a1150b61af82a1932dc13d"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-9678-640.webp",
+      "sha256": "df7f53c0fc79b99528b8056a2f14712772ad11520b2e35f07655eec2de5c3fa5"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-9683-640.webp",
+      "sha256": "76bace43d681f1f3e1dad27e354d95cf9669b03164bd38645f35ad87d2b8f631"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-9686-640.webp",
+      "sha256": "eed774c3651e2a7b766453ac7bd241d8c424faeba7eba48747327117b9ce9f9e"
+    },
+    {
+      "path": "assets/optimized/atlas-doam-9752-640.webp",
+      "sha256": "0be11c29253ebf7788846b0c7b193177919d12f02b82856ac0996f4f0db5b309"
+    },
+    {
+      "path": "assets/optimized/chughtai-public-library-386.webp",
+      "sha256": "5baf6f040925f154118aa0ef8e17914b353788edecf77b19acc7327de31150d0"
+    },
+    {
+      "path": "assets/optimized/digital-archaeology-group-412.webp",
+      "sha256": "304d75b1815fae9c358793f1ccdf2d24fa3bf9dc4dac9eb13c46c56ee269af6f"
+    },
+    {
+      "path": "assets/optimized/earc-368.webp",
+      "sha256": "c901de67e70c5cc89dd22e5247dee623416635a2313bd50839e7baa590873ff8"
+    },
+    {
+      "path": "assets/optimized/founder-ahmad-1280.webp",
+      "sha256": "7e07e4c89e616719d06a9889c17ba6a184e6e2e29b7ab8c3a998881164af48e6"
+    },
+    {
+      "path": "assets/optimized/founder-ahmad-640.webp",
+      "sha256": "97386e0729a479996754ab188b60bd2b9391ba0870e35b08918359a53bd42bef"
+    },
+    {
+      "path": "assets/optimized/founder-altamash-640.webp",
+      "sha256": "5db46eb722caeb02d4501e1afa202966ba73a4d13ffe0c823d9ea518dc669db1"
+    },
+    {
+      "path": "assets/optimized/founder-altamash-787.webp",
+      "sha256": "a467e97868945f1ff86ec07f8577f6abdabc2a5698cbbbb6c19bbd00377e12d5"
+    },
+    {
+      "path": "assets/optimized/fresco-room-1153.webp",
+      "sha256": "870e2b1eff771d185db01aae4f845b9f2fb95007461dd59c5514e39414765f11"
+    },
+    {
+      "path": "assets/optimized/fresco-room-640.webp",
+      "sha256": "ee7653aa9b28accb7a045cc21cff8c1f5a7ba9504551b619a19ec7ca055310b6"
+    },
+    {
+      "path": "assets/optimized/fresco-strip-1035.webp",
+      "sha256": "ac83fb4a38a952c968fedb799bbeb13625e2490f9f68e9b79a7924f5c2f20ff1"
+    },
+    {
+      "path": "assets/optimized/fresco-strip-640.webp",
+      "sha256": "363ca0f46e9becc04faa98cafc071bd6c3f2e2d4f13bea5984b213ca5ef09ef3"
+    },
+    {
+      "path": "assets/optimized/global-shapers-community-271.webp",
+      "sha256": "4aee699cf267437b20a881c4ec3f148869daf50284a6a91361c15d4b11d72774"
+    },
+    {
+      "path": "assets/optimized/hero-badshahi-1280.webp",
+      "sha256": "05cff3b768657c9cde1d4c3c08b583ee7f7dac048bd01671915693d1fa38fef4"
+    },
+    {
+      "path": "assets/optimized/hero-badshahi-640.webp",
+      "sha256": "cabe3642805a18e748c50387d300c2c07be086ed2b269ff6c490e52444682116"
+    },
+    {
+      "path": "assets/optimized/lahore-museum-256.webp",
+      "sha256": "e5491757aaaf3624e53b4be59d2a9a9df3288016705b930e9bf71611bef7ade6"
+    },
+    {
+      "path": "assets/optimized/logo-full-slate-1280.webp",
+      "sha256": "8da79b30b5a6448680cd8afe2f08880ba44adc69eed1fa20230407a9782abd15"
+    },
+    {
+      "path": "assets/optimized/logo-full-slate-640.webp",
+      "sha256": "8da0e57a006c631b042bc0a66c7470e59f278d8487be32574f4741a0c1dc8b39"
+    },
+    {
+      "path": "assets/optimized/logo-full-white-1280.webp",
+      "sha256": "33f459626a7483b071b0f4fa466be4416659539fbe62eebde3e6f3219ab129dc"
+    },
+    {
+      "path": "assets/optimized/logo-full-white-640.webp",
+      "sha256": "bfadc69cd50152f71f1299dcd94f4e7bfee2dcf1a93b609725e060251674043f"
+    },
+    {
+      "path": "assets/optimized/pillar-red-1153.webp",
+      "sha256": "3efdb62a76afdb684b98bed08be0b5778d9fbb3fb17edf4d864c9e27bf7f0f21"
+    },
+    {
+      "path": "assets/optimized/pillar-red-640.webp",
+      "sha256": "45c0d96fcf27f7ae064889c99a2ed20020fce910d8baffaf66d57baa280c534c"
+    },
+    {
+      "path": "assets/optimized/pillar-white-1153.webp",
+      "sha256": "c1015f5bc817946b6b7c2a83edf4ea6e1f78623f443c271a3d1b3b61f97f8ea4"
+    },
+    {
+      "path": "assets/optimized/pillar-white-640.webp",
+      "sha256": "ec5338ffba0915c8107417a0b5d3e487a364506d25567a9e96b1b004fbabbf03"
+    },
+    {
+      "path": "assets/optimized/project-1-1280.webp",
+      "sha256": "a901ae0b51bd09a0a2d2a6a395ce800e32c575408f2a71c5d46dc15b342642ef"
+    },
+    {
+      "path": "assets/optimized/project-1-640.webp",
+      "sha256": "b5b3837efed273624a909c4f13ea42fabb473758d18bcac566911bc639330a82"
+    },
+    {
+      "path": "assets/optimized/project-2-1280.webp",
+      "sha256": "3dacaa11eed104b1051eb67d77623b53eb579dcb3c5f57e47feec074f1dfe950"
+    },
+    {
+      "path": "assets/optimized/project-2-640.webp",
+      "sha256": "ffb69ef92e42d887a3770234c5315c885f927b7fa9274e44701885da6d5f3f62"
+    },
+    {
+      "path": "assets/optimized/release-badshahi-courtyard-1280.webp",
+      "sha256": "039a8927d90a29b4ca835920ef5a7d409084b521f3f84704bac3afaa2285d62d"
+    },
+    {
+      "path": "assets/optimized/release-badshahi-courtyard-640.webp",
+      "sha256": "f87cc18d4c63d692697e199bde812a5cbd522d0dca4f4436541994701123cda8"
+    },
+    {
+      "path": "assets/optimized/release-badshahi-night-1280.webp",
+      "sha256": "8a8c4a05a8aaa15e714c54d6e333768ddc3642cfabd2a8bc988ee98ecd265e9c"
+    },
+    {
+      "path": "assets/optimized/release-badshahi-night-640.webp",
+      "sha256": "12a25c1f040a185f780ae13038609fe962bddd7e8f57ff5d696d33f0d5ee4e1d"
+    },
+    {
+      "path": "assets/optimized/release-badshahi-prayer-hall-1280.webp",
+      "sha256": "29bb7eb79a29cfab38d0bbd36be61f350de51e07196f470498e86d22559966c2"
+    },
+    {
+      "path": "assets/optimized/release-badshahi-prayer-hall-640.webp",
+      "sha256": "ae1083d5568532e68f0c3f264cdf7d2042c0993b7af2188d542d78178625f690"
+    },
+    {
+      "path": "assets/optimized/release-baltit-rakaposhi-1280.webp",
+      "sha256": "04ab40a66f03b535cac71129fc12922ef44a83e4adfd333572e724f13238fc66"
+    },
+    {
+      "path": "assets/optimized/release-baltit-rakaposhi-640.webp",
+      "sha256": "d2a05c0c31e4624ff5335a043a46513259acccf25ad5d870f47a285f42fa7bf8"
+    },
+    {
+      "path": "assets/optimized/release-mohenjodaro-1280.webp",
+      "sha256": "cb9608bb1725f6e321bfdeaccd5e935f1ca264482e2fc0e78c969aff56062049"
+    },
+    {
+      "path": "assets/optimized/release-mohenjodaro-640.webp",
+      "sha256": "a61b82a15daba4e589a9b6094492b1a3d714e3e851782c6405fe0ca90c6ce072"
+    },
+    {
+      "path": "assets/optimized/release-rohtas-1280.webp",
+      "sha256": "fd166b666243288edc8821d1c4a478e2cf225f2e33c92d7bcb7f59f8aad1f035"
+    },
+    {
+      "path": "assets/optimized/release-rohtas-640.webp",
+      "sha256": "7ef4ebfa643fde5b3ff9717b15bd5e1f41e698e4e84cb0edafcc3c60859a5fd3"
+    },
+    {
+      "path": "assets/optimized/release-shah-jahan-courtyard-1280.webp",
+      "sha256": "6513220524522c663dd9a85fab1f39342d069ee88bc195a4cbbc127cc76c5d3f"
+    },
+    {
+      "path": "assets/optimized/release-shah-jahan-courtyard-640.webp",
+      "sha256": "f6699930e55e39a97133c3d4c04b28ac8a3ce317848a54ba6fd8e4801282c603"
+    },
+    {
+      "path": "assets/optimized/release-shah-jahan-portrait-1280.webp",
+      "sha256": "80dbf50e08eb8fb4547a373e0915b73f5ae8c8b25a225ce35fdcc3aeeb3c3779"
+    },
+    {
+      "path": "assets/optimized/release-shah-jahan-portrait-640.webp",
+      "sha256": "de5552d0757fb85b3727feaef978e86969b59e8c3f1559729fe1f1f77239dfa2"
+    },
+    {
+      "path": "assets/optimized/release-shalimar-1280.webp",
+      "sha256": "1a2e93460b0b8d3294bce1635f985aaa60913d33bd06b9bde0a4c2c7618de475"
+    },
+    {
+      "path": "assets/optimized/release-shalimar-640.webp",
+      "sha256": "00e20af100a418d7d5b76844e5ad15e63826eac462c4266385117c71d6b6cada"
+    },
+    {
+      "path": "assets/optimized/release-takht-i-bahi-1280.webp",
+      "sha256": "67c7ff4b3d94c6e5fc6d7777a538af98fdc62e3727659d0c49cc68a5207dcf30"
+    },
+    {
+      "path": "assets/optimized/release-takht-i-bahi-640.webp",
+      "sha256": "0d82c949d09623a61efea8825c27294f4ad1a42043cf216c8609928cbce6b070"
+    },
+    {
+      "path": "assets/optimized/rizq-394.webp",
+      "sha256": "39377dc41e9c1b4e731e40365756155c119bd255f11014e40f38f1f1871d020b"
+    },
+    {
+      "path": "assets/optimized/rukh-foundation-329.webp",
+      "sha256": "b61c50f142653d7257993eb72cecfdfdf7202c82305a99963187de260d4ba7c3"
+    },
+    {
+      "path": "assets/optimized/temp-archive-archaeology-1280.webp",
+      "sha256": "b78c613166c13b756c78bfc947fa4c2a659110d9ce94e926d0eb8772769cc8e7"
+    },
+    {
+      "path": "assets/optimized/temp-archive-archaeology-640.webp",
+      "sha256": "d3f47110a4eaddc47e23ed3fcb1b7e82c6adb3a0735253ae939194e3cbcf93ad"
+    },
+    {
+      "path": "assets/optimized/temp-archive-interior-1122.webp",
+      "sha256": "d652f457aa704e8950c45a4304a3c2aadbd155540da1e53a7b36b748293d0eac"
+    },
+    {
+      "path": "assets/optimized/temp-archive-interior-640.webp",
+      "sha256": "fbbd848c2489e113ca19b5da048b5e0cae0e53f4ea3d71bee8f66dd41cf7de6a"
+    },
+    {
+      "path": "assets/optimized/temp-archive-object-1122.webp",
+      "sha256": "0a35263f388f9217ab4761ae90537f9e972591db0ff2d5b029b361579f36bddd"
+    },
+    {
+      "path": "assets/optimized/temp-archive-object-640.webp",
+      "sha256": "8e0a5441d66d143bc9323874c9fbc7df3af240b401e1f480389620879cf8267a"
+    },
+    {
+      "path": "assets/optimized/temp-archive-street-1280.webp",
+      "sha256": "b7dad0274163886e7ac82dd21d0f190ab929777113c7cd607abaa6e9d0450502"
+    },
+    {
+      "path": "assets/optimized/temp-archive-street-640.webp",
+      "sha256": "869b351f25c8c14f5636fa5330acb02a7684eab6743cdaffc785274a95d5f68c"
+    },
+    {
+      "path": "assets/optimized/temp-event-architecture-workshop-1122.webp",
+      "sha256": "1fb949a0f958f34786e8aacfb108203bbe385805101a59c6a0cad4227f5c1290"
+    },
+    {
+      "path": "assets/optimized/temp-event-architecture-workshop-640.webp",
+      "sha256": "c60a10b8a8110ac74e0ad51f4c280a4b270713ee5db81d9024200ddb591dd953"
+    },
+    {
+      "path": "assets/optimized/temp-event-heritage-walk-1122.webp",
+      "sha256": "b2005d994646b7ff3d57708d17bafa6ff94f5c304ef301cba51fde3c208a191b"
+    },
+    {
+      "path": "assets/optimized/temp-event-heritage-walk-640.webp",
+      "sha256": "722e628f21b90d8ed1aad5294f1b10e4aab5f783e585013f1b264584b44c7022"
+    },
+    {
+      "path": "assets/optimized/temp-event-research-open-studio-1122.webp",
+      "sha256": "59a1ed143e4fabd0c33a452cb668743efac18021889f6137fc0e471ecd1df9ff"
+    },
+    {
+      "path": "assets/optimized/temp-event-research-open-studio-640.webp",
+      "sha256": "794213cc17944e9691efd4ffb5809e512df8146080281789b3dd5a349b0f5944"
+    },
+    {
+      "path": "assets/optimized/temp-final-cta-golden-hour-1280.webp",
+      "sha256": "98d9e5a3da90d2c4902d651f7ca9ad32f4839e221362517de75251bc275de193"
+    },
+    {
+      "path": "assets/optimized/temp-final-cta-golden-hour-640.webp",
+      "sha256": "7ab1cb1ff78b3e974829ed7d3233641e8d5edb12b40055ed280cdbfe450f5f0e"
+    },
+    {
+      "path": "assets/optimized/temp-hero-blue-hour-1280.webp",
+      "sha256": "25196ff0aa87ee211a9a0993f1c209d2cfcfb301172cac7c9f44966fe23a926b"
+    },
+    {
+      "path": "assets/optimized/temp-hero-blue-hour-640.webp",
+      "sha256": "e58643082d5a84501b1ef3ed80952766f160536d11de6dc8bbad01c606c15392"
+    },
+    {
+      "path": "assets/optimized/temp-programme-cultural-events-1280.webp",
+      "sha256": "b1fbbb6d4751652f694285a5178b4adc3c76c8d9f91853c9a2c34f9b3084fd46"
+    },
+    {
+      "path": "assets/optimized/temp-programme-cultural-events-640.webp",
+      "sha256": "4bdc7c5c8ead4096d3dbe2fac59aca025dd9efa3477535d74df84b568b526f87"
+    },
+    {
+      "path": "assets/optimized/temp-programme-heritage-tours-1280.webp",
+      "sha256": "2f10a303ed6ef93fb1817d7ff2a6da46af963c1379cf49a6b853b1bf947929ce"
+    },
+    {
+      "path": "assets/optimized/temp-programme-heritage-tours-640.webp",
+      "sha256": "ce61be95ddae775d2283d138eaf04eda621ff9bc1c364abdfb087d13ec923628"
+    },
+    {
+      "path": "assets/optimized/temp-programme-research-restoration-1280.webp",
+      "sha256": "febc4d7227219e4b78675873914867a958273e045ccc0de3764792fa08b33c16"
+    },
+    {
+      "path": "assets/optimized/temp-programme-research-restoration-640.webp",
+      "sha256": "8d0cc198a6b7244d31fd6cf6ca548938c390442a015d6f0197ce7f82594c53ca"
+    },
+    {
+      "path": "assets/optimized/temp-programme-workshops-1122.webp",
+      "sha256": "984be1c9ff8a67aa0b5f1ea2321a08ae466141b83b16d254496529eb4383ba80"
+    },
+    {
+      "path": "assets/optimized/temp-programme-workshops-640.webp",
+      "sha256": "6360d7ac8f66a97d1ef0810e9a4951fb46bdd6cc63189d831908e37113465fda"
+    },
+    {
+      "path": "assets/optimized/temp-project-documentation-1280.webp",
+      "sha256": "b5b45f55224ce248a7883fe398c1cc6fe82fffa41978bdae048a8f3c47a93ae9"
+    },
+    {
+      "path": "assets/optimized/temp-project-documentation-640.webp",
+      "sha256": "d152a3b90c124ae4b9efb3be9b2bdc9ccc6ec94bf309f959ddd3a51aafece6b3"
+    },
+    {
+      "path": "assets/optimized/temp-project-preservation-1280.webp",
+      "sha256": "03cac2593a3f382b00ef1d3dba0a54c5dddc7a7515c9566e0e2975cf64f10c2f"
+    },
+    {
+      "path": "assets/optimized/temp-project-preservation-640.webp",
+      "sha256": "855c5f2b97dc67459eabc62988fe0994d65eb24082d3188dfb5dc5fc9bd2771b"
+    },
+    {
+      "path": "assets/optimized/temple-angle-1153.webp",
+      "sha256": "fbfa14056f4d36f3154bb3cd8de063412e9b593ce1f6fa30115b71bab6c70c3c"
+    },
+    {
+      "path": "assets/optimized/temple-angle-640.webp",
+      "sha256": "10d2d9af5ea974e6bdafdd7e06f8dcdbacca9f1134eb5f4ea5007715932a7989"
+    },
+    {
+      "path": "assets/optimized/temple-distant-1153.webp",
+      "sha256": "04783027fbadeef15bf86398242ada6bb8a9e3724360ff54b3e49588e5fd1a6d"
+    },
+    {
+      "path": "assets/optimized/temple-distant-640.webp",
+      "sha256": "d87aebb3d17dc0767382906e89273e501a7116d7f91b036385b7a1d23451c077"
+    },
+    {
+      "path": "assets/optimized/temple-entrance-1153.webp",
+      "sha256": "a717ee2c58f7a1f012f1e69704a91c939fe70a945c4e57026f6e605a00f43f90"
+    },
+    {
+      "path": "assets/optimized/temple-entrance-640.webp",
+      "sha256": "5ec09a17a5b07b837ffb11ac69978ca69140fa4706b1aefff3290484ef3d470e"
+    },
+    {
+      "path": "assets/optimized/temple-shadow-1153.webp",
+      "sha256": "4b54ca7199119064aa339195fb41405b8c0256589e462ebcf709ce258b8122cd"
+    },
+    {
+      "path": "assets/optimized/temple-shadow-640.webp",
+      "sha256": "c160aab8ccc43ebf555455a84847995bc50a90e5e9b3e9066c9cf519bc652197"
+    },
+    {
+      "path": "assets/pillar_red.jpg",
+      "sha256": "a157132463c1c0814b2c4478b6de039ea98dcc7e8c1008e31d6f3f50835f229a"
+    },
+    {
+      "path": "assets/pillar_white.jpg",
+      "sha256": "a56329b7d175e79dc5da0dca5c712784fb38b6a0ab6eb89a5562ad60b289ca64"
+    },
+    {
+      "path": "assets/project-1.png",
+      "sha256": "9e4344dee857c272fc01fb441d4c30d47c28bc35770e3a2ce3a472513a988951"
+    },
+    {
+      "path": "assets/project-2.png",
+      "sha256": "8fc7103363117d0945f6ca79adc47708896c659493cc3ebc15c862592e048ef9"
+    },
+    {
+      "path": "assets/temple_angle.jpg",
+      "sha256": "efd865a102d18bc5c72627658bce3b45b66829317bf48e9f97391a964e902045"
+    },
+    {
+      "path": "assets/temple_distant.jpg",
+      "sha256": "8c4f492d7f0b15c208de3a0f5ff509743129192d855e54b4c11b121eea46087e"
+    },
+    {
+      "path": "assets/temple_entrance.jpg",
+      "sha256": "7ce81bb2ef3708998c9fc6604eb531ff6ea4b21ae01e4d250de1222a7a0e67ee"
+    },
+    {
+      "path": "assets/temple_shadow.jpg",
+      "sha256": "0cbd4634e0de6564ee2b3b39d9b1e7fb70a85eb60f435b3a916893ec3901827a"
+    },
+    {
+      "path": "assets/temporary/temp-archive-archaeology.png",
+      "sha256": "a9853b07eaa8d32792986f22f76e191c7e169dbb0b96087a21f566a23ae1b69c"
+    },
+    {
+      "path": "assets/temporary/temp-archive-interior.png",
+      "sha256": "8e0d5d5945f3f0534fb99eeb1c019206d3bf9a5f5ef8ba9e0b1526271876ed87"
+    },
+    {
+      "path": "assets/temporary/temp-archive-object.png",
+      "sha256": "c760f5b4a3ef568789b5c78b38da5b647a4bad1ef77a517b7193b522b5890da0"
+    },
+    {
+      "path": "assets/temporary/temp-archive-street.png",
+      "sha256": "41578080cb73e51aea6072a1fbcab5df1979cfc5a22f4c26864a2759c78e54f8"
+    },
+    {
+      "path": "assets/temporary/temp-event-architecture-workshop.png",
+      "sha256": "061b99e407d73eaec303d73b964a391cccb28c03c8a0f90ec68487f0759c7804"
+    },
+    {
+      "path": "assets/temporary/temp-event-heritage-walk.png",
+      "sha256": "ddf230a84f894ed06571b488ee450e4bfc2ce1e33574247696b7cf7a41223508"
+    },
+    {
+      "path": "assets/temporary/temp-event-research-open-studio.png",
+      "sha256": "530306bbe7fcfc0d394d32d6835faebc26b14206292ed0c6d686328ba25ed93f"
+    },
+    {
+      "path": "assets/temporary/temp-final-cta-golden-hour.png",
+      "sha256": "a730123fb62d4f8b7f331aacfd00b4ec054e44fc344cbd16728c8ed354f8c5d2"
+    },
+    {
+      "path": "assets/temporary/temp-hero-blue-hour.png",
+      "sha256": "bad9226e4c56a5afabedf54c76c7119ddf3834f5fe47febdcf3d9ed14b073592"
+    },
+    {
+      "path": "assets/temporary/temp-programme-cultural-events.png",
+      "sha256": "fc7f054a2f235bee6203d5beb9f1c0597b20d78d4e1945d8416de9275a66290b"
+    },
+    {
+      "path": "assets/temporary/temp-programme-heritage-tours.png",
+      "sha256": "e91e155e361eaa8d53137abc05cbb25e86bb09f2b01e9c4deabef145e8c447fe"
+    },
+    {
+      "path": "assets/temporary/temp-programme-research-restoration.png",
+      "sha256": "b9b9f52979c81bc8abd6ad8f2335f9f2ab9ae36a7321f409f40b3738cc658655"
+    },
+    {
+      "path": "assets/temporary/temp-programme-workshops.png",
+      "sha256": "30757e28ac3c5185b111b5d2b4660f28ae41a786211dec9fe670a74fc039e8df"
+    },
+    {
+      "path": "assets/temporary/temp-project-documentation.png",
+      "sha256": "a3adaf523821f130a70c297b21c31ca053710cc1e2a18383c72e2e60b46dbaca"
+    },
+    {
+      "path": "assets/temporary/temp-project-preservation.png",
+      "sha256": "4ff95ccf886d6cd90b1d9e7041431cabb73977b47c5cc418da61db9713a9aaf0"
+    },
+    {
+      "path": "config/administrative-sources/azad-kashmir.js",
+      "sha256": "fdd870b7a9393166e5836a1c77eee411b83a0021d34316ce96fd101f2cc32ec1"
+    },
+    {
+      "path": "config/administrative-sources/balochistan.js",
+      "sha256": "5e17e5080a28ab30a538ce5b2151123f59096fd09d9e584372b61488b4189d60"
+    },
+    {
+      "path": "config/administrative-sources/gilgit-baltistan.js",
+      "sha256": "6fbb4db93e7ae09ff2d799b90a9af69ce26bc9ee0848060d09ca714c66ef4883"
+    },
+    {
+      "path": "config/administrative-sources/islamabad.js",
+      "sha256": "2d258490d33297ea7359974cbecc61bcd8ddaa28972a53b55147b3b4cffa89e1"
+    },
+    {
+      "path": "config/administrative-sources/khyber-pakhtunkhwa.js",
+      "sha256": "9c4db8576e20e5f5d3179474388993762db3f4555dde9e1c08c13afa7a796792"
+    },
+    {
+      "path": "config/administrative-sources/punjab.js",
+      "sha256": "5576b3006546da02d2cdbb3d472682f284e5041e89660ddba5cdee6dd5ee9624"
+    },
+    {
+      "path": "config/administrative-sources/sindh.js",
+      "sha256": "2f87bebccea27871906a971d69dbe1d7311a283f23a68cf0029178396cbe2e94"
+    },
+    {
+      "path": "build.mjs",
+      "sha256": "f0a9c40d9833ab942c06ad08a07390c2b80e4d17c8c60a9184bc8a8399281e3a"
+    },
+    {
+      "path": "app.js",
+      "sha256": "c488291ccfd0d09bfce37584d8ab605f144e357e4a173bcc849bd79b6128bfa2"
+    },
+    {
+      "path": "styles.css",
+      "sha256": "8e185be2863922ef937a5de88c83e339dec9d7248686b1fa1f375720b46ca927"
+    },
+    {
+      "path": "site.config.mjs",
+      "sha256": "d965f5081614143f4e27e38b9f527334c9036adc2fe5f4f2f6eeadf1e374cee3"
+    },
+    {
+      "path": "package.json",
+      "sha256": "2b31cf69686ccbb379d908f6599328580976c509b01e8b924abba3c1493c8831"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "e035892891662b387e3cddc6f2c7806c286aa3e3fb1107defaf2e9a9339f227e"
+    }
+  ],
+  "candidateHashes": [
+    {
+      "path": "404/index.html",
+      "sha256": "6e270440c4f533471df74d662bc62a5d2d1c2e6c69c60f0df6f8bace27642a17"
+    },
+    {
+      "path": "404.html",
+      "sha256": "c199af5f6fcaac6b7d8e3cb2f1a608fa4ea98fe1cd1567480b6683533423eac2"
+    },
+    {
+      "path": "app.js",
+      "sha256": "c488291ccfd0d09bfce37584d8ab605f144e357e4a173bcc849bd79b6128bfa2"
+    },
+    {
+      "path": "archive-discovery.css",
+      "sha256": "ccbeaa005a67620e519f33a432bd4dd17d67f5d043336a2b5d9e08428ae2f28f"
+    },
+    {
+      "path": "archives/all/index.html",
+      "sha256": "a3d90b1c478808cdbae3e9f0143a139637449f07898615eb15881706027540fd"
+    },
+    {
+      "path": "archives/category/archaeology-and-ancient-civilisations/index.html",
+      "sha256": "177f53557a518bce8edeeb56a07f0d1f2fd259c4a3df0c8272c41b4d5a21625b"
+    },
+    {
+      "path": "archives/category/architecture-and-built-heritage/index.html",
+      "sha256": "b7623a6c90a06251e9161bc8ba8f7c47682140ae5119ad961294c92832076e62"
+    },
+    {
+      "path": "archives/category/cultural-landscapes-and-historic-places/index.html",
+      "sha256": "1b441139d99996a80d29720160c13c79f1d2e051a6a017902fdf6d5d53afb13f"
+    },
+    {
+      "path": "archives/category/living-traditions/index.html",
+      "sha256": "db751bd323b0b769925576eeab1be3716f7a30ffad21307f953207cd69ecc0b6"
+    },
+    {
+      "path": "archives/category/objects-and-material-culture/index.html",
+      "sha256": "b8858ed13a0e6e7e07e26aff53bc97055e8f08d573739d4b25a5cee57b939692"
+    },
+    {
+      "path": "archives/category/sacred-heritage/index.html",
+      "sha256": "3dad678b49504e4c7508965a72390f41cd5f91f4a9056cb417d1083c41813a8f"
+    },
+    {
+      "path": "archives/index.html",
+      "sha256": "a96a1f0475b2497c96b85bbbf2c81172ad616c81c98e33b71ee1de6dfd106044"
+    },
+    {
+      "path": "archives/place/abbott-museum/index.html",
+      "sha256": "3392d027a5f626dfbc688c3d4d97aef5e2ff23edb0f3c57cd45e5328f7565de3"
+    },
+    {
+      "path": "archives/place/adam-shah-jo-takkar/index.html",
+      "sha256": "19022a6fbc3084648658ae5db4f26d9cfea2663a1ed992a230fcec19694ea4eb"
+    },
+    {
+      "path": "archives/place/ade-sahib-mosque-mujahideen/index.html",
+      "sha256": "4835a33a585bfcd68d46214b2a4dc376d82e871bb14cf03be3edfa36282157cf"
+    },
+    {
+      "path": "archives/place/adinkhel-dherai/index.html",
+      "sha256": "3e225bb6f3357b95b5922c857719917b36bf3b8a76c2d68e38581a2f0eb8462d"
+    },
+    {
+      "path": "archives/place/agham-kot/index.html",
+      "sha256": "2853df364f002980c9e6c6c0cbf7dcea230f7eab8bf62f5a8897c5a0b47ff71d"
+    },
+    {
+      "path": "archives/place/ahmadpur-lamma-fort/index.html",
+      "sha256": "057ccba97c14fadc67b9dc2dd48c0e09d02459e298271f4321eba096846f6a98"
+    },
+    {
+      "path": "archives/place/aitchison-college-historic-campus/index.html",
+      "sha256": "d16b9d3a9dfaa2a2930008c55bb3e4a183e06cba921978056a8360bffcf0ad1e"
+    },
+    {
+      "path": "archives/place/ajmir-stream-bridge/index.html",
+      "sha256": "583da71612586cb7cce1f52ca62e5bd45bf6b1941df020ba351d5e4228556e8c"
+    },
+    {
+      "path": "archives/place/akbar-birthplace-memorial/index.html",
+      "sha256": "a0252275a3217a5a1a2ef6656d8e1b1933edc197d8afa41e7efc2a16514e46ad"
+    },
+    {
+      "path": "archives/place/akbari-baoli-gujrat/index.html",
+      "sha256": "5cc53c4cf9e4f1dc14741774fa91626571073662ae0f65e16515b4b491cffbc6"
+    },
+    {
+      "path": "archives/place/akbari-hammam-gujrat/index.html",
+      "sha256": "f28c6c00534a9c2059f09b86319016ee840060c16cd085c31fd61ca65e67f54f"
+    },
+    {
+      "path": "archives/place/akra-archaeological-mounds/index.html",
+      "sha256": "5d76561f04d7ceef4a2c2a6a56fa7acc844a49798921e6b3158aa59b1ff1968f"
+    },
+    {
+      "path": "archives/place/al-sadiq-mosque-bahawalpur/index.html",
+      "sha256": "c822511a0f56d92ea3d2c3970aab660acc3153e008b0d7a63775d5e72f1c366b"
+    },
+    {
+      "path": "archives/place/alam-bridge-rock-carvings/index.html",
+      "sha256": "3935ca8552c312d517c6fe415bd9cf8cff50edeb9d15e6e350181c1469c44155"
+    },
+    {
+      "path": "archives/place/ali-mosque-bar-khas/index.html",
+      "sha256": "539efcb802471e740c7eea4390a591888eaa221c7242e82bb29e6c4c82aaa4e1"
+    },
+    {
+      "path": "archives/place/alingar-rock-inscription/index.html",
+      "sha256": "d43a4a950077182e44d20f8fa5e5dfb7c662dae9aa15637df558dc3d1635c4db"
+    },
+    {
+      "path": "archives/place/all-saints-church-peshawar/index.html",
+      "sha256": "e77088d827bbf80b5a792af99cce0f7816d09cf30404fa2cdc434e239ff2a8a2"
+    },
+    {
+      "path": "archives/place/allaho-akbar-mosque-swat/index.html",
+      "sha256": "6155987930ee65c553b0187cc0995beaf5d665dd781bb4d5a332832e4ae68903"
+    },
+    {
+      "path": "archives/place/amb-temples/index.html",
+      "sha256": "99708d664c9dd330b50a1676909017ee53ecf35be7fcaae31a6143db7c3622d6"
+    },
+    {
+      "path": "archives/place/amburiq-mosque/index.html",
+      "sha256": "c2920b7d711aee80eac633b5b0d69f2f16e1bb431fb76ee0fedc97d61f4d8422"
+    },
+    {
+      "path": "archives/place/amrote-sharif-mosque/index.html",
+      "sha256": "fd7d1de7cb20f9a1fbba5b7a7809da4ca0a5be78db20f30b72fafffeb444bf9a"
+    },
+    {
+      "path": "archives/place/archaeological-ruins-at-moenjodaro/index.html",
+      "sha256": "0f4ba9e3faae2803251d6a2720eefa6fd81580c41a0b9b6dfd3f22991d93fb9d"
+    },
+    {
+      "path": "archives/place/asghar-ali-mosque/index.html",
+      "sha256": "3be949812a0b6b786492dc154cfff97bbd440196a1525eb4fa031790eee2ec0a"
+    },
+    {
+      "path": "archives/place/assal-suleman-mounds/index.html",
+      "sha256": "fbbdadc75531d2b43e341b5f0904386c41b042c54272b6c9be5126cf83d72b88"
+    },
+    {
+      "path": "archives/place/astana-of-syed-sultan-ali-aarif/index.html",
+      "sha256": "2572d007440d71309549b152cda9d488435b599ce86b519c64da67f632062a5b"
+    },
+    {
+      "path": "archives/place/atmaramji-shrine/index.html",
+      "sha256": "4665f625c7d48f72d9a70abb12d08b0183edc58eb96bec12607011c24a479980"
+    },
+    {
+      "path": "archives/place/attock-khurd-railway-station/index.html",
+      "sha256": "d01ecf746118b5f2c403ba25f8c197376f85a913b7598053718c127baf7346a3"
+    },
+    {
+      "path": "archives/place/attock-tomb/index.html",
+      "sha256": "bbd711dfe6646202d391986b660d23c696f38a49ee26c1163579a83d879fe4f1"
+    },
+    {
+      "path": "archives/place/baba-ghundi-astana/index.html",
+      "sha256": "4c0e53320ea18023138e22e9bb68472beebe43ea7bd01bd64b02fbd9c73cba5d"
+    },
+    {
+      "path": "archives/place/baba-khatawara-ashram-gandhawa/index.html",
+      "sha256": "53c46fedf7cc7a127cbef13bab21e9c601fb3de9e26fb224334052ff449d949a"
+    },
+    {
+      "path": "archives/place/baba-saroop-daas-temple/index.html",
+      "sha256": "c7f820c779a93269bb7553c06f9060f6cbe4c3760734d62c6a0a1bdbe504e0d1"
+    },
+    {
+      "path": "archives/place/babra-tombs/index.html",
+      "sha256": "04b8f89089d2226ac3ec81f6973cd384c86eb4af1274e8cb57aea7590a4bc974"
+    },
+    {
+      "path": "archives/place/babusar-mosque/index.html",
+      "sha256": "edf6cb15b10c885e440ef71746bf3b9b0aba707f7f7a044560634b5208eb7eb0"
+    },
+    {
+      "path": "archives/place/badrangai-ghundai/index.html",
+      "sha256": "0469530aee1681e7306c72a242a5038468adf75ff6647dd5af5e0399ef1b4f9b"
+    },
+    {
+      "path": "archives/place/badshahi-mosque/index.html",
+      "sha256": "3dc6c2e6338a2bb1cc5e2af7212c5e50abc5f99bd15a0034d9292ae1cdaa9f90"
+    },
+    {
+      "path": "archives/place/bagh-fort/index.html",
+      "sha256": "0fd5ac0cef46a0efd752621326480e1a4e2977d3abe2a5fe0c981dcf1e55fd7f"
+    },
+    {
+      "path": "archives/place/baghardo-rock-carvings/index.html",
+      "sha256": "d2378ec0c928dd538db5db9b5adace670b2ee598a3e29779a7b935303d623688"
+    },
+    {
+      "path": "archives/place/baghsar-fort/index.html",
+      "sha256": "b76577c5fbb798aea76b30d32aa79495c63df1b6978d5251ff932e2f2e59a07e"
+    },
+    {
+      "path": "archives/place/bahadurpur-jamia-mosque/index.html",
+      "sha256": "013cf8a8933c6472b2ea3662eb1fcef9fd6adfed0ef9246815ad13d3bc1e3fa9"
+    },
+    {
+      "path": "archives/place/bahar-wali-baoli-kharian/index.html",
+      "sha256": "31a15e609206e5211d0a7375f2d4ac31e8b43841a3fc3fbb18ae272f07d586a3"
+    },
+    {
+      "path": "archives/place/bakhshi-khana-fort/index.html",
+      "sha256": "12fbe22c976554d6f8615b9fe032c87dfeef7105c20614e8a5ef5f4b72827bfa"
+    },
+    {
+      "path": "archives/place/bala-hisar-fort/index.html",
+      "sha256": "b883598d91a36f2e6eeecc9743cbb2cce6b5d63327d3816acc702cdabb2f023b"
+    },
+    {
+      "path": "archives/place/bala-hisar-mound-charsadda/index.html",
+      "sha256": "4258794f643b96afbcc405974bfaf902906841b03c5234c2f219b95caa25ee76"
+    },
+    {
+      "path": "archives/place/balghar-rock-carvings/index.html",
+      "sha256": "fdaa4a702f49a31f21da1e9361f191f7dffb6ad045c57c6fb25022032d188ad4"
+    },
+    {
+      "path": "archives/place/baligram-stupa/index.html",
+      "sha256": "238054402a93045fb7ad74e94744659aae000d5f4f7d6f2ba1c7c2e2aaf5afc1"
+    },
+    {
+      "path": "archives/place/baltit-fort/index.html",
+      "sha256": "42b55f4eafaf736e9b4cf31edaa6b6fa1b6c37aac90adb93be475b7c40d7a86b"
+    },
+    {
+      "path": "archives/place/bamir-astana/index.html",
+      "sha256": "cc98ffcb27511a829ffc35bfad9e9f46bf25e0129926da16baed4ddd9539b7d8"
+    },
+    {
+      "path": "archives/place/ban-faqiran-stupa/index.html",
+      "sha256": "cd999c37cc02b6c3a8cd399e4612d55a27e275ceca3aa89464d1eb615a1b8675"
+    },
+    {
+      "path": "archives/place/banbhore/index.html",
+      "sha256": "2c9f9af5091234b8250465b73f834686a318e170a1e9235d3c2129a2715072af"
+    },
+    {
+      "path": "archives/place/bande-uba-canal-bridge/index.html",
+      "sha256": "ba0a101022adb3d8788d0bb0089774e6203c4cb01bed617cab4637d1c3af2208"
+    },
+    {
+      "path": "archives/place/banganga-temple/index.html",
+      "sha256": "8464db06fca518dcbee3db46605f87a70b15a15cc07b4ec2101f19e211e5dda3"
+    },
+    {
+      "path": "archives/place/bangosar-rock-carvings/index.html",
+      "sha256": "0ed3c16922ca6e5df72cb671dc814c02730ba07541ccd64f071585eb83bc4e24"
+    },
+    {
+      "path": "archives/place/baoli-mosque-peshawar/index.html",
+      "sha256": "e90521c8e12e5b536dbe7cfe6401894d45a24dc6f03df86132d7169862acea43"
+    },
+    {
+      "path": "archives/place/baoli-wan-wala-khuh/index.html",
+      "sha256": "f5524d8a8a8b3457b61adf878a57b57b1e39c19c67886362392edce7046da143"
+    },
+    {
+      "path": "archives/place/barabru-stupa/index.html",
+      "sha256": "49020cf2480416eb7a599124341cc64cda40c6f04596e96f33f8df22a28bbf1b"
+    },
+    {
+      "path": "archives/place/baral-fort/index.html",
+      "sha256": "5a7e7e59d43b5bd08dec5a5396920085d123c0122c270e361dab6686ce0963f8"
+    },
+    {
+      "path": "archives/place/baran-tomb/index.html",
+      "sha256": "151dddc98e00351ea08e7b798e622f5e827a8fbd6aaa0c93dc3f8b02833fd6e5"
+    },
+    {
+      "path": "archives/place/bari-imam-bethak-nikka-tumair/index.html",
+      "sha256": "d61f528feea1266e2bab7c9b31405ea403ab2d4aec1250704c95c7a0e37fb3c6"
+    },
+    {
+      "path": "archives/place/bari-imam-shrine/index.html",
+      "sha256": "db653ff8967a86a330d766f54c22b22f5c47bf22c769d4202253cc28e4c5e078"
+    },
+    {
+      "path": "archives/place/bari-mosque-pasrur/index.html",
+      "sha256": "ff10cd7d0af0ac7eb500881f28f1d9c9d9cfee1c0cd9992882f99f624e2ac5d0"
+    },
+    {
+      "path": "archives/place/basho-rock-carvings-and-inscriptions/index.html",
+      "sha256": "820ff094e97ead7089782f92151cb90db72903637377012dc97542f7166a6d05"
+    },
+    {
+      "path": "archives/place/basti-sher-khan-tomb-stones/index.html",
+      "sha256": "3da8cc33ea0a4c319f192a9918932b88d150454e458995ed512b7ccff62ebc6f"
+    },
+    {
+      "path": "archives/place/bawali-baoli/index.html",
+      "sha256": "030979bd36407ce16499b5910b5b6ea7aba54a3ef04e7e9396bc69306abe6491"
+    },
+    {
+      "path": "archives/place/bazira-barikot/index.html",
+      "sha256": "07efbfa3e0388feabbce0ef072f0bb97140d24e236d9a118b348abab4247cdfc"
+    },
+    {
+      "path": "archives/place/begum-ki-sarai/index.html",
+      "sha256": "9dd5b1d8733ebf0667ba66542cfa4800fc531ed9040163aecd7226389527342a"
+    },
+    {
+      "path": "archives/place/behram-baradari/index.html",
+      "sha256": "8f4e4ab72f68f9d2f3bcbe18627f2cc739c3f1eef6df128172c29366c8521d7e"
+    },
+    {
+      "path": "archives/place/bhamala-buddhist-complex/index.html",
+      "sha256": "360c14361bdfcd80a9aae28f34e52818dabaf7f5f64cd478dc109f02e2d4f474"
+    },
+    {
+      "path": "archives/place/bhati-gate-lahore/index.html",
+      "sha256": "5ab474e5d22359634b4c9e7c4f59f25b979e6b508212fb02701aa44158b22edf"
+    },
+    {
+      "path": "archives/place/bhong-mosque/index.html",
+      "sha256": "c79456af78faf54eb9af0972bb32b66e8dffa96fa5b975bcfd658cf124db8ada"
+    },
+    {
+      "path": "archives/place/bhoun-railway-station/index.html",
+      "sha256": "dfa24ea588d8fd2028833d1e94daa9597a467c61e77a9f2c36be349887b93d75"
+    },
+    {
+      "path": "archives/place/bhrund-fort/index.html",
+      "sha256": "4f9d208c60b3ea8378be253140e25287659d31360460310e496d1aa92e1fae2d"
+    },
+    {
+      "path": "archives/place/bhrund-rock-shelter/index.html",
+      "sha256": "1ad0bf15617689ad4888c21907045ec95fd3e9904bc1ea8bd01e35ad338ee7dc"
+    },
+    {
+      "path": "archives/place/bhuman-shah-monument-complex/index.html",
+      "sha256": "9327e438e60ce90ef7d4166c2549241bcb8ba57277994f138604b4393c2bb02e"
+    },
+    {
+      "path": "archives/place/bibi-jawindis-tomb/index.html",
+      "sha256": "0b66bf4ccafe1fd3503ba4c36fb52fe712d7f0f4e95f4c25bbf95931029cdb93"
+    },
+    {
+      "path": "archives/place/bijnot-fort/index.html",
+      "sha256": "faeece545717ecd81075c3a3e1b93c8557e00ccb56fb5451f97375df377896bb"
+    },
+    {
+      "path": "archives/place/bilal-mosque-dhamoon/index.html",
+      "sha256": "e43431ae0ecc8ada9cc6e11e66e8185d867bd22817b8ab418cf25546421b7c0c"
+    },
+    {
+      "path": "archives/place/bilawal-mari-ruins/index.html",
+      "sha256": "0eb1d43016f9b5353849e61b37f5f922ce9a46a181a09df453044e11e63b1d53"
+    },
+    {
+      "path": "archives/place/bilchar-bagrote-mosque/index.html",
+      "sha256": "9aeec111512f8eadc161c05069f5866c8311a9d1557e3750e95a89366664ad44"
+    },
+    {
+      "path": "archives/place/bilot-sharif-temples/index.html",
+      "sha256": "59016ec501b5244a56151942553a1e009ad94f6ba7a117fbf9596d42b1011059"
+    },
+    {
+      "path": "archives/place/bisak-banda-stupa/index.html",
+      "sha256": "b77dd4fa70c87e7b8573b546d03f21652a003ae6f873270848f70378c6cb139d"
+    },
+    {
+      "path": "archives/place/bit-fortress/index.html",
+      "sha256": "c30648278fb9448ec945597f2ac447b2d3955a233ceeb4110de3fa051e8c5a9f"
+    },
+    {
+      "path": "archives/place/black-fort-muzaffarabad/index.html",
+      "sha256": "af8d4f993d91bab6ede455b132bdb4938dfc002e5f7ff3eea24f8c5bc576cb67"
+    },
+    {
+      "path": "archives/place/bokhari-mosque-sunkhtra/index.html",
+      "sha256": "f5da926bddf155b6c2a32987507769cec5688663b3d2914968edc80c140f5396"
+    },
+    {
+      "path": "archives/place/bradlaugh-hall/index.html",
+      "sha256": "e449c293a5c3a4ce560cd059e49442d863cb9f42e718ffbb45b3c2204d6e5ea9"
+    },
+    {
+      "path": "archives/place/brahmanabad-mansurah/index.html",
+      "sha256": "3042ccea23b5585bb50aaf3a12097f35422248ff895f948b8cde2bfeb297ab25"
+    },
+    {
+      "path": "archives/place/braqchan-jamia-mosque/index.html",
+      "sha256": "06a052ae3a6a6e20cbce6b81374515ec7252a3c4f6897105a1bdde7c373a036f"
+    },
+    {
+      "path": "archives/place/braqkhor-rock-carvings/index.html",
+      "sha256": "900786d6d8951f1e6a70276eb1d64bd624928a64a1f40951bae675f464b90d5f"
+    },
+    {
+      "path": "archives/place/brushal-niyazo-mosque/index.html",
+      "sha256": "6352c07a52e4d1f1741e5e33d3c1d4242bbdc1105a2d09b2e2346308312206f3"
+    },
+    {
+      "path": "archives/place/buddhist-ruins-of-takht-i-bahi-and-sahr-i-bahlol/index.html",
+      "sha256": "fde9941122d54d419c381894d92bba14960dbb6299dd6ed3c12cbf0b22a18ee0"
+    },
+    {
+      "path": "archives/place/bukharia-mosque/index.html",
+      "sha256": "8b501bedf0828a7f1f9201d11b64c310e461a8b89de519320600eef2673908e0"
+    },
+    {
+      "path": "archives/place/bukkur-fort/index.html",
+      "sha256": "9b4a000527274b7a779fe408742d91c0f757be94b8628e9aaaa5b3b1bbec84e0"
+    },
+    {
+      "path": "archives/place/burj-at-malka-hans/index.html",
+      "sha256": "f943ed8c42bb8f782556bae7804d47215d54bf844e3b45af110b3517adf89219"
+    },
+    {
+      "path": "archives/place/burjun-fort/index.html",
+      "sha256": "0a41cc10e3de3f22020dcc5c22b59fa9e795ed277613d32ed2d615305584b66a"
+    },
+    {
+      "path": "archives/place/butkara-i/index.html",
+      "sha256": "ab6384a1c2ecc8ea07d0c28edb3db8dc03b77123e6b27f234632f24b77684e52"
+    },
+    {
+      "path": "archives/place/butkara-iii/index.html",
+      "sha256": "6a39a12170378398f88165ef3ee9479cb437e1710554617c820b523dd3b8783d"
+    },
+    {
+      "path": "archives/place/chagai-fort/index.html",
+      "sha256": "349dedf7727c3b6e5a61dde1dc403a851815a39232f20f320620e4ffb606599d"
+    },
+    {
+      "path": "archives/place/chak-104-10-r-archaeological-mound/index.html",
+      "sha256": "c482900d47be24e5995560bc081e08c2e073e392bcfe9f49663df41156b564b3"
+    },
+    {
+      "path": "archives/place/chak-773-gb-pindi-mound/index.html",
+      "sha256": "0a3868a3a1faf2fbb5602827262fa24e2e6374ce5ef30fe125a4ae8766252515"
+    },
+    {
+      "path": "archives/place/chak-pandit-temple/index.html",
+      "sha256": "b9955578830e8fc0cee46885d5f49732d34df26f215caf905e681c20ef26890b"
+    },
+    {
+      "path": "archives/place/chakdara-fort/index.html",
+      "sha256": "845b6bf05caf98545d6a2f5492fb644699831e61b37c6d3b9392022db0333d1c"
+    },
+    {
+      "path": "archives/place/chakwal-railway-station/index.html",
+      "sha256": "a1b144fd724879dffb6db5d3b8c97515d9ac061245f9f924073deacc5caf87c8"
+    },
+    {
+      "path": "archives/place/chamarkand-mujahidino-mosque/index.html",
+      "sha256": "a43f982d4f0113d6c79377d19d1b5af5406732be3e226c03fd51d623a5e5dbb5"
+    },
+    {
+      "path": "archives/place/chandu-mosque/index.html",
+      "sha256": "6fca3d6f4d3efee82091b02e745cf6332030717fa948140b36bcd374ace209b1"
+    },
+    {
+      "path": "archives/place/chanhudaro/index.html",
+      "sha256": "1a62eb1a644c917fa669ab0cadf7da53e49c7faf63adbedabcdb6b4fcd67c0a9"
+    },
+    {
+      "path": "archives/place/channi-munu-mal-temple/index.html",
+      "sha256": "1e9a2467dd525b9e6932406bc076b25b95f7914ce284c78dcdd564174aa0f683"
+    },
+    {
+      "path": "archives/place/chaper-mound-ii/index.html",
+      "sha256": "83d73938e9f9e788414791b4dc51318c6326cfec76b94b4b0c57568f197276e5"
+    },
+    {
+      "path": "archives/place/chaqchan-mosque/index.html",
+      "sha256": "21e04af260b99e7334c1bbd61c0a2756f10805b203265fd730f2988725565217"
+    },
+    {
+      "path": "archives/place/chatpat-buddhist-complex/index.html",
+      "sha256": "ede1eeb8682e6f74b2cab178cae8987c38f7d8e06268614c3c5fb948317b5bdd"
+    },
+    {
+      "path": "archives/place/chauburji/index.html",
+      "sha256": "0bbcd44faab3822c9092ce5048d938ec2e0b46aeb45ffd27e13122ef61f23a0f"
+    },
+    {
+      "path": "archives/place/chaukhandi-tombs/index.html",
+      "sha256": "a33538d1f01995f15fb703de4aa9372d249883f84dbfb8a91adec0e5d2b93390"
+    },
+    {
+      "path": "archives/place/chhathanwala-gurdwara/index.html",
+      "sha256": "4b258ff551219adcfe170487d07077fbaba69f01b5e47cbec46a68600ae98e42"
+    },
+    {
+      "path": "archives/place/chhorbat-hasan-abad-rock-carvings/index.html",
+      "sha256": "ceb198325add9001b34fc59c8e9a15d5923ce0ab031646d75e184c89f3adbc95"
+    },
+    {
+      "path": "archives/place/chitti-baoli/index.html",
+      "sha256": "4636e076d5835851585624563044f583c5b463441214080d040ae13d737e03a8"
+    },
+    {
+      "path": "archives/place/choa-gujjar-bridge/index.html",
+      "sha256": "8b1707f5ac1598d53690b5224373aa8a535bc96a97fdb1d16d77af407e3dc472"
+    },
+    {
+      "path": "archives/place/chogaanekand-fort-turbat/index.html",
+      "sha256": "8f8bebfbcdb020ac93c996618703f732975f31956a36866ca22470ccc8fb1c96"
+    },
+    {
+      "path": "archives/place/chottori-tombs/index.html",
+      "sha256": "9e1a59c383a5516d600675c3a6045f96d64423decb48fddff0fbf3410dce9434"
+    },
+    {
+      "path": "archives/place/chottra-rock-carvings/index.html",
+      "sha256": "40d2944cac459e5079c74f93e261eec440c0935db500f67afcca1a2445cbd5e4"
+    },
+    {
+      "path": "archives/place/chuinj-fort/index.html",
+      "sha256": "b6c8acbcd130ab393f030083153058ce6fc88cbaddf149950821a5b143c46439"
+    },
+    {
+      "path": "archives/place/churka-rock-carvings/index.html",
+      "sha256": "0f57a9223419aacc49f95e28981510201ee7da6fc1a5c5d82e6afc69ba5fba3c"
+    },
+    {
+      "path": "archives/place/churrai-fort/index.html",
+      "sha256": "88a9813fef8a30cc0e17a5bc00ea3cd3a24a570c79556a10e83bfea60b1354e4"
+    },
+    {
+      "path": "archives/place/d-j-sindh-government-college/index.html",
+      "sha256": "d6c92ba2fd0509b48af5ffac2271d9a757f4988ce40c00551152e76c2f9493ec"
+    },
+    {
+      "path": "archives/place/dabgir-mosque/index.html",
+      "sha256": "77aa40583346f5e4aa2be63832344f29fba10f057f65c49254e0a932aa470ce5"
+    },
+    {
+      "path": "archives/place/dada-budhal-shah-complex/index.html",
+      "sha256": "3c34d6f2b33defbfdd00ce65e4cffe0dc92fa98ebdcdf1465fdcd0db64db465f"
+    },
+    {
+      "path": "archives/place/dai-anga-mosque/index.html",
+      "sha256": "820bee5dfbbe74d820ff92114bb27b4edd61d700d108ee9587efe7e4cadd16be"
+    },
+    {
+      "path": "archives/place/dai-angas-tomb-and-gulabi-bagh-gateway/index.html",
+      "sha256": "75d431fed034da36c7b15a0a99517c2c60bf5d126431f6df3279744de95a663f"
+    },
+    {
+      "path": "archives/place/daira-din-panah-shrine/index.html",
+      "sha256": "758e8845919c709d293642b84ec817966f01b32e91d59614d864b2541ee6afaa"
+    },
+    {
+      "path": "archives/place/dalail-dero-fort/index.html",
+      "sha256": "3749e10bb2b749f3a280fe00f10300b072ea9eb23a956e1e96e0969936435057"
+    },
+    {
+      "path": "archives/place/dalwal-temple/index.html",
+      "sha256": "7bd99e36f038d3714162afc2839de67919bd37e13b3cd2b526b9be6fe0f65dea"
+    },
+    {
+      "path": "archives/place/dam-kot-rock-carvings/index.html",
+      "sha256": "d3dc735f6ec06e6533f045e0f17d82eed9906849618d7fe64c1a2eb578b2cbf9"
+    },
+    {
+      "path": "archives/place/damb-sadaat/index.html",
+      "sha256": "b61852119348bbb5853e5bccb440b3a7f36926d13f7cc9bc5adfbd1822738446"
+    },
+    {
+      "path": "archives/place/damkot-fort/index.html",
+      "sha256": "43792c473b766dc0deab67e072588aba48d07337d0d29d80bdfbf6299b88624e"
+    },
+    {
+      "path": "archives/place/dand-barai-gunbat/index.html",
+      "sha256": "ec111973fafa096ca155acc176406611bed4ca4b7244a1e8deb7a5f1b854a998"
+    },
+    {
+      "path": "archives/place/danyor-rock-inscription/index.html",
+      "sha256": "fac47d7f3de00c240fa0e8880e5947d68796bd781905d32fac9841261baee14b"
+    },
+    {
+      "path": "archives/place/daraban-mosque/index.html",
+      "sha256": "e5ebd0647a81f9e4ea24c75d805b104b116c852804de4bc0ec37b77ce816687f"
+    },
+    {
+      "path": "archives/place/darbar-mai-toti-sahiba/index.html",
+      "sha256": "78195be8689c4616ef40f54aa89c3aef4af5f9d3680bf1db0f7da56eb2e723d6"
+    },
+    {
+      "path": "archives/place/dargah-haji-faqirullah-shah-alvi/index.html",
+      "sha256": "951afa44ee63506a1d8026e5a26c3c4dfbb8074fc0d263d39208393acb461889"
+    },
+    {
+      "path": "archives/place/dargai-fort/index.html",
+      "sha256": "462d8a098ad14987ba40ad9f85f39a008ad7d0b8a0d84471f4bd13f89a158b12"
+    },
+    {
+      "path": "archives/place/darya-khan-marri-temple/index.html",
+      "sha256": "0dc2feeef1627f5ca5b95a877a63f103236b2a58a7397ad04d320f7a903b7c87"
+    },
+    {
+      "path": "archives/place/data-darbar/index.html",
+      "sha256": "7a9d1a6401b6b8e9f54eb4475139d9483dc14fe7c0ff737c3c20d49ca15402b9"
+    },
+    {
+      "path": "archives/place/dauray-buddhist-site/index.html",
+      "sha256": "beb87fb0fbef834ad3a15253e0a23d8f61c3b0c0359736aae61aafe021eec9fc"
+    },
+    {
+      "path": "archives/place/dehari-bagh-baoli-i/index.html",
+      "sha256": "367f4f88fd11ab25a7eca267b45a197057f62b43bfdc997f438baef2054a5671"
+    },
+    {
+      "path": "archives/place/delhi-gate-lahore/index.html",
+      "sha256": "4604006bf54a4f53cd63433f6c65bd60ed527c8e3dc13fb131a57ed258543ef9"
+    },
+    {
+      "path": "archives/place/denso-hall-and-library/index.html",
+      "sha256": "c1ad6b086cf1aebf1dded64f5a2107bf286b43e335e37060662a0b8814cd8e02"
+    },
+    {
+      "path": "archives/place/depar-ghanghro-stupa/index.html",
+      "sha256": "105bb76e24bd0c59d5047682da49a7e3323e81664ca3a7c78f4c23a5122c0383"
+    },
+    {
+      "path": "archives/place/dera-temple/index.html",
+      "sha256": "021888a2d28de7b78549a8efbbdf31d7aec531300b5a38813911743bd62b9dd3"
+    },
+    {
+      "path": "archives/place/derawar-fort/index.html",
+      "sha256": "03547c058719716566f4ec9654355e44e4eb1e0abc791092a04dc0b725fb7d42"
+    },
+    {
+      "path": "archives/place/devdas-temple-v/index.html",
+      "sha256": "133c0ed2d10463694f48cf660e00a25f32d2057502aa9ef72ee79b0e21564ed9"
+    },
+    {
+      "path": "archives/place/dhan-gali-fort/index.html",
+      "sha256": "28ee5ad5abf4e678be500e71d0dcb8098b5e14f7b04da7342f3847c5af88d5bb"
+    },
+    {
+      "path": "archives/place/dilazak-tomb/index.html",
+      "sha256": "a8d555b0b8d4151f9eb4e291d0e65a0c28c496d725a6f32cda57276411fb8895"
+    },
+    {
+      "path": "archives/place/dilip-kumar-house/index.html",
+      "sha256": "e12ea00d1763486cc0f06ceca8b6f204e434b35331f57c95466915d033ba0d49"
+    },
+    {
+      "path": "archives/place/dina-nath-well/index.html",
+      "sha256": "6e79b65ebbf70c56b7ee7f481407de87f6ef3772ffc0bd1e768d44f013de2df3"
+    },
+    {
+      "path": "archives/place/dongi-ratta-rock-cut-caves/index.html",
+      "sha256": "e6053870509b1ed55e53c3ed1f3888fc0e7e3975514138f1fdd3c62a8b3c8e5d"
+    },
+    {
+      "path": "archives/place/drugra-burj/index.html",
+      "sha256": "4effb0b61bcd9cfd39cf0760b5698cfb26fcb902f0732349be9076f9554bd4a1"
+    },
+    {
+      "path": "archives/place/dudyal-gakhar-mosque/index.html",
+      "sha256": "76c38f2895eb2b377a9fdbca1a3ae7f21101e722129aa71d5a7cad464f857492"
+    },
+    {
+      "path": "archives/place/dunga-gali-church/index.html",
+      "sha256": "01ca90c7c4593c8a38aa267d1b80f5b74925ba4c3281d52034fbf03f54aa6d02"
+    },
+    {
+      "path": "archives/place/dyal-singh-library/index.html",
+      "sha256": "2ac6fbd1ff08a19e8615d9677ee6aac1e6bd13bedb1872b648104038216119f7"
+    },
+    {
+      "path": "archives/place/ekka-ghund-caravanserai/index.html",
+      "sha256": "2d66f318020affd7f137fba4a0a34b7e5757e1c2250ea5fca916f5472155bf06"
+    },
+    {
+      "path": "archives/place/empress-market/index.html",
+      "sha256": "3e1a156b321232fa4413c73c0421177e86a3c1b3d23807a3aca8854a9713e122"
+    },
+    {
+      "path": "archives/place/faqir-khana-museum/index.html",
+      "sha256": "fe75b91d0cb41861a9a13fa3d55f8bee391b56a56af6c592daad2c73e01b7031"
+    },
+    {
+      "path": "archives/place/fort-and-shalamar-gardens-in-lahore/index.html",
+      "sha256": "7fd551f6ae09730a142461cfa1f52e9057fa0720ea99c80e8d2816447f9ece03"
+    },
+    {
+      "path": "archives/place/fort-of-the-nawab-of-tank/index.html",
+      "sha256": "3b0982d6e2f9279b8730d9510d80de48e65b48a78b1136a255afa05e9467d4e0"
+    },
+    {
+      "path": "archives/place/frere-hall/index.html",
+      "sha256": "fbd5463eeed78129c228abc88530172a8912d859648110630f57e0cb3321f5c7"
+    },
+    {
+      "path": "archives/place/frontier-house-abbottabad/index.html",
+      "sha256": "334510debeb2e5a51ed514fb9e7e9e9a2d0f674072982da1b55153af0405f5af"
+    },
+    {
+      "path": "archives/place/gagra-fort/index.html",
+      "sha256": "5a13046f025295811a8aa94946f550819133daa8c52ef20a2e5df833c85e5430"
+    },
+    {
+      "path": "archives/place/gahkuch-fort/index.html",
+      "sha256": "a7870f21b3d041a78656b13687a1864baf3af32c9a020294ac888721bdf6b010"
+    },
+    {
+      "path": "archives/place/gaji-khuawar-mosque/index.html",
+      "sha256": "7067274a04eed255767f2d035386d2b962c5f9e97402db4b1e6e42d085885151"
+    },
+    {
+      "path": "archives/place/gala-fort/index.html",
+      "sha256": "18f6aff929ba0f35d804482df7745feb6557da85ec2d3749432d1e7947c9d754"
+    },
+    {
+      "path": "archives/place/gandi-umar-khan-mosque/index.html",
+      "sha256": "46a262098e9991a55b6863320a6abbea3ee8c47544731489c04b50695ceba04c"
+    },
+    {
+      "path": "archives/place/ganweriwala/index.html",
+      "sha256": "54f33bc080bfb8e6b3d7fd74848745f222d2d14ee017165fb9c3ee8d97469fe3"
+    },
+    {
+      "path": "archives/place/garhi-habibullah-iron-bridge/index.html",
+      "sha256": "6ff9b02c9802124d6525166acc4de3cf81650be27ecf0435156a0d77bfdedf27"
+    },
+    {
+      "path": "archives/place/ghaibi-khan-chandio-graveyard/index.html",
+      "sha256": "10a0aa49de477111db7fa9758cb14c37e36e2ac51e81530eb7243a080dd2132c"
+    },
+    {
+      "path": "archives/place/ghanta-ghar-multan/index.html",
+      "sha256": "63b86ebef470596cc3b49a8eebe607f0d96ed5f26309cfdbf2ef14739dd729bf"
+    },
+    {
+      "path": "archives/place/ghorse-rock-carvings/index.html",
+      "sha256": "a2d7af456f2d882a5d37f8b10fe6ef37d2dbba5beebe17db00de0c23d668cbb9"
+    },
+    {
+      "path": "archives/place/ghulam-ali-shah-maktab/index.html",
+      "sha256": "bae1ef2702dd9587b92c63c5e60e1c3e2fcd2561e1aec84dfd5abf48fc93d5b2"
+    },
+    {
+      "path": "archives/place/ghulwating-mosque/index.html",
+      "sha256": "fb3af376d4f60d674e67fa953ed91b034dd179107993731d3a087cb9c69dd1be"
+    },
+    {
+      "path": "archives/place/gilani-chowk-temple/index.html",
+      "sha256": "d4ac00c7a3d7c36aa17c0fe89ff1e1954a10e071b93d4bbbd23073580fa51285"
+    },
+    {
+      "path": "archives/place/gol-rock-carvings/index.html",
+      "sha256": "a07347d08a44fb5360a871fe04fdfe2d36a747af8d7d110a7ae3d1c65ef45057"
+    },
+    {
+      "path": "archives/place/golra-railway-station/index.html",
+      "sha256": "f9f1dd85aa7ffcd0f78e840305986534b450235b48632cf58069c9d24b2f7099"
+    },
+    {
+      "path": "archives/place/golra-sharif-temple/index.html",
+      "sha256": "e0519e253bdf62085fcc1e4dfa3db6b9e51db8ed608fa390028019ffedc31a01"
+    },
+    {
+      "path": "archives/place/gor-khatri/index.html",
+      "sha256": "fa75ea3c79152220af31355b69afdf9e3259f1f65202c691fdde7a50bd4033f0"
+    },
+    {
+      "path": "archives/place/gori-temple/index.html",
+      "sha256": "251aa54e7795e76c1710ac65d213fc92abc886f35340f812e95fdfc7f5c812fa"
+    },
+    {
+      "path": "archives/place/governor-house-nathia-gali/index.html",
+      "sha256": "5e31ff091d4f7ca1a74c2c0ab761c825b1c0b52c9b84715d03bbd441c419cee0"
+    },
+    {
+      "path": "archives/place/grave-of-john-jacob/index.html",
+      "sha256": "e85a6afc47e6a2fdce542e1a95d6145aee9da718e566b1186fb46d2a69552e23"
+    },
+    {
+      "path": "archives/place/gujranwala-mounds-cholistan/index.html",
+      "sha256": "8e3d75b8c6868ab1e21bbbfb3f36b51998419df0328508652f120024d106cbd6"
+    },
+    {
+      "path": "archives/place/gul-imam-railway-station/index.html",
+      "sha256": "8c94f5c2592ac8d2d4aa9ebaff6219c53235e8c3f75c4ca46f540d55fd59e9e5"
+    },
+    {
+      "path": "archives/place/gulzar-mahal-chiniot/index.html",
+      "sha256": "75b27d4d1536639161afc3732b72b50d46384e8879fa3eb35194db95279ef101"
+    },
+    {
+      "path": "archives/place/gumtan-namal-valley/index.html",
+      "sha256": "a29e74169c9aa29c77738026404aa810dc059deed8418e4aa274726eef4d586d"
+    },
+    {
+      "path": "archives/place/gurdwara-choa-sahib/index.html",
+      "sha256": "6da171f321483a0b9b944276fc5751542e6041c8885c47cc0bfae6a1414bef9a"
+    },
+    {
+      "path": "archives/place/gurdwara-panja-sahib/index.html",
+      "sha256": "2490309fc866b431bdc1e27c15d43ea59ba53e210a549e598cff28fc72397bf6"
+    },
+    {
+      "path": "archives/place/hafiz-muhammad-hayat-shrine-complex/index.html",
+      "sha256": "168d2314bccaba21644572a543e8884426b61834ca9902b146ef853b5e74256b"
+    },
+    {
+      "path": "archives/place/hairo-khan-thul/index.html",
+      "sha256": "4217cae534030898c8dda0e0615ca60f6dfa0a8e6574d06b7d831822c9fdac6f"
+    },
+    {
+      "path": "archives/place/hajipur-temple/index.html",
+      "sha256": "65eeae7692c009fe9032fe557af7cb8f13112c2fae96ecfca4d09cccb0300ba4"
+    },
+    {
+      "path": "archives/place/hala-monuments/index.html",
+      "sha256": "775bca2920e385c912dd3992901af77013f970fb3f8028c50137c8ba01fd7ab6"
+    },
+    {
+      "path": "archives/place/haldi-rock-carvings/index.html",
+      "sha256": "899a961b4f6e06470aa345a0f2113924b737349115a3919c0645258d2ce4bc51"
+    },
+    {
+      "path": "archives/place/harappa/index.html",
+      "sha256": "28c6543795d9009c696612bb1d26a8be43b6ba0dc8d1cdbfb4929122a3286822"
+    },
+    {
+      "path": "archives/place/hari-mandir-hazro/index.html",
+      "sha256": "498c4d473f7843e94db9f998c7b381f70b6960ecee30327ff830acbb12983510"
+    },
+    {
+      "path": "archives/place/harian-haider-zai-mound/index.html",
+      "sha256": "a4d68f893903b89ab932886b1edcb38e1d7f7f9424364a806a5ab234cee44044"
+    },
+    {
+      "path": "archives/place/harrand-fort/index.html",
+      "sha256": "614723757fa17d5af43ebe2b9316d404319c7829ee047570f755f94a016e7c38"
+    },
+    {
+      "path": "archives/place/hatchi-khar/index.html",
+      "sha256": "72902142840bf9a03be0aa5e2e895e732c05d399bf8d437a531f62f9217d157b"
+    },
+    {
+      "path": "archives/place/hatun-inscriptions/index.html",
+      "sha256": "4a19e7f020fa5c194c2223f44dd71f7f609b8062078324f95414c341460a7a7f"
+    },
+    {
+      "path": "archives/place/haveli-sujan-singh/index.html",
+      "sha256": "37601cd21d4c091a58cecb079041a7e5edae11fde59912e602f95c81d73bb335"
+    },
+    {
+      "path": "archives/place/hazar-ganji-fort/index.html",
+      "sha256": "8b13dab1b0f23c7bf44853798f5c993c23429976dcf8acfdf0ebc1dc148bb43b"
+    },
+    {
+      "path": "archives/place/hindu-gymkhana/index.html",
+      "sha256": "a6efa5733b7b1726323cc50ed4f470e3b7169ced3e9c6dc112dc5ea5d41fbd45"
+    },
+    {
+      "path": "archives/place/hindu-temple-harnoli/index.html",
+      "sha256": "ae94d36dd1c43d4294cbf43ba21c3be64869a1d78090b8904bf9e05cd75a4149"
+    },
+    {
+      "path": "archives/place/hindu-temple-zafarwal/index.html",
+      "sha256": "a20b2c73731515da4ea16866134a613450119eb92e8c0b6838ea9ed7e556111e"
+    },
+    {
+      "path": "archives/place/hinglaj-mata-temple/index.html",
+      "sha256": "3760e06a5837c5946f2ae574f46944b8038bb4d208e177bbb7d984459c59507a"
+    },
+    {
+      "path": "archives/place/hinidan-tombs/index.html",
+      "sha256": "f55d756246370315455331d698d35302ee81b5810aea0685f7d6b6c227a7ea5b"
+    },
+    {
+      "path": "archives/place/hiran-minar/index.html",
+      "sha256": "5bf2f51fc62088e0dfc888fb62d0bd7f69df7d6efe4b0eff923021cd1da64567"
+    },
+    {
+      "path": "archives/place/historic-bhera/index.html",
+      "sha256": "138b38c5f2687c2ea56e672914f8b83deefa597c2beb9475677af1fcfc532eda"
+    },
+    {
+      "path": "archives/place/historic-church-talagang/index.html",
+      "sha256": "8c70e4415232bc494d918ac8d5b1b4f8ffc8e231fc2b2188d814106d962d0475"
+    },
+    {
+      "path": "archives/place/historic-grand-trunk-road-margalla-pass/index.html",
+      "sha256": "ccb867af4e9b2ba378fec846d36719ffb70f1e8cee1657ada6e27e691231f591"
+    },
+    {
+      "path": "archives/place/historic-haveli-lawa/index.html",
+      "sha256": "2cd4d8e34d71236b61f947f1c94c03205bc665720db8263c31a6d5f5e8daa5ef"
+    },
+    {
+      "path": "archives/place/historic-mosque-of-eminabad/index.html",
+      "sha256": "28fdaf27d892bfc89c75246ea0024c440d6c8f462c6b35099fc65bdc3da724ab"
+    },
+    {
+      "path": "archives/place/historic-murree-brewery-ruins/index.html",
+      "sha256": "17f6eb7d122f8206937ab4dc831746e0d0682939c0f3c1da023dfa8b3e452cf7"
+    },
+    {
+      "path": "archives/place/historical-monuments-at-makli-thatta/index.html",
+      "sha256": "27dc24532f4b9964673c15fb820c4bc4bcb8af2fb962b05eef6b9f827da88c23"
+    },
+    {
+      "path": "archives/place/hodar-rock-art/index.html",
+      "sha256": "c2a1428e4506498797b01b1c94e4ade46eb9857ac903509aae82e7432411b81f"
+    },
+    {
+      "path": "archives/place/holmstead-hall/index.html",
+      "sha256": "8078feeb8145719fd79b95d92da710ada0a1657318cfa4714f79d0931858e1ee"
+    },
+    {
+      "path": "archives/place/holy-trinity-church-karachi/index.html",
+      "sha256": "430e2febfc8dc709913f31ffed3824e1d8ac30ae91f14f594e3dbd9cafbebfde"
+    },
+    {
+      "path": "archives/place/hund-fort/index.html",
+      "sha256": "3ae6476118d75ee061cced4b8bfea45914ef783987f50c309b0f0db834cd5042"
+    },
+    {
+      "path": "archives/place/ibn-e-haroon-tomb-bela/index.html",
+      "sha256": "d628fd144c89745519f83ae371fb404dc79a8bf5d410ff73565fe4b80df84c58"
+    },
+    {
+      "path": "archives/place/irara-baoli/index.html",
+      "sha256": "3003bb8e197558757003f4354914ab1aed01476e570ea9ccf2e11b785894fbac"
+    },
+    {
+      "path": "archives/place/ishal-rock-art/index.html",
+      "sha256": "6534160fb5949bd36bad4320331f3640eadd13ac082345b3c7dd15fe074ba838"
+    },
+    {
+      "path": "archives/place/islamgarh-fort/index.html",
+      "sha256": "40098658a7c7af212f9ee7e30d1f2eaf35827929dde4bec741b13454850a243c"
+    },
+    {
+      "path": "archives/place/jahangirs-tomb/index.html",
+      "sha256": "78b0583d9aa046f631497057aabf36b3ee309ed93d49d3815fa5474ef8d50914"
+    },
+    {
+      "path": "archives/place/jam-bijar-fort/index.html",
+      "sha256": "94e44cbfffb61feb39bbb5b8db5f3abd6e1757fb13d25920c1b687c3516c5a04"
+    },
+    {
+      "path": "archives/place/jamgarh-fort/index.html",
+      "sha256": "16e92fa862d3bdc3b51fbfa777cf9b76c07bae23d4be91e2cf78c517258d0e13"
+    },
+    {
+      "path": "archives/place/jamia-masjid-al-farooque-rati/index.html",
+      "sha256": "74947026e8e98da95beedf54210852a17b1edee996f1511a6bce184dd6a944dd"
+    },
+    {
+      "path": "archives/place/jamia-mosque-bhera/index.html",
+      "sha256": "5ef884777b033ca6a32d6a57b88c8997499abb6588aac57b224c9f7f4a9a005e"
+    },
+    {
+      "path": "archives/place/jamia-mosque-khanpur-khan-garh/index.html",
+      "sha256": "72447ef6d9a464798fcd3608392eb14685783ce3203c3526c73f96805983ce67"
+    },
+    {
+      "path": "archives/place/jamrud-fort/index.html",
+      "sha256": "882f4203a96567bc3398ed6495e3d75419ffc9b8946a8a50bb3dc6b3358c87cb"
+    },
+    {
+      "path": "archives/place/jatgram-manri/index.html",
+      "sha256": "4b12347814c3c9847d71e841ac4764a207f4d11df96b16f5c7879f936f513463"
+    },
+    {
+      "path": "archives/place/javid-manzil/index.html",
+      "sha256": "aa5c2bc5315a968bd560e39625370a61b82e721f00f11e635d6a553d2ac18950"
+    },
+    {
+      "path": "archives/place/jhalawar-pass-fortification/index.html",
+      "sha256": "4c799205fb55c14953e364c679ba928c9966458009a92dc926e48cdb813f27bb"
+    },
+    {
+      "path": "archives/place/jhangra-sikh-temple-ii/index.html",
+      "sha256": "56d1364860bef8da20617591cb0201b907bf09e59c590f15df17a44c3e459c1d"
+    },
+    {
+      "path": "archives/place/johi-shiva-temple/index.html",
+      "sha256": "be5eea25c4794fa8ca576b5c393920807bee04906dbe6dcde664836d3a466cff"
+    },
+    {
+      "path": "archives/place/kaini-bayan-temple-complex/index.html",
+      "sha256": "805f0b3e51de1d613f2218b0056a26a9b8dc834ab7ae9b744cef661325226617"
+    },
+    {
+      "path": "archives/place/kalabagh-bridge/index.html",
+      "sha256": "3da8ad3d27d1733abde300a8d63e9d25ef11947665fdfe0f2029314133eb119b"
+    },
+    {
+      "path": "archives/place/kamango-rock-carvings/index.html",
+      "sha256": "673971b9c614d5f8f822c1f77a581e5dbd2b4a3825b6a877ada4205c363ca763"
+    },
+    {
+      "path": "archives/place/kandag-valley-stupas/index.html",
+      "sha256": "1ae5d828e6c980d368f7bda44fa8ec39f7cf82391b693a2fb5cd010118ec0452"
+    },
+    {
+      "path": "archives/place/kanro-qala/index.html",
+      "sha256": "3d968d74625eae3355d5a095789acc025eb2db5a2f4d0679aad87b78cf3205c7"
+    },
+    {
+      "path": "archives/place/kapoor-haveli-peshawar/index.html",
+      "sha256": "01dfadb2b573dbd794effe0bf493fcf8e23b544069c05010b4fac0fc0275a5dd"
+    },
+    {
+      "path": "archives/place/karachi-cantonment-railway-station/index.html",
+      "sha256": "1710dc20456f755b7c1b1ddf70d88f4f9cde6e3f55d61871065d5961eb764e42"
+    },
+    {
+      "path": "archives/place/karachi-port-trust-building/index.html",
+      "sha256": "03dae75008a53702fa8008ac85062bf41760f4b185da2072b719951f48b1667e"
+    },
+    {
+      "path": "archives/place/karchai-fort/index.html",
+      "sha256": "ab59c85a151a1e6e0c62d52ab46b95b175a52d70ed41f0561910e2d378fbfc14"
+    },
+    {
+      "path": "archives/place/kargah-buddha/index.html",
+      "sha256": "08ed1fd52804aa8525d34a42c19f9fff868bce48e2eef6179e8365e75ce16708"
+    },
+    {
+      "path": "archives/place/karis-rock-carvings/index.html",
+      "sha256": "ee8cecb614088ee30d045171570bb109f8a55e358762510bbfc17b67c5bb9e10"
+    },
+    {
+      "path": "archives/place/karyali-3/index.html",
+      "sha256": "7af2cd45a80b8fe1727d4e371abc0ee116bc5f1f821f71beeab7a40d2e696a15"
+    },
+    {
+      "path": "archives/place/katas-raj-temples/index.html",
+      "sha256": "84c1b164f190af04658171cbcb86cd4bf6b5f46fa967741498692311441343ff"
+    },
+    {
+      "path": "archives/place/katcha-qila-hyderabad/index.html",
+      "sha256": "1813dc22e455ecbdeee7cce3abdaaca2f38982c4263ad8970e416f14237660f2"
+    },
+    {
+      "path": "archives/place/keris-astana-complex/index.html",
+      "sha256": "a24ce526669fdc97a260b414dc5e8b34d26a594dc0a2998722fd2f94f54c358f"
+    },
+    {
+      "path": "archives/place/khagrol-parishing-rako/index.html",
+      "sha256": "8cc4d9b0f80b751e1ed135c5fa543d2a37e8cd53e5e2d006eed8f8164515fdea"
+    },
+    {
+      "path": "archives/place/khairgarh-fort/index.html",
+      "sha256": "b759048fa854cf8428f8fa7abbfbc6cdffd19297b5709189b7d78980b4db6b31"
+    },
+    {
+      "path": "archives/place/khalath-archaeological-site/index.html",
+      "sha256": "97eb9cc93891a4872a54e115b5eb91368825ea3142504972a6c778d6689a244c"
+    },
+    {
+      "path": "archives/place/khalid-walid-tomb/index.html",
+      "sha256": "4de89924ec9549df27444d538118d20a5709188b48515f071eec04fdce235d47"
+    },
+    {
+      "path": "archives/place/khaliq-dina-hall-and-library/index.html",
+      "sha256": "24b06436497b2e69faa8f5378307e0797126f1684f159ab069a99c6fe950b819"
+    },
+    {
+      "path": "archives/place/khalti-rock-carvings/index.html",
+      "sha256": "5b308da8150a4a8b022fb22fd0d0759bfdee3066abd74bc93ad61552721f7add"
+    },
+    {
+      "path": "archives/place/khami-kot-mosque/index.html",
+      "sha256": "027851d0bfaecd867ea4fc369954737103e0923ed6b723c7a35261bbda49800d"
+    },
+    {
+      "path": "archives/place/khanqah-e-moallah-hashupi/index.html",
+      "sha256": "bea11a2d5c8fc71adb8fa778fde0546c4dc2c8ccdcdd30b4b84e538cbb6ae66a"
+    },
+    {
+      "path": "archives/place/khanqah-e-moallah-hushe/index.html",
+      "sha256": "8f9125271890c56d3e494455730589a6109963c79c594105d1bf5959d1c464a3"
+    },
+    {
+      "path": "archives/place/khanqah-e-moallah-keris/index.html",
+      "sha256": "c597ca4b76797719fcb838a985c26a60a7b4e6f71a3e13789483d2718db1e9cc"
+    },
+    {
+      "path": "archives/place/khanqah-e-moallah-kharkoo/index.html",
+      "sha256": "a0ea6f9dfe9ff5f31e5064121050a2eb06a56f1b95fa7783b3bfdc83f4eb34f9"
+    },
+    {
+      "path": "archives/place/khanqah-e-moallah-tsino/index.html",
+      "sha256": "928e2efddfdb8f348b6bab1cd9ef5f3dfbbe53ccdb04ad4ffa5539303b6e810c"
+    },
+    {
+      "path": "archives/place/khaplu-fort-palace/index.html",
+      "sha256": "061ae2cee7f6a17fb0c40dd10633e0fc886130cd64d8b31424d115f3e7d249d2"
+    },
+    {
+      "path": "archives/place/khaplu-polo-ground/index.html",
+      "sha256": "1e016796e29ecd7cb37e6586d7d1a0b1ec0800eab14711a6b9d7177465c17103"
+    },
+    {
+      "path": "archives/place/kharfaq-rock-carvings/index.html",
+      "sha256": "12f61688ba63a1c32e45f5ed8855ef5c0a983ac4f8aa43f5e63e96e3edf5d019"
+    },
+    {
+      "path": "archives/place/kharmang-fort-boti-khar/index.html",
+      "sha256": "e6b8d9cff0d46244ff00846063150850c5cb59c8432b1df3cb1d7490458f481f"
+    },
+    {
+      "path": "archives/place/kharpocho-fort/index.html",
+      "sha256": "bbdd8d26d5bd01a88269ff4d5984afc305bcf301a12fc1d2ab4962d255298a5a"
+    },
+    {
+      "path": "archives/place/khat-wari-mandir/index.html",
+      "sha256": "b3e6027868fe9157b598174bc9170592f17ea0246ab5f5485d5edf9cd1302b62"
+    },
+    {
+      "path": "archives/place/khazano-sar-settlement/index.html",
+      "sha256": "72728559e3769b47936cc641ea90352711cb3715427aa06679252025de83bbf9"
+    },
+    {
+      "path": "archives/place/khem-singh-bedi-haveli/index.html",
+      "sha256": "11c35ea2db29e69435bf68f606ba5a328f45f70550bb69105661c9bd7879223e"
+    },
+    {
+      "path": "archives/place/kho-temple/index.html",
+      "sha256": "e7cc431e6e0fb7e94b59a92cb875be9605b50a4c1d7c62d922de39e497785e0a"
+    },
+    {
+      "path": "archives/place/khoi-kotli-saulan-rock-cut-sanctuaries/index.html",
+      "sha256": "14e49396a15dba12421abbcce89dde5dba3049c963bec149c161874ed9e8369a"
+    },
+    {
+      "path": "archives/place/khojak-railway-tunnel/index.html",
+      "sha256": "0d5d98229cb8852b48cb463bda9c3c1529fe119a69f15fade35eb06062a76708"
+    },
+    {
+      "path": "archives/place/khudabad-jamia-mosque/index.html",
+      "sha256": "d054727e83193b989b4f934e78b2887a5348bd19b1490fef0f09a22ac629b6fa"
+    },
+    {
+      "path": "archives/place/khura-baoli/index.html",
+      "sha256": "e91f85c50e65623fe13adab2fda20b2444946765478138a3acb08e5af84892b2"
+    },
+    {
+      "path": "archives/place/killi-gul-mohammad/index.html",
+      "sha256": "abc842a8599e2d7ceaec88f4970a777b17599854326038c24635e4b76db0eefc"
+    },
+    {
+      "path": "archives/place/killi-gul-muhammad-mound-no-1/index.html",
+      "sha256": "4c2c50b585182bf7822ef9b6f4f1a9fae6b7f77b6b49c70d81e602ded5a9a1d5"
+    },
+    {
+      "path": "archives/place/kirarh-ji-mosque/index.html",
+      "sha256": "5d216b1c27f0c06c33e065dc932b163e662830a0159aae54f7515d2ade0e3a6c"
+    },
+    {
+      "path": "archives/place/kitkot-larkalay-mosque/index.html",
+      "sha256": "d63cea94b9b4e7b9fdff79fbc27d27ee465fed4932c5bfc9e78795476c7b84ee"
+    },
+    {
+      "path": "archives/place/koi-kotli-saula-cup-marks/index.html",
+      "sha256": "47faae2e6947ae13b4df8b2555cf5f085ef9125bf1fc569e6ca77923735dedda"
+    },
+    {
+      "path": "archives/place/kot-diji-fort/index.html",
+      "sha256": "99d65b2e2caf0252c4c1b8942f624997a206036a3f3fa9d2c6436fcbee5644a3"
+    },
+    {
+      "path": "archives/place/kot-mahoi-wala-fort/index.html",
+      "sha256": "7d52dfd0d0fcfe94df427108cd977f8bb7d4736d97bc903c67141f035c5d43e1"
+    },
+    {
+      "path": "archives/place/kot-mirpur-buro/index.html",
+      "sha256": "3420217f6841321f419be27c8b0c3fe9fea96748911ad18b019ea80638d1347a"
+    },
+    {
+      "path": "archives/place/kot-raja-manjera-gujjo/index.html",
+      "sha256": "1ac71020f83c9df24c737ca2ea41c17397c8abb09a0a7b08b965f50936943585"
+    },
+    {
+      "path": "archives/place/kot-sirini/index.html",
+      "sha256": "32fa4e054d90d9a712629738611d4346b3ea6ec50019c9ce98e79e2119d4ae38"
+    },
+    {
+      "path": "archives/place/kotkai-dherai/index.html",
+      "sha256": "0fac0131b5699837138f69bc9cfb05adc269a2835fcde04c6be33720f25d7d67"
+    },
+    {
+      "path": "archives/place/koto-manzary/index.html",
+      "sha256": "2ff936e898c3e1148ba8263f1c464e442cf154420b2b03df0ac8f6d420d5ba21"
+    },
+    {
+      "path": "archives/place/kotri-kabir-jamia-mosque/index.html",
+      "sha256": "28e5052ba7c50cd3bb1ef3d763dba93d02b19866af7a98e8806d8f6fc8c42f28"
+    },
+    {
+      "path": "archives/place/kuchlak-mound-no-7/index.html",
+      "sha256": "374154520b20cbe35dab49aae5ed83b44ddcca7f3e75614b5aa79500d6d37e48"
+    },
+    {
+      "path": "archives/place/kundichar-buddhist-site/index.html",
+      "sha256": "287c51d51e8e2aeb83862e0e0df272176ae8456b0008f604a60d898fdaa341ae"
+    },
+    {
+      "path": "archives/place/kuri-archaeological-mound/index.html",
+      "sha256": "ea0a445a7796e1065bfa58d67fb7db3ce33ae7518a827c19d331ea834db8d656"
+    },
+    {
+      "path": "archives/place/kuri-baradari/index.html",
+      "sha256": "54f5da2875c9e0aac5dec12d8c2826e084763cb30c8273a0837ac0f354649f3a"
+    },
+    {
+      "path": "archives/place/kuri-jamia-mosque/index.html",
+      "sha256": "9618eebc8ad188a3e328d3e02afaa94e3d1e369da2b1aa0a2a4f9fc74b3d9ac4"
+    },
+    {
+      "path": "archives/place/kushiani-bheak-baoli/index.html",
+      "sha256": "7923fa69c839740ea6989b96d4f4b9704331a0d5a886639798e8bff1d2bfad1c"
+    },
+    {
+      "path": "archives/place/lahore-general-post-office/index.html",
+      "sha256": "866f3f9390aa5d7c1aa4c09a8c100f0f06a761c02650f9a9d52c77d2cd6547f1"
+    },
+    {
+      "path": "archives/place/lahore-museum-and-national-college-of-arts/index.html",
+      "sha256": "0d0bf87a0698986456bf5130da839374dc18148f9187c6b946b534026d9eb401"
+    },
+    {
+      "path": "archives/place/lahore-railway-station/index.html",
+      "sha256": "de0dd2d1b2132a05e9b46dea074bda7a05ef312d329ba867d4c27b8b4c90ea83"
+    },
+    {
+      "path": "archives/place/lahore-town-hall/index.html",
+      "sha256": "2cc168c1430b04dda0735883e12c483595cf7315cf5095d5f6e9047090a35bbd"
+    },
+    {
+      "path": "archives/place/lakho-shaikh-graveyard/index.html",
+      "sha256": "af67b8de58c782828e36b66011527fcc16d2a71453ea91cf3cce4afabe2dc8a5"
+    },
+    {
+      "path": "archives/place/lakshmi-building/index.html",
+      "sha256": "d27e827fb389ec41ef8b48293699cbd1008e03407945bff2a8707a7a3d90db4f"
+    },
+    {
+      "path": "archives/place/lal-mahra-sharif-tombs/index.html",
+      "sha256": "864ee7ecc56b5bdf8d1aa7a7611bc153c8b7290ad445b2640c753c249d27d1f2"
+    },
+    {
+      "path": "archives/place/lamsa-rock-carvings/index.html",
+      "sha256": "c316b6963de6c2b6c57147f82a8dd50a1768b8c2d9e7dc070d24fe7d80932c43"
+    },
+    {
+      "path": "archives/place/lansdowne-bridge/index.html",
+      "sha256": "20058dcb86fc37f4b50bad96e8e33ff258edd2518cd0bec35ebfd13615b25763"
+    },
+    {
+      "path": "archives/place/lashno-kot-mosque/index.html",
+      "sha256": "7ed861720f4db7c90c0f92ab14f45fe3c2cabbcef7a428ce19d40ac7d49fb40e"
+    },
+    {
+      "path": "archives/place/loi-saiban-jamia-mosque/index.html",
+      "sha256": "bec4cadf771ab09e624562952fbaa6c6d510cba9366efae88be0f4bae5806892"
+    },
+    {
+      "path": "archives/place/loni-kot-remains/index.html",
+      "sha256": "0b6e4b7d7355b5b7afb5a5a0ed53c55046c05a3d41db1801e6389962d1479d14"
+    },
+    {
+      "path": "archives/place/luari-sharif-shrine-complex/index.html",
+      "sha256": "b073a5265e3a95dd4834c546ca6fc639582821d0609e44e5235e17c4e481f242"
+    },
+    {
+      "path": "archives/place/maera-khet/index.html",
+      "sha256": "237eac3ff43e62747dfd15bcc36d6ba2dcff4fd2ea6c1a2c385484c9c44a705a"
+    },
+    {
+      "path": "archives/place/mahabat-khan-mosque/index.html",
+      "sha256": "19c788da5df07aa6efb2197bb197f115727b616a923dc8561f1bfe6989747123"
+    },
+    {
+      "path": "archives/place/mahan-singh-samadhi/index.html",
+      "sha256": "b2277e534f61615d84ffd9d5221201c2e87c02b4ec961eb22b576c869744f8a5"
+    },
+    {
+      "path": "archives/place/mahmood-kot-fort/index.html",
+      "sha256": "d38d294ceee6513a5e480cf30603b5d2bfc6011c02740a34cc4feacd837984e5"
+    },
+    {
+      "path": "archives/place/mai-khairi-mosque/index.html",
+      "sha256": "557766a160192fd94f12f8a7889ce31052ad94b8623676f84320b4fa8347c20b"
+    },
+    {
+      "path": "archives/place/mai-moran-mosque/index.html",
+      "sha256": "7ab0d34f4d37f8ef01d7f9421f335484ab5f00ac4662069613e5693472060d62"
+    },
+    {
+      "path": "archives/place/malaka-stupa/index.html",
+      "sha256": "d23315e1ca4407a6939d2904e3ec505931773e8ef48c279a5c9e677e714676cf"
+    },
+    {
+      "path": "archives/place/malamjaba-stupa-and-monastery/index.html",
+      "sha256": "e24f3d9b8cb6bb86a43ad2ffc26523815934b0fae6f44f2d5508b24c668867bb"
+    },
+    {
+      "path": "archives/place/malot-temple/index.html",
+      "sha256": "9644527709433d53796d45371012a5ab7cea7b3b45ca6ab259897de8d9e3c43a"
+    },
+    {
+      "path": "archives/place/malpur-archaeological-mound/index.html",
+      "sha256": "6df4a9cdacd80fa52e9bef4e875961935995d088d395636344fbb47e222caa5c"
+    },
+    {
+      "path": "archives/place/mangho-pir-shrine/index.html",
+      "sha256": "77538ad9273584ff3bf6fb58000e5e0e86277ade569770d758bc263e8e41af0e"
+    },
+    {
+      "path": "archives/place/mangla-fort/index.html",
+      "sha256": "047e368e10f508f5878a49d3278619195ca09b2d59c37409603f6670eb0bfca1"
+    },
+    {
+      "path": "archives/place/manjeera-raja-mound/index.html",
+      "sha256": "7a15dfffc8f93c1951d3ec4f5184b2f7a5ee7868e4608968fb986a3c958c3b1c"
+    },
+    {
+      "path": "archives/place/mansehra-rock-edicts/index.html",
+      "sha256": "de736faf27e45e8071464d1f70c705602dff380e927a8f8a6e144a417e0ddecf"
+    },
+    {
+      "path": "archives/place/manthal-rock-buddha/index.html",
+      "sha256": "0def775af37e3794d075ab211cd0b2cbfcfa25ca1ad977e00dce6838b9d7f9ea"
+    },
+    {
+      "path": "archives/place/manzary-tall/index.html",
+      "sha256": "0de2a4c794b5dc6d42bc2b3f62fa8a029c88ee9fae35f19d4a319a5304594d00"
+    },
+    {
+      "path": "archives/place/maqbara-joiwan-da/index.html",
+      "sha256": "ae5a9e7cf0842594839fe10316b1dc9842f1112d50b27f4912c3d96478fef3b3"
+    },
+    {
+      "path": "archives/place/marhi-of-baba-dhyghana-singh/index.html",
+      "sha256": "3b5834ed0e06e283b5cb7c206fda656565447168240c01239e25423a2aa43a8e"
+    },
+    {
+      "path": "archives/place/mariam-zamani-mosque/index.html",
+      "sha256": "943373227845e851ad0af2747c35f61869e17a6ddc4521feb48817ed0f9b85e8"
+    },
+    {
+      "path": "archives/place/markazi-eidgah-pasrur/index.html",
+      "sha256": "2089846477d7b5cafaee49f8de0a204a59a50aa4029f45f7769fe8b22edda258"
+    },
+    {
+      "path": "archives/place/marot-fort/index.html",
+      "sha256": "9e7c24738a7f835d21e1d61010571fe10ffe6052355bd1626a2764fcbb195307"
+    },
+    {
+      "path": "archives/place/masant-haveli/index.html",
+      "sha256": "4c1f1a526f7c8697483e0fc692c4e14a438b7e0d3eb849e80dfe1cc4137da576"
+    },
+    {
+      "path": "archives/place/mastung-fort/index.html",
+      "sha256": "bb4349dd3ab6a623fc05717720dbc5e9f500a9364eb10d5439a75a9fe40d3b49"
+    },
+    {
+      "path": "archives/place/matrani-temple/index.html",
+      "sha256": "283e673786cd3a8825bd80c75335c56db804981e74f13fcc2b699ef4d1449162"
+    },
+    {
+      "path": "archives/place/mausoleum-of-daud-bandagi-shergarh/index.html",
+      "sha256": "f625ca83a2d4f23cbacec0cdac69b464d5838614df85aa8face69baab479ec35"
+    },
+    {
+      "path": "archives/place/mazar-bhurgri-thul/index.html",
+      "sha256": "7c059a6e20aa73a3a32bac5f2fc3bee9610a2ee9d176765e92e8678e4f57ab6b"
+    },
+    {
+      "path": "archives/place/mazar-e-quaid/index.html",
+      "sha256": "561dc757efcc78cc0618f232cb7fc21aad9a3d9c719eaf1b428f7a110c4f7861"
+    },
+    {
+      "path": "archives/place/meharabad-historic-pond/index.html",
+      "sha256": "709b852ea7b2c183e01cf83302b612233f449c4c7133c39c85d30df1e4d653a3"
+    },
+    {
+      "path": "archives/place/mehdiabad-petroglyphs-and-inscription/index.html",
+      "sha256": "3c0e2a3d2fb1a553ca3b23b7f9d428cedc8d166610bf85cbcb200fbc94d10cdb"
+    },
+    {
+      "path": "archives/place/meher-ali-shah-shrine/index.html",
+      "sha256": "fd752e05c737d94ccb1a4013eae7ccc12a1fae9c414ba1772d22ac80599de54c"
+    },
+    {
+      "path": "archives/place/mehr-manzoor-wala-6/index.html",
+      "sha256": "15546ea07bbe8ca47661f204edec9a4fb7e501408c688bffdb186afe71c4c16f"
+    },
+    {
+      "path": "archives/place/mehrgarh/index.html",
+      "sha256": "7cde2aa35f005833175d6748efbd14b69a14343a4255b88e0be5a7f5dd507067"
+    },
+    {
+      "path": "archives/place/mehtar-zai-mound-no-9/index.html",
+      "sha256": "d5d3644e7e29fbdfc5bd2bdf771985ec9f8db5fdb94c1edba07f461c6dc8e368"
+    },
+    {
+      "path": "archives/place/mekha-sanda/index.html",
+      "sha256": "cf9246af187599eaf14efe0bf9735bd66023dfc5c3f36961fd5e334688840fba"
+    },
+    {
+      "path": "archives/place/merewether-clock-tower/index.html",
+      "sha256": "54866c9aff92d887c520a5887d54e18f7284eb22c1f01b5c7b421341e34548f8"
+    },
+    {
+      "path": "archives/place/merewether-pavilion-shikarpur/index.html",
+      "sha256": "234f66de655a7f16eb79193c0aa304c7cdff4479aab8a5ccd20c829198175a3f"
+    },
+    {
+      "path": "archives/place/mian-ali-faqiran-archaeological-mound/index.html",
+      "sha256": "e04a85275cb7ecf3cf37711be4169c620616d1e974182118aa84b52eb5f1d495"
+    },
+    {
+      "path": "archives/place/mian-jan-muhammad-tomb/index.html",
+      "sha256": "d0c95071991cdce410627b59bb5390085bf8e1e978db2a876dd038cc82c3cc67"
+    },
+    {
+      "path": "archives/place/mian-muhammad-umar-mosque-and-tomb/index.html",
+      "sha256": "aee9386a517eada9f372a1f1002f8fa8c2c3da436db77acf1011619acab95792"
+    },
+    {
+      "path": "archives/place/mian-shahal-muhammad-tomb/index.html",
+      "sha256": "7664343509fbcc5d1f5e4bc3a5ad8db1b565f970a1762cf8f14a9322016a1e20"
+    },
+    {
+      "path": "archives/place/mir-chakar-fort-sibi/index.html",
+      "sha256": "17bd2e0b2b21d2d9f61d5d673508cd15a739eee3b233aa51c2254f5bf0358be5"
+    },
+    {
+      "path": "archives/place/mir-chakars-tomb/index.html",
+      "sha256": "e37ec30008fdf49d1caa2b28ff36dc6892d9f691fb6ced2f221a467872a927ef"
+    },
+    {
+      "path": "archives/place/mir-fateh-ali-khan-talpur-mosque/index.html",
+      "sha256": "2c65c35cf678bc99c3e8bbb57e9c3381b712487d6665eb782aaa30923a4d7dfe"
+    },
+    {
+      "path": "archives/place/mir-ghulam-ali-khan-talpur-palace/index.html",
+      "sha256": "900fcdc065349202b9936d04a34af9eab73d9c02a6f5b203999ca0d236443814"
+    },
+    {
+      "path": "archives/place/mir-masums-minaret-and-tomb/index.html",
+      "sha256": "baf4b217bfc2b255a3aec5b0c68d61997a9be99c99ed8f11e1290b4c60286c8f"
+    },
+    {
+      "path": "archives/place/mir-muhammad-astana-khaplu/index.html",
+      "sha256": "aa95fd7f50a1357ef622b9faea7745a2a0a2f24f366ae9b81c691ff49f90eab0"
+    },
+    {
+      "path": "archives/place/mir-qabar-ziarat-stupa/index.html",
+      "sha256": "4899f8fa5187bc559a84353f9d1782db382f68545fd1f36ae581eb695596a7cb"
+    },
+    {
+      "path": "archives/place/mir-shahdad-funerary-ensemble/index.html",
+      "sha256": "02f1ef9e81510708ef9de4d65504ccf43d84ac7310f6dfd48cf9927a474a2c3c"
+    },
+    {
+      "path": "archives/place/miran-ji-dedhi-bungalow/index.html",
+      "sha256": "d8620922b12eeb6e20101752dd64ada8d06511c2d1f750671cceda1847413442"
+    },
+    {
+      "path": "archives/place/mirgarh-fort/index.html",
+      "sha256": "f0c02568ecfca26dafac5fafc612158e5ff9b371ee6bb956f1aaac26bae6c5ff"
+    },
+    {
+      "path": "archives/place/miskeen-shah-palace/index.html",
+      "sha256": "4e540d161684082d6db79650f85797bd5d09f53f890918adf10958b3dbf35f6a"
+    },
+    {
+      "path": "archives/place/mohatta-palace/index.html",
+      "sha256": "edbaef2b447c0202d6cc7f8096b0f2934012b3a1ae764116ffc23f1817f5c172"
+    },
+    {
+      "path": "archives/place/mohrian-historic-well/index.html",
+      "sha256": "6491e4df3a304270b54c827b36c61ff6a1310db06ca3356b95769737158d2348"
+    },
+    {
+      "path": "archives/place/mohrian-rock-shelter/index.html",
+      "sha256": "2e0e4255d5dfca583cd60763abb7fac244ffdaf8dc22c7638f4ce2d91fc07236"
+    },
+    {
+      "path": "archives/place/mojgarh-fort/index.html",
+      "sha256": "b9312ef4462359ed45a7de7856eefebe3673564a773b6d5f3d0e95ae487eaaa9"
+    },
+    {
+      "path": "archives/place/moongrong-mosque/index.html",
+      "sha256": "988b13f8068c932f2f760c4256d87b0bd8ccb4799bcde3b653cc886238b4082e"
+    },
+    {
+      "path": "archives/place/morio-leghari-archaeological-site/index.html",
+      "sha256": "b40325520cd4f75ed315706aacce66198684b48a885a3cc18c2d02bb1230e010"
+    },
+    {
+      "path": "archives/place/morka-lashti-rock-carvings/index.html",
+      "sha256": "74f845edba62d203b481c10978ab51179c378a38cc05249bf8a874b522a230d7"
+    },
+    {
+      "path": "archives/place/mosque-and-baoli-jandiala-sher-khan/index.html",
+      "sha256": "d59940a544e0bcb5137f709f310374561e99e3b17b8c3aec65a92bf963e59415"
+    },
+    {
+      "path": "archives/place/mosque-of-faqir-nizam-ud-din/index.html",
+      "sha256": "4651312f7388a02b01d1a8aec00704a10701ad1428722772bd323e47bef4026d"
+    },
+    {
+      "path": "archives/place/mosque-of-tahir-khan-nahar/index.html",
+      "sha256": "1baa516517e7d31a3c703759c8d747dc5d1d28a364c7537a0877ab00e99bd615"
+    },
+    {
+      "path": "archives/place/mudoori-fort-yasin/index.html",
+      "sha256": "eb444cd6922f1621ddec93cb0e28cf931174164e0eafa805166deeee184aeb2e"
+    },
+    {
+      "path": "archives/place/mughal-mosque-at-kaka-sahib/index.html",
+      "sha256": "ddd44851cf6c7cbc4ff2f0927113392dc372d9f3b048e76d8afa81d4144fd6c0"
+    },
+    {
+      "path": "archives/place/mughal-mosque-bhimber/index.html",
+      "sha256": "064a7a2768b987669d57ae2b663750d990feb8fa7084e868542345646e7db570"
+    },
+    {
+      "path": "archives/place/mughal-mosque-khar/index.html",
+      "sha256": "020ab80ce76f3b46dca719ce911410a6850aadd0bd6798b87496fce0bea94c54"
+    },
+    {
+      "path": "archives/place/mukhi-mahal/index.html",
+      "sha256": "11f4398a1ff395cb23efe348861ad9ac477a1483a07881c0c432224c0c456f8f"
+    },
+    {
+      "path": "archives/place/mula-dhurbeen-mosque/index.html",
+      "sha256": "f1ed063dc692340e3153918f03faf4a56bd65c7e102d2c6c852cd40a5b2ed8f5"
+    },
+    {
+      "path": "archives/place/murti-hill/index.html",
+      "sha256": "2c17600751ece754a24fecd8bc094d47c57828435605632621dd8c19720274a6"
+    },
+    {
+      "path": "archives/place/musazai-mosque/index.html",
+      "sha256": "5740c5a8273c5fd54d984156e56ff439199c2a83a789021e75454544db85ecda"
+    },
+    {
+      "path": "archives/place/mustuj-fort/index.html",
+      "sha256": "a62277bfec847cdb82e906b40e2ba477b8b044e8f7a28ffb202d31cbee4eeaca"
+    },
+    {
+      "path": "archives/place/nakhtar-mosque/index.html",
+      "sha256": "fe31932585f9d5681bb4d817ef23dc6914f4a317bd27a7e8ca627365c12d3f42"
+    },
+    {
+      "path": "archives/place/nala-baoli/index.html",
+      "sha256": "a03e504d82fa1a8ed8a1efefa10573b3031efbfc160116be9b25845fe9b8cbb1"
+    },
+    {
+      "path": "archives/place/nandana-fort-and-temple-remains/index.html",
+      "sha256": "8aae8e09efe9f7e2810eebb43d3f1493dad239dfb6a55c42205ea63853583f34"
+    },
+    {
+      "path": "archives/place/nau-nihal-singh-haveli/index.html",
+      "sha256": "e87b1373bdcadff84dcae6e95919700a4836377513dd28c5bb55d8ea540f11da"
+    },
+    {
+      "path": "archives/place/nauhisar-mound-no-11/index.html",
+      "sha256": "ab0e76ed88fcaae4a56fb7e5e5ee319cd47321fb07b05e5f8a509b470ba53ac0"
+    },
+    {
+      "path": "archives/place/naukot-fort/index.html",
+      "sha256": "2f59465a094c6ea6202a8c9182d847891ae35380f4cdefce207e652c06e8ab99"
+    },
+    {
+      "path": "archives/place/nausharo/index.html",
+      "sha256": "9eb491fb3a39ed912ff2fcdb8cd7eb78328ca27f9f6974854da790cb4c96c237"
+    },
+    {
+      "path": "archives/place/navel-rai-market-clock-tower/index.html",
+      "sha256": "6d121facf899c7c9550ce2b0faea3630ada4f9d9ece7f5feadfbf5d6021377c9"
+    },
+    {
+      "path": "archives/place/nawab-amir-khan-mosque/index.html",
+      "sha256": "1ea446b6e8d9c99e25445f22d54ef0be25da62ef0aecfaddfef52ac88e8c97bb"
+    },
+    {
+      "path": "archives/place/nawab-rasheed-khan-tomb/index.html",
+      "sha256": "005a802034be30c32c3ae0aaf8ce3ae6cceb7ac23bcdb39568fde8d72461fc90"
+    },
+    {
+      "path": "archives/place/nawab-said-khan-tomb/index.html",
+      "sha256": "22f250a96dcf7b7de824a3ab4c6352c99d1a261a337af3e4b95f3207bbdef466"
+    },
+    {
+      "path": "archives/place/nilt-fort-site/index.html",
+      "sha256": "d36b7b334a1a505c1e987e413fba9aa89f54f9d7b18f8e7e147129e826cb4489"
+    },
+    {
+      "path": "archives/place/nindowari/index.html",
+      "sha256": "ec05c5aa8dfa8b6a3852663d27ac83a6c2bdb6a78a33bcb1b3cd565ae5959681"
+    },
+    {
+      "path": "archives/place/nirano-tower/index.html",
+      "sha256": "a40c803e09a97e7b81a1a4a837947ef469877efad5531b8460f7fe87f5d0e17a"
+    },
+    {
+      "path": "archives/place/nizamabad-baoli/index.html",
+      "sha256": "265b9c7ffb30f12e206e6ee0694111f1cbd425dff7019f0d5d410d33e9ebb35f"
+    },
+    {
+      "path": "archives/place/noh-yasin-rock-carvings/index.html",
+      "sha256": "8c6e906bb2f3b144fb3206d7518a76dbfbf673bc2a3b1f670222c9e5acc63ec9"
+    },
+    {
+      "path": "archives/place/nokot-jamia-mosque/index.html",
+      "sha256": "3980654e86634a817607e2b14b1b3458c800ad7578fed34fdc3097f4c7c8134e"
+    },
+    {
+      "path": "archives/place/noor-mahal/index.html",
+      "sha256": "205c14aaa44b2cca046353d2aba787582d2983b67efd38a169cadbb3b1b9dd51"
+    },
+    {
+      "path": "archives/place/old-city-of-badin/index.html",
+      "sha256": "79685609603d1455be4426938604425cdded80587c7166c9de4cc6a7b8258459"
+    },
+    {
+      "path": "archives/place/old-fort-naghar/index.html",
+      "sha256": "88c988765b285ac6bca6ef772266119b6030844f6ef9f4afad0fee5b38c6107d"
+    },
+    {
+      "path": "archives/place/old-police-station-seerani/index.html",
+      "sha256": "5e890f8e4133cee06f6e724d6d8316051d8517d1a0978f109794a4c687218732"
+    },
+    {
+      "path": "archives/place/omani-fort-gwadar/index.html",
+      "sha256": "4b3c66b9db7d0353be2e5b1e02b26997fae66bb8538fffaede706976e2c833a7"
+    },
+    {
+      "path": "archives/place/owin-fort/index.html",
+      "sha256": "0db735c37ab6fa09bd215f56897703f51f4848a089d4372a94a1d8f0ecaa5a59"
+    },
+    {
+      "path": "archives/place/padshah-kotkai/index.html",
+      "sha256": "18c3a7a857682948069c6b8c003541eee9bbb84ef40eb1869ac27cfe76b097cc"
+    },
+    {
+      "path": "archives/place/pakka-gurdwara-guru-nanak/index.html",
+      "sha256": "d146b68aaf196a19a569923d48257f9fd340735829dec99c7ee957b84cfa1e5a"
+    },
+    {
+      "path": "archives/place/palosi-piran-complex/index.html",
+      "sha256": "5dc17da400ab122b2fedd55c235350db786a634322a0b3ff74385c6d5ad327ce"
+    },
+    {
+      "path": "archives/place/pande-rock-carvings/index.html",
+      "sha256": "8aae6df062186fab1f79a5bd157e244592ddef60e4d8eceb6e07d6faf3616ef4"
+    },
+    {
+      "path": "archives/place/panthal-rock-shelter/index.html",
+      "sha256": "f14a440b7229c5bba38cad3c5805d4f420e9ee6a880876d104e7a2326b3e243e"
+    },
+    {
+      "path": "archives/place/parsi-dar-e-meher-karachi/index.html",
+      "sha256": "e5dc95f7d6c8704ac674399551e85b1e1d41a384af25fc37b00b4dc96baaff5f"
+    },
+    {
+      "path": "archives/place/peeru-lashari-railway-station/index.html",
+      "sha256": "375d3679bd6f17cb7ce2576578a57fbf036455d57d6b0b1bd5d04fde5a164c25"
+    },
+    {
+      "path": "archives/place/peshawar-museum/index.html",
+      "sha256": "fcebb223598aced4f4de4896fadd83e50b575365de40e78cd8b569d325044a49"
+    },
+    {
+      "path": "archives/place/pharwala-fort/index.html",
+      "sha256": "525fac7b6457c6e2786b1e3517496fc6241c013eb2cf29ef6b8b890c207a5ba4"
+    },
+    {
+      "path": "archives/place/phuguch-mosque/index.html",
+      "sha256": "8b733670e8d3e2a406af5cdfc0e9aba057ff96949ec7243065e55810d18ba50a"
+    },
+    {
+      "path": "archives/place/phulra-fort/index.html",
+      "sha256": "683ae58b85544a39768b50ec945f4da5539c669d02e169095ab285e8319e0058"
+    },
+    {
+      "path": "archives/place/pir-adil-tomb/index.html",
+      "sha256": "81d22d8e429ee7b45ddd6f7c293d4016226a8f9eb65c9c19c063e08eff103402"
+    },
+    {
+      "path": "archives/place/pir-chinasi-rock-carvings/index.html",
+      "sha256": "bfc6c9ecf8f878b7997f67bc943bea8bc62c037a10e6ac5e3d56b2c25fc74370"
+    },
+    {
+      "path": "archives/place/pir-manki-fortress/index.html",
+      "sha256": "6fc9c985bd3a8bd6538db308ca84e778799d423e08f1bbe8537e56755678ee90"
+    },
+    {
+      "path": "archives/place/pir-nasirudin-shah-complex/index.html",
+      "sha256": "488684e5bbcafec667e49f5b341f701df06ca885c756e74b7f6e8a612f0271e6"
+    },
+    {
+      "path": "archives/place/pir-patho-mosque-and-tower/index.html",
+      "sha256": "5025f64e7059489c24e190de32198cccb24c45b009d850f8e7e25c085dc66813"
+    },
+    {
+      "path": "archives/place/police-lines-gurdwara-muzaffarabad/index.html",
+      "sha256": "706ec2cb9b1ffd10072b18d66b58592ae532f4530c4e68f53ffedcfbcbd25ddb"
+    },
+    {
+      "path": "archives/place/pucca-qila-fortifications/index.html",
+      "sha256": "802a350cb36551a60252da9c1d48283f24c002eee4e2f0d651e703fa76719b57"
+    },
+    {
+      "path": "archives/place/punjab-assembly-historic-building/index.html",
+      "sha256": "0047c277bd83e7e6d13ce15ef5347bd59aef1d889433642f52fa6204367a0707"
+    },
+    {
+      "path": "archives/place/qalamdarchi-fort/index.html",
+      "sha256": "ba2074b808ce3eb48b90d22a2d46cbc39c17324a383844e470910ae533cbf816"
+    },
+    {
+      "path": "archives/place/qila-sobha-singh-hindu-temple/index.html",
+      "sha256": "8855b89533131d7159ab05f44a010fa30db7b6a5ab5b435a90be4d918bb598b5"
+    },
+    {
+      "path": "archives/place/quaid-e-azam-library-halls/index.html",
+      "sha256": "48601346c68b816d8b9b1d58ef09cef6fdd025f2a9547b6c66c4e72437fdb0ab"
+    },
+    {
+      "path": "archives/place/qumra-rock-carvings/index.html",
+      "sha256": "f82a9d0c4174b9717d7f3e499dd63c7cbe2f9cbc5e385bba9ff3671d6ae3d7b0"
+    },
+    {
+      "path": "archives/place/rabat-fort/index.html",
+      "sha256": "21d7d34645ecb00e21278fb60c01f63dfb2d6ccb3e894684ad9a6929631a54f3"
+    },
+    {
+      "path": "archives/place/raisan-stupa/index.html",
+      "sha256": "a70a49f8dd57abf833a3af92765322b833dac51fdd391c43e5687566bf69294f"
+    },
+    {
+      "path": "archives/place/raj-bhir-lodhran/index.html",
+      "sha256": "67fba9f402ca1f88bd01854756c427098a102d97488dee1249e99a7f462b89b8"
+    },
+    {
+      "path": "archives/place/raja-zafar-ali-khan-mosque/index.html",
+      "sha256": "f9b83dcec03cf63d3f08bcb1dcac761fe76641db30e27eb991e36297d83485c0"
+    },
+    {
+      "path": "archives/place/rakhnatri-baoli/index.html",
+      "sha256": "633afe6ef3d7133b530acc820eb394f65d4bcf2d48491e05c9b96f61c9d95ef5"
+    },
+    {
+      "path": "archives/place/ramdas-hall/index.html",
+      "sha256": "03aba4cf51e2361e98c343216ddabc5dced877e1be4edb75c166b7083d90bdee"
+    },
+    {
+      "path": "archives/place/ramkot-fort/index.html",
+      "sha256": "c67f5a016d526610ed4b8dfb1a0af63c8ba2633e685102f6add7949ac7ebeaee"
+    },
+    {
+      "path": "archives/place/ranbir-singh-baradari/index.html",
+      "sha256": "eda480edde84848a0b39cbf45cc432ae2eab94a3e8fd9ff2246939353a42fd0e"
+    },
+    {
+      "path": "archives/place/rani-baoli-and-hammams/index.html",
+      "sha256": "061256bea4dbfb99b197dd2d4b7c9cf4ac2ecfb2a10fac90e6f978bee7dc0dcd"
+    },
+    {
+      "path": "archives/place/ranikot-fort/index.html",
+      "sha256": "30b8fd2d5cd50c2d076bb4c97d2b5f494af8c09eee60868dd662b82690e5a83d"
+    },
+    {
+      "path": "archives/place/ranjit-singh-birthplace-haveli/index.html",
+      "sha256": "7e82cdcfda92b9b9c85895cc793ba22b5d4a7567773eab58bcb049ec5d85abaa"
+    },
+    {
+      "path": "archives/place/ranjit-singh-summer-residence/index.html",
+      "sha256": "0bfbc12455ae63b2ff99e3425de463d5011301dc5fb3671d585a9250e588520c"
+    },
+    {
+      "path": "archives/place/ratan-nath-temple-peshawar/index.html",
+      "sha256": "914dcc8629d4a56b29a21a51f9d5649c19301eb8da44a9d03dc01feff9e6c7a4"
+    },
+    {
+      "path": "archives/place/rawal-dam-archaeological-mound/index.html",
+      "sha256": "73ee94edbc8ce71813abadff13052d7030c1fa2535ecc12ea63165805f09a45e"
+    },
+    {
+      "path": "archives/place/rawal-dam-temple/index.html",
+      "sha256": "db4b1f60931c5440e4cd013e819f41feeda86a213d4f1f082d80f5e8fcda190a"
+    },
+    {
+      "path": "archives/place/rawat-fort/index.html",
+      "sha256": "c958268704e545361bb06048e044863a3b4ea4ddd7a82bb8237e0249ab57f87f"
+    },
+    {
+      "path": "archives/place/red-fort-muzaffarabad/index.html",
+      "sha256": "8cb0f1363fe3431d892fa8d7d3a0e347e7e4dc2731b61ac3cbb8a73f2503180b"
+    },
+    {
+      "path": "archives/place/rehara-mosque/index.html",
+      "sha256": "2dcd148273d30bd79513f2c0eeafe3584bedbacbb943b942f42b8cc765812a35"
+    },
+    {
+      "path": "archives/place/rehman-baba-tomb-complex/index.html",
+      "sha256": "8b6f82e4e36c07cf5b16064edd4b04362b479744012db77c9f0cd680370cd85e"
+    },
+    {
+      "path": "archives/place/rehman-dheri/index.html",
+      "sha256": "9c35c7b33d82ccdb3a7a58d13e529c39c2cd8df20244b6610ef4eda8844e1c99"
+    },
+    {
+      "path": "archives/place/robert-sandeman-tomb-bela/index.html",
+      "sha256": "dbd5921a74e17d0abf5c37e5e9ee5a0651d9db4517ee3d508146a544cba67f44"
+    },
+    {
+      "path": "archives/place/rohtas-fort/index.html",
+      "sha256": "f396170ab7af7b21f3f593e287b121cb580f3e354d3334009ecfbea98c63ba40"
+    },
+    {
+      "path": "archives/place/roopa-mari/index.html",
+      "sha256": "6215d12065938de6934726f482e206985f77eb1d62962a2db603c4de6b304089"
+    },
+    {
+      "path": "archives/place/saadabad-caravan-sarai/index.html",
+      "sha256": "59f6c4f9fa1517c8c92e1e3f495d5ffa16c9db0049563eaca2fc2374dd52e245"
+    },
+    {
+      "path": "archives/place/saidpur-temple-complex/index.html",
+      "sha256": "016113d82f49ff9bdf468e890fba29877e165ba1555cb41ce620f6c0ce52724f"
+    },
+    {
+      "path": "archives/place/saindak-fort/index.html",
+      "sha256": "72270f30d347d314ad1220b8f9fb48885f63f5e28715e2fc03ef54e2ab40978b"
+    },
+    {
+      "path": "archives/place/sakhi-jam-datar-shrine/index.html",
+      "sha256": "9fdda989753e54ba16c011f590a2d0c1404b6942abaa03d4d9df6a3d4265a677"
+    },
+    {
+      "path": "archives/place/saling-khar/index.html",
+      "sha256": "3622609ebbf8a17aea054b6686729877466b45abbd258bb8054a3e44550bcaa3"
+    },
+    {
+      "path": "archives/place/samadhi-of-baba-dharmdas/index.html",
+      "sha256": "51897a847404ab01a644a1a73f4974be213c5e88b2078cf8bb24579f6e65c476"
+    },
+    {
+      "path": "archives/place/samadhi-of-maharaja-ranjit-singh/index.html",
+      "sha256": "5aeca1bde499e328542072b020fe392845b4904e76443bf96012ff9eaa12533d"
+    },
+    {
+      "path": "archives/place/samadhi-of-sir-ganga-ram/index.html",
+      "sha256": "8e4c48a5ad10eb0f381817374c9437ea5db2bb6f5aa628f0d223162ba1fe5d71"
+    },
+    {
+      "path": "archives/place/samali-mound-no-8/index.html",
+      "sha256": "dfeef0948a5ebd0974695acf4f4ed75a80048a95ed03637bc4833d84f01cf3f2"
+    },
+    {
+      "path": "archives/place/samungli-mound-no-2/index.html",
+      "sha256": "56f98a25dda6611eb602471d14201c92809cd85b9bf2ac296ccb6f7a8c8edae5"
+    },
+    {
+      "path": "archives/place/sanatan-vedic-mandir-zhob/index.html",
+      "sha256": "4b7ffffcc647617198a370c758182d7a73d60e677dafd0d832fe45be133e93e8"
+    },
+    {
+      "path": "archives/place/sangni-fort/index.html",
+      "sha256": "6121f55b1373256f3035db321c5b7911ca5fc88d66685d1b520115218d730e34"
+    },
+    {
+      "path": "archives/place/saphola-stupa/index.html",
+      "sha256": "e9a280fc862282ad346133aec4aacd1bd16044122205b0f6d6a3360dae665830"
+    },
+    {
+      "path": "archives/place/sappare-buddhist-site/index.html",
+      "sha256": "ab8d4f8f9b06a383ae9c9df81033664050cd2c177be4e2494cc90fb8c473630b"
+    },
+    {
+      "path": "archives/place/saqa-historic-well/index.html",
+      "sha256": "9c82de8a547e6f0d45a8d2ba9f21805a595e85edbd70b7b559f3306e787cab0f"
+    },
+    {
+      "path": "archives/place/sarai-kharbuza/index.html",
+      "sha256": "f4a8f6eaab2e48b95f9e774c638f2ef614d0d5b98469f23057e8f8d4ceee041e"
+    },
+    {
+      "path": "archives/place/sarai-mughal/index.html",
+      "sha256": "266d4579628b79bfd3c1f31c40749c65d9e40ba9ee5d3fd5031b2b9d31f8ae74"
+    },
+    {
+      "path": "archives/place/sardar-ahmad-khan-magsi-tomb/index.html",
+      "sha256": "8f568ee3559357dc468e7b5913e5717264ea0ccd559a69efaf04e15daa07af21"
+    },
+    {
+      "path": "archives/place/sargana-mosque/index.html",
+      "sha256": "ac397b33a2ca3cf890a8c62b6d317b7e045a668b6396863f264f5826d143f30e"
+    },
+    {
+      "path": "archives/place/sawi-mosque-and-graves/index.html",
+      "sha256": "d949e7888736d5139241d65d14f50016612eb681f38fe56b3dbc4149834caf57"
+    },
+    {
+      "path": "archives/place/sehwan-fort/index.html",
+      "sha256": "38ed1a9e5585a9ea98593532e6f56c5b91cdb0a8508f41ee0978348fc31bcce4"
+    },
+    {
+      "path": "archives/place/seri-baoli/index.html",
+      "sha256": "269b80ff647fd2a7ac78561cda8355e31c0873511d8ec9af3e23fcf3d325d439"
+    },
+    {
+      "path": "archives/place/sethi-house/index.html",
+      "sha256": "2a841e296abb7d1a9ef951c028f51700d2f6d4537fcf316332b8f1a1f1cdb13a"
+    },
+    {
+      "path": "archives/place/shagram-fort/index.html",
+      "sha256": "c0851b19e27962a191311d07c9bda8740feb031f7cddc54ebcca3498dc60e506"
+    },
+    {
+      "path": "archives/place/shah-abdul-latif-bhittai/index.html",
+      "sha256": "e73bdbd3e32fa8d065b383af5aa8481ee8b36a35275858a065d63208f9266ba0"
+    },
+    {
+      "path": "archives/place/shah-allah-ditta-caves/index.html",
+      "sha256": "1ac54b9422a20dfc72790567548d003e0d7282748e2775b4dde4e91b5634adb6"
+    },
+    {
+      "path": "archives/place/shah-bagh-baoli/index.html",
+      "sha256": "9df1bcecfbe4fcc2cc5ba47526c3497873b91e0a50730a6e2e464e84d9efa650"
+    },
+    {
+      "path": "archives/place/shah-jahan-mosque/index.html",
+      "sha256": "c83f470c882257611f77572983efadc5770dc0eae3c9e8c71de942930f734088"
+    },
+    {
+      "path": "archives/place/shah-khanai-inscription/index.html",
+      "sha256": "eddf6b4a54f2b55882598f9f4a5d4f19ca00d70c6f424dff0aca9b06ebe1729f"
+    },
+    {
+      "path": "archives/place/shah-rukn-e-alam/index.html",
+      "sha256": "77aa7274ac7ec5e01a5a9034e96b3c4663cf3eed2e7f96f5bd6a8b3f9266478c"
+    },
+    {
+      "path": "archives/place/shahbazgarhi-rock-edicts/index.html",
+      "sha256": "9b13f15ae16f7669ae1c6fe4d34d749dda304bb32bef1d5d1eef791adce133de"
+    },
+    {
+      "path": "archives/place/shahi-eidgah-mosque-multan/index.html",
+      "sha256": "986dac7c8fa35153196bb64d694ddfe09e639c77cd31edec860edd0782ce26ba"
+    },
+    {
+      "path": "archives/place/shahi-hammam-lahore/index.html",
+      "sha256": "157f2d435abe28359173f2f2974390eed77995228761a117d97658fbb070493e"
+    },
+    {
+      "path": "archives/place/shahi-jamia-mosque-gandhawa/index.html",
+      "sha256": "68a5d6974689ea0e72e25e0c80ca5daa35788115ddbf33a9b9c6c9fd5587d8b5"
+    },
+    {
+      "path": "archives/place/shahi-khan-mound-no-6/index.html",
+      "sha256": "d5b55c999c954785d6f5aa48b572d795f5eb7a110c3be40b597e76263bd1fe6d"
+    },
+    {
+      "path": "archives/place/shahi-masjid-chiniot/index.html",
+      "sha256": "ba5957c270be6146aeb487c847edc83724667a3f531bc1877b422a063fb11ced"
+    },
+    {
+      "path": "archives/place/shahi-masjid-chitral/index.html",
+      "sha256": "367b045e6d87c9316d192718c33fc4d6abd67515a6f02d105c7f1ba2cf25d280"
+    },
+    {
+      "path": "archives/place/shahi-mosque-at-chak-116-7-cr/index.html",
+      "sha256": "435dfcfbd6787a41fe3eafa9dba6bed5f02abd9dff7d8190da54dbab1ae210e4"
+    },
+    {
+      "path": "archives/place/shahi-tump/index.html",
+      "sha256": "21a23e79e256c1c66b1db224ac18fa0eefe7c8595fa319919be9d2b3bf5aaa01"
+    },
+    {
+      "path": "archives/place/shahwala-cemetery/index.html",
+      "sha256": "1d7f6b5a0dc973fad6a9ecd589fb3de2bb738a161f2ca00b3364b714ae04a9b9"
+    },
+    {
+      "path": "archives/place/shaikhan-dheri/index.html",
+      "sha256": "78009ed0933cc8f2ea564cbaf452e150aeaaea05671e8c1ea3ebb1fdeaa9526c"
+    },
+    {
+      "path": "archives/place/shamsabad-baoli/index.html",
+      "sha256": "8dc28b83e91f238813f2678806e767134b513c1658eb0e2fe92abcf5d3f2930c"
+    },
+    {
+      "path": "archives/place/shararai-stupa-complex/index.html",
+      "sha256": "b1ed0eaf6b66149e5972f12e14ca6d78f19c23dd3e98d51e8e8283b159cf2f65"
+    },
+    {
+      "path": "archives/place/sharda-fort/index.html",
+      "sha256": "6d84572653c356460e16bd190d07ed65514b76197cfbdfe9614a56f424914dc1"
+    },
+    {
+      "path": "archives/place/sharda-temple/index.html",
+      "sha256": "8b495ec0065d4d965e840657a27b0b5cc4e2d3a36e6f8df6ba800389e3245e65"
+    },
+    {
+      "path": "archives/place/sheikh-allah-dad-and-sheikh-karim-dad-tombs/index.html",
+      "sha256": "f849666c7a7c989350c946ea3ee0ace57b8d6a22ea732b048655ef952524c67d"
+    },
+    {
+      "path": "archives/place/sheikh-manda-mound-no-10/index.html",
+      "sha256": "a99cce997627030126a107a992d5a0211841813d06a0ac4a4b73b0e6b8b59354"
+    },
+    {
+      "path": "archives/place/sheikhupura-fort/index.html",
+      "sha256": "b013e02e180b2e298a3ed6c126213984b0bdcb6c21ef02e6210a40d51f60ac4b"
+    },
+    {
+      "path": "archives/place/sher-bridge-petroglyphs/index.html",
+      "sha256": "c2b88d3ccf7d63b522a430b54a297215256caa323fdf6c15c630c4181a6d64ff"
+    },
+    {
+      "path": "archives/place/sher-kela-dherai/index.html",
+      "sha256": "71b7ab723ca8c0a6b03416e5bd5998eefa16a89fe09390c0ce8febd2f5844a6d"
+    },
+    {
+      "path": "archives/place/sher-shah-baoli-wah-bhachran/index.html",
+      "sha256": "d3471a6c481e6272288f829baa1cd4ded343e91cc7d1887afe479a7d2f8e2523"
+    },
+    {
+      "path": "archives/place/sheri-khan-tarakai/index.html",
+      "sha256": "1ac56a4190a0ece189d6f4a4a19464d935a13d1868e400640456ab1b9de8207e"
+    },
+    {
+      "path": "archives/place/shigar-fort-palace/index.html",
+      "sha256": "2b6f1a867c7db3d1498b16cd13920cec30e3ea2e65c18c6e817b313b8ecea8ca"
+    },
+    {
+      "path": "archives/place/shiv-temple-umerkot/index.html",
+      "sha256": "cbf9f8cbb585a61417032841d9fd9b6e6f5b5ae2cdcb1b3004e5ef9601a3684c"
+    },
+    {
+      "path": "archives/place/shree-swaminarayan-temple/index.html",
+      "sha256": "24b6822ab9d9fa9ac2728bb8df61c84b935c759d218c568be91ae9b2c8c21a33"
+    },
+    {
+      "path": "archives/place/shrine-of-abul-khair-nau-lakh-hazari/index.html",
+      "sha256": "6155c732c93f881431d7a0e108d5c85729dbda2d5d01e0db3c7b5079b714fbb1"
+    },
+    {
+      "path": "archives/place/shrine-of-bahauddin-zakariya/index.html",
+      "sha256": "062958fe714258f373155751cedc3cdcc5143927a42c6d671677cbfe4d358376"
+    },
+    {
+      "path": "archives/place/shrine-of-bulleh-shah/index.html",
+      "sha256": "aef8852dc1ff06644cc4837646f998f707a5ae00691c734c1ca2762cce23a20e"
+    },
+    {
+      "path": "archives/place/shrine-of-imam-ali-ul-haq/index.html",
+      "sha256": "03e1103c6152fc7693d5335e4373e6af2e91dd0c26244c9c8204dbf11cafec4c"
+    },
+    {
+      "path": "archives/place/shrine-of-lal-shahbaz-qalandar/index.html",
+      "sha256": "dd25a2b93d35a04ff099098e805ab5cda0d9736891f9d82f5f612ca69f8aaa00"
+    },
+    {
+      "path": "archives/place/shrine-of-madhu-lal-hussain/index.html",
+      "sha256": "5a34572323b9fc7d474e0a63a051cc46e99f129eeae1bea88e73044443bac209"
+    },
+    {
+      "path": "archives/place/shrine-of-mian-mir/index.html",
+      "sha256": "3297106ab6fdeda4f84818e59607fa47a4efe238183dfcd1b39d5ccb5248e934"
+    },
+    {
+      "path": "archives/place/shrine-of-mian-sher-muhammad/index.html",
+      "sha256": "cfd2cbe6d1be39d007276744ec2fa2e1c52da5a0e525208102e4ccbd8b4aa40b"
+    },
+    {
+      "path": "archives/place/shrine-of-sachal-sarmast/index.html",
+      "sha256": "f348d988af5a922a5b6fc12b23a3df3d3ebe8cc2dcd12b8cba5d336de9c3586d"
+    },
+    {
+      "path": "archives/place/shrine-of-sakhi-sarwar/index.html",
+      "sha256": "8dac9818d0cf9f5f9b51537e41dc10b82933d9aaa3fc11de7703e9e714164cbe"
+    },
+    {
+      "path": "archives/place/shrine-of-shah-sadiq-nehang/index.html",
+      "sha256": "4c03a842a7b07397faea57582f4e6e3fe0a9ef145733388dd359e199fc1402b5"
+    },
+    {
+      "path": "archives/place/shrine-of-sultan-ayub-qattal/index.html",
+      "sha256": "79725a66b0c1276205823a63ff50b8b2b971d7214228303e7bf2e402925fd42f"
+    },
+    {
+      "path": "archives/place/shrine-of-sultan-bahoo/index.html",
+      "sha256": "4ba0f67f7acdf20d9a8c13da96cca431ef756abd780a74efc49114d7369756ec"
+    },
+    {
+      "path": "archives/place/shujabad-fortification-walls/index.html",
+      "sha256": "75b1a4838340dfc0136141db5b1bb793c06c7b23710522da7e6b444ce5d352ce"
+    },
+    {
+      "path": "archives/place/shumari-polo-ground/index.html",
+      "sha256": "3da2c62d308fba1cf32ace0d20084ae1bff6cbea84f51ce546fb58e07b9fbbe1"
+    },
+    {
+      "path": "archives/place/shunyal-archaeological-site/index.html",
+      "sha256": "a6679644574755d80642761f835f6247b7404debb4c0fcdb6a5827dc8bbea366"
+    },
+    {
+      "path": "archives/place/sikh-temple-kalaswala/index.html",
+      "sha256": "08a9405d0ac54035b58948b00ca137a245f3ed9cf249ed7c9cc08b87d8cbe281"
+    },
+    {
+      "path": "archives/place/sindh-madrassatul-islam/index.html",
+      "sha256": "dec06f6bc45b8a65ebb693d3310ebdcc8435edcf0d8218ee589eef3f53e76d40"
+    },
+    {
+      "path": "archives/place/sir-dherai-gambila/index.html",
+      "sha256": "37c0aa8754d56c8ec492473713a006b71d3b279f9fb7ea02cb9d4b6404718ba3"
+    },
+    {
+      "path": "archives/place/sir-sahibzada-abdul-qayyum-khan-mosque/index.html",
+      "sha256": "5a8e9d8cb16ec2aed4d676ef4a216e70cc5036a922d10ed1fe9d0846c0f30fb1"
+    },
+    {
+      "path": "archives/place/sisaka-kandaro-patay-dadahara/index.html",
+      "sha256": "f931b2d299823727aa54395a9730e2e0bbbd6c4a978a8efa3f727b06f9bc5aab"
+    },
+    {
+      "path": "archives/place/soguldo-khanqah/index.html",
+      "sha256": "a5eded499bb755c785a03b319136d8796f44ab9311493f681343188d4fec9b87"
+    },
+    {
+      "path": "archives/place/sor-das-rock-carvings/index.html",
+      "sha256": "2fa24904cdb02d7a541fbb59f9fce27b5a3595f923abea9f303c33e29affedd4"
+    },
+    {
+      "path": "archives/place/spina-ghundai/index.html",
+      "sha256": "5170020b6b44c2933b0f0cc2b92f8d8fc096768a958f63864093e16e70483006"
+    },
+    {
+      "path": "archives/place/sri-garo-lal-gee-temple/index.html",
+      "sha256": "93b3d522709db6641152471e9a373feeb0d195c63de48bf3e3c6597da00bf9c2"
+    },
+    {
+      "path": "archives/place/st-john-s-cathedral-peshawar/index.html",
+      "sha256": "9bcb9665caf1b6fc51eba7354b58277a0d82bf66c2b8c85ea55b9f4071ca6b82"
+    },
+    {
+      "path": "archives/place/st-lukes-church-abbottabad/index.html",
+      "sha256": "01ba995b94da3924118be4a56f463c5c1ecb87b174876df1577f2ed884dbeeb2"
+    },
+    {
+      "path": "archives/place/st-matthews-church-nathia-gali/index.html",
+      "sha256": "44995f29221cef72184a439af6ae3f57a1485ec4239293d335e31b59ffa0b9b5"
+    },
+    {
+      "path": "archives/place/staqchen-rock-carvings-mehdiabad/index.html",
+      "sha256": "61ad6bd1971d03895effc8dcc122e4195ce74a7fa616d3821e841f6eca0d5313"
+    },
+    {
+      "path": "archives/place/stupa-near-charbagh/index.html",
+      "sha256": "15283d7a5cef05c8901ba990cc8269389fcbaa19c864217f55db6abf08bc4826"
+    },
+    {
+      "path": "archives/place/sukkur-clock-tower/index.html",
+      "sha256": "0b5b7c98bfe2e97db7688737d4f7d107e438078306ede5c8a66ea05d34038938"
+    },
+    {
+      "path": "archives/place/sultan-muqarrab-khans-tomb/index.html",
+      "sha256": "57d3cad61e9af8d6a1d5a07169d15cb1af46299e9e9128d9f8fc550081d3d6da"
+    },
+    {
+      "path": "archives/place/sunehri-mosque-lahore/index.html",
+      "sha256": "2096a5ecb4ba02d99344c4c7e29a47f759b7bbb37686031280309c7e994362c9"
+    },
+    {
+      "path": "archives/place/sutkagen-dor/index.html",
+      "sha256": "03b1d91c2144bbe59b19d4e2e3d2be17b7d31955c23b71a8fab3300ba2b50a48"
+    },
+    {
+      "path": "archives/place/taigrong-mosque/index.html",
+      "sha256": "9667af60a2aaf909d020a4d57cfe27b19fef371931127d0f4fe1d238d2f681b0"
+    },
+    {
+      "path": "archives/place/taitrinot-baoli/index.html",
+      "sha256": "a2ddf656bc3d358e0d4966c57bc1c3df162ce8c0b9e69f13190c0424dced1292"
+    },
+    {
+      "path": "archives/place/takht-i-babri/index.html",
+      "sha256": "a3fc7e399a276239bcb67a5b078bac384a9023df20e64b44fdd5876f95b98cde"
+    },
+    {
+      "path": "archives/place/talab-ram-singh/index.html",
+      "sha256": "7c02b0fc0d072400bb965156fc4352cc30633ded5d52df2657c057036928c505"
+    },
+    {
+      "path": "archives/place/talhar-old-bridge/index.html",
+      "sha256": "26273d6f9b5f868e9c1359223ff17e44d40a32c25786d0b0f6f0515d17728034"
+    },
+    {
+      "path": "archives/place/talpur-palace-hyderabad/index.html",
+      "sha256": "ade6d246f7498602a2867663ee3417634584dadae2788ce1c6919133b62ac896"
+    },
+    {
+      "path": "archives/place/tang-gali-bazaar-kalabagh/index.html",
+      "sha256": "bb26eacc0d359922ff79ce843ab86e47efe8378c0e5e2d0e284ed050a819ab62"
+    },
+    {
+      "path": "archives/place/tarakai-qila/index.html",
+      "sha256": "6420c2ffd0ecb1a833b7ea9b685815510e4c8825e8bef5e5268b82c23e28d261"
+    },
+    {
+      "path": "archives/place/tarishing-safro-shikar/index.html",
+      "sha256": "0675d260b66601e290d39203b2700654328c9791885df6e71eeae293c45b3b90"
+    },
+    {
+      "path": "archives/place/tatthai-dherai/index.html",
+      "sha256": "99c13320114b25c0cf3549ed5063ff903d3550eccdfdb0ef701932cf3d5df5bf"
+    },
+    {
+      "path": "archives/place/taxila/index.html",
+      "sha256": "4fbeafca1ba72e289e78ddd75d67f75167012dda749c26a508e526c5dc7639f4"
+    },
+    {
+      "path": "archives/place/thagas-khanqah/index.html",
+      "sha256": "6a963ed6002836945ccfccdd683cbce617f9360a3e858641ba46c0633e84a953"
+    },
+    {
+      "path": "archives/place/thalpan-rock-art/index.html",
+      "sha256": "7fbb4e5e5ef0385d5ab77d7a748234f9a633b8f3e96fa90e0678b3fe314c4230"
+    },
+    {
+      "path": "archives/place/thandiani-church/index.html",
+      "sha256": "b370584093308a1372d4c3b53917d33945183ec9ffbc0f9d2e8d3ca1f9aa19ef"
+    },
+    {
+      "path": "archives/place/tharo-kot/index.html",
+      "sha256": "5ff40869b9d759eea26749a962693459fc3a491ca6a203d33161c38a64950433"
+    },
+    {
+      "path": "archives/place/thole-mosque/index.html",
+      "sha256": "388ba3052446c82bfb58672caa630a0cebd151de0db9c278512b603b15f340f7"
+    },
+    {
+      "path": "archives/place/thoqsi-khar-mosque/index.html",
+      "sha256": "63f980a24d20c4d8b47311ed6c3201b2bf5c5adfc9a646660ab316e406d6adcf"
+    },
+    {
+      "path": "archives/place/thore-kot-mosque/index.html",
+      "sha256": "2e5ce887790f381ec7a89c2c38b91dfefdfc3175c9cddc84205b8947f755c8d9"
+    },
+    {
+      "path": "archives/place/throachi-fort/index.html",
+      "sha256": "a8ed286ec3b9f5b57ee9af6ff9b5394fa85a8945550a7dfcbdb9343b6bf1b6db"
+    },
+    {
+      "path": "archives/place/thul-mir-rukan/index.html",
+      "sha256": "0e9ec63a2e9e0f8675d3ac686db75f7cac490b037669e215b87a62901c081000"
+    },
+    {
+      "path": "archives/place/thul-of-dribh-chandio/index.html",
+      "sha256": "13f420e29c025d57fabe79aaf33cffdbfc29c25bdf21b99777b86712fe607588"
+    },
+    {
+      "path": "archives/place/thul-of-jamro/index.html",
+      "sha256": "168bb9c8b77065175dec1cf995e6be5242d347ccf6a2618002b4c1548c565457"
+    },
+    {
+      "path": "archives/place/thul-of-touj-pull/index.html",
+      "sha256": "0717efd3e6dc5a2a4e09ed920033129dc0749b4a3696afbc977b58bfc088d27f"
+    },
+    {
+      "path": "archives/place/tilla-jogian/index.html",
+      "sha256": "ab0d0b194b9bc02b8e39a9920f5443eb42f6805887a67d707474c5bf9e1fe07f"
+    },
+    {
+      "path": "archives/place/togau/index.html",
+      "sha256": "d8e8e7e166d34234c2200f52feb1fd4bc459fb3f306fb788525ee98c441a482e"
+    },
+    {
+      "path": "archives/place/tolti-west-rock-carvings/index.html",
+      "sha256": "bf80ca7e23536c55ba0d0f9a99dd35a54b421dc45c9f43500851905962a2bdde"
+    },
+    {
+      "path": "archives/place/tomb-of-ali-mardan-khan/index.html",
+      "sha256": "ebb077f5f292b3e7d797d3c357cd907cb1af97408bc344376558ffdcd68aa7b7"
+    },
+    {
+      "path": "archives/place/tomb-of-baba-farid/index.html",
+      "sha256": "be2ba0d990d4fdea364d88dc9d67a7d1a5e23254f922e4e0f26a712623f1e306"
+    },
+    {
+      "path": "archives/place/tomb-of-ghazi-khan/index.html",
+      "sha256": "623172a28b3e348b24bc4633b5b18752c2f388e8bce8a23ffce987af46d0071b"
+    },
+    {
+      "path": "archives/place/tomb-of-ghulam-shah-kalhoro/index.html",
+      "sha256": "6084f1cf939422635d53763d5b070d5c15ddf3d998ae5663617c682bf625d766"
+    },
+    {
+      "path": "archives/place/tomb-of-khawaja-ghulam-farid/index.html",
+      "sha256": "335f3726d125c7cb52fcdeeb1ca8f2cf015423ee9af5ba745c9a3d8b5e78fc09"
+    },
+    {
+      "path": "archives/place/tomb-of-khawaja-mahmood-taunsa/index.html",
+      "sha256": "699e26ef530800bd7e74a4d28361e8b69efd5297cede3b601dde6312969ee305"
+    },
+    {
+      "path": "archives/place/tomb-of-mian-noor-muhammad-kalhoro/index.html",
+      "sha256": "bc27ba1529fe304cbc7d1e6cb79d317a52a096bd27c01da340b7ffb8e25977a9"
+    },
+    {
+      "path": "archives/place/tomb-of-mian-yar-muhammad-kalhoro/index.html",
+      "sha256": "3aae3ec7ff680214482bdfc7408eb01d70426f55a53167a53d4e71212f293f6d"
+    },
+    {
+      "path": "archives/place/tomb-of-muhammad-iqbal/index.html",
+      "sha256": "d9fac40b36134d2a79e8298b5df9b39f55b8fa7ca5e05f0d2c0daec1d686dc41"
+    },
+    {
+      "path": "archives/place/tomb-of-muhammad-rajan-shah/index.html",
+      "sha256": "d71e789ff3c8c54efd041d04c7a40b37c781e5288e756ba3dca99de1b3827076"
+    },
+    {
+      "path": "archives/place/tomb-of-nadira-begum/index.html",
+      "sha256": "852bb186f8a9466b9e8777d04d2b9f25b50bf8a338db15e40486800575afa361"
+    },
+    {
+      "path": "archives/place/tomb-of-nur-jahan/index.html",
+      "sha256": "22d9be10b909b92b7c49e289ca5774823d96f937b8c2bd6345d972e30ab59799"
+    },
+    {
+      "path": "archives/place/tomb-of-shah-baharo/index.html",
+      "sha256": "39ab53b510a6101401680a34f6b3e652593e240a492123ead2e2c4af046e4e48"
+    },
+    {
+      "path": "archives/place/tomb-of-shah-burhan/index.html",
+      "sha256": "541cec527d57d2aa5504c5c54cde5065198016593f943e9c8d3b4df89695bc4c"
+    },
+    {
+      "path": "archives/place/tomb-of-shah-yusuf-gardezi/index.html",
+      "sha256": "1d657366ccbaddd2d02f51d241ef1988189694680c189661b8cad5eedaadf6c2"
+    },
+    {
+      "path": "archives/place/tomb-of-sheikh-ali-baig/index.html",
+      "sha256": "d45605110b63fd93428094d3a24eee129e0c15477caa24adb293d651eb63d41c"
+    },
+    {
+      "path": "archives/place/tomb-of-sheikh-sadan-shaheed/index.html",
+      "sha256": "5e4ab16251fe274436bec56f468a7d84945b9630761e0c1ca940022ecbf30c7f"
+    },
+    {
+      "path": "archives/place/tomb-of-tahir-khan-nahar/index.html",
+      "sha256": "de3bee1ce6508bb45c2b019ec51347d90b2d991c1c14c1d4e13e660a111169f5"
+    },
+    {
+      "path": "archives/place/tonga-stand-temple/index.html",
+      "sha256": "c19d2a95adaba2453f665a004e99d7b43f4b4814dcef546e0896f9790cfd0efd"
+    },
+    {
+      "path": "archives/place/training-college-for-men-hyderabad/index.html",
+      "sha256": "4fae99a783adba36144777b3898fae78422dc9a6bfdabe935f29a6ab65e1bb23"
+    },
+    {
+      "path": "archives/place/troopi-mosque/index.html",
+      "sha256": "d0824572412be918c00644e4fc46f9da3917d4be2aebf107d1b1e3eaed63a33c"
+    },
+    {
+      "path": "archives/place/turab-baoli/index.html",
+      "sha256": "e3275bae889681b36a5eea31d26f85713111c1efbab3576179a5953d4ae39cda"
+    },
+    {
+      "path": "archives/place/udi-sharif-mosque/index.html",
+      "sha256": "afe7069ae5f72af580c1dc50381c375ba61964717e651283ddbaf221243db6b1"
+    },
+    {
+      "path": "archives/place/udigram-rock-art/index.html",
+      "sha256": "c8c2b68fb862cd8c6fe9e9ece43ab4946208c3d44289a2866e3120b34c90aec4"
+    },
+    {
+      "path": "archives/place/umair-mosque-dhamoon/index.html",
+      "sha256": "07efe4d79ee01b935194e58aca815c835e211cc087faf21bfac7b6660c10ef70"
+    },
+    {
+      "path": "archives/place/umarpur-fort-and-mound/index.html",
+      "sha256": "1767231f9b97ff1b9fe43ca9d506d6b698063a190d3e2cb9cc4ab71255a38da7"
+    },
+    {
+      "path": "archives/place/umerkot-fort/index.html",
+      "sha256": "775937467bf729438f80cd95e2e0d30bf2987895ba5ccbc72660c580007e8cf8"
+    },
+    {
+      "path": "archives/place/upper-gahkuch-jamaat-khana/index.html",
+      "sha256": "49d50e5617a13f318f7e9079a7dc1d3589ed9ad076632ee52bd69682a94c01fe"
+    },
+    {
+      "path": "archives/place/upper-koyian-baoli/index.html",
+      "sha256": "253da0947737529b8bb9d98fd682cbb019f651a0e919dbcf15323ba86771a053"
+    },
+    {
+      "path": "archives/place/victoria-clock-tower-jacobabad/index.html",
+      "sha256": "42ee2be4b6b27c8d2829c750a548c12760b93bc800f9e1f8abb6a39f4631e305"
+    },
+    {
+      "path": "archives/place/vijnot-jo-daro/index.html",
+      "sha256": "290d2febc8eb388915723f333a2afef39819945e6c612512093797a8794708fb"
+    },
+    {
+      "path": "archives/place/wah-mughal-gardens/index.html",
+      "sha256": "f8b187cbb2fed84b3a120f475fe8bbd17679e83a47cc25f7a6d08310848a7353"
+    },
+    {
+      "path": "archives/place/wajuhat-rock-carvings/index.html",
+      "sha256": "1c4fc3d7833013d6f20400c2f19dac6cee94a319634c01a0fb91077ab622430f"
+    },
+    {
+      "path": "archives/place/war-mubarak-shrine/index.html",
+      "sha256": "5f2f1fa6084a5e1715182bad31ae82835e902001352ee4e31f8681ee21403c8e"
+    },
+    {
+      "path": "archives/place/wazir-khan-mosque/index.html",
+      "sha256": "e8cabc916c4efb950b46f2e47f72186457c5666075b29dcc3c78ec3dffa9477a"
+    },
+    {
+      "path": "archives/place/wazir-mansion/index.html",
+      "sha256": "225a1120475934cf14c68463c69123169216b7a3b361c0acac996f8ae6e73292"
+    },
+    {
+      "path": "archives/place/wazirabad-dak-chowki/index.html",
+      "sha256": "9bf2b48e10035231f0c8ee6dab6e9711ba9cb612df635a3ad7595fe11a852609"
+    },
+    {
+      "path": "archives/place/wooden-mosque-kalam/index.html",
+      "sha256": "9575f69d3692eaeffb3866a7b52c3de881e9d3bcbba47ccfa6dc14adc4b198b2"
+    },
+    {
+      "path": "archives/place/yugo-rock-carvings/index.html",
+      "sha256": "66cbffb985354b3a5e1c91bdfc6033cd4afaa4bb75046082a2e04c0dd44781ac"
+    },
+    {
+      "path": "archives/place/yuno-mosque/index.html",
+      "sha256": "39ae0b7401ea04af9973aaaf34c4bb4214fdb949844311acfc2879ae25269b5b"
+    },
+    {
+      "path": "archives/place/zafar-manzil/index.html",
+      "sha256": "dde5fa694ace082ee7bc4d260ca52e0b92bd036398be56b9b0aa133a0ad790d5"
+    },
+    {
+      "path": "archives/place/zaipur-shikari-water-channel-pillar/index.html",
+      "sha256": "49682adf9a1bc1364ef32aac005e27b55f962107dcbb87779290bba0530df056"
+    },
+    {
+      "path": "archives/place/zarai-rock-inscription/index.html",
+      "sha256": "45f427ea35aefe851bfa95a7f96332edf04f88524c0817f86ecf07bb13944ad0"
+    },
+    {
+      "path": "archives/place/ziarat-residency/index.html",
+      "sha256": "a57ef23dcef1c6cd215003689028cfeb5ba014bb163cf33b5a7a232d7353e95b"
+    },
+    {
+      "path": "archives/place/zoroastrian-graveyard-quetta/index.html",
+      "sha256": "dfb406b3834e56082334ae22f1775281fe7699bbc94e473d90e13a0599525405"
+    },
+    {
+      "path": "archives/places/index.html",
+      "sha256": "8bf45a67e65cac1aa6423e01d7550d24130b50dba3e6cfb9f4f4dc677c901eba"
+    },
+    {
+      "path": "archives/title-index/index.html",
+      "sha256": "073d202acf7c063dc5e489a8236225ca6bb6b4bef57b741984e1a87cb7ab01f1"
+    },
+    {
+      "path": "assets/collaborators/alkhidmat.png",
+      "sha256": "5205eff98c748af75f6c5b779c0794342397e2de78c9259add469a9448c22c80"
+    },
+    {
+      "path": "assets/collaborators/chughtai-public-library.png",
+      "sha256": "a9439b29947975007e1cab15e371b07b13d4d1062f0f1fe71abc5c07d59abb09"
+    },
+    {
+      "path": "assets/collaborators/digital-archaeology-group.png",
+      "sha256": "78aa07362f822580b674234371d81a511185d51b3f609b3e6fa87f81b29648c5"
+    },
+    {
+      "path": "assets/collaborators/earc.png",
+      "sha256": "bf3f87c419c30eb6f12fe090e61956f7c8367c465405070c8299185645cd28b5"
+    },
+    {
+      "path": "assets/collaborators/global-shapers-community.png",
+      "sha256": "d46ef924cc3308e726ad07c1c5018e1210b00c2322aaafdab1eba1a739339f15"
+    },
+    {
+      "path": "assets/collaborators/lahore-museum.png",
+      "sha256": "25c79b18a824488a0d034d6c33071b44b0b1b7e4b1ef4571fc6b4148bedeba4a"
+    },
+    {
+      "path": "assets/collaborators/rizq.png",
+      "sha256": "7cce6eec6c6153decb9989f81a46686fad4248f962ea5826b0744e95873dfdcd"
+    },
+    {
+      "path": "assets/collaborators/rukh-foundation.png",
+      "sha256": "4c4265c2ca8136a54e2489da2991fa3804e181eda1bbe0df7452a119784de93c"
+    },
+    {
+      "path": "assets/maps/pakistan-admin-1.js",
+      "sha256": "4a54a5d5304b9230fb901c561afc531a3219d1f57ce1d5199ac478867f5e14f6"
+    },
+    {
+      "path": "assets/maps/runtime/districts/azad-kashmir-admin-2.geojson",
+      "sha256": "d84a1d87914d98be2e7402124189246996a5a730c5fac0c0ecbabde49c6c4a16"
+    },
+    {
+      "path": "assets/maps/runtime/districts/azad-kashmir-admin-2.js",
+      "sha256": "25e2703439d3223270de7b5b7e8f0f1e494435701968927db0bfe6abb66835d0"
+    },
+    {
+      "path": "assets/maps/runtime/districts/balochistan-admin-2.geojson",
+      "sha256": "df66bef40ebe039dbb51ccb0930d69353a33129d05b658414aa3cfcfeffe79ee"
+    },
+    {
+      "path": "assets/maps/runtime/districts/balochistan-admin-2.js",
+      "sha256": "96facceb272c3fcfcd83b8bac8f4a515849c05d3af900cfe196c5c8b3a375ffa"
+    },
+    {
+      "path": "assets/maps/runtime/districts/gilgit-baltistan-admin-2.geojson",
+      "sha256": "38b3208a63203effb5db8e6df32791984c5f5568f7ae48865cbb111cd0ee6d9c"
+    },
+    {
+      "path": "assets/maps/runtime/districts/gilgit-baltistan-admin-2.js",
+      "sha256": "4cfe1f5823dde4d20d721c2ca2da90ee5c4a6e59643e27e8a8972683d81f948e"
+    },
+    {
+      "path": "assets/maps/runtime/districts/islamabad-admin-2.geojson",
+      "sha256": "4d6d206b6bb5c75e098cd17896a269cddc2a4f8e8311807f912ae5033e947c5b"
+    },
+    {
+      "path": "assets/maps/runtime/districts/islamabad-admin-2.js",
+      "sha256": "32b940c9ca61e4e45383e8162071390bf547e7a30043df50913c159504c14dd2"
+    },
+    {
+      "path": "assets/maps/runtime/districts/khyber-pakhtunkhwa-admin-2.geojson",
+      "sha256": "25836e02560db8e499d90058214edfe2fc7cf1b3e5ccbc701f684a83e8dfe72f"
+    },
+    {
+      "path": "assets/maps/runtime/districts/khyber-pakhtunkhwa-admin-2.js",
+      "sha256": "d23aa9d1cc5223b43557d89ecd501b04ea71cc8ab574a76723e2038dfebdb83d"
+    },
+    {
+      "path": "assets/maps/runtime/districts/punjab-admin-2.geojson",
+      "sha256": "f6b8e76c3aaefc3c1a1f50beaa771fa212af5538d22d8aff25de5124afbb158f"
+    },
+    {
+      "path": "assets/maps/runtime/districts/punjab-admin-2.js",
+      "sha256": "244392ee62808587187f56d259c9c48775f9a8181344e6757934673be62484cf"
+    },
+    {
+      "path": "assets/maps/runtime/districts/sindh-admin-2.geojson",
+      "sha256": "71f84c31d92fcedded2ca0af16d2af9dcc4785e4bfa3022c458dca8fe42623a7"
+    },
+    {
+      "path": "assets/maps/runtime/districts/sindh-admin-2.js",
+      "sha256": "1eafcea79534b72d1606d50f13f97cd8bc8ceb15f5091ab1d022c4388d681e0b"
+    },
+    {
+      "path": "assets/optimized/logo-full-slate-640.webp",
+      "sha256": "8da0e57a006c631b042bc0a66c7470e59f278d8487be32574f4741a0c1dc8b39"
+    },
+    {
+      "path": "assets/optimized/logo-full-white-640.webp",
+      "sha256": "bfadc69cd50152f71f1299dcd94f4e7bfee2dcf1a93b609725e060251674043f"
+    },
+    {
+      "path": "assets/optimized/release-badshahi-courtyard-1280.webp",
+      "sha256": "039a8927d90a29b4ca835920ef5a7d409084b521f3f84704bac3afaa2285d62d"
+    },
+    {
+      "path": "assets/optimized/release-badshahi-courtyard-640.webp",
+      "sha256": "f87cc18d4c63d692697e199bde812a5cbd522d0dca4f4436541994701123cda8"
+    },
+    {
+      "path": "assets/optimized/release-badshahi-night-1280.webp",
+      "sha256": "8a8c4a05a8aaa15e714c54d6e333768ddc3642cfabd2a8bc988ee98ecd265e9c"
+    },
+    {
+      "path": "assets/optimized/release-badshahi-night-640.webp",
+      "sha256": "12a25c1f040a185f780ae13038609fe962bddd7e8f57ff5d696d33f0d5ee4e1d"
+    },
+    {
+      "path": "assets/optimized/release-baltit-rakaposhi-1280.webp",
+      "sha256": "04ab40a66f03b535cac71129fc12922ef44a83e4adfd333572e724f13238fc66"
+    },
+    {
+      "path": "assets/optimized/release-mohenjodaro-1280.webp",
+      "sha256": "cb9608bb1725f6e321bfdeaccd5e935f1ca264482e2fc0e78c969aff56062049"
+    },
+    {
+      "path": "assets/optimized/release-rohtas-1280.webp",
+      "sha256": "fd166b666243288edc8821d1c4a478e2cf225f2e33c92d7bcb7f59f8aad1f035"
+    },
+    {
+      "path": "assets/optimized/release-rohtas-640.webp",
+      "sha256": "7ef4ebfa643fde5b3ff9717b15bd5e1f41e698e4e84cb0edafcc3c60859a5fd3"
+    },
+    {
+      "path": "assets/optimized/release-shah-jahan-courtyard-1280.webp",
+      "sha256": "6513220524522c663dd9a85fab1f39342d069ee88bc195a4cbbc127cc76c5d3f"
+    },
+    {
+      "path": "assets/optimized/release-shah-jahan-courtyard-640.webp",
+      "sha256": "f6699930e55e39a97133c3d4c04b28ac8a3ce317848a54ba6fd8e4801282c603"
+    },
+    {
+      "path": "assets/optimized/release-shah-jahan-portrait-1280.webp",
+      "sha256": "80dbf50e08eb8fb4547a373e0915b73f5ae8c8b25a225ce35fdcc3aeeb3c3779"
+    },
+    {
+      "path": "assets/optimized/release-shah-jahan-portrait-640.webp",
+      "sha256": "de5552d0757fb85b3727feaef978e86969b59e8c3f1559729fe1f1f77239dfa2"
+    },
+    {
+      "path": "assets/optimized/release-shalimar-1280.webp",
+      "sha256": "1a2e93460b0b8d3294bce1635f985aaa60913d33bd06b9bde0a4c2c7618de475"
+    },
+    {
+      "path": "assets/optimized/release-shalimar-640.webp",
+      "sha256": "00e20af100a418d7d5b76844e5ad15e63826eac462c4266385117c71d6b6cada"
+    },
+    {
+      "path": "assets/optimized/release-takht-i-bahi-1280.webp",
+      "sha256": "67c7ff4b3d94c6e5fc6d7777a538af98fdc62e3727659d0c49cc68a5207dcf30"
+    },
+    {
+      "path": "assets/optimized/release-takht-i-bahi-640.webp",
+      "sha256": "0d82c949d09623a61efea8825c27294f4ad1a42043cf216c8609928cbce6b070"
+    },
+    {
+      "path": "components/archive-discovery.js",
+      "sha256": "311bd6f8f4f69743de9138dd947470feafc9ee3c942512adb8ec1e5d015e9700"
+    },
+    {
+      "path": "components/heritage-map.js",
+      "sha256": "ae86ef6f67756074a02c3736c1d68f71b1ecfea8baa2697f72480052b746414f"
+    },
+    {
+      "path": "components/tour-builder.js",
+      "sha256": "6a683f6d93d0154a57866e1314a894b46a4ad1689b2b03a4106556522f90000a"
+    },
+    {
+      "path": "components/tour-contract.mjs",
+      "sha256": "fbb0019552f097583a1a3588da01b5b1ea8f52bd6407557607747cc8d832a306"
+    },
+    {
+      "path": "contact/index.html",
+      "sha256": "b8d2c8e9e6be66a35546ee37b8cca81dc3dfa2aa063c774be9fd8ba973689c33"
+    },
+    {
+      "path": "data/administrative-snapshot.js",
+      "sha256": "eafdd66a42275f4f8be407de7af8d00d4b1d698948ba9d4d1c4b99a4f025a5df"
+    },
+    {
+      "path": "data/districts.js",
+      "sha256": "17f5c76da3b9166719de234b816127328e43f4a4b8e8287703f09e86cba6343d"
+    },
+    {
+      "path": "data/heritage-places.js",
+      "sha256": "b3f9e7984c617a96616063c2901b0f65ffbced4fedfe1578d0a8125c9464602e"
+    },
+    {
+      "path": "data/regions.js",
+      "sha256": "8fce201999becd939d1d7d9baf4fa4dda7776829616960a42287580937546cdf"
+    },
+    {
+      "path": "data/world-context.js",
+      "sha256": "016972a5a8b3acbd9280dea4d9ee109b5c46eb046e8931a791df4824e7beb26d"
+    },
+    {
+      "path": "heritage-map/index.html",
+      "sha256": "bacc1a7ec1b1900f05a894e259d1e42fda1bcc8a802dbcac86a1f4bb02ca0d36"
+    },
+    {
+      "path": "home/index.html",
+      "sha256": "69f9020fc517cab4b206e4950fc1bc9978909b084052841cf427f6430d3196e2"
+    },
+    {
+      "path": "image-credits/index.html",
+      "sha256": "914b63276b0176f1e3385e09794d9377564796e39c45efb27c3a2b82a1ab48fc"
+    },
+    {
+      "path": "index.html",
+      "sha256": "56556e5a2527dd393e221135bb60e462c863b70bdb3a93fee2b2c7e189ab2ba2"
+    },
+    {
+      "path": "our-work/index.html",
+      "sha256": "767f9515409a91cbb3aa483e61333a0af5b1bbabfd4cbb8dd4ec6cb0a236e8a2"
+    },
+    {
+      "path": "programmes/index.html",
+      "sha256": "10c1933cae36693cdc6a16b8a991564e6bbbd1410560e88a6bb4a533906b926d"
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "b67dca6ee470892104fa718faa5ddcb0d940014f796c96635730f04b98f15ca1"
+    },
+    {
+      "path": "route-manifest.json",
+      "sha256": "22f37ddde3843d5c21125dac41ea66f6abe3eafa518311e1de4ae609f7bda0bd"
+    },
+    {
+      "path": "search/index.html",
+      "sha256": "ead01a5fee70b05579c9bafdb7a6a46bb51dfaea35e17f18a5d2bd91985bfce0"
+    },
+    {
+      "path": "search-index.json",
+      "sha256": "e28caf0b5ba9b2cef739f8777782ec411dcc8136c98b54a3b4e77f511e136fc9"
+    },
+    {
+      "path": "service/cultural-and-educational-workshops/index.html",
+      "sha256": "5b2d2a9f4479b80cf65bd10f6249c9ec33568151b5d55306064d1281d3b428b9"
+    },
+    {
+      "path": "service/cultural-events-and-collaborations/index.html",
+      "sha256": "1b6f4d68daa12024536cb8b0c307e8f68cd588a9dbd0577705d2838df26f3b9d"
+    },
+    {
+      "path": "service/culturalAndEducationalWorkshops/index.html",
+      "sha256": "7f006035caac634efedeeaa6a02604d0e82664e52cb03ea8c1cbb9ae41c59acb"
+    },
+    {
+      "path": "service/culturalEventsAndCollaborations/index.html",
+      "sha256": "d009560ae481175fbd5c06cb63fb066e53278c267323aceae5967238b4623a49"
+    },
+    {
+      "path": "service/heritage-tours/index.html",
+      "sha256": "9def95f1ac1992c0bdf3a6344013ab5fe03b43b12b5dd65123a1d8382203eb01"
+    },
+    {
+      "path": "service/heritageTours/index.html",
+      "sha256": "d73275c81beb91477f0afc044acdb2e5f5e40bd84e1988fd76bace53261520bd"
+    },
+    {
+      "path": "service/research-and-restoration-projects/index.html",
+      "sha256": "ff91074b6551ddec0327dd31dadc96113dfdb84143aa8572f78cd3f1089c3a83"
+    },
+    {
+      "path": "service/researchAndRestorationProjects/index.html",
+      "sha256": "d7351aad6143d2feae0718c25b70d4e4daba2e534962e08396b136edf5b8db06"
+    },
+    {
+      "path": "sitemap-heritage.xml",
+      "sha256": "535f214d97c7d58d3dd1da4b8872999ee80e5b0c21f234a01f9fa0e694f82100"
+    },
+    {
+      "path": "sitemap-pages.xml",
+      "sha256": "d7a3dbc4787cbd7070da152562964c6eab39bb0d301165b5b61b9041a89a1e0b"
+    },
+    {
+      "path": "sitemap-tours.xml",
+      "sha256": "90a8c7346787572f35395d56213b0ebdf2bc5db6d9f26dfffce29fc02e4c810e"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "483f481327613d362e7c874c914834fa43d6640c3fa1c130b7b6b15f2b043b5b"
+    },
+    {
+      "path": "styles.css",
+      "sha256": "24ef1ed308eef6337d9f2a1f2b699f2882ba26ef2c0baa93ac7449db5c261668"
+    },
+    {
+      "path": "tours/custom/index.html",
+      "sha256": "7768e41710483b1c059402870017f1746c9047cf5e7442ea2c2674deea9a371e"
+    },
+    {
+      "path": "tours/index.html",
+      "sha256": "3cf283385bdb5879eee1bd64249388988a3d689da1b91305e26749b9f798b6d2"
+    },
+    {
+      "path": "why-virsapur/index.html",
+      "sha256": "0a74856340f396e4b959b209328d2246d1313eb356014989228cf6c82fa743d0"
+    }
+  ]
+}

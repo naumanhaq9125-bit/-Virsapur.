@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-22",
+  "batch": "A",
+  "planIndices": [0, 139],
+  "status": "140 review records delivered; not publication approval",
+  "draftDirectory": "qa-artifacts/final-build-2026-10-22/archive/drafts/batch-a/",
+  "evidenceDirectory": "qa-artifacts/final-build-2026-10-22/archive/research-a/",
+  "validation": {
+    "files": 14,
+    "records": 140,
+    "substantiveDrafts": 139,
+    "identityHolds": 1,
+    "uniqueIds": 140,
+    "uniqueSlugs": 140,
+    "idOrSlugMismatchesAgainstPlan": 0,
+    "duplicateNormalisedParagraphs": 0,
+    "allStatusReview": true,
+    "allAiAssistedAndEditorialReviewRequired": true,
+    "allFeaturedImagesNull": true,
+    "paragraphWordRange": [164, 491],
+    "recordsUnder450ParagraphWords": 14,
+    "recordsUnder350ParagraphWords": 1,
+    "under350Exception": "Index 5, story-gurdwara-lahura: 164-word explicit identity hold, publicationHold=true. Do not count as completed publication-ready article."
+  },
+  "planCorrections": [
+    {
+      "index": 123,
+      "id": "story-rani-baoli-and-hammams-water-architecture-in-bhimber",
+      "field": "workingTitle",
+      "old": "Rani Baoli and Hammams: water architecture in Bhimber",
+      "new": "Rani Baoli and Hammams: water architecture in Sudhnoti",
+      "reason": "DOAM 10366 identifies Palandri/Sudhnoti. Actual draft title, summary, body and SEO use Sudhnoti. Plan geography and district relation were already Sudhnoti. Stable ID and slug retain Bhimber as explicitly instructed; no redirect or route edit made.",
+      "sourceUrls": ["https://doam.gov.pk/public/sites/10366", "https://archaeology.ajk.gov.pk/sudhanoti/"]
+    },
+    {
+      "index": 132,
+      "field": "editorialReason or research note",
+      "recommendation": "Clarify that Ganweriwala is a comparison with earlier pre-excavation research, not an assertion that it remains unexcavated. The draft explicitly says it has now been excavated; title remains a general methodological question."
+    }
+  ],
+  "materialEvidenceCaveats": [
+    {"index": 5, "note": "Gurdwara Lahura identity not verified against an institutional record. No invented founder, date, coordinates, ownership or Guru Nanak visit. Publication hold retained."},
+    {"index": 84, "note": "Gulzar Mahal here is Umar/Omar Hayat Mahal in Chiniot, not the Bahawalpur palace."},
+    {"index": 94, "note": "Bhera eight-gate DOAM account and Urban Unit nine-gate inventory differ in scope, including Inner Lahore Gate. Draft does not resolve them into a spurious single count."},
+    {"index": 97, "note": "Old Badin DOAM Mature Harappan claim conflicts with Rafique Mughal's 1972 survey 87, which assigns Old Badin a medieval sequence. Conflict explicitly discussed; Bronze Age date not asserted."},
+    {"index": 108, "note": "Sindh Madressatul Islam's 1885 institutional foundation is distinguished from the date of its principal building."},
+    {"index": 109, "note": "Mir Masum catalogue chronology and dimension discrepancies withheld, including an untenable Akbar/1606 attribution and an AH transcription issue."},
+    {"index": 110, "note": "Lansdowne Bridge opened 25 March 1889; catalogue 1887 is not repeated as opening date."},
+    {"index": 114, "note": "North Kafirkot excavation evidence appears only as an explicitly labelled comparison, not as Bilot finds."},
+    {"index": 120, "note": "Kharmang Fort/Boti Khar DOAM 7978 distinguished from Kharmang Palace 8228."},
+    {"index": 121, "note": "Mudoori catalogue 1862 differs from Hayward/Leitner 1863 chronology. Disagreement disclosed; no exact casualty total invented."},
+    {"index": 125, "note": "Sarai Kharbuza uses Jahangir memoir's 1607 journey rather than the frequently repeated 1605 date."},
+    {"index": 131, "note": "Togau research is limited to accessible indexed article text; full PDF retrieval failed. Private-collection and likely illicit-collection provenance limitations are not hidden."},
+    {"index": 136, "note": "Meadow faunal discussion used accessible indexed pages, not a claim to have read the whole blocked PDF."},
+    {"index": 138, "note": "Law provenance and exchange interpretations derive from accessible chapter introductions/summary, not a claim to have read the complete book. Routes remain conjectural."}
+  ],
+  "crossBatchSample": {
+    "method": "Read saved research notes and complete draft bodies for B145, B201, B203, C357, C358 and C378. This is a small independent consistency review, not full re-verification of B/C or publication approval. No B/C files edited.",
+    "findings": [
+      {"index": 357, "priority": "metadata correction", "finding": "Body and heritage relations correctly exclude Rani Baoli from Bhimber. EditorialReason still says 'Read baths, mosque and sarai...' and should say 'Read mosque and sarai...' so the editorial plan does not reintroduce the rejected connection."},
+      {"index": 145, "priority": "cumulative source allocation", "finding": "Exact Harappa.com Sutkagen-Dor essay is reused after A51 conservatively allocated approximately 185 derived words. Reconcile combined source allocation or substitute separately verified primary evidence for the B145 site-specific coastal-change paragraph. No unsupported harbour certainty found in the body."},
+      {"index": 201, "finding": "Ziarat reconstruction testimony is appropriately attributed, and the source is not presented as a complete technical inventory. Estimated combined Tribune interview allocation with A52 remains within 200 words."},
+      {"index": 203, "finding": "Thagas and Samarkand comparison is geographically explicit; no transfer of the comparator's plan or ceremonies into Thagas observed."},
+      {"index": 358, "finding": "Red and Black forts remain separate; catalogue access restriction is attributed rather than presented as current visitor permission. No unsupported riverbank movement metric observed."},
+      {"index": 378, "finding": "PNCA-branded independent archive excluded from official evidence. MIT 1975/Dar 1976 museum chronology discrepancy stays explicit. No invented working-room inventory observed."}
+    ]
+  },
+  "releaseBoundaries": [
+    "Every record remains status review; no draft is automatic publication approval.",
+    "No author or publication date fabricated; all images remain uncleared/null.",
+    "Source readings include full public pages, selected paper passages and explicitly limited indexed abstracts or metadata. Per-record notes identify limitations.",
+    "No canonical stories, application code, geographic geometry, build output, CSV, hosting or deployment changed by this task.",
+    "Root owns plan/CSV reconciliation, cross-batch cumulative source checks and final integration."
+  ]
+}

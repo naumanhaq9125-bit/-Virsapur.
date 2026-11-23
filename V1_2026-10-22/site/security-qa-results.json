@@ -1,0 +1,154 @@
+{
+  "generatedAt": "2026-11-23T14:54:13.789Z",
+  "output": "dist-production",
+  "offlineOnly": false,
+  "passed": true,
+  "checks": [
+    {
+      "name": "CMS false by default",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Admin omitted",
+      "status": "PASS",
+      "detail": "No Admin file or login shell is in the public output."
+    },
+    {
+      "name": "Public file allowlist",
+      "status": "PASS",
+      "detail": "718 files inspected."
+    },
+    {
+      "name": "Draft title leak scan",
+      "status": "PASS",
+      "detail": "425 non-public titles tested."
+    },
+    {
+      "name": "Public output secret scan",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Default release marker absent",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Demo exclusion",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Production security headers",
+      "status": "PASS",
+      "detail": "content-security-policy, permissions-policy, referrer-policy, x-content-type-options, x-frame-options"
+    },
+    {
+      "name": "Disabled endpoint activity.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint admin-custom-tour-quotes.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint auth-login.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint auth-logout.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint auth-session.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint content.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint custom-tour-quotes.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint export.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint import.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint media-preview.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint media.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint member-session.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint preview.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint publish-finalize.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint publish-status.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint publish.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint revisions.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint trip-bookings.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Anonymous database denial",
+      "status": "PASS",
+      "detail": "Migrations grant no CMS table access to anon/authenticated roles."
+    },
+    {
+      "name": "Private media policy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Owner-only exact publishing",
+      "status": "PASS",
+      "detail": ""
+    }
+  ],
+  "hostedAnonymousTest": "NOT RUN — SECURITY_TEST_SUPABASE_URL and SECURITY_TEST_SUPABASE_ANON_KEY were not supplied."
+}

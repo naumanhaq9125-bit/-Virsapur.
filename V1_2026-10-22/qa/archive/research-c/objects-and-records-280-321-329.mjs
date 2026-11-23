@@ -1,0 +1,193 @@
+import {emit} from './emit.mjs';
+await emit('objects-and-records-280-321-329',[
+{index:280,summary:'Archaeological game pieces can establish possibilities for play without recovering the rules or proving direct continuity with a living game.',tags:['games','Indus civilisation','material culture'],references:[['Gameboard','https://www.harappa.com/slide/gameboard','Harappa.com / Jonathan Mark Kenoyer'],['Game Board','https://www.harappa.com/slide/game-board','Harappa.com / John Marshall excavation record'],['Did they play mancala in the ancient Indus Valley?','https://www.harappa.com/answers/did-they-play-mancala-ancient-indus-valley-if-so-what-did-their-game-boards-look','Harappa.com / Mayank Vahia']],text:`A marked board and a handful of pieces make us want to begin. Games are familiar social experiences, so archaeological objects associated with play can seem easier to understand than an inscription or ceremonial vessel. The familiarity is deceptive. Equipment may survive while rules, turns, penalties and the names of games disappear.
+
+Harappa.com's presentation of a possible gameboard from Moenjodaro identifies it cautiously and notes that an accompanying pointed object is probably not a gaming piece. A second display explicitly places archaeological pieces on a modern wooden board. That distinction is fundamental: the modern arrangement is a way to show the objects, not a game set recovered intact from one ancient room.
+
+## Pieces do not supply their own rules
+
+A counter can move between spaces in many different games. A die can determine a move, a score or a selection. Even when a gaming interpretation is persuasive, it does not follow that the exact game has been reconstructed. Mayank Vahia's response to a question about Indus mancala emphasises the sparseness of the evidence and the uncertainty about what was played.
+
+This leaves useful work to do. The material, dimensions, markings and find context of the pieces can be compared. Objects recovered together may pose different questions from a display assembled across excavations. A proposed board should be examined as an individual artefact, including its broken edges and the possibility that only part of its layout survives.
+
+Living games can enrich that investigation. A demonstration makes the relationship between board, counters and movement understandable. But the explanation must identify it as a comparison. A resemblance between an ancient piece and a modern counter is not a complete chain of evidence connecting their rules across millennia.
+
+## Play without a continuity claim
+
+An educational activity can invite participants to invent several games using the same replica equipment. The point would be to show why surviving pieces alone may underdetermine the rules. It should not be advertised as playing the exact game of an Indus household. The uncertainty is the lesson, not a defect to hide from visitors.
+
+Likewise, it is unwise to assign every small object to children. Adults also play, and some objects classified as gaming pieces may have other functions. Age, occasion and social meaning require evidence beyond size. A cheerful reconstruction of children in an ancient courtyard should be labelled as an imaginative scene rather than an excavated fact.
+
+The history of play can remain vivid under these constraints. It invites attention to ordinary interaction, anticipation and competition while acknowledging that their precise forms are difficult to recover. A good account brings the ancient objects close enough to provoke curiosity, but does not make them identical to games we already know simply because that would allow the story to end neatly.`},
+{index:321,summary:'Hala pottery is best understood through documented production and individual workshop records, not through colour alone or an assumed timeless style.',tags:['Hala','pottery','workshops'],references:[['Pottery of Pakistan','https://tdap.gov.pk/wp-content/uploads/2023/01/Pottery2022.pdf','Trade Development Authority of Pakistan'],['Tale of the Tile: The Ceramic Traditions of Pakistan','https://mohattapalacemuseum.org/public/exhibitions/tale-of-the-tile-the-ceramic-traditions-of-pakistan','Mohatta Palace Museum'],['Hala fieldwork photographs in doctoral thesis','https://iris.unive.it/retrieve/9bf5798d-23ad-4eb8-b65b-ed9be96746ca/Tesi.KHAN%20farah%20Deeba.%20Matricolo%20955339%20ciclo%2022.pdf','Ca’ Foscari University / Farah Deeba Khan']],note:'TDAP and thesis full fetch returned403; indexed primary excerpts support only explicitly limited claims. Publication review should add a documented Hala workshop interview and specific catalogued historical pot before expanding technical recipes or lineage claims.',text:`Hala's name often arrives before the pot. It signals a recognised centre of making, encouraging a viewer to identify an object through its colour or pattern. Yet a place-name is not a complete workshop record. The history becomes more precise when the potter, production setting, material and date are considered separately rather than folded into one timeless “Hala style.”
+
+The Trade Development Authority of Pakistan lists Hala among the country's pottery production clusters. Its report connects regional design identities with an industry in which small-scale production matters. This is evidence for a production landscape, not a catalogue of every workshop's methods. It should not be used to claim that all makers follow an identical recipe or serve the same market.
+
+## Clay, surface and attribution
+
+A vessel has a body as well as a decorated surface. The visible design may attract attention first, but the material identification and manufacturing description should come from a reliable record. A blue or turquoise surface alone cannot establish a particular clay, glaze composition or firing practice. Nor can it prove that the object was made in Hala rather than inspired by work associated with the town.
+
+Farah Deeba Khan's university research includes photographs of a Hala pottery shop and decorative work. Such situated documentation offers a useful counterpoint to a finished object photographed against a neutral background. It reminds us to ask when the observation was made and which workshop or practice it actually records, rather than presenting an older field image as an account of every present-day maker.
+
+The Mohatta Palace Museum's Tale of the Tile exhibition placed historical ceramic traditions alongside contemporary practice. That chronological approach is valuable for Hala too. A historical collection and a living production centre can inform one another without being treated as an unchanged craft surviving outside time.
+
+## Giving a workshop an identity
+
+For a new acquisition, a useful record would include the maker's preferred name, workshop location, date of purchase and the account of manufacture the maker is willing to share. A photograph of the completed pot can then be connected to a real source rather than an anonymous regional label. This is a proposed documentation approach, not a claim that those details survive for every older object.
+
+Where the record is incomplete, the gap should remain visible. A shop location may be a place of sale rather than production; a family attribution may require confirmation. These distinctions prevent a story about craft from becoming an advertisement with historical assumptions attached.
+
+Hala pottery deserves attention as work made by people responding to particular materials, uses and markets. Its regional identity becomes more substantial, not less, when individual differences are retained. The most rewarding account connects the beauty of a surface to documented making while resisting the temptation to explain a whole town through one attractive pot.`},
+{index:322,summary:'The boreendo’s clay body is part of its musical operation. Shape, holes and handling connect making to the sound of an individual instrument.',tags:['boreendo','clay instruments','Sindh'],references:[['Boreendo,Bhorindo: melodies,knowledge and skills','https://ich.unesco.org/en/USL/boreendo-bhorindo-ancient-dying-folk-musical-instrument-its-melodies-knowledge-and-skills-02328','UNESCO Intangible Cultural Heritage'],['Borrindo,94/1/D/NHHM','https://nationalcraftsmuseum.nic.in/artifacts-detail/31719','National Crafts Museum and Hastkala Academy']],text:`A boreendo can fit into a small display case and still be badly represented there. Its decorated clay surface is only part of the object. The hollow body, openings and relationship to a player's breath make it an instrument. Without that connection, it risks becoming a miniature pot whose musical function is reduced to one line of a label.
+
+UNESCO's account of the boreendo or bhorindo describes a hollow clay form that is dried and fired, with sound holes and a mouthpiece whose handling affects the tone. It also notes that size matters and that additional holes have been introduced to extend musical possibilities. The account therefore presents a made and adaptable object, not a single frozen form.
+
+## A body that participates in sound
+
+For close interpretation, the useful question is how the physical object relates to performance. A photograph can establish the arrangement of visible openings, but it cannot demonstrate the sound of an instrument on its own. A recording should identify the performer and the particular instrument rather than pairing any attractive clay form with an unrelated audio track.
+
+The National Crafts Museum in New Delhi catalogues a small Borrindo from Gujarat, accession 94/1/D/NHHM. Its material, dimensions and painted appearance offer a documented comparison from a neighbouring region. It should be introduced as that comparison, not used as if it were an instrument collected in Sindh. Related practices deserve accurate geography.
+
+Nor should a writer reconstruct an exact acoustic formula from a photograph. The number of visible holes is an observation; a claim about pitch range or tuning requires a suitable technical or performer-based source. A label can explain that body and openings matter without pretending that their full relationship has been measured for an unexamined example.
+
+## The maker and player need not disappear
+
+A useful documentation project would connect the object to its maker's account and a credited performance, with consent for both. It might record the instrument's dimensions and describe any changes the maker identifies. These details would allow a future reader to distinguish an individual example from a general account of the tradition.
+
+The same care applies to decoration. Its visual contribution deserves attention, but an unfamiliar pattern should not be assigned a symbolic meaning without supporting testimony. Manufacturing knowledge, decorative work and performance may involve different participants whose contributions should be identified where the evidence allows.
+
+The boreendo's appeal lies in the meeting of material and breath. Clay does not simply provide a container for music; its worked form participates in making the sound possible. Presenting that relationship brings the object closer to a living practice while keeping the surviving instrument, documented comparison and modern recording distinct. It becomes possible to appreciate the craftsmanship without inventing a technical certainty or a continuous ancient biography that no individual object establishes.`},
+{index:323,summary:'A manuscript binding protects a text but also carries a history of alteration, repair and separation. Its date need not be the date of the writing inside.',tags:['manuscripts','bookbinding','conservation'],references:[['Upper cover and front doublure of a Qur’an binding,AKM386','https://collections.agakhanmuseum.org/collection/artifact/upper-cover-and-front-doublure-of-a-qur-an-binding-akm386','Aga Khan Museum'],['Conservation and research: Birmingham Qur’an','https://www.birmingham.ac.uk/facilities/cadbury/birmingham-quran-mingana-collection/birmingham-quran/research-and-conservation','University of Birmingham'],['Conservation Treatment of Islamic Manuscripts at the Library of Congress','https://www.conservation-wiki.com/w/images/1/1d/Conservation_of_Islamic_Manuscripts_at_LoC.pdf','Library of Congress / Yasmeen R. Khan']],text:`A manuscript is often introduced by the date of its text, as though every visible part was made at the same moment. The binding complicates that assumption. Covers can be replaced, components separated and protective structures added. A book's present appearance may bring several periods of work into one object.
+
+The Aga Khan Museum's upper cover and front doublure numbered AKM386 provide a documented example from Iran. The record describes a surviving portion of a Qur'an binding rather than a complete manuscript. Its interpretation distinguishes the outer cover from the interior lining and considers the missing components. This is a comparative example for understanding book structures, not a manuscript attributed to Pakistan.
+
+## Cover and text have different histories
+
+The University of Birmingham offers an equally useful distinction. Its account states that the Birmingham Qur'an leaves have been conserved and placed in an Islamic-style binding for protection. The protective binding is therefore part of modern conservation history; its style should not be used to date the writing it now houses. An attractive exterior and an ancient text do not automatically share an origin.
+
+This principle applies when examining manuscripts in any collection. A catalogue may record the date of copying, an attribution for the binding and later repairs separately. Those distinctions should survive a short public description. Compressing them into a single date may make a label easier to read while removing the most important evidence about the book's changing life.
+
+## Wear is not a complete reading history
+
+A damaged corner or repaired joint can prompt questions about use, but it does not reveal exactly who handled the volume or why. A worn binding should not become proof of a beloved household book unless a provenance or other record supports the account. Physical traces and ownership history can inform one another without being interchangeable.
+
+Yasmeen R. Khan's discussion of manuscript conservation at the Library of Congress emphasises documentation before treatment. This matters because intervention itself changes the evidence future readers will encounter. A record of the earlier structure and condition helps preserve knowledge even when conservation is necessary to protect access to the text.
+
+For visitors, photographs of both exterior and interior components can make these relationships legible, provided the volume is supported and handled under the collection's procedures. There is no need to force a fragile binding open to obtain a dramatic image. A partial view with an accurate explanation is preferable to damage undertaken in the name of interpretation.
+
+The binding is consequently more than a beautiful wrapper. It is evidence of protection, presentation and the successive decisions that allowed a text to remain usable. Reading it alongside the manuscript, rather than assuming the two have one uncomplicated history, gives the book a fuller material biography while leaving undocumented users unnamed.`},
+{index:324,summary:'The survival of a written page depends on its paper, writing materials and environment. Age alone does not explain its condition.',tags:['paper','archives','preservation'],references:[['The Deterioration and Preservation of Paper','https://www.loc.gov/preservation/care/deterioratebrochure.html','Library of Congress'],['Paper-Based Records','https://www.archives.gov/preservation/holdings-maintenance/paper','United States National Archives']],text:`An old page can remain flexible while a much newer sheet becomes brittle. That contrast is not a paradox. A document's condition reflects its materials and the circumstances in which it has been kept, not simply the number of years since someone wrote on it. The words may be the reason we value the page, but their survival depends on a physical support.
+
+The Library of Congress explains paper deterioration through the interaction of composition and environment. Its account discusses cellulose fibres, acidity, moisture and light, distinguishing different manufacturing histories rather than treating paper as one uniform material. This provides a useful starting point for understanding vulnerability, but not a diagnosis of an individual document from its colour alone.
+
+## The page and the writing
+
+A written sheet combines more than one material. The paper and the marks on it may raise different conservation questions. A treatment that appears suitable for the support cannot be assumed safe for every ink, pigment, annotation or later addition. This is why public guidance should not turn a general explanation of deterioration into a household recipe for making an old document look clean.
+
+The National Archives' guidance for paper-based records also treats handling and housing as part of preservation. It recognises that tears, fasteners, inserts and different formats can require different arrangements. The aim is not simply to give every document an identical folder, but to reduce avoidable damage while preserving the relationships that make the record understandable.
+
+## Evidence includes more than the main text
+
+A marginal note, folded insert or earlier enclosure may help explain how a document was used or stored. Removing such material for a tidier photograph can break a connection that later research needs. If an enclosure requires replacement, its information should be recorded and the decision made with appropriate archival guidance. Tidiness is not the same thing as preservation.
+
+Digitisation offers another kind of access, but the image and the original answer different questions. A clear scan may make writing easier to consult while leaving thickness, texture and some structural features unavailable. The digital record should identify the original and any image adjustments rather than presenting itself as a complete substitute for the physical object.
+
+A family or institution facing a damaged page can begin by documenting what is known and seeking qualified advice, especially where handling is already causing loss. The purpose of this article is to explain the questions, not prescribe chemical treatment, flattening or repair. A precious record does not become safer because an online technique looks simple.
+
+Preserving a written page therefore means caring for a material object and its context together. The text remains central, but the support, additions and history of custody can also carry information. Understanding that relationship encourages care that protects evidence rather than merely improving the page's appearance for the next photograph.`},
+{index:325,summary:'A printed Risalo is an edited and manufactured book. Its publication record helps distinguish an edition from the poetry’s wider life.',tags:['Shah jo Risalo','print history','Sindhi literature'],references:[['Shaha Jo Risalo,1866 edition,bsb10251280','https://digitale-sammlungen.de/de/details/bsb10251280','Bavarian State Library / Munich Digitisation Centre']],note:'Institutional bibliographic record and indexed metadata verified. Page viewer unavailable in web reader; draft deliberately makes no unverified claims about typography or individual page layout. Before publication add visual examination of title page and text openings, and Sindhi literary-editor review.',text:`A printed Risalo is not simply poetry placed between covers. It is an edition: a particular selection and arrangement presented through a particular book. Its title page, publication statement and pagination can help readers understand that distinction before they begin interpreting a verse. The physical and editorial form deserves attention alongside the literary work.
+
+The Bavarian State Library holds a digitised 1866 edition edited by Ernest Trumpp and published by Brockhaus in Leipzig. The catalogue identifies the work as Shaha Jo Risalo and records its government-supported publication statement. The library's identifier, bsb10251280, connects the bibliographic description to a particular digitised copy. It does not stand for every version of Shah Abdul Latif's poetry.
+
+## A book is an editorial encounter
+
+The distinction matters whenever an article cites “the Risalo” as though the phrase named one unchanging set of pages. A reader needs to know which edition is being used and whether the passage comes from an original-language text, a translation or commentary. These are related but different encounters with the work.
+
+The 1866 imprint also makes a network of production visible: a named editor, publisher and place of printing. Those facts can be stated without assuming that the edition is complete, definitive or identical to a contemporary version. Evaluation of its literary decisions requires comparison and specialist knowledge, not a judgement based solely on its early date.
+
+## Design shapes navigation
+
+To study a printed book as an object, an editor can examine how headings, page numbers and divisions help readers move through it. That examination must be based on the actual copy. It should not be inferred from a catalogue entry that supplies only bibliographic data. A digital article can state the questions while leaving unverified visual details for a documented follow-up.
+
+The distinction between the scanned copy and the printed edition is equally useful. A scan sequence may include covers, blank leaves or other material outside the numbered text. Referring to an image number as though it were a printed page can make a citation difficult to verify. A precise reference identifies the edition, page or folio where present, and the digital location used to consult it.
+
+This is not merely a technical concern for librarians. It affects whether a reader can find a passage, compare an alternative reading or recognise that a modern quotation has passed through an editor or translator. The book's organisation participates in how the poetry is encountered.
+
+Looking at the printed Risalo in this way does not reduce it to publishing machinery. It makes one part of its transmission visible. A specific volume carries choices and institutional relationships as well as words. Recording those relationships accurately allows admiration for the poetry to coexist with critical attention to the edition through which a particular reader has received it.`},
+{index:326,summary:'Tickets and timetables record different aspects of railway movement. A document of a possible journey is not proof that a particular person travelled.',tags:['railways','ephemera','archives'],references:[['North Western Railway Timetables','https://irfca.org/gallery/Heritage/timetables/nwrtt/?g2_highlightId=579331','Indian Railways Fan Club Association,primary timetable scans'],['Pakistan Railways: Frequently Asked Questions','https://pakrail.gov.pk/Faq.aspx','Pakistan Railways']],note:'Specific1891 timetable extract identified in IRFCA archive, originating in William Watson A guide to Karachi; scan close-reading still required before adding route/timing claims. No passenger ticket provenance invented. Current railwayFAQ used only for field examples, not travel advice/prices.',text:`A railway ticket is small enough to survive unnoticed in a book or family envelope. Its printed fields can connect two places through a date, class and fare, while later marks may record another stage of its use. Yet the ticket is not a complete travel diary. It does not automatically tell us why someone went, whom they met or whether the intended journey was completed.
+
+The distinction becomes clearer when a ticket is read beside a timetable. The IRFCA historical archive identifies an 1891 North Western Railway timetable extract for Lahore, Quetta and Karachi, reproduced from William Watson's A guide to Karachi. The document offers a framework of advertised movement. It is not evidence that a named traveller followed that framework on a particular day.
+
+## An offer of movement and an individual record
+
+A timetable concerns scheduled services; a ticket concerns an entitlement or transaction. Their information can be combined only with care. The timetable must be relevant to the ticket's period, and the station names and railway administration need to be checked rather than normalised silently to their present forms.
+
+Pakistan Railways' current guidance asks passengers to check fields including the train number, journey date and seat or berth details. Those examples show how a ticket can organise a journey, but they should not be projected unchanged onto every historical ticket format. The content and method of issuing travel documents can change. A modern electronic confirmation and an older printed ticket are not identical archival objects.
+
+## Keep the small marks
+
+When documenting a surviving family ticket, an overview of both sides and a transcription of legible information can preserve details that a decorative crop would lose. Any handwritten or stamped addition should be distinguished from the original print. A doubtful reading should remain doubtful, especially where a damaged digit might alter the date or fare.
+
+Personal information requires another decision. A family may wish to preserve the complete document privately while sharing a redacted image publicly. That choice should be made before publication, not after a readable address or identifier has entered a searchable archive. The object can still support a historical account without exposing every detail it carries.
+
+The most interesting interpretation often lies in connecting modest evidence. A ticket might be compared with a relevant timetable, a dated letter or a photograph, but each connection needs to be documented. A family recollection is valuable when recorded as recollection rather than silently promoted into proof of every stage of a journey.
+
+Railway ephemera thus brings movement into an archive at several scales: the network advertised to passengers, the transaction recorded for an individual and the memory preserved later. Keeping those scales distinct allows a small piece of paper to tell a meaningful story without asking it to carry a complete journey that survives only in our imagination.`},
+{index:327,summary:'A historic postcard presents a selected city view. Its publisher, date range and rights record matter as much as its nostalgic appeal.',tags:['postcards','Lahore','visual archives'],references:[['Lahore,Delhi Gate','https://collections.newberry.org/archive/-2KXJ8Z8XCX68C.html','Newberry Library']],note:'IdentifiedNewberry postcard with No Copyright—United States statement. This is not global production clearance; featuredImage remainsnull. Catalogue text verified, but image not visually inspected, so draft avoids claims about specific visible buildings/people/colours. Human visual review and jurisdiction-specific reproduction check required.',text:`A postcard does not offer a neutral window onto an entire city. It offers a view selected for reproduction and circulation. That selection can make a gate, street or monument stand for a place while leaving much of urban life outside the frame. The resulting image is valuable historical evidence precisely when its choices remain visible.
+
+The Newberry Library catalogues a postcard titled Lahore, Delhi Gate, published by Raphael Tuck and Sons. It assigns a printing range between 1903 and 1959 and places the card in the Leonard A. Lauder collection of the publisher's postcards. This is a defined object and collection history, not an undated “old Lahore” image found without attribution.
+
+## There is more than one date
+
+The catalogue's broad printing range should not be narrowed to an exact year without further evidence. The date a postcard was printed may also differ from the date of its source image or the date it was sent. If a postmark survives, it adds another observation rather than automatically resolving every aspect of production.
+
+This distinction matters in before-and-after comparisons. A modern photograph and an old card may seem to show change clearly, but differences in viewpoint, reproduction or editing can complicate the comparison. A historical claim should follow the actual image and its documentation, not the emotional contrast between a picturesque past and a crowded present.
+
+## The caption is part of the object
+
+A publisher's title directs attention. It identifies a place and proposes what the viewer is looking at. Transcribing it accurately is useful, but its wording should not become the only description. An editor can retain the historical title while distinguishing it from current identification or later corrections.
+
+The reverse, where available, may offer information about circulation, publication or a sender's use. It should be documented separately from the image side. A postcard that was sold but never posted has a different surviving record from one carrying a dated message. Neither should be given an invented traveller to make its story more vivid.
+
+Reproduction also requires care. The Newberry record includes a no-copyright statement for the United States and asks for an institutional credit and link. That statement should be read for its stated scope rather than converted automatically into a worldwide permission claim. A reference to the record is useful even when no image is reproduced.
+
+The postcard's value lies in the conjunction of view and object: what was selected, how it was named, who published it and what survives of its circulation. Reading those layers can deepen our understanding of how Lahore was presented to distant audiences. It does not require treating a commercial city image as a complete portrait of the people who lived beyond its edges.`},
+{index:328,summary:'Family photographs become stronger historical sources when identifications, uncertainty and permission to share are recorded alongside the image.',tags:['family photographs','oral history','archives'],references:[['Preserving Family Photos','https://www.archives.gov/publications/prologue/2015/fall/handling-photos.html','United States National Archives'],['Photographs: holdings maintenance','https://www.archives.gov/preservation/holdings-maintenance/photographs','United States National Archives'],['Oral History Best Practices','https://oralhistory.org/best-practices/','Oral History Association']],text:`A family photograph can seem fully understood while the people who recognise it are still present. Someone knows the courtyard, the relative standing at the edge and the occasion that brought everyone together. Once that knowledge is separated from the print, the image may retain its emotional force while losing much of its historical specificity.
+
+The first task is therefore not to invent a polished caption. It is to record what is known, who supplied the identification and how certain they are. “My aunt thinks this was taken after the move” preserves a different kind of evidence from a dated inscription on the reverse. Both may be valuable, but they should not be merged into an apparently exact date.
+
+## Keep the conversation attached
+
+Oral History Association guidance emphasises informed participation and clarity about how recorded material will be used. Applied to a family photograph project, that means discussing whether an account is intended for private preservation, a community archive or public publication. Agreement to identify a relative in conversation is not automatically agreement to place the image and story on an unrestricted website.
+
+Multiple memories should not be forced into premature agreement. If two relatives identify a location differently, the record can retain both accounts and the reasons given. A future researcher may find another photograph or document that clarifies the issue. Deleting the disagreement now would remove part of the evidence needed to resolve it.
+
+## The print has its own record
+
+The National Archives advises preserving information associated with photographic enclosures and avoiding attempts to detach photographs from albums or mounts without suitable guidance. The surrounding material can establish relationships that a cropped scan loses. An album sequence, handwritten note or studio imprint may matter even when it is not the most visually attractive part of the object.
+
+Its guidance also distinguishes access copies from originals and recommends seeking specialist help when handling is causing damage. This is particularly relevant to curled, torn or unstable photographs. A digitisation project should not sacrifice the original in order to obtain a perfectly flat image.
+
+For a public version, it may be appropriate to omit private addresses or information about living people while keeping a fuller record under agreed access conditions. The decision should be explicit. Redaction need not destroy the private archive, and private preservation need not require public exposure.
+
+Family photographs become historical evidence through these relationships, not simply through age. The image, the physical print, remembered identifications and permission to use them form a connected record. Preserving that connection allows future readers to distinguish what the camera shows from what later testimony explains. It also gives the family a meaningful role in deciding how an intimate record enters a wider account of place and time.`},
+{index:329,summary:'Museum labels condense research into small texts. Their qualifiers, dates and collection histories can profoundly change what visitors think an object proves.',tags:['museum interpretation','catalogues','evidence'],references:[['Inscribed Reliquary,Donated by King Indravarman','https://www.metmuseum.org/art/collection/search/38111','The Metropolitan Museum of Art'],['The Art of Gandhara in The Metropolitan Museum of Art','https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_Gandhara_in_The_Metropolitan_Museum_of_Art.pdf','The Metropolitan Museum of Art / Kurt Behrendt'],['Ralli,2016.012.0062','https://www.internationalquiltmuseum.org/quilt/20160120062','International Quilt Museum']],note:'Catalogue discrepancies are discussed as editorial examples, not resolved attributions. Shared-source use limited to brief factual identification; human reconciliation needed for Indravarman record beforepublication.',text:`A museum label can alter an object's apparent history with one small word. “Probably” distinguishes an attribution from a demonstrated fact; “about” preserves uncertainty in a date; “unidentified” acknowledges that a name has not survived in the available record. Removing these words to make prose more confident can make the object say something its evidence does not support.
+
+The International Quilt Museum's record for ralli 2016.012.0062 offers a simple example. It identifies an unknown maker and a probable place of manufacture in Achra Thar, Sindh. A shortened caption that confidently names the location while dropping the unidentified maker would shift the balance of the record. The place would appear more certain, while the human absence would become invisible.
+
+## A current record is not outside history
+
+Labels and online catalogues also change. The Metropolitan Museum's current Indravarman reliquary record gives a date that differs from its older Gandhara publication, which also arranges neighbouring collection identifiers differently. An editor encountering both should not quietly choose details from each to create one seamless description. The inconsistency is a research issue requiring reconciliation.
+
+This does not mean that every label is unreliable. It means that interpretation is part of an ongoing scholarly process. A useful public record can identify its sources and revision date so that readers understand which account they are consulting. Updating a label is most responsible when it preserves an accessible explanation of important changes.
+
+## The credit line answers a particular question
+
+An acquisition credit may identify a donor or fund rather than the historical maker. It may record how an institution received an object without supplying every earlier owner. Readers should not be expected to know these distinctions instinctively. Clear wording can prevent a modern collection name from being mistaken for an artistic attribution or complete provenance.
+
+The same applies to geography. A place of manufacture, findspot, purchase location and broad cultural attribution are not interchangeable. A short label may need to select among them, but it should not conceal which relationship is being stated. “Acquired in Lahore” does not necessarily mean “made in Lahore.”
+
+An effective label consequently balances brevity with a route to fuller information. A visitor can receive the essential identification and one meaningful interpretation, while a linked catalogue preserves qualifications, references and collection history. The longer record should support the concise text rather than contradict its certainty.
+
+The aim is not to turn every gallery into a debate conducted in tiny print. It is to keep the most consequential distinctions legible. Small words can protect large historical differences. A label that respects them helps visitors appreciate an object while understanding how its identity has been established—and where the work of understanding it is still continuing.`}
+]);

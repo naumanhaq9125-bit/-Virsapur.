@@ -1,0 +1,253 @@
+{
+  "batch": "200-209",
+  "reviewDate": "2026-10-22",
+  "status": "review-only",
+  "articles": [
+    {
+      "index": 200,
+      "id": "story-what-measured-drawings-can-preserve",
+      "proseWords": 493,
+      "sources": [
+        {
+          "title": "Drawing for Understanding",
+          "url": "https://historicengland.org.uk/images-books/publications/drawing-for-understanding/",
+          "publisher": "Historic England",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Geospatial Survey Specifications for Cultural Heritage",
+          "url": "https://historicengland.org.uk/images-books/publications/geospatial-survey-specifications-cultural-heritage/",
+          "publisher": "Historic England",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 201,
+      "id": "story-architecture-after-damage-reconstruction-and-honesty",
+      "proseWords": 499,
+      "sources": [
+        {
+          "title": "Guidance on Post-Disaster and Post-Conflict Recovery and Reconstruction of Heritage Places",
+          "url": "https://www.iccrom.org/publication/guidance-post-disaster-and-post-conflict-recovery-and-reconstruction-heritage-places",
+          "publisher": "ICCROM and ICOMOS",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Ziarat Residency: Restoring the house that Mr Jinnah called home",
+          "url": "https://tribune.com.pk/story/748568/ziarat-residency-restoring-the-house-that-mr-jinnah-called-home",
+          "publisher": "The Express Tribune; interviews with project architects",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Quaid-e-Azam Residency, Ziarat",
+          "url": "https://doam.gov.pk/public/sites/9686",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 202,
+      "id": "story-visiting-a-sacred-place-that-is-still-in-use",
+      "proseWords": 510,
+      "sources": [
+        {
+          "title": "Research Guidelines",
+          "url": "https://pluralism.org/research-guidelines",
+          "publisher": "Harvard University Pluralism Project",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Conservation of Living Religious Heritage",
+          "url": "https://www.iccrom.org/publication/conservation-living-religious-heritage",
+          "publisher": "ICCROM",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 203,
+      "id": "story-shrine-mosque-and-khanqah-different-institutional-spaces",
+      "proseWords": 516,
+      "sources": [
+        {
+          "title": "Khanqah-e-Moallah Thagas",
+          "url": "https://doam.gov.pk/public/sites/7966",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Shir Dar Madrasa",
+          "url": "https://www.archnet.org/sites/2146",
+          "publisher": "Archnet",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Conservation of Living Religious Heritage",
+          "url": "https://www.iccrom.org/publication/conservation-living-religious-heritage",
+          "publisher": "ICCROM",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 204,
+      "id": "story-the-gurdwara-as-more-than-a-landmark",
+      "proseWords": 505,
+      "sources": [
+        {
+          "title": "The Gurdwara",
+          "url": "https://pluralism.org/the-gurdwara",
+          "publisher": "Harvard University Pluralism Project",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Around Sri Harmandir Sahib",
+          "url": "https://new.sgpc.net/around-harmandir-sahib/",
+          "publisher": "Shiromani Gurdwara Parbandhak Committee",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Gurpurbs",
+          "url": "https://new.sgpc.net/gurpurbs/",
+          "publisher": "Shiromani Gurdwara Parbandhak Committee",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 205,
+      "id": "story-langar-and-the-spaces-of-shared-food",
+      "proseWords": 500,
+      "sources": [
+        {
+          "title": "Langar: The Communal Meal",
+          "url": "https://pluralism.org/langar-the-communal-meal",
+          "publisher": "Harvard University Pluralism Project",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Westborough Gurdwara — New England Sikh Study Circle",
+          "url": "https://pluralism.org/westborough-gurdwara-new-england-sikh-study-circle-inc",
+          "publisher": "Harvard University Pluralism Project",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Gurdwara Gazette, September 2018",
+          "url": "https://sgpc.net/gazette/2018/September/September-English.pdf",
+          "publisher": "Shiromani Gurdwara Parbandhak Committee",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 206,
+      "id": "story-jain-heritage-in-pakistan-beyond-one-temple",
+      "proseWords": 488,
+      "sources": [
+        {
+          "title": "Exploratory Survey of Jaina Heritage in Pakistan",
+          "url": "https://www.soas.ac.uk/research/exploratory-survey-jaina-heritage-pakistan",
+          "publisher": "SOAS University of London",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Jaina Studies Newsletter, Issue 13: Survey of Jaina Heritage in Pakistan",
+          "url": "https://www.soas.ac.uk/sites/default/files/2022-11/Centre%20of%20Jaina%20Studies%20Issue%2013%20-%20March%202019.pdf",
+          "publisher": "SOAS Centre of Jaina Studies",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Gori Temple field documentation",
+          "url": "https://digital.soas.ac.uk/content/JH/P0/00/01/06/00001/JHP0000106_00001.pdf",
+          "publisher": "SOAS Digital Collections",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Gori Temple",
+          "url": "https://doam.gov.pk/public/sites/5499",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 207,
+      "id": "story-buddhist-pilgrimage-and-the-material-presence-of-relics",
+      "proseWords": 495,
+      "sources": [
+        {
+          "title": "Gandhara",
+          "url": "https://www.metmuseum.org/it/essays/gandhara",
+          "publisher": "The Metropolitan Museum of Art; Kurt Behrendt",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Replica of the Kanishka reliquary, 1880.270",
+          "url": "https://www.britishmuseum.org/collection/object/A_1880-270",
+          "publisher": "The British Museum",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Reliquary from Sonala Pind, 1887.0717.35",
+          "url": "https://www.britishmuseum.org/collection/object/A_1887-0717-35",
+          "publisher": "The British Museum",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 208,
+      "id": "story-what-is-a-stupa-for",
+      "proseWords": 497,
+      "sources": [
+        {
+          "title": "Votive Stupa with Four Buddhas, 1987.142.342",
+          "url": "https://www.metmuseum.org/art/collection/search/38411",
+          "publisher": "The Metropolitan Museum of Art",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Gold stupa-shaped reliquary, 2004.0331.1",
+          "url": "https://www.britishmuseum.org/collection/object/A_2004-0331-1",
+          "publisher": "The British Museum",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Tree and Serpent visiting guide",
+          "url": "https://www.metmuseum.org/ko/exhibitions/tree-and-serpent/visiting-guide",
+          "publisher": "The Metropolitan Museum of Art; John Guy",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "index": 209,
+      "id": "story-the-circumambulation-path-as-a-designed-experience",
+      "proseWords": 504,
+      "sources": [
+        {
+          "title": "Buddhism and Buddhist Art",
+          "url": "https://www.metmuseum.org/ko/essays/buddhism-and-buddhist-art",
+          "publisher": "The Metropolitan Museum of Art",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The stupa, an introduction",
+          "url": "https://smarthistory.org/the-stupa-sanchi/",
+          "publisher": "Smarthistory; Dr Karen Shelby",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Bamiyan Buddhas",
+          "url": "https://smarthistory.org/bamiyan-buddhas/",
+          "publisher": "Smarthistory",
+          "accessDate": "2026-10-22"
+        }
+      ]
+    }
+  ],
+  "sourceReadingNote": "Primary institutional guidance, museum records and field research read. Ziarat uses an explicitly attributed primary interview reported by Sanam Maher, alongside ICCROM guidance and DOAM. Atmaramji biography withheld pending identity-specific evidence. Comparator sites are identified as outside Pakistan. No claims about current visitor arrangements.",
+  "copyrightNote": "Brief source-specific paraphrases; original spatial and evidential analysis. Shared ICCROM living-religious-heritage landing page under 100 words across 202/203. Shared SGPC and Pluralism sources assigned separate emphases. No verbatim quotations. All records remain editorial-review-required."
+}

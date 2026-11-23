@@ -1,0 +1,3115 @@
+[
+  {
+    "id": 3561,
+    "title": "Ade Sahib Mosque (Mujahideen)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3561",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3574,
+    "title": "Kanro Qala",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3574",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3566,
+    "title": "Adinkhel Dherai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3566",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 150,
+    "title": "Hindu Temple Javed Trank House",
+    "sourceUrl": "https://doam.gov.pk/public/sites/150",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mansehra"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 940,
+    "title": "Jandial Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/940",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-haripur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4398,
+    "title": "Baoli (Stair Well), Chamkani Village ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4398",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 2066,
+    "title": "Bande Uba Canal Bridge ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/2066",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swabi"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 769,
+    "title": "Church Bungalow",
+    "sourceUrl": "https://doam.gov.pk/public/sites/769",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 768,
+    "title": "Thandiani Church",
+    "sourceUrl": "https://doam.gov.pk/public/sites/768",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1223,
+    "title": "Brep Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1223",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-chitral-upper"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 2070,
+    "title": "Sir Sahibzada Abdul Qayyum Khan Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/2070",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swabi"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4386,
+    "title": "Ratan Nath Temple or Dargah Pir Ratan Nath Jee",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4386",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1124,
+    "title": "Umair Mosque Dhamoon",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1124",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-chitral-lower"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1712,
+    "title": "Kitkot Larkalay Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1712",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1569,
+    "title": "Surai Smats (Cave)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1569",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3576,
+    "title": "Khazano Sar Settlement",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3576",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3590,
+    "title": "Shine Ghundai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3590",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1678,
+    "title": "Tor Gat",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1678",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1796,
+    "title": "Baoli Azakhel Payan",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1796",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-nowshera"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1664,
+    "title": "Kharkanai Khoni Jauhar",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1664",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1275,
+    "title": "Chatpat",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1275",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-lower-dir"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3094,
+    "title": "Hazrat Abdur Rahim Shah Bukhari Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3094",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-kohat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 2157,
+    "title": "Tora Baz Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/2157",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mardan"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3594,
+    "title": "Bade Siya",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3594",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3619,
+    "title": "Doda fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3619",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-lower-dir"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3620,
+    "title": "Gabar Fort ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3620",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [
+      5410
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3707,
+    "title": "Mohmad Ghat Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3707",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1052,
+    "title": "Topanwala Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1052",
+    "issues": [
+      "whole-minute-pair",
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-d-i-khan"
+    ],
+    "coordinateCollisions": [
+      4510
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4405,
+    "title": "Nasran Dheri III",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4405",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4394,
+    "title": "Temple Wangri Garan",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4394",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4431,
+    "title": "Mian Muhammad Umar Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4431",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4435,
+    "title": "Mian Muhammad Umar Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4435",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4510,
+    "title": "Maulana Sarfaraz Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4510",
+    "issues": [
+      "whole-minute-pair",
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-d-i-khan"
+    ],
+    "coordinateCollisions": [
+      1052
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4567,
+    "title": "Dilip Kumar House",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4567",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4602,
+    "title": "Chottra Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4602",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-khyber"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4563,
+    "title": "Rehman Baba Tomb Complex",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4563",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4684,
+    "title": "Sher Bridge Petroglyphs",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4684",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-khyber"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4687,
+    "title": "Nawab Rasheed Khan Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4687",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1557,
+    "title": "Tango Nao Cave",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1557",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3302,
+    "title": "Stupa of Gumbatuna",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3302",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3298,
+    "title": "Stupa of Amluk Dara",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3298",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1668,
+    "title": "Kharkanai Ghondai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1668",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [
+      1685
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1679,
+    "title": "Malaka Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1679",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 2299,
+    "title": "Sharai Baba Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/2299",
+    "issues": [
+      "whole-minute-pair",
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mardan"
+    ],
+    "coordinateCollisions": [
+      2753
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4839,
+    "title": "Abbott House",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4839",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4787,
+    "title": "Basti Sher Khan Tomb stones ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4787",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-haripur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3478,
+    "title": "Choa Gujjar Bridge (Sufaid Mughal Bridge)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3478",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4849,
+    "title": "Governor House Peshawar",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4849",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4852,
+    "title": "Shah Khanai Inscription",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4852",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1671,
+    "title": "Alingar Site",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1671",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1685,
+    "title": "Khoni Jauhar Upper Chagai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1685",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [
+      1668
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4958,
+    "title": "Jokar Kore (Jokar House) (Jabbar-But Area)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4958",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-buner"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3607,
+    "title": "Kot Agra Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3607",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-malakand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3085,
+    "title": "Shunyal",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3085",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-shangla"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1686,
+    "title": "Trakai Tangai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1686",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 828,
+    "title": "Khanpur Cave A",
+    "sourceUrl": "https://doam.gov.pk/public/sites/828",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-haripur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4608,
+    "title": "St. John Cathedral Church",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4608",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3201,
+    "title": "Padshah-Kotkai (Badshah-Kot)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3201",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bannu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3295,
+    "title": "Stupa of Saidu Sharif I",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3295",
+    "issues": [
+      "whole-minute-pair",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-buner"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3323,
+    "title": "Shingardar Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3323",
+    "issues": [
+      "invalid-dms"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 998,
+    "title": "Tank City",
+    "sourceUrl": "https://doam.gov.pk/public/sites/998",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3470,
+    "title": "Asamai Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3470",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3577,
+    "title": "Kotkai Dherai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3577",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3588,
+    "title": "Sappare",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3588",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3592,
+    "title": "Sho Gundai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3592",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 139,
+    "title": "Bela mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/139",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mansehra"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 140,
+    "title": "Batla Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/140",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mansehra"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 143,
+    "title": "Hindu  Temple  Fancy Jewller",
+    "sourceUrl": "https://doam.gov.pk/public/sites/143",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mansehra"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4857,
+    "title": "Zarai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4857",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 677,
+    "title": "Sikh Temple Nawasher",
+    "sourceUrl": "https://doam.gov.pk/public/sites/677",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad"
+    ],
+    "coordinateCollisions": [
+      675
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 675,
+    "title": "Nawasher Hindu Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/675",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad"
+    ],
+    "coordinateCollisions": [
+      677
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 776,
+    "title": "Dunga Gali Church",
+    "sourceUrl": "https://doam.gov.pk/public/sites/776",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 786,
+    "title": "Jhangra Sikh Temple II",
+    "sourceUrl": "https://doam.gov.pk/public/sites/786",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 791,
+    "title": "Didan Bridge",
+    "sourceUrl": "https://doam.gov.pk/public/sites/791",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-haripur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 797,
+    "title": "Pir Manki Fortress",
+    "sourceUrl": "https://doam.gov.pk/public/sites/797",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-haripur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 775,
+    "title": "Nathia Gali Church",
+    "sourceUrl": "https://doam.gov.pk/public/sites/775",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4384,
+    "title": "Gorak Nath Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4384",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4436,
+    "title": "Kot Cave",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4436",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swabi"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4591,
+    "title": "Dilazak Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4591",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 953,
+    "title": "Sikh Temple I",
+    "sourceUrl": "https://doam.gov.pk/public/sites/953",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-haripur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 994,
+    "title": "Bain Boulder Beds",
+    "sourceUrl": "https://doam.gov.pk/public/sites/994",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 996,
+    "title": "Gul Imam Railway Station",
+    "sourceUrl": "https://doam.gov.pk/public/sites/996",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 997,
+    "title": "Kaur Police Station",
+    "sourceUrl": "https://doam.gov.pk/public/sites/997",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 999,
+    "title": "Aba Khel",
+    "sourceUrl": "https://doam.gov.pk/public/sites/999",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 946,
+    "title": "Baba Dheri Temple (Barila)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/946",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-nowshera"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1031,
+    "title": "Budh Dheri I",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1031",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1032,
+    "title": "Budh Dheri II",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1032",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1034,
+    "title": "Gomal Bazar",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1034",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1035,
+    "title": "Gomal Dheri",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1035",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1036,
+    "title": "Gotkai Dheri",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1036",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1038,
+    "title": "Kauderi Dheri",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1038",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1041,
+    "title": "Kot Azam I (Tank)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1041",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1039,
+    "title": "Kot Allah Dad",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1039",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1042,
+    "title": "Kot Azam II (Tank)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1042",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1043,
+    "title": "Kot Kat Dheri",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1043",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1045,
+    "title": "Nasran Dheri I",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1045",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1048,
+    "title": "Pir Sabir Shah Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1048",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1049,
+    "title": "Syed Shaheed Dheri",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1049",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1050,
+    "title": "Gandi Umar Khan Mosque ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1050",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-d-i-khan"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1160,
+    "title": "Damale Nisar Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1160",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-chitral-lower"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1065,
+    "title": "Baran Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1065",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-d-i-khan"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1075,
+    "title": "Jumaa Sharif Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1075",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-d-i-khan"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1102,
+    "title": "Mulla Qasim Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1102",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-d-i-khan"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1103,
+    "title": "Daraban Mosque ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1103",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-d-i-khan"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1110,
+    "title": "Mosque of Faqir Nizam-ud-din",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1110",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-d-i-khan"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1153,
+    "title": "Wajuhat Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1153",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-chitral-upper"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1111,
+    "title": "Musazai Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1111",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-d-i-khan"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1125,
+    "title": "Bilal Mosque Dhamoon",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1125",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-chitral-lower"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4743,
+    "title": "Ekka Ghund Caravan Sarai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4743",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1204,
+    "title": "Darbatoshali Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1204",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-chitral-upper"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 9646,
+    "title": "Koto Manzary",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9646",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-malakand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1239,
+    "title": "Charwaloo Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1239",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-chitral-upper"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1243,
+    "title": "Shagram Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1243",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-chitral-upper"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1162,
+    "title": "Torkosht Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1162",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-chitral-upper"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3459,
+    "title": "Manzary Tall",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3459",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-malakand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1348,
+    "title": "Bukhara Cave",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1348",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-lower-dir"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1521,
+    "title": "Devdas Temple-V",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1521",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-haripur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1523,
+    "title": "Kho Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1523",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-haripur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4819,
+    "title": "Abdul Khaliq House",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4819",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mansehra"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1571,
+    "title": "Tora Smats (Cave)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1571",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1590,
+    "title": "Shergahto Nao Cave",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1590",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [
+      1592
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1615,
+    "title": "Mano Nao",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1615",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 2302,
+    "title": "Sarobi Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/2302",
+    "issues": [
+      "whole-minute-pair",
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mardan"
+    ],
+    "coordinateCollisions": [
+      2765
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 9689,
+    "title": "Garhian (Lal Chak Stupa Monastery) ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9689",
+    "issues": [
+      "source-region-spatial-conflict",
+      "source-district-spatial-conflict",
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "punjab-rawalpindi"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1661,
+    "title": "Kandarai (1-2)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1661",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1663,
+    "title": "Zara Kandarai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1663",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1666,
+    "title": "Kharkanai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1666",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1683,
+    "title": "Khanano Ghondai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1683",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1684,
+    "title": "Kohi (Mohmand Agency)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1684",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1688,
+    "title": "Rashakai Silt dug Caves",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1688",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1691,
+    "title": "Ghafoor Shah Silt dug Caves",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1691",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1681,
+    "title": "Kamangara",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1681",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1682,
+    "title": "Khazana Dherai (Rud Ambar)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1682",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swabi"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1730,
+    "title": "Maina Kalay Wooden Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1730",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [
+      3755
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1732,
+    "title": "Chamarkand Mujahidino Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1732",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1719,
+    "title": "Larkalay Ghakhay Mosque ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1719",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1723,
+    "title": "Nakhtar Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1723",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bajaur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1795,
+    "title": "Asorai Payan Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1795",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-nowshera"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1794,
+    "title": "Asori Bala Baoli (Abbas Abad)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1794",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-nowshera"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1793,
+    "title": "Hawai Baoli (Akbar Bacha Kuhi)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1793",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-nowshera"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1953,
+    "title": "Nehag Cave I",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1953",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-upper-dir"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1955,
+    "title": "Nehag Cave II",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1955",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-upper-dir"
+    ],
+    "coordinateCollisions": [
+      1958
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 2072,
+    "title": "Jagh Nath Rest House",
+    "sourceUrl": "https://doam.gov.pk/public/sites/2072",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swabi"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 2048,
+    "title": "Ajmir Stream Bridge",
+    "sourceUrl": "https://doam.gov.pk/public/sites/2048",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swabi"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 2215,
+    "title": "Bisak Banda Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/2215",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swabi"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1233,
+    "title": "Garam Chashma Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1233",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-chitral-lower"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 2499,
+    "title": "Bangosar Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/2499",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-buner"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6228,
+    "title": "Kenthla Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6228",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-haripur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 2987,
+    "title": "Abazo Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/2987",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-buner"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3049,
+    "title": "Dauray",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3049",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-shangla"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3051,
+    "title": "Aad-e-Sammud Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3051",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-kohat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3053,
+    "title": "Garai In Shunyal",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3053",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-shangla"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3059,
+    "title": "Kundichar",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3059",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-shangla"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3062,
+    "title": "Nemakai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3062",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-shangla"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3063,
+    "title": "Hindu Mohalla Temples",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3063",
+    "issues": [
+      "whole-minute-pair",
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-kohat"
+    ],
+    "coordinateCollisions": [
+      3065
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3065,
+    "title": "UP Church Shimla Pahari",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3065",
+    "issues": [
+      "whole-minute-pair",
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-kohat"
+    ],
+    "coordinateCollisions": [
+      3063
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3047,
+    "title": "Sra Ghunda Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3047",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-kohat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3071,
+    "title": "Syed Pir Fateh Shah Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3071",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-kohat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3074,
+    "title": "Cavagnari House",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3074",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-kohat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3076,
+    "title": "Dherai Shahpur",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3076",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-shangla"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3066,
+    "title": "Dhehrai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3066",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-shangla"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3070,
+    "title": "Ghund (Shangla)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3070",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-shangla"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3106,
+    "title": "Sabar Shah",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3106",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-shangla"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3107,
+    "title": "Mir Qabar Ziarat Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3107",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-hangu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3116,
+    "title": "Kaarbogha Sharif Sahib Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3116",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-hangu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3133,
+    "title": "Dherai Site (Shangla)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3133",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-shangla"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3090,
+    "title": "F 17 Ground Hindu Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3090",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-kohat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3162,
+    "title": "Shah Dherai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3162",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-malakand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3185,
+    "title": "Chig Dherai of Zabta Khan",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3185",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bannu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3198,
+    "title": "Mirzali Khan Dherai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3198",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bannu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3378,
+    "title": "Sherjang Caves ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3378",
+    "issues": [
+      "whole-minute-pair",
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-kohat"
+    ],
+    "coordinateCollisions": [
+      3044
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3142,
+    "title": "Garai Sar, Towa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3142",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-shangla"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3214,
+    "title": "Tarakai Qila",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3214",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bannu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3213,
+    "title": "Sir Dherai (Gambila)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3213",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-lakki-marwat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3216,
+    "title": "Tatthai Dherai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3216",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-lakki-marwat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3208,
+    "title": "Sardi Khel Ghundai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3208",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bannu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3292,
+    "title": "Stupa of Loebanr",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3292",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3301,
+    "title": "Stupa of Top dara (Haibatgram, Thana)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3301",
+    "issues": [
+      "whole-minute-pair",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-malakand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3280,
+    "title": "Shagai Family Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3280",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-khyber"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3282,
+    "title": "Shagai Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3282",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-khyber"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3283,
+    "title": "Ali Masjid Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3283",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-khyber"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3319,
+    "title": "Malamjaba Stupa and Monastery ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3319",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3320,
+    "title": "Sisaka Kandaro Patay Dadahara Stupa and Monastery ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3320",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3335,
+    "title": "Ruined Stupa near Charbagh",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3335",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3312,
+    "title": "Baligram Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3312",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3357,
+    "title": "Churrai Fort ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3357",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3373,
+    "title": "Aad-e-Sammud Caves",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3373",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-kohat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3345,
+    "title": "Stupas of Shararai Site ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3345",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3388,
+    "title": "Bar Girbanr Sar Stupa Site",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3388",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-malakand"
+    ],
+    "coordinateCollisions": [
+      3387,
+      3386
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3471,
+    "title": "Raj Kapoor`s House",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3471",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3491,
+    "title": "Barabru Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3491",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3816,
+    "title": "Palurdan Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3816",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mansehra"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3952,
+    "title": "Frontier House",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3952",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1234,
+    "title": "Old Fort Naghar",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1234",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-chitral-lower"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 10378,
+    "title": "Shatial Bridge Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/10378",
+    "issues": [
+      "source-district-spatial-conflict",
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-kohistan-upper"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3468,
+    "title": "Palosi Piran Complex (Shiekh Imam Din Tomb)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3468",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3316,
+    "title": "Shna-Shah Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3316",
+    "issues": [
+      "source-district-spatial-conflict",
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-buner"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3299,
+    "title": "Stupa of Tokar Dara (Najigram)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3299",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3305,
+    "title": "Butkara III",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3305",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4612,
+    "title": "Akhund Panju Baba Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4612",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-nowshera"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 9719,
+    "title": "Badrangai Ghundai (Bakka Khel Wazir)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9719",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bannu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1423,
+    "title": "Chatpat Mound",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1423",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-lower-dir"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 9962,
+    "title": "Governor House (Nathiagali)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9962",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 10327,
+    "title": "White Palace, Marghazar",
+    "sourceUrl": "https://doam.gov.pk/public/sites/10327",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 10329,
+    "title": "The Royal Palace (Saidu Sharif)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/10329",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1776,
+    "title": "Attock Bridge Stupa ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1776",
+    "issues": [
+      "source-region-spatial-conflict",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "punjab-attock"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1528,
+    "title": "Andan Dherai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1528",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-lower-dir"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 10326,
+    "title": "Mekha Sanda",
+    "sourceUrl": "https://doam.gov.pk/public/sites/10326",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mardan"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1798,
+    "title": "Jehangira Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1798",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-nowshera"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 2239,
+    "title": "Gala Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/2239",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swabi"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 2323,
+    "title": "The Stupas of Abbasahebchina (Najigram)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/2323",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3291,
+    "title": "Stupa ofJurjurai",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3291",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 2761,
+    "title": "Sanghao Cave",
+    "sourceUrl": "https://doam.gov.pk/public/sites/2761",
+    "issues": [
+      "whole-minute-pair",
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mardan"
+    ],
+    "coordinateCollisions": [
+      2676
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3479,
+    "title": "Baoli  Mosque(Pukhta Masjid)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3479",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3643,
+    "title": "Damkot Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3643",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-lower-dir"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4538,
+    "title": "All Saints Church",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4538",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4446,
+    "title": "Abbot Museum",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4446",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4503,
+    "title": "Lal Mahra Sharif Tombs",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4503",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-d-i-khan"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4515,
+    "title": "Asota Megalithic Circle",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4515",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swabi"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 9734,
+    "title": "Shaikhan Dheri",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9734",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-charsadda"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 4617,
+    "title": "Nawab Said Khan Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4617",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-peshawar"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3290,
+    "title": "Stupa of Gharasa (Dangram)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3290",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 10361,
+    "title": "Jamrud Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/10361",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-khyber"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1046,
+    "title": "Nasran Dheri II",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1046",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-tank"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1245,
+    "title": "Chuinj Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1245",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-chitral-upper"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 1680,
+    "title": "Kano Qila",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1680",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mohmand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 9532,
+    "title": "Rock Carvings in Dam Kot",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9532",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-lower-dir"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 9687,
+    "title": "Haibatgram Stupa",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9687",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-malakand"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 9718,
+    "title": "Sheri Khan Tarakai (Jani Khel wazir)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9718",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-bannu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 9770,
+    "title": "Udigram (Rock Art)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9770",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 9896,
+    "title": "Butkara (Rock Art)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9896",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 10331,
+    "title": "Tomb of Akhund of Swat",
+    "sourceUrl": "https://doam.gov.pk/public/sites/10331",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 10330,
+    "title": "Palace of the last Wali of Swat",
+    "sourceUrl": "https://doam.gov.pk/public/sites/10330",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3289,
+    "title": "Chora Spena Qila Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3289",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-khyber"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3334,
+    "title": "Ruined Stupas in Kandag Valley",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3334",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 10328,
+    "title": "Allah o Akbar Mosque",
+    "sourceUrl": "https://doam.gov.pk/public/sites/10328",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 78,
+    "title": "Nawab Haibat Khan House",
+    "sourceUrl": "https://doam.gov.pk/public/sites/78",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mansehra"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 57,
+    "title": "Tanoli House ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/57",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mansehra"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 4432,
+    "title": "Shaglana II (Fort)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/4432",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-lower-dir"
+    ],
+    "coordinateCollisions": [
+      1213,
+      1208,
+      1210,
+      1197,
+      1198,
+      1199
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 16,
+    "title": "Aziz Khan House",
+    "sourceUrl": "https://doam.gov.pk/public/sites/16",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mansehra"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 116,
+    "title": "Iron Bridge (Garhi Habibullah)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/116",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mansehra"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 3115,
+    "title": "Adam Baba Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3115",
+    "issues": [
+      "whole-minute-pair"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-hangu"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 1958,
+    "title": "Nehag Cave III",
+    "sourceUrl": "https://doam.gov.pk/public/sites/1958",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-upper-dir"
+    ],
+    "coordinateCollisions": [
+      1955
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 3563,
+    "title": "Madona Tomb",
+    "sourceUrl": "https://doam.gov.pk/public/sites/3563",
+    "issues": [],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-mansehra"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  }
+]

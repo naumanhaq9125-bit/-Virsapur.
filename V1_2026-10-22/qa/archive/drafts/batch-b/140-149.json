@@ -1,0 +1,1086 @@
+[
+  {
+    "id": "story-the-indus-script-why-short-texts-resist-easy-answers",
+    "type": "story",
+    "slug": "the-indus-script-why-short-texts-resist-easy-answers",
+    "title": "The Indus script: why short texts resist easy answers",
+    "summary": "Short inscriptions offer patterns without an agreed translation. Reading Indus signs responsibly means separating what an object shows from what a proposed decipherment claims.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "An Indus inscription can be immediately recognisable without being readable. Its signs invite comparison: an angular shape returns, a sequence resembles another, or an animal appears beneath a line of marks. Recognition, however, is not translation. A convincing account must explain how a proposed meaning was reached and whether the same method works beyond the example chosen to illustrate it."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Three different questions"
+    },
+    {
+      "type": "paragraph",
+      "text": "What signs occur together? What kind of communication did they perform? What language, if any, did a particular sequence record? These are related questions, but answering the first does not automatically settle the others. In their 2009 study, Rajesh Rao and colleagues examined sequential patterns using a Markov model. Their work investigated statistical structure; it did not supply a generally accepted reading of individual inscriptions."
+      },
+      {
+        "type": "paragraph",
+        "text": "The difficulty is partly the material available. The study identifies brevity, the absence of a known bilingual and uncertainty about the underlying language as obstacles. A very short sequence offers few opportunities to test a proposed grammar. Assigning a familiar word to one sign may feel persuasive, yet several incompatible explanations can fit an isolated example."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "The object still speaks"
+    },
+    {
+      "type": "paragraph",
+      "text": "This does not make an inscribed object archaeologically silent. Kenoyer and Meadow's study of material excavated at Harappa between 1986 and 2007 places inscriptions within documented find contexts. Their approach demonstrates the value of asking where an object was recovered and what kind of object carried the marks, even when the marks cannot be translated."
+      },
+      {
+        "type": "paragraph",
+        "text": "For an archive reader, the practical distinction is between an observation and its interpretation. “This sign appears twice” reports something checkable. “This sign names a king” introduces a linguistic and historical claim. The second needs additional evidence, not simply confidence or a visually attractive diagram."
+      },
+      {
+        "type": "paragraph",
+        "text": "A useful decipherment proposal should therefore explain its sign readings consistently, identify exceptions and test previously unexamined inscriptions. A claim that changes its rules whenever a new object appears cannot be assessed in the same way as one that makes clear, repeatable predictions."
+      },
+      {
+        "type": "paragraph",
+        "text": "At Harappa or Moenjodaro, uncertainty should sharpen attention rather than end it. Examine the relationship between inscription, image and surface. Ask whether a photograph shows an original object or a reproduced impression. Then keep the unresolved language question visible. The achievement of Indus communication does not depend on supplying a modern sentence where the evidence does not yet support one."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "Indus script undeciphered",
+      "archaeology Pakistan",
+      "Harappa",
+      "Moenjodaro"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-sahiwal",
+      "sindh-larkana"
+    ],
+    "provinceRegionIds": [
+      "punjab",
+      "sindh"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6579",
+      "unesco-138"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "The Indus script: why short texts resist easy answers | Virsapur",
+      "description": "Short inscriptions offer patterns without an agreed translation. Reading Indus signs responsibly means separating what an object shows from what a proposed decipherment claims.",
+      "primaryKeyword": "Indus script undeciphered",
+      "socialTitle": "The Indus script: why short texts resist easy answers",
+      "socialDescription": "Short inscriptions offer patterns without an agreed translation. Reading Indus signs responsibly means separating what an object shows from what a proposed decipherment claims."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "A Markov model of the Indus script",
+        "url": "https://homes.cs.washington.edu/~rao/PNASIndus.pdf",
+        "publisher": "Rao and colleagues, University of Washington / PNAS",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Inscribed Objects from Harappa Excavations 1986–2007",
+        "url": "https://www.harappa.com/content/inscribed-objects-harappa-excavations-1986-2007",
+        "publisher": "Jonathan Mark Kenoyer and Richard H. Meadow / Harappa.com",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "editorialReason": "Explain the evidence problem and identify unsupported decipherment claims without endorsing one.",
+    "internalNotes": "Original review draft. Source-backed observations are distinguished from interpretive questions and hypothetical examples. Specialist editorial review required; no photography cleared. Sources include full-text pages and indexed primary-research abstracts; do not imply all referenced volumes were read in full."
+  },
+  {
+    "id": "story-seals-and-sealings-an-archaeological-distinction",
+    "type": "story",
+    "slug": "seals-and-sealings-an-archaeological-distinction",
+    "title": "Seals and sealings: an archaeological distinction",
+    "summary": "A seal makes an impression; a sealing preserves one. That difference changes what each object can tell us about handling, authority and archaeological context.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A museum photograph can place an engraved seal beside a crisp impression and make them appear to be a single ancient discovery. They are not necessarily the same kind of evidence. The seal is the object used to create a mark. A sealing is material bearing that mark. Before interpreting either, establish what the catalogue actually describes."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Read the label before the image"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Metropolitan Museum of Art labels its Indus example as a stamp seal with a modern impression. The seal is catalogued as burnt steatite and assigned to the Mature Harappan period. The accompanying impression helps a viewer see the design, but its modern manufacture means it cannot independently demonstrate an ancient act of sealing."
+      },
+      {
+        "type": "paragraph",
+        "text": "That distinction also affects orientation. A recessed design and the raised impression it produces are counterparts, not identical views. A reader comparing photographs needs to know which surface is shown before treating differences in direction as evidence about an inscription. Good documentation should make this clear rather than rely on visual familiarity."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Tool, action and surviving trace"
+    },
+    {
+      "type": "paragraph",
+      "text": "The museum discusses stamp seals in relation to ownership and status. Those broad possibilities do not identify the owner of this particular object or reconstruct every occasion on which it was used. A seal could survive without the material it once marked. Conversely, an impression might survive when the tool that made it has disappeared."
+      },
+      {
+        "type": "paragraph",
+        "text": "A simple analytical exercise helps. Imagine two otherwise similar discoveries: a seal found among accumulated settlement debris, and an impression recovered on material still associated with a container. The second situation would offer an additional connection between mark and use. This is a hypothetical comparison, not a report of a specific find at Chanhudaro. Its purpose is to show why archaeological association matters."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mackay's account of the Chanhudaro excavations discusses different kinds of seal-like objects across occupation levels. It should be read as an early excavation report, not as a timeless explanation of every object's purpose. Its classifications and historical language require critical assessment alongside the recorded material."
+      },
+      {
+        "type": "paragraph",
+        "text": "The useful question is consequently not just “What does this symbol mean?” It is “What happened to this object, and which part of that history survives?” A catalogue that separates ancient tool, ancient trace and modern demonstration gives readers a firmer starting point. It also protects an attractive reconstruction from quietly becoming evidence for an event that has not actually been documented."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "Indus seals sealings",
+      "archaeology Pakistan",
+      "Chanhudaro"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "sindh-shaheed-benazir-abad"
+    ],
+    "provinceRegionIds": [
+      "sindh"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6464"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "Seals and sealings: an archaeological distinction | Virsapur",
+      "description": "A seal makes an impression; a sealing preserves one. That difference changes what each object can tell us about handling, authority and archaeological context.",
+      "primaryKeyword": "Indus seals sealings",
+      "socialTitle": "Seals and sealings: an archaeological distinction",
+      "socialDescription": "A seal makes an impression; a sealing preserves one. That difference changes what each object can tell us about handling, authority and archaeological context."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Stamp seal and modern impression: unicorn and incense burner (?)",
+        "url": "https://www.metmuseum.org/art/collection/search/324062",
+        "publisher": "The Metropolitan Museum of Art",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Excavations at Chanhu-daro 1935–36",
+        "url": "https://www.harappa.com/content/excavations-chanhu-daro-1935-36",
+        "publisher": "Ernest Mackay / Smithsonian Institution, reproduced by Harappa.com",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "editorialReason": "Distinguish the tool from its impression and explain why find context changes interpretation.",
+    "internalNotes": "Original review draft. Source-backed observations are distinguished from interpretive questions and hypothetical examples. Specialist editorial review required; no photography cleared. Sources include full-text pages and indexed primary-research abstracts; do not imply all referenced volumes were read in full."
+  },
+  {
+    "id": "story-households-and-workshops-in-an-indus-settlement",
+    "type": "story",
+    "slug": "households-and-workshops-in-an-indus-settlement",
+    "title": "Households and workshops in an Indus settlement",
+    "summary": "Craft debris helps identify production, but it does not automatically reveal a factory. Chanhudaro offers a starting point for distinguishing work processes from assumptions about labour.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A finished bead is evidence of an accomplished object. A partly worked stone, a drill or a scatter of production waste can answer a different question: how was the object made? For an Indus settlement, distinguishing those questions is essential before a cluster of finds is confidently labelled a workshop."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Reconstruct a process, not a modern workplace"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jonathan Mark Kenoyer's study of Indus stone beads places Chanhudaro's bead workshop within the history of archaeological research. It also explains why recording should consider material, shaping, drilling, surface treatment, wear and later alteration. Classification by appearance alone can conceal differences in how an object reached its surviving state."
+      },
+      {
+        "type": "paragraph",
+        "text": "The implications extend beyond beads. A production sequence has stages, and different stages leave different traces. Finding material from one stage does not establish that every other stage occurred in the same room. Nor does a concentration of finished products necessarily identify a place of manufacture; it could prompt questions about storage, exchange or later disposal."
+      },
+      {
+        "type": "paragraph",
+        "text": "Consider the distinction between a room's last contents and its full history. A space used for work might later be cleared or filled with rubbish. A household might undertake a specialised task alongside other activities. These are analytical alternatives to investigate, not descriptions that can be assigned to every Indus house."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Why comparison needs restraint"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ethnoarchaeological work on bead-making at Khambhat provides a way to study the relationship between activities and the traces they leave. Such comparison is useful because it asks what waste, tools and working arrangements look like together. It does not establish that ancient workers had identical households, employment relationships or social identities."
+      },
+      {
+        "type": "paragraph",
+        "text": "Calling a site a factory can import assumptions about permanent employees, central management and separated domestic space. Each assumption needs its own evidence. A more careful account can identify specialised production while leaving the organisation of labour open where the archaeological record does not decide it."
+      },
+      {
+        "type": "paragraph",
+        "text": "For visitors reading a plan of Harappa or Chanhudaro, this changes the emphasis. Instead of looking only for an impressive room, ask how the excavation linked particular finds with particular surfaces and phases. Were objects recorded together, or assembled later under a broad site name? Does the interpretation concern making, using or discarding?"
+      },
+      {
+        "type": "paragraph",
+        "text": "The most informative workshop story is not necessarily the grandest. It may describe a single operation clearly, distinguish debris from finished goods and explain why the relationship with neighbouring domestic space remains uncertain. That is a richer account of skilled labour than turning every concentration of craft material into the same modern industrial scene."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "Indus craft workshops",
+      "archaeology Pakistan",
+      "Chanhudaro",
+      "Harappa"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "sindh-shaheed-benazir-abad",
+      "punjab-sahiwal"
+    ],
+    "provinceRegionIds": [
+      "sindh",
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6464",
+      "major-doam-6579"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "Households and workshops in an Indus settlement | Virsapur",
+      "description": "Craft debris helps identify production, but it does not automatically reveal a factory. Chanhudaro offers a starting point for distinguishing work processes from assumptions about labour.",
+      "primaryKeyword": "Indus craft workshops",
+      "socialTitle": "Households and workshops in an Indus settlement",
+      "socialDescription": "Craft debris helps identify production, but it does not automatically reveal a factory. Chanhudaro offers a starting point for distinguishing work processes from assumptions about labour."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Stone Beads of the Indus Tradition: New Perspectives on Harappan Bead Typology, Technology and Documentation",
+        "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer2017%20Stone%20Beads_Chapter%2007.pdf",
+        "publisher": "Jonathan Mark Kenoyer",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Ethnoarchaeological Excavations of the Bead Making Workshops of Khambhat",
+        "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer1991_Ethnoarchaeological%20Excavations%20of%20the%20Bead%20Maki.pdf",
+        "publisher": "Jonathan Mark Kenoyer and colleagues",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "editorialReason": "Investigate the evidence for production spaces rather than assume modern factory organisation.",
+    "internalNotes": "Original review draft. Source-backed observations are distinguished from interpretive questions and hypothetical examples. Specialist editorial review required; no photography cleared. Sources include full-text pages and indexed primary-research abstracts; do not imply all referenced volumes were read in full."
+  },
+  {
+    "id": "story-the-disputed-granaries-of-indus-archaeology",
+    "type": "story",
+    "slug": "the-disputed-granaries-of-indus-archaeology",
+    "title": "The disputed granaries of Indus archaeology",
+    "summary": "Harappa's so-called granary shows how a familiar building name can outlive the evidence for its function. The monument remains important even when its interpretation changes.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A name can become the most durable part of a ruin. Once a building appears on maps and in schoolbooks as a granary, visitors begin to see its walls as proof of grain storage. At Harappa, the question should run in the opposite direction: what evidence supports the name?"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "A building and an interpretation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jonathan Mark Kenoyer's account identifies the so-called granary on Mound F as a substantial brick structure organised in two rows of rooms beside a passage. He also notes the absence of the concentrations of burnt grain or storage vessels that would help establish the proposed function. The granary interpretation relied on comparisons with buildings elsewhere, rather than a decisive local assemblage."
+      },
+      {
+        "type": "paragraph",
+        "text": "This does not mean the surviving architecture is unimportant. It means that scale, construction and arrangement are observations, while “granary” is an interpretation placed upon them. The difference should remain visible in a caption, a tour or a digital reconstruction. Quotation marks can be useful when a conventional name is retained for recognition."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "What would strengthen a functional argument?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A building's function is more persuasive when several kinds of evidence agree. An architectural arrangement may suggest one activity, but contents, residues, access patterns and the sequence of alterations can support or complicate that suggestion. The absence of one expected feature is not automatically conclusive; preservation and the extent of excavation also matter."
+      },
+      {
+        "type": "paragraph",
+        "text": "The appropriate response is therefore not to replace one confident name with another equally confident guess. Calling the structure a palace, temple or administrative centre without the necessary evidence would repeat the same mistake. A description can remain exact about the surviving walls while being cautious about the activities once performed above or between them."
+      },
+      {
+        "type": "paragraph",
+        "text": "Harappa.com's account of renewed excavation reports further investigation of this area without the discovery of grain that might settle the old label. That is a reminder that archaeological interpretation is revisable. New excavation can question an inherited explanation even when the outline of a building has long been familiar."
+      },
+      {
+        "type": "paragraph",
+        "text": "For a visitor, a productive exercise is to separate three layers of information: what survives, what excavators reconstructed and what later interpreters proposed. A plan may show all three with similar visual authority unless its conventions are explained."
+      },
+      {
+        "type": "paragraph",
+        "text": "The disputed granary is consequently not an embarrassment to archaeology. It is an example of its corrective work. The most responsible account does not promise certainty that the evidence cannot supply. It lets a major public structure remain a major public structure, while keeping the question of its precise use open to further investigation."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "Indus granary interpretation",
+      "archaeology Pakistan",
+      "Harappa",
+      "Moenjodaro"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-sahiwal",
+      "sindh-larkana"
+    ],
+    "provinceRegionIds": [
+      "punjab",
+      "sindh"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6579",
+      "unesco-138"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "The disputed granaries of Indus archaeology | Virsapur",
+      "description": "Harappa's so-called granary shows how a familiar building name can outlive the evidence for its function. The monument remains important even when its interpretation changes.",
+      "primaryKeyword": "Indus granary interpretation",
+      "socialTitle": "The disputed granaries of Indus archaeology",
+      "socialDescription": "Harappa's so-called granary shows how a familiar building name can outlive the evidence for its function. The monument remains important even when its interpretation changes."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "“Granary,” Harappa",
+        "url": "https://www.harappa.com/indus/15.html",
+        "publisher": "Jonathan Mark Kenoyer / Harappa.com",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Granary Excavations Reveal New Facts",
+        "url": "https://www.harappa.com/blog/granary-excavations-reveal-new-facts",
+        "publisher": "Harappa.com",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "editorialReason": "Use changing interpretations to show why old building names need scrutiny.",
+    "internalNotes": "Original review draft. Source-backed observations are distinguished from interpretive questions and hypothetical examples. Specialist editorial review required; no photography cleared. Sources include full-text pages and indexed primary-research abstracts; do not imply all referenced volumes were read in full."
+  },
+  {
+    "id": "story-urban-change-after-the-mature-harappan-period",
+    "type": "story",
+    "slug": "urban-change-after-the-mature-harappan-period",
+    "title": "Urban change after the Mature Harappan period",
+    "summary": "Changes after the Mature Harappan period need regional chronologies, not one dramatic ending. Environmental research helps explain pressures without reducing every settlement to the same story.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The end of a familiar urban pattern is not the same event as the disappearance of a population. When discussing change after the Mature Harappan period, that distinction prevents a sequence of regional developments from being compressed into one catastrophe."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Ask what changed, and where"
+    },
+    {
+      "type": "paragraph",
+      "text": "A city can become smaller while nearby settlement continues. A craft tradition can change while some skills persist. A building can be abandoned without proving that its surrounding region became empty. These are different historical questions, and each requires evidence at an appropriate scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Giosan and colleagues' study of river landscapes offers one important line of investigation. Their analysis relates settlement distribution to changing environmental conditions and argues for a gradual process involving reduced flood intensity and an eastward shift of settlement. It challenges explanations that depend on a single abrupt arid event affecting every place in the same way."
+      },
+      {
+        "type": "paragraph",
+        "text": "That argument should be presented as a research interpretation, not converted into a universal timetable. A regional model is valuable precisely because it can be tested against individual settlements. It does not eliminate the need to establish when particular buildings, activities or neighbourhoods changed."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Several clocks are running"
+    },
+    {
+      "type": "paragraph",
+      "text": "Climate evidence, river history and archaeological phases are not interchangeable dates. A broad environmental trend may extend over a period much longer than the occupation of a single building. Before joining the two into a causal story, ask whether their dating is sufficiently close and whether the proposed mechanism fits the local evidence."
+      },
+      {
+        "type": "paragraph",
+        "text": "The word “collapse” can obscure those intermediate steps. Does it describe changes in settlement size, political organisation, trade, construction or material culture? If the term remains undefined, almost any alteration can be made to support it. More specific language makes disagreement easier to understand and research easier to evaluate."
+      },
+      {
+        "type": "paragraph",
+        "text": "For Harappa, the useful editorial task is therefore to assemble a sequence rather than invent a final day. A responsible site account should distinguish a regional historical framework from the evidence recovered at Harappa itself. It should also avoid treating every later object as either a complete survival of the urban past or proof of an entirely new population."
+      },
+      {
+        "type": "paragraph",
+        "text": "This approach leaves room for difficult questions about livelihood, movement and adaptation. It does not romanticise change as effortless resilience, nor assume that every change was disastrous. It asks who or what continued, what became less viable and which aspects of the story are still unresolved."
+      },
+      {
+        "type": "paragraph",
+        "text": "An archaeological landscape is rarely explained by a single falling curtain. Reading its transitions carefully can reveal more than the search for one spectacular ending."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "Late Harappan transformation",
+      "archaeology Pakistan",
+      "Harappa"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-sahiwal"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6579"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "Urban change after the Mature Harappan period | Virsapur",
+      "description": "Changes after the Mature Harappan period need regional chronologies, not one dramatic ending. Environmental research helps explain pressures without reducing every settlement to the same story.",
+      "primaryKeyword": "Late Harappan transformation",
+      "socialTitle": "Urban change after the Mature Harappan period",
+      "socialDescription": "Changes after the Mature Harappan period need regional chronologies, not one dramatic ending. Environmental research helps explain pressures without reducing every settlement to the same story."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Fluvial landscapes of the Harappan civilization",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3387054/",
+        "publisher": "Liviu Giosan and colleagues / PNAS",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Fluvial landscapes of the Harappan civilization — bibliographic record",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22645375/",
+        "publisher": "US National Library of Medicine",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "editorialReason": "Replace a single-catastrophe collapse story with regional and chronological questions.",
+    "internalNotes": "Original review draft. Source-backed observations are distinguished from interpretive questions and hypothetical examples. Specialist editorial review required; no photography cleared. Sources include full-text pages and indexed primary-research abstracts; do not imply all referenced volumes were read in full."
+  },
+  {
+    "id": "story-coastal-sites-and-a-moving-shoreline",
+    "type": "story",
+    "slug": "coastal-sites-and-a-moving-shoreline",
+    "title": "Coastal sites and a moving shoreline",
+    "summary": "Today's distance from the sea is not an ancient harbour measurement. Coastal archaeology has to connect settlement evidence with a changing landscape.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A coastal site can lie inland today without having been equally distant from water in every earlier period. The reverse assumption is also unsafe: proximity to the present shoreline does not establish that a settlement was an ancient port. Maritime geography has to be reconstructed, not borrowed unchanged from a modern map."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Sutkagen Dor and the problem of distance"
+    },
+    {
+      "type": "paragraph",
+      "text": "The University of California's Archaeological Research Facility lists the 1992 volume Explorations on the Makran Coast, Pakistan: A Search for Paradise, edited by George Dales and Carl Lipo. That catalogue entry identifies a research route, not proof of an ancient harbour. A reader investigating Sutkagen Dor's distance from water still needs to examine the underlying survey, mapped reconstruction and dating evidence before accepting a proposed shoreline."
+      },
+      {
+        "type": "paragraph",
+        "text": "A harbour argument involves more than drawing a line between a ruin and the sea. It needs evidence about water access, the character of channels or landing places and the date of those conditions. A navigable route at one moment might not remain usable at another. A coastal exchange network also need not imply that every participating settlement possessed a monumental dock."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Do not make the map answer everything"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine a reconstruction showing an earlier shore nearer an archaeological site. That would make a maritime relationship more plausible, but it would not by itself identify the cargo, the people involved or the settlement's administrative role. Those questions require additional archaeological evidence."
+      },
+      {
+        "type": "paragraph",
+        "text": "Likewise, material arriving from elsewhere can demonstrate a connection without proving the exact route travelled. A destination and an origin do not fill in every intermediate journey. This distinction matters when attractive maps turn possible paths into solid, authoritative lines."
+      },
+      {
+        "type": "paragraph",
+        "text": "The wider river-landscape research associated with Giosan and colleagues reinforces the importance of reading settlements within changing physical systems. Coastal sites and inland river sites present different problems, however; evidence from one cannot simply be transferred to the other."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sutkagen Dor and Banbhore should also not be blended into one undated maritime story. A comparative account needs to establish each site's period and evidence independently before discussing similarities. Their presence in the same heritage itinerary does not make them contemporary."
+      },
+      {
+        "type": "paragraph",
+        "text": "For an archive reader, the most useful map has a date, a stated basis and a visible distinction between observed features and reconstructed possibilities. A dotted route may be more honest than a confident arrow. The shoreline is part of the historical question, not a stable frame outside it."
+      },
+      {
+        "type": "paragraph",
+        "text": "That perspective makes coastal archaeology more interesting: it treats settlement, water and movement as relationships that had to be maintained in a landscape that could change."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "Indus coastal archaeology",
+      "archaeology Pakistan",
+      "Sutkagen-Dor",
+      "Banbhore"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "balochistan-gwadar",
+      "sindh-thatta"
+    ],
+    "provinceRegionIds": [
+      "balochistan",
+      "sindh"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-8639",
+      "major-doam-5512"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "Coastal sites and a moving shoreline | Virsapur",
+      "description": "Today's distance from the sea is not an ancient harbour measurement. Coastal archaeology has to connect settlement evidence with a changing landscape.",
+      "primaryKeyword": "Indus coastal archaeology",
+      "socialTitle": "Coastal sites and a moving shoreline",
+      "socialDescription": "Today's distance from the sea is not an ancient harbour measurement. Coastal archaeology has to connect settlement evidence with a changing landscape."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Explorations on the Makran Coast, Pakistan: A Search for Paradise — publication catalogue",
+        "url": "https://arf.berkeley.edu/publications/explorations-makran-coast-pakistan-search-paradise",
+        "publisher": "Archaeological Research Facility, University of California, Berkeley",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Fluvial landscapes of the Harappan civilization",
+        "url": "https://landscapepartnership.org/maps-data/climate-context/cc-resources/ClimateSciPDFs/PNASGiosanetalsmall.pdf/app-download-file/file/PNASGiosanetalsmall.pdf",
+        "publisher": "Liviu Giosan and colleagues / PNAS",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "editorialReason": "Explain why ancient maritime geography cannot be read directly from today’s coastline.",
+    "internalNotes": "Original review draft. Source-backed observations are distinguished from interpretive questions and hypothetical examples. Specialist editorial review required; no photography cleared. Sources include full-text pages and indexed primary-research abstracts; do not imply all referenced volumes were read in full."
+  },
+  {
+    "id": "story-gandhara-as-a-region-not-a-single-dynasty",
+    "type": "story",
+    "slug": "gandhara-as-a-region-not-a-single-dynasty",
+    "title": "Gandhara as a region, not a single dynasty",
+    "summary": "Gandhara names a regional world that crossed political changes. Separating region, dynasty and artistic attribution makes its heritage easier to understand.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "“Gandharan” and “Kushan” often appear together on museum labels, but they do not answer the same question. One can describe a regional cultural or artistic context; the other identifies a ruling dynasty and a historical period associated with it. Treating the words as synonyms makes a complicated history look simpler than it was."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Region is not ruler"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Metropolitan Museum of Art describes Gandhara within areas of present-day Pakistan and Afghanistan and places it within a succession of political formations. Its account discusses the Kushans' importance alongside earlier rulers and wider commercial connections. The region's history therefore cannot be reduced to the lifespan of one dynasty."
+      },
+      {
+        "type": "paragraph",
+        "text": "The distinction is practical. A sculpture attributed to Gandhara is not, solely for that reason, securely dated to a particular king. A monument in the region may contain phases created under different political conditions. Place, date and patronage need to be established separately before they are joined into a narrative."
+      },
+      {
+        "type": "paragraph",
+        "text": "Modern borders add another layer. They are useful for locating heritage institutions and planning an itinerary, but they should not be projected backwards as the boundaries of every ancient cultural network. Equally, calling a region interconnected does not mean its local differences disappeared."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "What an attribution actually says"
+    },
+    {
+      "type": "paragraph",
+      "text": "A catalogue may use “Gandhara” for a find location, a cultural attribution or an artistic classification. Those categories should not be silently exchanged. An object excavated at a named site carries a different kind of locational evidence from an unprovenanced object assigned to a region through stylistic comparison."
+      },
+      {
+        "type": "paragraph",
+        "text": "A reader can test a label by asking three questions: where was the object found, when is it thought to have been made, and what supports that date? If one answer is uncertain, the uncertainty should remain attached to that answer rather than spreading into invented precision elsewhere."
+      },
+      {
+        "type": "paragraph",
+        "text": "The same discipline helps when visiting Taxila or Takht-i-Bahi. Their place in a Gandharan heritage itinerary is an invitation to compare architecture, institutions and material evidence. It is not a claim that every visible wall was built in one uniform “Gandhara age”."
+      },
+      {
+        "type": "paragraph",
+        "text": "Regional language remains useful when it illuminates relationships. It becomes misleading when it replaces chronology. A better account can acknowledge connections across the north-west while still distinguishing individual sites and phases."
+      },
+      {
+        "type": "paragraph",
+        "text": "Gandhara is therefore best approached as a historical geography to investigate, not a single dynasty to memorise. That change in perspective allows both the shared visual vocabulary and the differences between places to remain visible."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "Gandhara historical region",
+      "archaeology Pakistan",
+      "Taxila",
+      "Takht-i-Bahi & Sahr-i-Bahlol"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "khyber-pakhtunkhwa-haripur",
+      "punjab-rawalpindi",
+      "khyber-pakhtunkhwa-mardan"
+    ],
+    "provinceRegionIds": [
+      "khyber-pakhtunkhwa",
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "unesco-139",
+      "unesco-140"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "Gandhara as a region, not a single dynasty | Virsapur",
+      "description": "Gandhara names a regional world that crossed political changes. Separating region, dynasty and artistic attribution makes its heritage easier to understand.",
+      "primaryKeyword": "Gandhara historical region",
+      "socialTitle": "Gandhara as a region, not a single dynasty",
+      "socialDescription": "Gandhara names a regional world that crossed political changes. Separating region, dynasty and artistic attribution makes its heritage easier to understand."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Kushan Empire (ca. Second Century B.C.–Third Century A.D.)",
+        "url": "https://www.metmuseum.org/essays/kushan-empire-ca-second-century-b-c-third-century-a-d",
+        "publisher": "The Metropolitan Museum of Art",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Gandhara — collection terminology",
+        "url": "https://www.britishmuseum.org/collection/term/x21989",
+        "publisher": "The British Museum",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "editorialReason": "Separate a regional cultural label from changing rulers and modern borders.",
+    "internalNotes": "Original review draft. Source-backed observations are distinguished from interpretive questions and hypothetical examples. Specialist editorial review required; no photography cleared. Sources include full-text pages and indexed primary-research abstracts; do not imply all referenced volumes were read in full."
+  },
+  {
+    "id": "story-monasteries-and-towns-testing-an-economic-relationship",
+    "type": "story",
+    "slug": "monasteries-and-towns-testing-an-economic-relationship",
+    "title": "Monasteries and towns: testing an economic relationship",
+    "summary": "A monastery and a nearby town can be closely connected without having identical histories. Their economic relationship has to be demonstrated through evidence, not inferred from proximity alone.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A hilltop monastery can look detached from ordinary economic life. That appearance is partly a consequence of where a visitor stands. Moving the question from a single ruin to its surrounding settlement landscape can reveal a more demanding subject: how religious institutions and towns were connected."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Two places, not one interchangeable site"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNESCO's account of Takht-i-Bahi and Sahr-i-Bahlol distinguishes the monastic complex from the neighbouring fortified town. It identifies both as components of one World Heritage property. Their joint listing is significant, but it does not mean that every building belongs to the same moment or that the town's entire economy can be reconstructed from the monastery."
+      },
+      {
+        "type": "paragraph",
+        "text": "The paired sites encourage questions about movement, supplies, labour and patronage. Those are research questions, not conclusions supplied by distance alone. A nearby settlement might support several institutions; a religious establishment might draw resources from more than its closest neighbour."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "What would demonstrate a relationship?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A donor inscription can provide a named act of patronage. A securely documented find distribution might suggest movement of objects. Evidence for production or storage can support an argument about activities. None should automatically be made to stand for a complete financial system."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pakistan's Tentative List submission for Bazira-Barikot describes religious buildings within an urban setting alongside houses and production areas. It is a state-party nomination document, not an inscription decision. Its value here is the specific spatial question it raises: what changes when a sanctuary is studied as part of a town rather than pictured as an isolated retreat?"
+      },
+      {
+        "type": "paragraph",
+        "text": "A plan can show that two activities occupied neighbouring spaces. Establishing that they operated together requires chronology as well. Otherwise, buildings from different periods may be assembled into an imaginary simultaneous city."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Reading the economic story carefully"
+    },
+    {
+      "type": "paragraph",
+      "text": "The word “wealth” needs similar care. Elaborate construction can indicate substantial resources, but it does not identify everyone who supplied them or describe how benefits were distributed. A patron's visibility in an inscription is not a complete census of the people whose labour sustained a place."
+      },
+      {
+        "type": "paragraph",
+        "text": "For a heritage visitor, the most useful comparison is therefore between different kinds of evidence. Look at the institutional layout, then ask what the excavated settlement adds. Notice where a source records an activity and where an interpretation proposes a relationship."
+      },
+      {
+        "type": "paragraph",
+        "text": "This approach does not make monasteries less spiritual. It places religious practice within the material conditions that made buildings, gatherings and maintenance possible. The relationship between town and monastery becomes a historical investigation, rather than a choice between sacred isolation and an equally simplistic picture of commercial enterprise."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "Gandhara monastery economy",
+      "archaeology Pakistan",
+      "Takht-i-Bahi & Sahr-i-Bahlol",
+      "Bazira-Barikot"
+    ],
+    "province": "Khyber Pakhtunkhwa",
+    "district": null,
+    "relatedDistrictIds": [
+      "khyber-pakhtunkhwa-mardan",
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "provinceRegionIds": [
+      "khyber-pakhtunkhwa"
+    ],
+    "relatedHeritageIds": [
+      "unesco-140",
+      "major-bazira"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "Monasteries and towns: testing an economic relationship | Virsapur",
+      "description": "A monastery and a nearby town can be closely connected without having identical histories. Their economic relationship has to be demonstrated through evidence, not inferred from proximity alone.",
+      "primaryKeyword": "Gandhara monastery economy",
+      "socialTitle": "Monasteries and towns: testing an economic relationship",
+      "socialDescription": "A monastery and a nearby town can be closely connected without having identical histories. Their economic relationship has to be demonstrated through evidence, not inferred from proximity alone."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+        "url": "https://whc.unesco.org/en/list/140/",
+        "publisher": "UNESCO World Heritage Centre",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Bazira-Barikot — Tentative List submission",
+        "url": "https://whc.unesco.org/en/tentativelists/7034/",
+        "publisher": "Pakistan's Permanent Delegation to UNESCO / UNESCO World Heritage Centre",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "editorialReason": "Investigate donations and settlement links rather than assume monasteries were isolated retreats.",
+    "internalNotes": "Original review draft. Source-backed observations are distinguished from interpretive questions and hypothetical examples. Specialist editorial review required; no photography cleared. Sources include full-text pages and indexed primary-research abstracts; do not imply all referenced volumes were read in full."
+  },
+  {
+    "id": "story-why-stupas-were-rebuilt-around-older-stupas",
+    "type": "story",
+    "slug": "why-stupas-were-rebuilt-around-older-stupas",
+    "title": "Why stupas were rebuilt around older stupas",
+    "summary": "An enlarged stupa can preserve an older monument inside it. At Butkara I, successive building phases make sacred architecture a sequence rather than a single finished object.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A larger monument does not always replace a smaller one by clearing it away. Sometimes new construction encloses an earlier structure. For the archaeology of stupas, that relationship can turn an apparently unified form into evidence of successive decisions, repairs and acts of patronage."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "The monument has a sequence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Research on Butkara I distinguishes several structural phases of its main stupa. Olivieri and Filigenzi discuss the site's chronology through successive building periods rather than treating all surviving material as one commission. This is the essential point for a visitor: the form visible at the end of a sequence is not necessarily the form that began it."
+      },
+      {
+        "type": "paragraph",
+        "text": "Enlargement can preserve an older core while changing the exterior and the experience of approaching it. A new surrounding surface or addition may belong to a different phase from the structure it touches. The relationship has to be read through archaeological evidence, not assumed from how neatly the surviving pieces appear to fit together."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Continuity without a single motive"
+    },
+    {
+      "type": "paragraph",
+      "text": "Why enlarge rather than begin elsewhere? Continued investment in an established sacred focus is one possible interpretation. But the precise intention behind a particular rebuilding must not be supplied merely because that explanation sounds plausible. Construction can involve several motives, and the surviving evidence may not identify them all."
+      },
+      {
+        "type": "paragraph",
+        "text": "The distinction between sequence and motive is important. A masonry relationship may demonstrate that one phase followed another. It does not by itself reveal the donor's thoughts, the size of a congregation or the ceremony accompanying the work. Those claims need independent support."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dating presents a related challenge. Sculpture recovered near a monument is not automatically contemporary with its earliest core. An object may belong to an addition, a repair, a later deposit or material displaced during subsequent activity. A good interpretation explains the association instead of giving the whole complex one undifferentiated date."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "What to look for in a reconstruction"
+    },
+    {
+      "type": "paragraph",
+      "text": "A reconstruction should show which stage it represents. Combining the earliest plan with decoration or surrounding buildings from later phases can produce an attractive image of a moment that never existed. Colour-coded phases or separate drawings can make the argument more legible without pretending every detail is certain."
+      },
+      {
+        "type": "paragraph",
+        "text": "Butkara I is therefore more than an illustration of a stupa's shape. It offers a way to think about sacred architecture through time. The structure's significance includes what communities retained, what they covered and what they added."
+      },
+      {
+        "type": "paragraph",
+        "text": "Reading those changes carefully preserves the monument's accumulated history. It avoids reducing a long-lived place to either an untouched original or a succession of meaningless alterations."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "stupa building phases",
+      "archaeology Pakistan",
+      "Butkara I",
+      "Bhamala Buddhist Complex"
+    ],
+    "province": "Khyber Pakhtunkhwa",
+    "district": null,
+    "relatedDistrictIds": [
+      "khyber-pakhtunkhwa-swat",
+      "khyber-pakhtunkhwa-haripur"
+    ],
+    "provinceRegionIds": [
+      "khyber-pakhtunkhwa"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-3304",
+      "major-doam-823"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "Why stupas were rebuilt around older stupas | Virsapur",
+      "description": "An enlarged stupa can preserve an older monument inside it. At Butkara I, successive building phases make sacred architecture a sequence rather than a single finished object.",
+      "primaryKeyword": "stupa building phases",
+      "socialTitle": "Why stupas were rebuilt around older stupas",
+      "socialDescription": "An enlarged stupa can preserve an older monument inside it. At Butkara I, successive building phases make sacred architecture a sequence rather than a single finished object."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Problems of Chronology in Gandhāran Art — Olivieri and Filigenzi",
+        "url": "https://iris.unive.it/retrieve/e4239ddd-70be-7180-e053-3705fe0a3322/4%2C%20Olivieri%20and%20Filigenzi%20Offprint.pdf",
+        "publisher": "Luca Maria Olivieri and Anna Filigenzi / Ca' Foscari University repository",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "The Geography of Gandharan Art",
+        "url": "https://iris.unive.it/retrieve/e4239ddd-6ce0-7180-e053-3705fe0a3322/The%20Geography%20of%20Gandharan%20Art.pdf",
+        "publisher": "Ca' Foscari University repository",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "editorialReason": "Explain accumulated sacred construction through excavated phases.",
+    "internalNotes": "Original review draft. Source-backed observations are distinguished from interpretive questions and hypothetical examples. Specialist editorial review required; no photography cleared. Sources include full-text pages and indexed primary-research abstracts; do not imply all referenced volumes were read in full."
+  },
+  {
+    "id": "story-coins-in-context-a-date-is-not-the-whole-story",
+    "type": "story",
+    "slug": "coins-in-context-a-date-is-not-the-whole-story",
+    "title": "Coins in context: a date is not the whole story",
+    "summary": "A coin's issue date is not automatically a building's construction date. Archaeological context determines which chronological question a coin can help answer.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A coin appears to offer the archaeologist an unusually precise object: a recognisable ruler, an issue or a date range. The temptation is to transfer that precision directly to the room in which it was found. The missing step is the history between the coin's manufacture and its final deposition."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Three dates, three different events"
+    },
+    {
+      "type": "paragraph",
+      "text": "A coin was made, used and eventually deposited. Those events need not be close together. A worn or retained object can enter a context later than its issue date; material from an older deposit can also be moved into a newer one. A date on an object therefore does not automatically date every surrounding feature."
+      },
+      {
+        "type": "paragraph",
+        "text": "The chronological principle often described as a terminus post quem is a lower boundary: a secure deposit containing an object cannot predate that object's manufacture. It is not a statement that deposition happened immediately afterwards. Research on residual coins in other archaeological settings makes this distinction explicit and demonstrates why context cannot be omitted from interpretation."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "Barikot's chronological framework"
+    },
+    {
+      "type": "paragraph",
+      "text": "The numismatic study of Barikot emphasises recorded find locations and stratigraphic contexts. Research on the site's revised cultural sequence also draws on radiocarbon dating. Together, these sources illustrate a stronger approach than asking one coin to carry the entire chronology: different evidence is assessed within the excavation's sequence."
+      },
+      {
+        "type": "paragraph",
+        "text": "This does not mean radiocarbon dates and coin dates can simply be averaged. Each concerns different material and has its own relationship to the event being studied. The analytical task is to explain why a sample or object belongs to a particular phase and how its date constrains that phase."
+      },
+      {
+        "type": "paragraph",
+        "text": "Consider a hypothetical coin in the fill beneath a later floor. It might help establish that the fill was deposited after a certain point. It would not, without further evidence, identify the exact year the floor was laid or prove who commissioned the building. A coin found loose on an exposed surface presents a different evidential situation again."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+      "text": "What a useful label should tell you"
+    },
+    {
+      "type": "paragraph",
+      "text": "A museum or site label becomes more informative when it separates identification from archaeological association. “Coin of this ruler” is one statement. “Recovered in this documented context” is another. The argument linking that context with a building phase should remain visible."
+      },
+      {
+        "type": "paragraph",
+        "text": "For visitors to Swat's archaeological sites, coins are consequently best read as participants in a chronology rather than miniature calendars attached to walls. Their value grows when the excavation records survive with them."
+      },
+      {
+        "type": "paragraph",
+        "text": "The most precise historical account is not always the one with the most exact-looking year. It is the one that explains which event is dated and why."
+      }
+    ],
+    "primaryCategoryId": "archive-category-archaeology-ancient-civilisations",
+    "categoryIds": [
+      "archive-category-archaeology-ancient-civilisations"
+    ],
+    "tags": [
+      "archaeological coin context",
+      "archaeology Pakistan",
+      "Bazira-Barikot"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "khyber-pakhtunkhwa-swat"
+    ],
+    "provinceRegionIds": [
+      "khyber-pakhtunkhwa"
+    ],
+    "relatedHeritageIds": [
+      "major-bazira"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "archaeology",
+    "seo": {
+      "title": "Coins in context: a date is not the whole story | Virsapur",
+      "description": "A coin's issue date is not automatically a building's construction date. Archaeological context determines which chronological question a coin can help answer.",
+      "primaryKeyword": "archaeological coin context",
+      "socialTitle": "Coins in context: a date is not the whole story",
+      "socialDescription": "A coin's issue date is not automatically a building's construction date. Archaeological context determines which chronological question a coin can help answer."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "A Numismatic History of Barikot: Catalogue and Analysis of the Coin Finds from the Excavations at Bīr-koṭ-ghwaṇḍai",
+        "url": "https://doi.org/10.2307/jj.30599548.27",
+        "publisher": "Scholarly numismatic catalogue / JSTOR",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "A new revised chronology and cultural sequence of the Swat valley in the light of current excavations at Barikot",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0168583X19303866",
+        "publisher": "Research article, Nuclear Instruments and Methods in Physics Research B",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Questions concerning the residuality of brooches and coins in Romano-British contexts",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.12205",
+        "publisher": "Oxford Journal of Archaeology",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "editorialReason": "Distinguish mint date, circulation and deposition before using a coin to date a building.",
+    "internalNotes": "Original review draft. Source-backed observations are distinguished from interpretive questions and hypothetical examples. Specialist editorial review required; no photography cleared. Sources include full-text pages and indexed primary-research abstracts; do not imply all referenced volumes were read in full."
+  }
+]

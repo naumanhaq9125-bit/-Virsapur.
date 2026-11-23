@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-10-22T18:18:54.317Z",
+  "output": "C:\\Users\\user123\\Documents\\Codex\\2026-08-25\\can\\work\\virsapur-full-site\\dist-demo",
+  "mode": "demo",
+  "routeCount": 1074,
+  "htmlPages": 1075,
+  "indexable": 0,
+  "sitemapUrls": 0,
+  "imageCount": 3113,
+  "schemaCount": 1070,
+  "linkCount": 36773,
+  "orphans": [],
+  "pageSize": {
+    "max": 685985,
+    "largest": [
+      {
+        "path": "search/index.html",
+        "bytes": 685985
+      },
+      {
+        "path": "archives/all/index.html",
+        "bytes": 443654
+      },
+      {
+        "path": "tours/custom/index.html",
+        "bytes": 251850
+      },
+      {
+        "path": "archives/category/architecture-and-built-heritage/index.html",
+        "bytes": 129324
+      },
+      {
+        "path": "archives/category/archaeology-and-ancient-civilisations/index.html",
+        "bytes": 100382
+      },
+      {
+        "path": "archives/category/cultural-landscapes-and-historic-places/index.html",
+        "bytes": 99576
+      },
+      {
+        "path": "archives/category/sacred-heritage/index.html",
+        "bytes": 92035
+      },
+      {
+        "path": "archives/category/living-traditions/index.html",
+        "bytes": 88748
+      }
+    ]
+  },
+  "errors": [],
+  "warnings": [
+    "/projects/demo-learning-resource: description shared with /projects/demo-field-notes-pilot"
+  ],
+  "passed": true
+}

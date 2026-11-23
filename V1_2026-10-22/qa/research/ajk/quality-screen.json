@@ -1,0 +1,1034 @@
+[
+  {
+    "id": 6707,
+    "title": "Nawan well, Mirpur",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6707",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-mirpur"
+    ],
+    "coordinateCollisions": [
+      6704
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6720,
+    "title": "Wooden Houses (Larri) of Sharda",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6720",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6722,
+    "title": "Kern Wooden Graves",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6722",
+    "issues": [
+      "unassigned-protected-geometry"
+    ],
+    "derivedDistrictIds": [],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6723,
+    "title": "Bhrund Sacred Pond",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6723",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [
+      6639
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 5449,
+    "title": "Bhrund Rock Shelter",
+    "sourceUrl": "https://doam.gov.pk/public/sites/5449",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 9859,
+    "title": "Kishan Ghati (cave) near Sharda",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9859",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 5447,
+    "title": "Panthal Rock Shelter ",
+    "sourceUrl": "https://doam.gov.pk/public/sites/5447",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-sudhnoti"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 5457,
+    "title": "Tehjian Lower",
+    "sourceUrl": "https://doam.gov.pk/public/sites/5457",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [
+      6625,
+      6618
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 5462,
+    "title": "Pirchinasi Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/5462",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-muzaffarabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 5466,
+    "title": "Koi Kotli Saula Cup Marks",
+    "sourceUrl": "https://doam.gov.pk/public/sites/5466",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6657,
+    "title": "Chak Pandit Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6657",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-bhimber"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6685,
+    "title": "Bihal Baoli (a sacred spring)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6685",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6629,
+    "title": "Maera Khet",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6629",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-mirpur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6736,
+    "title": "Darbar Mai Toti Sahiba",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6736",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6608,
+    "title": "Sharda Megalith II",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6608",
+    "issues": [
+      "catalogue-coordinate-collision",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [
+      6612,
+      6606,
+      6682
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6611,
+    "title": "Chitarparhi Cup Marks",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6611",
+    "issues": [
+      "catalogue-coordinate-collision",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-jhelum-valley"
+    ],
+    "coordinateCollisions": [
+      5458
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6612,
+    "title": "Sharda Cup Marks I",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6612",
+    "issues": [
+      "catalogue-coordinate-collision",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [
+      6608,
+      6606,
+      6682
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6614,
+    "title": "Sharda Cup Marks II",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6614",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6622,
+    "title": "Dongi Ratta Sancturaies (Caves)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6622",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-mirpur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6625,
+    "title": "Danna Tehjian Site",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6625",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [
+      5457,
+      6618
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6626,
+    "title": "Khoi Ratta Settlement",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6626",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6627,
+    "title": "Kakuta Mound",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6627",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6644,
+    "title": "Seri Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6644",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6637,
+    "title": "Bhrund Temple (Kalhore Rajgan Temple Complex) No. 1",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6637",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6639,
+    "title": "Bhrund Temple (Kalhore Rajgan Temple Complex) No. 2",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6639",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [
+      6723
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6655,
+    "title": "Gilani Chowk Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6655",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-muzaffarabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6656,
+    "title": "Tonga Stand Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6656",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-muzaffarabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6662,
+    "title": "Sirahsila Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6662",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6691,
+    "title": "Choch Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6691",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6681,
+    "title": "Police line Gurdwara",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6681",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-muzaffarabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6688,
+    "title": "Chrohi Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6688",
+    "issues": [
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6704,
+    "title": "Nawan Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6704",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-mirpur"
+    ],
+    "coordinateCollisions": [
+      6707
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6693,
+    "title": "Mandol Bazar Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6693",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [
+      6635
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6694,
+    "title": "Rakhnatri Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6694",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6696,
+    "title": "Shamsabad Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6696",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6698,
+    "title": "Upper Koyian Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6698",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6700,
+    "title": "Nala Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6700",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6701,
+    "title": "Dehari Bagh Baoli I",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6701",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6717,
+    "title": "Mand Karo Wooden House No.3",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6717",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [
+      6718,
+      6719,
+      6714,
+      6716,
+      6721,
+      6630
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6718,
+    "title": "Mand Karo wooden House No.4",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6718",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [
+      6717,
+      6719,
+      6714,
+      6716,
+      6721,
+      6630
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6719,
+    "title": "Mand Karo Wooden House No.5",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6719",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [
+      6717,
+      6718,
+      6714,
+      6716,
+      6721,
+      6630
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6724,
+    "title": "Muhammad House",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6724",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-mirpur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6606,
+    "title": "Sharda Megalith I",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6606",
+    "issues": [
+      "catalogue-coordinate-collision",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [
+      6608,
+      6612,
+      6682
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6618,
+    "title": "Khel Patt Tehjian",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6618",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [
+      5457,
+      6625
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6619,
+    "title": "Khoi Ratta Rock-cut Caves",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6619",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6632,
+    "title": "Bihal Baoli Inscription, Khoi Ratta",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6632",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6635,
+    "title": "Mandole Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6635",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [
+      6693
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6642,
+    "title": "Kaini Bayan Temple Complex",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6642",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6651,
+    "title": "Sita Ram Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6651",
+    "issues": [
+      "source-region-spatial-conflict",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6653,
+    "title": "Radha Krishna Temple, Old Secretariat: Temple 1",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6653",
+    "issues": [
+      "source-region-spatial-conflict",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "khyber-pakhtunkhwa-abbottabad"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6659,
+    "title": "Hindu Temple, Mirpur",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6659",
+    "issues": [
+      "near-existing-place-within-20m",
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-mirpur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [
+      "major-doam-6676"
+    ],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6668,
+    "title": "Qila Karchai/ Karchai Fort",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6668",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6682,
+    "title": "Gulshan-e-Shuhada Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6682",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [
+      6608,
+      6612,
+      6606
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6686,
+    "title": "Barna Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6686",
+    "issues": [
+      "unassigned-protected-geometry"
+    ],
+    "derivedDistrictIds": [],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6689,
+    "title": "Seri Boali",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6689",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6692,
+    "title": "Taitrinot Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6692",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6697,
+    "title": "Irara Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6697",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6699,
+    "title": "Kushiani Bheak Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6699",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6706,
+    "title": "Talab Ram Singh (Mirpur)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6706",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-mirpur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6712,
+    "title": "Kakuta Mud House",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6712",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-poonch"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6714,
+    "title": "Mand Karo Wooden House No.1",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6714",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [
+      6717,
+      6718,
+      6719,
+      6716,
+      6721,
+      6630
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6716,
+    "title": "Mand Karo Wooden House No.2",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6716",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [
+      6717,
+      6718,
+      6719,
+      6714,
+      6721,
+      6630
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6721,
+    "title": "Kiran Wooden Graves",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6721",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [
+      6717,
+      6718,
+      6719,
+      6714,
+      6716,
+      6630
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6725,
+    "title": "Manawar Sharif Mosque (chamb)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6725",
+    "issues": [
+      "editorial-identity-or-location-hold"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-bhimber"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6630,
+    "title": "Neghdar Inscription",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6630",
+    "issues": [
+      "catalogue-coordinate-collision"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-neelum"
+    ],
+    "coordinateCollisions": [
+      6717,
+      6718,
+      6719,
+      6714,
+      6716,
+      6721
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6640,
+    "title": "Banganga Temple",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6640",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 5458,
+    "title": "Chitarpari Rock Carvings",
+    "sourceUrl": "https://doam.gov.pk/public/sites/5458",
+    "issues": [
+      "catalogue-coordinate-collision",
+      "source-district-spatial-conflict"
+    ],
+    "derivedDistrictIds": [
+      "azad-kashmir-jhelum-valley"
+    ],
+    "coordinateCollisions": [
+      6611
+    ],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6621,
+    "title": "Khoi Kotli Saulan Rock-cut Sanctuaries (Caves)",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6621",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-kotli"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 6683,
+    "title": "Ali Baig Gurdwara",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6683",
+    "issues": [
+      "unassigned-protected-geometry"
+    ],
+    "derivedDistrictIds": [],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": false
+  },
+  {
+    "id": 6703,
+    "title": "Bawali Baoli",
+    "sourceUrl": "https://doam.gov.pk/public/sites/6703",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-bhimber"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 9177,
+    "title": "Dudyal Gakhar Masjid",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9177",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-mirpur"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  },
+  {
+    "id": 9181,
+    "title": "Col. Haq Nawaz Kiani Shaheed Jamia Masjid",
+    "sourceUrl": "https://doam.gov.pk/public/sites/9181",
+    "issues": [],
+    "derivedDistrictIds": [
+      "azad-kashmir-jhelum-valley"
+    ],
+    "coordinateCollisions": [],
+    "nearExistingPlaceIds": [],
+    "reviewedForProposal": true
+  }
+]

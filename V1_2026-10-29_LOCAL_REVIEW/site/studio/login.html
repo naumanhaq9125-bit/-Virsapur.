@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Sign in · Virsapur Admin</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root{--white:#fff;--paper:#f6f0e6;--slate:#5b667d;--terracotta:#b46d4e;--sand:#d7b79a;--gold:#c8a25c;--red:#8e4c40;--stone:#8b8177;--ink:#30333a;--line:#ded8cf;--serif:"EB Garamond",Georgia,serif;--sans:Inter,Arial,sans-serif}
+    *{box-sizing:border-box;margin:0;padding:0}
+    html,body{height:100%}
+    body{font:16px/1.6 var(--sans);color:var(--ink);background:var(--paper);display:flex;align-items:center;justify-content:center;padding:24px}
+    .admin-login-wrap{width:100%;max-width:420px}
+    .admin-login-logo{margin-bottom:36px;text-align:center}
+    .admin-login-logo img{height:48px;width:auto}
+    .admin-login-card{background:var(--white);padding:44px 40px 40px;box-shadow:0 12px 48px rgba(48,51,58,.09)}
+    .admin-kicker{font:600 9px var(--sans);letter-spacing:.18em;text-transform:uppercase;color:var(--terracotta);margin-bottom:8px}
+    .admin-heading{font:500 44px/.92 var(--serif);letter-spacing:-.03em;color:var(--ink);margin-bottom:6px}
+    .admin-sub{font:400 14px var(--sans);color:var(--slate);margin-bottom:36px}
+    .admin-alert{display:none;padding:12px 15px;font:500 13px var(--sans);border-left:3px solid;margin-bottom:20px}
+    .admin-alert.show{display:block}
+    .admin-alert.error{background:#fdf0ee;border-color:var(--red);color:#7a3530}
+    .admin-alert.success{background:#edf5ef;border-color:#5a8a66;color:#3a6646}
+    .admin-form{display:flex;flex-direction:column;gap:24px}
+    .admin-field{display:flex;flex-direction:column;gap:6px}
+    .admin-label{font:600 9px var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--slate)}
+    .admin-input{border:0;border-bottom:1px solid var(--line);background:transparent;padding:12px 0;font:16px var(--sans);color:var(--ink);outline:none;transition:border-color .2s;width:100%}
+    .admin-input:focus{border-color:var(--terracotta)}
+    .admin-input.invalid{border-color:var(--red)}
+    .admin-field-err{font:500 11px var(--sans);color:var(--red);min-height:14px}
+    .admin-submit{padding:16px 24px;background:var(--ink);color:#fff;border:none;font:600 11px var(--sans);letter-spacing:.07em;text-transform:uppercase;cursor:pointer;transition:background .2s;display:flex;align-items:center;justify-content:center;gap:10px;margin-top:4px}
+    .admin-submit:hover{background:var(--slate)}
+    .admin-submit:disabled{opacity:.55;cursor:not-allowed}
+    .admin-spinner{width:14px;height:14px;border:2px solid rgba(255,255,255,.3);border-top-color:#fff;border-radius:50%;animation:spin .65s linear infinite;display:none}
+    .admin-submit.loading .admin-spinner{display:block}
+    .admin-submit.loading .btn-text{opacity:.5}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .admin-public-link{margin-top:28px;padding-top:22px;border-top:1px solid var(--line);text-align:center;font:400 13px var(--sans);color:var(--slate)}
+    .admin-public-link a{color:var(--terracotta);font-weight:600;border-bottom:1px solid currentColor}
+    @media(max-width:480px){.admin-login-card{padding:32px 22px}}
+  </style>
+</head>
+<body>
+  <div class="admin-login-wrap">
+    <div class="admin-login-logo">
+      <img src="../assets/optimized/logo-full-slate-640.webp" alt="Virsapur" onerror="this.style.display='none'">
+    </div>
+    <div class="admin-login-card">
+      <p class="admin-kicker">Admin Access</p>
+      <h1 class="admin-heading">Sign in</h1>
+      <p class="admin-sub">Use an approved owner or editor account.</p>
+
+      <div class="admin-alert" id="admin-alert" role="alert" aria-live="polite"></div>
+
+      <form class="admin-form" id="admin-login-form" novalidate>
+        <div class="admin-field">
+          <label class="admin-label" for="email">Email address</label>
+          <input class="admin-input" type="email" id="email" name="email" autocomplete="username" placeholder="admin@example.com" required aria-describedby="email-err">
+          <span class="admin-field-err" id="email-err"></span>
+        </div>
+        <div class="admin-field">
+          <label class="admin-label" for="password">Password</label>
+          <input class="admin-input" type="password" id="password" name="password" autocomplete="current-password" placeholder="Your password" required aria-describedby="password-err">
+          <span class="admin-field-err" id="password-err"></span>
+        </div>
+        <button class="admin-submit" type="submit" id="admin-submit">
+          <span class="btn-text">Sign in</span>
+          <span class="admin-spinner" aria-hidden="true"></span>
+        </button>
+      </form>
+
+      <div class="admin-public-link">
+        <a href="../index.html">&larr; Back to public site</a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+  (() => {
+    const form      = document.getElementById('admin-login-form');
+    const alertBox  = document.getElementById('admin-alert');
+    const submitBtn = document.getElementById('admin-submit');
+    const emailInput    = document.getElementById('email');
+    const passwordInput = document.getElementById('password');
+    const emailErr      = document.getElementById('email-err');
+    const passwordErr   = document.getElementById('password-err');
+
+    if (new URLSearchParams(location.search).has('expired')) {
+      alertBox.textContent = 'Your session expired. Please sign in again.';
+      alertBox.className = 'admin-alert show error';
+    }
+
+    function showAlert(msg, type='error') {
+      alertBox.textContent = msg;
+      alertBox.className = `admin-alert show ${type}`;
+    }
+
+    function fieldErr(input, errEl, msg) {
+      input.classList.add('invalid');
+      errEl.textContent = msg;
+      input.setAttribute('aria-invalid','true');
+    }
+    function fieldOk(input, errEl) {
+      input.classList.remove('invalid');
+      errEl.textContent = '';
+      input.removeAttribute('aria-invalid');
+    }
+
+    emailInput.addEventListener('blur', () => {
+      if (!emailInput.value.trim() || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(emailInput.value))
+        fieldErr(emailInput, emailErr, 'Please enter a valid email address.');
+      else fieldOk(emailInput, emailErr);
+    });
+    passwordInput.addEventListener('blur', () => {
+      if (!passwordInput.value) fieldErr(passwordInput, passwordErr, 'Password is required.');
+      else fieldOk(passwordInput, passwordErr);
+    });
+
+    form.addEventListener('submit', async e => {
+      e.preventDefault();
+      alertBox.className = 'admin-alert';
+
+      const eErr = !emailInput.value.trim() || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(emailInput.value)
+        ? 'Please enter a valid email address.' : '';
+      const pErr = !passwordInput.value ? 'Password is required.' : '';
+
+      if (eErr) fieldErr(emailInput, emailErr, eErr);
+      else      fieldOk(emailInput, emailErr);
+      if (pErr) fieldErr(passwordInput, passwordErr, pErr);
+      else      fieldOk(passwordInput, passwordErr);
+
+      if (eErr || pErr) {
+        (eErr ? emailInput : passwordInput).focus();
+        return;
+      }
+
+      submitBtn.disabled = true;
+      submitBtn.classList.add('loading');
+
+      try {
+        const response = await fetch('/api/auth-login', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({ email: emailInput.value.trim(), password: passwordInput.value })
+        });
+        const result = await response.json().catch(() => ({}));
+        if (response.ok) {
+          showAlert('Signed in. Redirecting…', 'success');
+          setTimeout(() => location.replace('/admin/'), 800);
+        } else {
+          showAlert(result.error || 'Sign-in failed. Please check your credentials.');
+          submitBtn.disabled = false;
+          submitBtn.classList.remove('loading');
+        }
+      } catch {
+        showAlert('Connection error. Please try again.');
+        submitBtn.disabled = false;
+        submitBtn.classList.remove('loading');
+      }
+    });
+  })();
+  </script>
+</body>
+</html>

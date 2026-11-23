@@ -1,0 +1,399 @@
+[
+  {
+    "id": "programme-heritage-tours",
+    "tour": {
+      "enabled": true,
+      "startLocation": "",
+      "duration": "By itinerary",
+      "bookingMode": "quote"
+    },
+    "relatedHeritageIds": [],
+    "type": "programme",
+    "slug": "heritage-tours",
+    "legacySlug": "heritageTours",
+    "status": "published",
+    "title": "Heritage Tours",
+    "summary": "Guided encounters with ancient landmarks, living neighbourhoods and the stories that shaped them.",
+    "body": "Heritage tours offer travelers a chance to explore ancient landmarks, vibrant cultures, and timeless traditions that reflect the rich history and identity of diverse civilizations. These journeys go beyond typical sightseeing, guiding visitors through historical monuments, traditional settings, museums and sacred sites that hold deep significance.",
+    "featured": true,
+    "sortOrder": 1,
+    "featuredImage": {
+      "src": "assets/archive-katas.jpg",
+      "optimizedStem": "archive-katas",
+      "width": 640,
+      "height": 379,
+      "alt": "Historic temple architecture at Katas Raj",
+      "caption": "",
+      "credit": ""
+    },
+    "practical": {
+      "audience": "",
+      "format": "",
+      "duration": "",
+      "location": "",
+      "availability": "",
+      "price": ""
+    },
+    "cta": {
+      "type": "enquiry",
+      "label": "Build a custom itinerary",
+      "target": "/tours/custom"
+    },
+    "relatedStoryIds": [],
+    "seo": {
+      "title": "Heritage Tours in Pakistan | Virsapur",
+      "description": "Explore Virsapur’s approach to guided heritage tours and enquire about a cultural experience.",
+      "image": "assets/archive-katas.jpg"
+    },
+    "kind": "experience",
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Enquire about heritage tours"
+    },
+    "scheduleNotes": ""
+  },
+  {
+    "id": "programme-cultural-educational-workshops",
+    "type": "programme",
+    "slug": "cultural-and-educational-workshops",
+    "legacySlug": "culturalAndEducationalWorkshops",
+    "status": "published",
+    "title": "Cultural & Educational Workshops",
+    "summary": "Immersive learning that connects history, material culture and community knowledge.",
+    "body": "Cultural and educational workshops combine learning with immersive experiences through hands-on activities, interactive discussion and practical exposure beyond conventional classroom learning.",
+    "featured": true,
+    "sortOrder": 2,
+    "featuredImage": {
+      "src": "assets/fresco_strip.jpg",
+      "optimizedStem": "fresco-strip",
+      "width": 1035,
+      "height": 320,
+      "alt": "Historic painted architectural detail",
+      "caption": "",
+      "credit": ""
+    },
+    "practical": {
+      "audience": "",
+      "format": "",
+      "duration": "",
+      "location": "",
+      "availability": "",
+      "price": ""
+    },
+    "cta": {
+      "type": "enquiry",
+      "label": "Discuss a workshop",
+      "target": "/contact?type=workshops"
+    },
+    "relatedStoryIds": [],
+    "seo": {
+      "title": "Cultural and Educational Workshops | Virsapur",
+      "description": "Explore Virsapur’s cultural and educational workshop approach and discuss a learning programme.",
+      "image": "assets/fresco_strip.jpg"
+    },
+    "kind": "workshop",
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Discuss a workshop"
+    },
+    "scheduleNotes": ""
+  },
+  {
+    "id": "programme-research-restoration",
+    "type": "programme",
+    "slug": "research-and-restoration-projects",
+    "legacySlug": "researchAndRestorationProjects",
+    "status": "published",
+    "title": "Research & Restoration Projects",
+    "summary": "Research, documentation and interpretation supporting the preservation of cultural heritage.",
+    "body": "Research and restoration work supports the careful documentation, conservation and interpretation of cultural heritage through planned collaboration and specialist knowledge.",
+    "featured": true,
+    "sortOrder": 3,
+    "featuredImage": {
+      "src": "assets/archive-wells.jpg",
+      "optimizedStem": "archive-wells",
+      "width": 640,
+      "height": 404,
+      "alt": "Archaeological remains and historic wells at Mohenjo-daro",
+      "caption": "",
+      "credit": ""
+    },
+    "practical": {
+      "audience": "",
+      "format": "",
+      "duration": "",
+      "location": "",
+      "availability": "",
+      "price": ""
+    },
+    "cta": {
+      "type": "enquiry",
+      "label": "Discuss research or restoration",
+      "target": "/contact?type=research"
+    },
+    "relatedStoryIds": [],
+    "seo": {
+      "title": "Heritage Research and Restoration Projects | Virsapur",
+      "description": "Learn about Virsapur’s research, documentation and heritage-preservation approach.",
+      "image": "assets/archive-wells.jpg"
+    },
+    "kind": "project programme",
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Discuss research or restoration"
+    },
+    "scheduleNotes": ""
+  },
+  {
+    "id": "programme-cultural-events-collaborations",
+    "type": "programme",
+    "slug": "cultural-events-and-collaborations",
+    "legacySlug": "culturalEventsAndCollaborations",
+    "status": "published",
+    "title": "Cultural Events & Collaborations",
+    "summary": "Public programmes and partnerships that foster creativity, dialogue and cultural participation.",
+    "body": "Cultural events and collaborations create platforms where people can celebrate, share and learn from different traditions and artistic expressions through thoughtful partnerships.",
+    "featured": true,
+    "sortOrder": 4,
+    "featuredImage": {
+      "src": "assets/archive-gurdwara.jpg",
+      "optimizedStem": "archive-gurdwara",
+      "width": 639,
+      "height": 426,
+      "alt": "Historic gurdwara architecture in Punjab",
+      "caption": "",
+      "credit": ""
+    },
+    "practical": {
+      "audience": "",
+      "format": "",
+      "duration": "",
+      "location": "",
+      "availability": "",
+      "price": ""
+    },
+    "cta": {
+      "type": "enquiry",
+      "label": "Propose a collaboration",
+      "target": "/contact?type=collaboration"
+    },
+    "relatedStoryIds": [],
+    "seo": {
+      "title": "Cultural Events and Collaborations | Virsapur",
+      "description": "Explore Virsapur’s approach to cultural programming and institutional collaboration.",
+      "image": "assets/archive-gurdwara.jpg"
+    },
+    "kind": "experience",
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Propose a collaboration"
+    },
+    "scheduleNotes": ""
+  },
+  {
+    "id": "programme-lahore-gates-mosques",
+    "slug": "lahore-gates-mosques-and-city",
+    "title": "Lahore: Gates, Mosques & City",
+    "summary": "A fixed route through Delhi Gate, Shahi Hammam and Wazir Khan Mosque, connecting an urban threshold, a historic bathhouse and a living sacred landmark.",
+    "relatedHeritageIds": [
+      "major-doam-6449",
+      "major-doam-9778",
+      "major-doam-6466"
+    ],
+    "body": "This curated planning route approaches Lahore through the relationship between streets and institutions. Delhi Gate introduces the historic city's edge and the passage into its commercial fabric. The nearby Shahi Hammam provides a different setting for considering water, service and architectural conservation. Wazir Khan Mosque then brings the route into a major sacred and urban ensemble. These are three separate Heritage records, not interchangeable examples of a single monument type. The fixed itinerary follows this sequence. Current opening arrangements, worship requirements, walking conditions and group access are checked before departure.",
+    "type": "programme",
+    "status": "review",
+    "featured": false,
+    "kind": "Heritage tour",
+    "sortOrder": 20,
+    "tour": {
+      "enabled": true,
+      "startLocation": "",
+      "duration": "1 day",
+      "bookingMode": "scheduled"
+    },
+    "featuredImage": null,
+    "practical": {
+      "audience": "Small groups",
+      "format": "Fixed itinerary",
+      "availability": "Choose an available departure. Local preview dates and prices are samples."
+    },
+    "cta": {
+      "type": "enquiry",
+      "label": "View departure availability",
+      "target": "/contact?type=programme"
+    },
+    "relatedStoryIds": [],
+    "seo": {
+      "title": "Lahore: Gates, Mosques & City | Virsapur Tours",
+      "description": "A fixed route through Delhi Gate, Shahi Hammam and Wazir Khan Mosque, connecting an urban threshold, a historic bathhouse and a living sacred landmark.",
+      "primaryKeyword": "Lahore: Gates, Mosques & City",
+      "noindex": false
+    },
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Request a custom quote"
+    },
+    "internalNotes": "New editorial route proposal for owner review, not a confirmed operational departure. Preserve review state until access, travel logistics and delivery are approved."
+  },
+  {
+    "id": "programme-rohtas-taxila-route",
+    "slug": "rohtas-and-taxila-heritage-route",
+    "title": "Rohtas & Taxila: Landscapes of Power and Learning",
+    "summary": "A two-day heritage journey linking Rohtas Fort with Taxila’s archaeological landscape, departing from Lahore.",
+    "relatedHeritageIds": [
+      "unesco-586",
+      "unesco-139"
+    ],
+    "body": "Rohtas Fort and Taxila support different ways of understanding the northern Punjab landscape. The fort invites close attention to walls, gateways and the organisation of a defensible place. Taxila is a serial archaeological property whose settlements and religious sites should be understood together, not reduced to a single map pin or monument. This route therefore treats Taxila as one canonical Heritage Place with multiple documented components. The fixed itinerary visits selected components of Taxila alongside Rohtas Fort. Travel begins in Lahore; transport, overnight arrangements and practical site access form part of the departure information.",
+    "type": "programme",
+    "status": "review",
+    "featured": false,
+    "kind": "Heritage tour",
+    "sortOrder": 21,
+    "tour": {
+      "enabled": true,
+      "startLocation": "",
+      "duration": "2 days",
+      "bookingMode": "scheduled"
+    },
+    "featuredImage": {
+      "mediaId": "release-rohtas",
+      "alt": "Rohtas Fort"
+    },
+    "practical": {
+      "audience": "Small groups",
+      "format": "Fixed itinerary",
+      "availability": "Choose an available departure. Local preview dates and prices are samples."
+    },
+    "cta": {
+      "type": "enquiry",
+      "label": "View departure availability",
+      "target": "/contact?type=programme"
+    },
+    "relatedStoryIds": [],
+    "seo": {
+      "title": "Rohtas & Taxila: Landscapes of Power and Learning | Virsapur Tours",
+      "description": "A two-day heritage journey linking Rohtas Fort with Taxila’s archaeological landscape, departing from Lahore.",
+      "primaryKeyword": "Rohtas & Taxila: Landscapes of Power and Learning",
+      "noindex": false
+    },
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Request a custom quote"
+    },
+    "internalNotes": "New editorial route proposal for owner review, not a confirmed operational departure. Preserve review state until access, travel logistics and delivery are approved."
+  },
+  {
+    "id": "programme-indus-thatta-route",
+    "slug": "indus-cities-and-thatta-heritage-route",
+    "title": "Indus Cities & Thatta: Archaeology, Memory and Craft",
+    "summary": "A four-day journey connecting Moenjodaro, Makli and Shah Jahan Mosque, with travel from Lahore.",
+    "relatedHeritageIds": [
+      "unesco-138",
+      "unesco-143",
+      "major-doam-5625"
+    ],
+    "body": "This planning route brings together an archaeological city, a major funerary landscape and a living mosque without presenting them as one continuous historical episode. Moenjodaro asks questions about urban organisation and the interpretation of excavated remains. Makli offers a different encounter with monuments, burial traditions and remembered political communities around Thatta. Shah Jahan Mosque introduces another architectural and devotional setting. Each Place has its own source record and designation; the mosque is not described here as an inscribed World Heritage property. The fixed journey brings these three places together, with travel from Lahore and practical arrangements shared for each departure. The related records below provide context while keeping the three places distinct.",
+    "type": "programme",
+    "status": "review",
+    "featured": false,
+    "kind": "Heritage tour",
+    "sortOrder": 22,
+    "tour": {
+      "enabled": true,
+      "startLocation": "",
+      "duration": "4 days",
+      "bookingMode": "scheduled"
+    },
+    "featuredImage": {
+      "mediaId": "release-mohenjodaro",
+      "alt": "Excavated brick walls at Moenjodaro in Sindh"
+    },
+    "practical": {
+      "audience": "Small groups",
+      "format": "Fixed itinerary",
+      "availability": "Choose an available departure. Local preview dates and prices are samples."
+    },
+    "cta": {
+      "type": "enquiry",
+      "label": "View departure availability",
+      "target": "/contact?type=programme"
+    },
+    "relatedStoryIds": [],
+    "seo": {
+      "title": "Indus Cities & Thatta: Archaeology, Memory and Craft | Virsapur Tours",
+      "description": "A four-day journey connecting Moenjodaro, Makli and Shah Jahan Mosque, with travel from Lahore.",
+      "primaryKeyword": "Indus Cities & Thatta: Archaeology, Memory and Craft",
+      "noindex": false
+    },
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Request a custom quote"
+    },
+    "internalNotes": "New editorial route proposal for owner review, not a confirmed operational departure. Preserve review state until access, travel logistics and delivery are approved."
+  },
+  {
+    "id": "programme-language-learning",
+    "type": "programme",
+    "slug": "language-learning",
+    "status": "review",
+    "title": "Language Learning",
+    "summary": "French A1, German, Japanese, Chinese, IELTS preparation and speaking skills — explore language and communication with Virsapur.",
+    "body": "Our language-learning programmes bring together French A1, German, Japanese, Chinese, IELTS preparation and speaking skills. Enquire about the next cohort, the teaching format and the right course for your goals. Start dates, timetable, fees and cohort availability are confirmed individually; earlier October planning dates are not current booking commitments.",
+    "kind": "Language programme",
+    "featured": true,
+    "sortOrder": 5,
+    "featuredImage": {
+      "src": "assets/temporary/temp-event-research-open-studio.png",
+      "optimizedStem": "temp-event-research-open-studio",
+      "width": 1122,
+      "height": 1402,
+      "alt": "Illustrative shared study scene; not a photograph of a language cohort"
+    },
+    "practical": {
+      "availability": "Enquire about the next cohort",
+      "format": "Teaching format and timetable confirmed on enquiry"
+    },
+    "cta": {
+      "type": "enquiry",
+      "label": "Enquire about language classes",
+      "target": "/contact?type=programme"
+    },
+    "relatedStoryIds": [],
+    "relatedHeritageIds": [],
+    "commerce": {
+      "enabled": false,
+      "mode": "enquiry",
+      "currency": "PKR",
+      "amount": null,
+      "label": "Enquire about classes"
+    },
+    "seo": {
+      "title": "Language Classes & Communication | Virsapur",
+      "description": "Explore French A1, German, Japanese, Chinese, IELTS preparation and speaking skills with Virsapur. Enquire about the next cohort."
+    },
+    "sourceNotes": "Confirmed programme families: qa-artifacts/v1-finalization/CALENDAR_SOURCE_NOTES.md, October language planning. No new dates or prices asserted."
+  }
+]

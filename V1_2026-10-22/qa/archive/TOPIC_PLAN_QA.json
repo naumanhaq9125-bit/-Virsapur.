@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-22",
+  "count": 420,
+  "topicCounts": {
+    "archaeology": 40,
+    "architecture": 40,
+    "objects-material": 40,
+    "heritage-place": 120,
+    "languages-literature-living": 55,
+    "sacred": 35,
+    "regional-history": 30,
+    "personality": 20,
+    "landscape": 25,
+    "heritage-concept": 15
+  },
+  "categoryCounts": {
+    "archive-category-archaeology-ancient-civilisations": 68,
+    "archive-category-architecture-built-heritage": 99,
+    "archive-category-sacred-heritage": 65,
+    "archive-category-living-traditions": 75,
+    "archive-category-objects-material-culture": 42,
+    "archive-category-cultural-landscapes-historic-places": 71
+  },
+  "uniqueIds": 420,
+  "uniqueSlugs": 420,
+  "uniqueWorkingTitles": 420,
+  "uniquePrimaryKeywords": 420,
+  "preservedExistingIdsAndSlugs": true,
+  "allRelationshipsCanonical": true,
+  "linkedHeritageCount": 204,
+  "withPlaceRelationships": 320,
+  "withoutPlaceRelationships": 100,
+  "sourceUrlCount": 248,
+  "sourcePlanMinimum": 1,
+  "identityVerificationRequired": [
+    {
+      "articleId": "story-gurdwara-lahura",
+      "note": "Identity and district not yet independently established; do not draft historical particulars until resolved."
+    }
+  ],
+  "warnings": [
+    "All 420 require close-reading and claim-level fact checks before final copy; do not treat catalogue summaries or institutional indexes as complete article evidence.",
+    "Literary profiles require authenticated works and author-specific sources, not the awards index alone.",
+    "Current opening times, access, ownership, ritual practice and communities’ perspectives need fresh verification if included.",
+    "Cross-regional concepts intentionally have null province/district; related geographic IDs are computed from actual canonical Place components.",
+    "No Instagram post-level access established; no claim of complete social-media audit.",
+    "Drafting remains gated until root exports the CSV and acknowledges the plan."
+  ],
+  "errors": []
+}

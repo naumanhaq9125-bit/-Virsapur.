@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-22",
+  "records": [
+    {
+      "index": 301,
+      "id": "story-the-perforated-vessel-as-an-archaeological-puzzle",
+      "words": 471,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 302,
+      "id": "story-terracotta-cakes-a-familiar-name-for-uncertain-objects",
+      "words": 461,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 303,
+      "id": "story-stone-tools-in-a-village-economy",
+      "words": 465,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 304,
+      "id": "story-gandharan-schist-and-the-work-of-the-sculptor",
+      "words": 461,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 305,
+      "id": "story-recognising-a-bodhisattva-through-attributes",
+      "words": 470,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 306,
+      "id": "story-donor-figures-at-the-feet-of-a-sculpture",
+      "words": 473,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 307,
+      "id": "story-narrative-reliefs-and-the-order-of-scenes",
+      "words": 476,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 308,
+      "id": "story-a-reliquary-its-inscription-and-its-contents",
+      "words": 468,
+      "references": 2,
+      "status": "review"
+    },
+    {
+      "index": 309,
+      "id": "story-coins-as-images-of-authority",
+      "words": 462,
+      "references": 3,
+      "status": "review"
+    },
+    {
+      "index": 310,
+      "id": "story-carved-sandstone-fragments-and-lost-buildings",
+      "words": 467,
+      "references": 3,
+      "status": "review"
+    }
+  ],
+  "duplicateIds": false,
+  "sourceMethod": "Topic-specific primary and institutional sources examined through web pages, selected document passages, indexed excerpts and catalogue metadata. Access and evidence limitations are recorded in individual internalNotes; not every full publication was accessible. No verbatim passages used; original analytical examples are not field observations. References do not imply institutional endorsement. All records require human editorial review."
+}

@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "offline": true,
+  "tests": 5,
+  "passed": [
+    "local collection shape comes from route identity, before any write",
+    "heritage related media uses identical safe-path gate",
+    "local previews use cleared site photographs without changing source records or overriding an explicit owner image",
+    "malformed categories return validation errors, exact array membership remains",
+    "coordinates reject partial/non-numeric/range errors in shared and local guards"
+  ],
+  "canonicalWrites": 0,
+  "serverStarted": false
+}

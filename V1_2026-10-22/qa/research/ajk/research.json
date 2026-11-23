@@ -1,0 +1,2713 @@
+{
+  "region": "azad-kashmir",
+  "accessDate": "2026-10-22",
+  "baselinePlaceCount": 221,
+  "scope": "Research proposals only. No canonical, geometry, route, build or Studio changes.",
+  "authoritySources": [
+    {
+      "authority": "Department of Archaeology & Museums, Government of Pakistan",
+      "url": "https://doam.gov.pk/public/home",
+      "title": "Fresh complete public province-filter catalogue response",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "authority": "AJK Tourism & Archaeology Department",
+      "url": "https://ajktourism.gov.pk/ajk-tourism/",
+      "title": "Official departmental identity verified live",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "authority": "AJK Directorate of Archaeology",
+      "url": "https://archaeology.ajk.gov.pk/",
+      "title": "Official archaeology endpoint; direct retrieval returned 403, not treated as accessible inventory",
+      "accessDate": "2026-10-22"
+    }
+  ],
+  "supplementalResearch": [
+    {
+      "query": "site.ajktourism.gov.pk Haveli heritage; site.ajktourism.gov.pk Haji Pir",
+      "sourceUrl": "https://cpdr.org.pk/wp-content/uploads/2024/12/cpec-in-azad-j-kashmir.pdf",
+      "districtIds": [
+        "azad-kashmir-haveli"
+      ],
+      "result": "Research institution report attributes a heritage list to the AJK Tourism and Culture Department and identifies Darbar Haji Pir in Haveli; no exact defensible shrine coordinate recovered.",
+      "accessDate": "2026-10-22"
+    }
+  ],
+  "methodology": {
+    "catalogueRows": 91,
+    "screenedCandidateRows": 91,
+    "selection": "Manual description-led selection, followed by deterministic quality gates; non-selected candidates retain unresolved status. Not a bulk inventory import or claim that every raw inventory row has received equal depth of editorial review.",
+    "screening": [
+      "Existing canonical IDs, source URLs, normalized names and component names",
+      "Precise source points only; missing coordinates, invalid DMS and whole-minute-only pairs withheld",
+      "Exact within-catalogue coordinate collisions withheld",
+      "Near-existing coordinate collisions within 20 metres withheld",
+      "Protected point-in-polygon administrative context checked; no geometry edits or point movement",
+      "Description-location and alias/ensemble contradictions manually withheld",
+      "No current visitation/access claims inferred from historical catalogue descriptions",
+      "No UNESCO status inferred from local conservation awards; no new imagery"
+    ]
+  },
+  "districts": [
+    {
+      "id": "azad-kashmir-bagh",
+      "name": "Bagh",
+      "publicationStatus": "publishable-baseline",
+      "queries": [
+        "2026-10-22 public DOAM province filter azad-kashmir; complete returned inventory inspected by district labels Bagh / Bagh and point-in-polygon context"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://ajktourism.gov.pk/ajk-tourism/",
+        "https://archaeology.ajk.gov.pk/"
+      ],
+      "catalogueRowsMatched": 1,
+      "reviewedCandidateIds": [
+        6734
+      ],
+      "candidateIds": [],
+      "status": "reviewed-no-additional-cleared-proposal",
+      "note": "Existing records, uncertain identities or coordinate limitations prevent additional clearance. This is not a claim that the district lacks heritage."
+    },
+    {
+      "id": "azad-kashmir-bhimber",
+      "name": "Bhimber",
+      "publicationStatus": "publishable-baseline",
+      "queries": [
+        "2026-10-22 public DOAM province filter azad-kashmir; complete returned inventory inspected by district labels Bhimber / Bhimber and point-in-polygon context"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://ajktourism.gov.pk/ajk-tourism/",
+        "https://archaeology.ajk.gov.pk/"
+      ],
+      "catalogueRowsMatched": 8,
+      "reviewedCandidateIds": [
+        6657,
+        6665,
+        6686,
+        6725,
+        6680,
+        6683,
+        6703,
+        9863
+      ],
+      "candidateIds": [
+        "major-doam-6657",
+        "major-doam-6703"
+      ],
+      "status": "new-proposals-verified",
+      "note": "Listed proposals only; no promotion to map-featured or imagery added."
+    },
+    {
+      "id": "azad-kashmir-haveli",
+      "name": "Haveli",
+      "publicationStatus": "publishable-baseline",
+      "queries": [
+        "2026-10-22 public DOAM province filter azad-kashmir; complete returned inventory inspected by district labels Haveli / Haveli and point-in-polygon context",
+        "site.ajktourism.gov.pk Haveli heritage; site.ajktourism.gov.pk Haji Pir"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://ajktourism.gov.pk/ajk-tourism/",
+        "https://archaeology.ajk.gov.pk/",
+        "https://cpdr.org.pk/wp-content/uploads/2024/12/cpec-in-azad-j-kashmir.pdf"
+      ],
+      "catalogueRowsMatched": 0,
+      "reviewedCandidateIds": [],
+      "candidateIds": [],
+      "status": "no-catalogue-hit-further-institutional-research-needed",
+      "note": "No source point fabricated and no district or city coordinate used as a heritage location. Research institution report attributes a heritage list to the AJK Tourism and Culture Department and identifies Darbar Haji Pir in Haveli; no exact defensible shrine coordinate recovered."
+    },
+    {
+      "id": "azad-kashmir-jhelum-valley",
+      "name": "Jhelum Valley",
+      "publicationStatus": "publishable-baseline",
+      "queries": [
+        "2026-10-22 public DOAM province filter azad-kashmir; complete returned inventory inspected by district labels Jhelum Valley / Jhelum Valley / Hattian Bala / Jehlum Valley and point-in-polygon context"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://ajktourism.gov.pk/ajk-tourism/",
+        "https://archaeology.ajk.gov.pk/"
+      ],
+      "catalogueRowsMatched": 3,
+      "reviewedCandidateIds": [
+        6611,
+        5458,
+        9181
+      ],
+      "candidateIds": [
+        "major-doam-9181"
+      ],
+      "status": "new-proposals-verified",
+      "note": "Listed proposals only; no promotion to map-featured or imagery added."
+    },
+    {
+      "id": "azad-kashmir-kotli",
+      "name": "Kotli",
+      "publicationStatus": "publishable-baseline",
+      "queries": [
+        "2026-10-22 public DOAM province filter azad-kashmir; complete returned inventory inspected by district labels Kotli / Kotli and point-in-polygon context"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://ajktourism.gov.pk/ajk-tourism/",
+        "https://archaeology.ajk.gov.pk/"
+      ],
+      "catalogueRowsMatched": 22,
+      "reviewedCandidateIds": [
+        6723,
+        5449,
+        5466,
+        6685,
+        6736,
+        6626,
+        6644,
+        6637,
+        6639,
+        6691,
+        6688,
+        6701,
+        6619,
+        6632,
+        6642,
+        6650,
+        6668,
+        6670,
+        6671,
+        6689,
+        6640,
+        6621
+      ],
+      "candidateIds": [
+        "major-doam-5449",
+        "major-doam-5466",
+        "major-doam-6736",
+        "major-doam-6701",
+        "major-doam-6642",
+        "major-doam-6668",
+        "major-doam-6689",
+        "major-doam-6640",
+        "major-doam-6621"
+      ],
+      "status": "new-proposals-verified",
+      "note": "Listed proposals only; no promotion to map-featured or imagery added."
+    },
+    {
+      "id": "azad-kashmir-mirpur",
+      "name": "Mirpur",
+      "publicationStatus": "publishable-baseline",
+      "queries": [
+        "2026-10-22 public DOAM province filter azad-kashmir; complete returned inventory inspected by district labels Mirpur / Mirpur and point-in-polygon context"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://ajktourism.gov.pk/ajk-tourism/",
+        "https://archaeology.ajk.gov.pk/"
+      ],
+      "catalogueRowsMatched": 14,
+      "reviewedCandidateIds": [
+        6707,
+        6676,
+        6629,
+        6611,
+        6622,
+        6688,
+        6704,
+        6724,
+        6659,
+        6678,
+        6706,
+        6675,
+        5458,
+        9177
+      ],
+      "candidateIds": [
+        "major-doam-6629",
+        "major-doam-6622",
+        "major-doam-6706",
+        "major-doam-9177"
+      ],
+      "status": "new-proposals-verified",
+      "note": "Listed proposals only; no promotion to map-featured or imagery added."
+    },
+    {
+      "id": "azad-kashmir-muzaffarabad",
+      "name": "Muzaffarabad",
+      "publicationStatus": "publishable-baseline",
+      "queries": [
+        "2026-10-22 public DOAM province filter azad-kashmir; complete returned inventory inspected by district labels Muzaffarabad / Muzaffarabad and point-in-polygon context"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://ajktourism.gov.pk/ajk-tourism/",
+        "https://archaeology.ajk.gov.pk/"
+      ],
+      "catalogueRowsMatched": 9,
+      "reviewedCandidateIds": [
+        5462,
+        6655,
+        6656,
+        6681,
+        6730,
+        6651,
+        6653,
+        6710,
+        6663
+      ],
+      "candidateIds": [
+        "major-doam-5462",
+        "major-doam-6655",
+        "major-doam-6656",
+        "major-doam-6681"
+      ],
+      "status": "new-proposals-verified",
+      "note": "Listed proposals only; no promotion to map-featured or imagery added."
+    },
+    {
+      "id": "azad-kashmir-neelum",
+      "name": "Neelum",
+      "publicationStatus": "publishable-baseline",
+      "queries": [
+        "2026-10-22 public DOAM province filter azad-kashmir; complete returned inventory inspected by district labels Neelum / Neelum and point-in-polygon context"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://ajktourism.gov.pk/ajk-tourism/",
+        "https://archaeology.ajk.gov.pk/"
+      ],
+      "catalogueRowsMatched": 20,
+      "reviewedCandidateIds": [
+        6720,
+        6722,
+        9859,
+        5457,
+        6633,
+        6666,
+        6608,
+        6612,
+        6614,
+        6625,
+        6662,
+        6717,
+        6718,
+        6719,
+        6606,
+        6618,
+        6714,
+        6716,
+        6721,
+        6630
+      ],
+      "candidateIds": [],
+      "status": "reviewed-no-additional-cleared-proposal",
+      "note": "Existing records, uncertain identities or coordinate limitations prevent additional clearance. This is not a claim that the district lacks heritage."
+    },
+    {
+      "id": "azad-kashmir-poonch",
+      "name": "Poonch",
+      "publicationStatus": "publishable-baseline",
+      "queries": [
+        "2026-10-22 public DOAM province filter azad-kashmir; complete returned inventory inspected by district labels Poonch / Poonch and point-in-polygon context"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://ajktourism.gov.pk/ajk-tourism/",
+        "https://archaeology.ajk.gov.pk/"
+      ],
+      "catalogueRowsMatched": 16,
+      "reviewedCandidateIds": [
+        6636,
+        6608,
+        6612,
+        6627,
+        6693,
+        6694,
+        6696,
+        6698,
+        6700,
+        6606,
+        6635,
+        6682,
+        6692,
+        6697,
+        6699,
+        6712
+      ],
+      "candidateIds": [
+        "major-doam-6694",
+        "major-doam-6696",
+        "major-doam-6698",
+        "major-doam-6700",
+        "major-doam-6692",
+        "major-doam-6697",
+        "major-doam-6699"
+      ],
+      "status": "new-proposals-verified",
+      "note": "Listed proposals only; no promotion to map-featured or imagery added."
+    },
+    {
+      "id": "azad-kashmir-sudhnoti",
+      "name": "Sudhnoti",
+      "publicationStatus": "publishable-baseline",
+      "queries": [
+        "2026-10-22 public DOAM province filter azad-kashmir; complete returned inventory inspected by district labels Sudhnoti / Sudhnoti and point-in-polygon context"
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://ajktourism.gov.pk/ajk-tourism/",
+        "https://archaeology.ajk.gov.pk/"
+      ],
+      "catalogueRowsMatched": 4,
+      "reviewedCandidateIds": [
+        5447,
+        10365,
+        10366,
+        6667
+      ],
+      "candidateIds": [
+        "major-doam-5447"
+      ],
+      "status": "new-proposals-verified",
+      "note": "Listed proposals only; no promotion to map-featured or imagery added."
+    }
+  ],
+  "accepted": [
+    {
+      "id": "major-doam-5449",
+      "slug": "bhrund-rock-shelter",
+      "status": "published",
+      "title": "Bhrund Rock Shelter",
+      "shortTitle": "Bhrund Rock Shelter",
+      "summary": "A substantial rock shelter preserves a plastered floor and archaeological deposits in the Kotli landscape.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/5449",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Bhrund Rock Shelter",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Kotli",
+      "sourcePublication": "Survey and Documentation of Tangible and Intangible Heritage of Azad Jammu and Kashmir and Northern Areas of Pakistan ",
+      "selectionReason": "Distinct documented archaeological site with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-5449-point",
+          "name": "Bhrund Rock Shelter",
+          "latitude": 33.512933351,
+          "longitude": 73.758992134,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/5449",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-kotli."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 35449,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-kotli"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-5447",
+      "slug": "panthal-rock-shelter",
+      "status": "published",
+      "title": "Panthal Rock Shelter",
+      "shortTitle": "Panthal Rock Shelter",
+      "summary": "This large shelter preserves worked surfaces and evidence of later use within a rock-cut setting in Sudhnoti.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/5447",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Panthal Rock Shelter ",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Sudhnoti",
+      "sourcePublication": "Survey and Documentation of Tangible and Intangible Heritage of Azad Jammu and Kashmir and Northern Areas of Pakistan ",
+      "selectionReason": "Distinct documented archaeological site with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-5447-point",
+          "name": "Panthal Rock Shelter",
+          "latitude": 33.631666667,
+          "longitude": 73.718166667,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/5447",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-sudhnoti."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 35447,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-sudhnoti"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-5462",
+      "slug": "pir-chinasi-rock-carvings",
+      "status": "published",
+      "title": "Pir Chinasi Rock Carvings",
+      "shortTitle": "Pir Chinasi Rock Carvings",
+      "summary": "A boulder at Pir Chinasi bears a group of carefully pecked hand impressions.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/5462",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Pirchinasi Rock Carvings",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Muzaffarabad",
+      "sourcePublication": "Survey and Documentation of Tangible and Intangible Heritage of Azad Jammu and Kashmir and Northern Areas of Pakistan ",
+      "selectionReason": "Distinct documented archaeological site with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-5462-point",
+          "name": "Pir Chinasi Rock Carvings",
+          "latitude": 34.387555556,
+          "longitude": 73.556111111,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/5462",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-muzaffarabad."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 35462,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-muzaffarabad"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-5466",
+      "slug": "koi-kotli-saula-cup-marks",
+      "status": "published",
+      "title": "Koi Kotli Saula Cup Marks",
+      "shortTitle": "Koi Kotli Saula Cup Marks",
+      "summary": "A rock surface near the Gother River bears carved cup marks and other engraved traces.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/5466",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Koi Kotli Saula Cup Marks",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Kotli",
+      "sourcePublication": "Survey and Documentation of Tangible and Intangible Heritage of Azad Jammu and Kashmir and Northern Areas of Pakistan",
+      "selectionReason": "Distinct documented archaeological site with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-5466-point",
+          "name": "Koi Kotli Saula Cup Marks",
+          "latitude": 33.307416667,
+          "longitude": 74.068583333,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/5466",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-kotli."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 35466,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-kotli"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6657",
+      "slug": "chak-pandit-temple",
+      "status": "published",
+      "title": "Chak Pandit Temple",
+      "shortTitle": "Chak Pandit Temple",
+      "summary": "A brick-built temple with two shrines and shikharas preserves painted and moulded sacred ornament in the Chamb area.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6657",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Chak Pandit Temple",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Bhimber",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented sacred heritage with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6657-point",
+          "name": "Chak Pandit Temple",
+          "latitude": 32.868757137,
+          "longitude": 74.243485773,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6657",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-bhimber."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36657,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-bhimber"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6629",
+      "slug": "maera-khet",
+      "status": "published",
+      "title": "Maera Khet",
+      "shortTitle": "Maera Khet",
+      "summary": "Terraced stone fortification remains and pottery traces document an archaeological site near Dadyal.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6629",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Maera Khet",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Mirpur",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented archaeological site with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6629-point",
+          "name": "Maera Khet",
+          "latitude": 33.376944444,
+          "longitude": 73.641975,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6629",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-mirpur."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36629,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-mirpur"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6736",
+      "slug": "darbar-mai-toti-sahiba",
+      "status": "published",
+      "title": "Darbar Mai Toti Sahiba",
+      "shortTitle": "Darbar Mai Toti Sahiba",
+      "summary": "A domed shrine in Khuiratta preserves a devotional landmark within an enclosed precinct.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Tomb / Funerary Heritage",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6736",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Darbar Mai Toti Sahiba",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Kotli",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented tomb / funerary heritage with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6736-point",
+          "name": "Darbar Mai Toti Sahiba",
+          "latitude": 33.32659,
+          "longitude": 74.03661,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6736",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-kotli."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36736,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-kotli"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6622",
+      "slug": "dongi-ratta-rock-cut-caves",
+      "status": "published",
+      "title": "Dongi Ratta Rock-cut Caves",
+      "shortTitle": "Dongi Ratta Rock-cut Caves",
+      "summary": "Worked caves with visible chisel traces preserve evidence of rock-cut architecture near Mirpur.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6622",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Dongi Ratta Sancturaies (Caves)",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Mirpur",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented archaeological site with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6622-point",
+          "name": "Dongi Ratta Rock-cut Caves",
+          "latitude": 33.359638889,
+          "longitude": 73.646666667,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6622",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-mirpur."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36622,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-mirpur"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6655",
+      "slug": "gilani-chowk-temple",
+      "status": "published",
+      "title": "Gilani Chowk Temple",
+      "shortTitle": "Gilani Chowk Temple",
+      "summary": "A temple near Muzaffarabad's Bank Road retains a pyramidal shikhara, arched openings and lotus-pattern ornament.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6655",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Gilani Chowk Temple",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Muzaffarabad",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented sacred heritage with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6655-point",
+          "name": "Gilani Chowk Temple",
+          "latitude": 34.367335736,
+          "longitude": 73.470676159,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6655",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-muzaffarabad."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36655,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-muzaffarabad"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6656",
+      "slug": "tonga-stand-temple",
+      "status": "published",
+      "title": "Tonga Stand Temple",
+      "shortTitle": "Tonga Stand Temple",
+      "summary": "A surviving temple near Muzaffarabad's former tonga stand is distinguished by its pyramidal shikhara.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6656",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Tonga Stand Temple",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Muzaffarabad",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented sacred heritage with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6656-point",
+          "name": "Tonga Stand Temple",
+          "latitude": 34.367248685,
+          "longitude": 73.472547211,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6656",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-muzaffarabad."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36656,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-muzaffarabad"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6681",
+      "slug": "police-lines-gurdwara-muzaffarabad",
+      "status": "published",
+      "title": "Police Lines Gurdwara, Muzaffarabad",
+      "shortTitle": "Police Lines Gurdwara, Muzaffarabad",
+      "summary": "A historic Sikh religious building survives within the later Police Lines complex in Muzaffarabad.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6681",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Police line Gurdwara",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Muzaffarabad",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented sacred heritage with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6681-point",
+          "name": "Police Lines Gurdwara, Muzaffarabad",
+          "latitude": 34.357449997,
+          "longitude": 73.465369489,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6681",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-muzaffarabad."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36681,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-muzaffarabad"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6694",
+      "slug": "rakhnatri-baoli",
+      "status": "published",
+      "title": "Rakhnatri Baoli",
+      "shortTitle": "Rakhnatri Baoli",
+      "summary": "A roadside water structure combines a chamber with internal arches and a spring-fed tank.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6694",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Rakhnatri Baoli",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Poonch",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented historic monument with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6694-point",
+          "name": "Rakhnatri Baoli",
+          "latitude": 33.708275556,
+          "longitude": 73.960297605,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6694",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-poonch."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36694,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-poonch"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6696",
+      "slug": "shamsabad-baoli",
+      "status": "published",
+      "title": "Shamsabad Baoli",
+      "shortTitle": "Shamsabad Baoli",
+      "summary": "Dressed granite forms this traditional water structure near Rawalakot.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6696",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Shamsabad Baoli",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Poonch",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented historic monument with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6696-point",
+          "name": "Shamsabad Baoli",
+          "latitude": 33.848975,
+          "longitude": 73.770989,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6696",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-poonch."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36696,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-poonch"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6698",
+      "slug": "upper-koyian-baoli",
+      "status": "published",
+      "title": "Upper Koyian Baoli",
+      "shortTitle": "Upper Koyian Baoli",
+      "summary": "A rectangular water structure built with dressed stone records the local tradition of spring-water collection.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6698",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Upper Koyian Baoli",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Poonch",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented historic monument with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6698-point",
+          "name": "Upper Koyian Baoli",
+          "latitude": 33.84286,
+          "longitude": 73.826579,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6698",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-poonch."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36698,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-poonch"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6700",
+      "slug": "nala-baoli",
+      "status": "published",
+      "title": "Nala Baoli",
+      "shortTitle": "Nala Baoli",
+      "summary": "A brick-built water structure in Namnoota incorporates steps, a corbelled entrance and a rounded roof.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6700",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Nala Baoli",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Poonch",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented historic monument with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6700-point",
+          "name": "Nala Baoli",
+          "latitude": 33.862594,
+          "longitude": 73.842797,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6700",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-poonch."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36700,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-poonch"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6701",
+      "slug": "dehari-bagh-baoli-i",
+      "status": "published",
+      "title": "Dehari Bagh Baoli I",
+      "shortTitle": "Dehari Bagh Baoli I",
+      "summary": "Dressed limestone masonry and a semicircular entrance arch characterize this traditional water structure.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6701",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Dehari Bagh Baoli I",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Kotli",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented historic monument with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6701-point",
+          "name": "Dehari Bagh Baoli I",
+          "latitude": 33.35057,
+          "longitude": 74.03827,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6701",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-kotli."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36701,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-kotli"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6642",
+      "slug": "kaini-bayan-temple-complex",
+      "status": "published",
+      "title": "Kaini Bayan Temple Complex",
+      "shortTitle": "Kaini Bayan Temple Complex",
+      "summary": "A group of temples combines domed forms, decorated arches and floral ornament in a valley settlement near Kotli.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Protected by Azad Jammu & Kashmir Preservation and Protection of Antiquities Act, 1986",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6642",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Kaini Bayan Temple Complex",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Kotli",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented sacred heritage with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6642-point",
+          "name": "Kaini Bayan Temple Complex",
+          "latitude": 33.314111111,
+          "longitude": 73.919277778,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6642",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-kotli."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36642,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-kotli"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6668",
+      "slug": "karchai-fort",
+      "status": "published",
+      "title": "Karchai Fort",
+      "shortTitle": "Karchai Fort",
+      "summary": "Hilltop defensive walls, water tanks and ruined rooms survive within this substantial limestone fortification.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Fortification",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6668",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Qila Karchai/ Karchai Fort",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Kotli",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented fortification with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6668-point",
+          "name": "Karchai Fort",
+          "latitude": 33.353611111,
+          "longitude": 74.058027778,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6668",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-kotli."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36668,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-kotli"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6689",
+      "slug": "seri-baoli",
+      "status": "published",
+      "title": "Seri Baoli",
+      "shortTitle": "Seri Baoli",
+      "summary": "A stepped water tank built with stone and brick records the tradition of communal water structures in Kotli.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6689",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Seri Boali",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Kotli",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented historic monument with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6689-point",
+          "name": "Seri Baoli",
+          "latitude": 33.311888889,
+          "longitude": 74.064638889,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6689",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-kotli."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36689,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-kotli"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6692",
+      "slug": "taitrinot-baoli",
+      "status": "published",
+      "title": "Taitrinot Baoli",
+      "shortTitle": "Taitrinot Baoli",
+      "summary": "A courtyard complex combines a stepped water tank, arched chambers and adjacent rooms with carved stone detailing.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Protected by Azad Jammu & Kashmir Preservation and Protection of Antiquities Act, 1986",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6692",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Taitrinot Baoli",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Poonch",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented historic monument with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6692-point",
+          "name": "Taitrinot Baoli",
+          "latitude": 33.747388889,
+          "longitude": 73.985222222,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6692",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-poonch."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36692,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-poonch"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6697",
+      "slug": "irara-baoli",
+      "status": "published",
+      "title": "Irara Baoli",
+      "shortTitle": "Irara Baoli",
+      "summary": "A traditional stone-built water structure near the Banjosa road preserves a communal spring-water collection place.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6697",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Irara Baoli",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Poonch",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented historic monument with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6697-point",
+          "name": "Irara Baoli",
+          "latitude": 33.834579,
+          "longitude": 73.82146,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6697",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-poonch."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36697,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-poonch"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6699",
+      "slug": "kushiani-bheak-baoli",
+      "status": "published",
+      "title": "Kushiani Bheak Baoli",
+      "shortTitle": "Kushiani Bheak Baoli",
+      "summary": "This square stone-built water structure in Banbehak has a simple arched front and an enclosed tank.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6699",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Kushiani Bheak Baoli",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Poonch",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented historic monument with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6699-point",
+          "name": "Kushiani Bheak Baoli",
+          "latitude": 33.877932,
+          "longitude": 73.825958,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6699",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-poonch."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36699,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-poonch"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6706",
+      "slug": "talab-ram-singh",
+      "status": "published",
+      "title": "Talab Ram Singh",
+      "shortTitle": "Talab Ram Singh",
+      "summary": "A square pond with stone retaining walls gives its name to the surrounding Mirpur village.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6706",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Talab Ram Singh (Mirpur)",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Mirpur",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented historic monument with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6706-point",
+          "name": "Talab Ram Singh",
+          "latitude": 33.190555556,
+          "longitude": 73.871666667,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6706",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-mirpur."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36706,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-mirpur"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6640",
+      "slug": "banganga-temple",
+      "status": "published",
+      "title": "Banganga Temple",
+      "shortTitle": "Banganga Temple",
+      "summary": "A stone-built temple preserves a shikhara, arched wall panels and traces of plaster decoration beside a hillside watercourse.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6640",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Banganga Temple",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Kotli",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented sacred heritage with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6640-point",
+          "name": "Banganga Temple",
+          "latitude": 33.353722222,
+          "longitude": 74.056638889,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6640",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-kotli."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36640,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-kotli"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6621",
+      "slug": "khoi-kotli-saulan-rock-cut-sanctuaries",
+      "status": "published",
+      "title": "Khoi Kotli Saulan Rock-cut Sanctuaries",
+      "shortTitle": "Khoi Kotli Saulan Rock-cut Sanctuaries",
+      "summary": "Rock-cut chambers include a front verandah, carved pilasters and a cup-marked interior near Kotli Saulan.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6621",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Khoi Kotli Saulan Rock-cut Sanctuaries (Caves)",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Kotli",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented archaeological site with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6621-point",
+          "name": "Khoi Kotli Saulan Rock-cut Sanctuaries",
+          "latitude": 33.353583333,
+          "longitude": 73.941444444,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6621",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-kotli."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36621,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-kotli"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-6703",
+      "slug": "bawali-baoli",
+      "status": "published",
+      "title": "Bawali Baoli",
+      "shortTitle": "Bawali Baoli",
+      "summary": "A brick-built stepped well features stone stairs, pointed supporting arches and an octagonal well shaft.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6703",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Bawali Baoli",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Bhimber",
+      "sourcePublication": "Threat to the Cultural Heritage of Pakistan Survey and Documentation of Tangible and Intangible Heritage of  Azad Jammu & Kashmir and Gilgit-Baltistan",
+      "selectionReason": "Distinct documented historic monument with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-6703-point",
+          "name": "Bawali Baoli",
+          "latitude": 32.97875,
+          "longitude": 74.072472222,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6703",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-bhimber."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 36703,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-bhimber"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-9177",
+      "slug": "dudyal-gakhar-mosque",
+      "status": "published",
+      "title": "Dudyal Gakhar Mosque",
+      "shortTitle": "Dudyal Gakhar Mosque",
+      "summary": "A surviving mosque facade preserves minarets, a high central arch and rectangular decorative panels beside the reservoir landscape.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9177",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Dudyal Gakhar Masjid",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Mirpur",
+      "sourcePublication": "Art & Architecture of Kashmir, a case study of Mirpur Forts, Mangla and Ramkot",
+      "selectionReason": "Distinct documented sacred heritage with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-9177-point",
+          "name": "Dudyal Gakhar Mosque",
+          "latitude": 33.346912505,
+          "longitude": 73.683839145,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9177",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-mirpur."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 39177,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-mirpur"
+        ]
+      }
+    },
+    {
+      "id": "major-doam-9181",
+      "slug": "nokot-jamia-mosque",
+      "status": "published",
+      "title": "Nokot Jamia Mosque",
+      "shortTitle": "Nokot Jamia Mosque",
+      "summary": "A three-storey prayer building at Nokot combines local stone and timber construction with decorative detailing.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage place",
+      "legalStatus": "Not Protected",
+      "legalStatusNote": "As recorded in the cited DOAM catalogue; not an independent review of current legislation.",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9181",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Col. Haq Nawaz Kiani Shaheed Jamia Masjid",
+      "sourceRegion": "Azad Jammu and Kashmir",
+      "sourceDistrict": "Hattian Bala",
+      "sourcePublication": "Documentation of old Wooden Houses of Neelum & Leepa Valley",
+      "selectionReason": "Distinct documented sacred heritage with a substantive inventory description and a source point passing coordinate, duplicate and location screens; expands listed discovery without adding default-map prominence.",
+      "components": [
+        {
+          "id": "major-doam-9181-point",
+          "name": "Nokot Jamia Mosque",
+          "latitude": 34.169801068,
+          "longitude": 73.743311599,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/9181",
+          "coordinateNote": "DOAM public catalogue site point transcribed unchanged on 2026-10-22; raw DMS screened for valid ranges and non-whole-minute precision. Protected geometry yields azad-kashmir-jhelum-valley."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "imageCredit": "",
+      "imageSourceUrl": "",
+      "imageLicense": "",
+      "imageTemporary": false,
+      "placeholderImage": true,
+      "mapDisplay": "listed",
+      "featured": false,
+      "sortOrder": 39181,
+      "detailsPageStatus": "future",
+      "researchSpatialContext": {
+        "provinceRegionIds": [
+          "azad-kashmir"
+        ],
+        "districtIds": [
+          "azad-kashmir-jhelum-valley"
+        ]
+      }
+    }
+  ],
+  "unresolved": [
+    {
+      "id": 6707,
+      "title": "Nawan well, Mirpur",
+      "districtId": "azad-kashmir-mirpur",
+      "sourceDistrict": "Mirpur",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6707",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.236388889",
+        "longitude": "73.875000000"
+      },
+      "coordinateCollisions": [
+        6704
+      ]
+    },
+    {
+      "id": 6720,
+      "title": "Wooden Houses (Larri) of Sharda",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6720",
+      "reason": "editorial-identity-or-location-hold",
+      "note": "A private wooden dwelling example with a non-unique group title; identity and proximity to other Sharda points require site-specific verification.",
+      "sourceCoordinates": {
+        "latitude": "34.792896028",
+        "longitude": "74.193384389"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6722,
+      "title": "Kern Wooden Graves",
+      "districtId": null,
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6722",
+      "reason": "unassigned-protected-geometry",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.663156639",
+        "longitude": "73.959679461"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6723,
+      "title": "Bhrund Sacred Pond",
+      "districtId": "azad-kashmir-kotli",
+      "sourceDistrict": "Kotli",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6723",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.541263889",
+        "longitude": "73.715500000"
+      },
+      "coordinateCollisions": [
+        6639
+      ]
+    },
+    {
+      "id": 9859,
+      "title": "Kishan Ghati (cave) near Sharda",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9859",
+      "reason": "editorial-identity-or-location-hold",
+      "note": "Source states several kilometres from Sharda but point is near temple/fort cluster; needs independent exact location.",
+      "sourceCoordinates": {
+        "latitude": "34.791948981",
+        "longitude": "74.188727525"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 5457,
+      "title": "Tehjian Lower",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/5457",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.466663680",
+        "longitude": "73.806419983"
+      },
+      "coordinateCollisions": [
+        6625,
+        6618
+      ]
+    },
+    {
+      "id": 6685,
+      "title": "Bihal Baoli (a sacred spring)",
+      "districtId": "azad-kashmir-kotli",
+      "sourceDistrict": "Kotli",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6685",
+      "reason": "editorial-identity-or-location-hold",
+      "note": "Bihal Baoli and its inscription 6632 have materially different points; no arbitrary coordinate choice.",
+      "sourceCoordinates": {
+        "latitude": "33.358888889",
+        "longitude": "74.035555556"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6608,
+      "title": "Sharda Megalith II",
+      "districtId": "azad-kashmir-poonch",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6608",
+      "reason": "catalogue-coordinate-collision; source-district-spatial-conflict",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.853722222",
+        "longitude": "73.773694444"
+      },
+      "coordinateCollisions": [
+        6612,
+        6606,
+        6682
+      ]
+    },
+    {
+      "id": 6611,
+      "title": "Chitarparhi Cup Marks",
+      "districtId": "azad-kashmir-jhelum-valley",
+      "sourceDistrict": "Mirpur",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6611",
+      "reason": "catalogue-coordinate-collision; source-district-spatial-conflict",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.144305556",
+        "longitude": "73.857000000"
+      },
+      "coordinateCollisions": [
+        5458
+      ]
+    },
+    {
+      "id": 6612,
+      "title": "Sharda Cup Marks I",
+      "districtId": "azad-kashmir-poonch",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6612",
+      "reason": "catalogue-coordinate-collision; source-district-spatial-conflict",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.853722222",
+        "longitude": "73.773694444"
+      },
+      "coordinateCollisions": [
+        6608,
+        6606,
+        6682
+      ]
+    },
+    {
+      "id": 6614,
+      "title": "Sharda Cup Marks II",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6614",
+      "reason": "editorial-identity-or-location-hold",
+      "note": "Sharda cup-mark point is close to a residential catalogue point and source temple/graveyard context requires an independent precise check.",
+      "sourceCoordinates": {
+        "latitude": "34.792764547",
+        "longitude": "74.193369358"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6625,
+      "title": "Danna Tehjian Site",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6625",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.466663680",
+        "longitude": "73.806419983"
+      },
+      "coordinateCollisions": [
+        5457,
+        6618
+      ]
+    },
+    {
+      "id": 6626,
+      "title": "Khoi Ratta Settlement",
+      "districtId": "azad-kashmir-kotli",
+      "sourceDistrict": "Kotli",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6626",
+      "reason": "not-selected-after-evidence-review",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.361630000",
+        "longitude": "74.023320000"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6627,
+      "title": "Kakuta Mound",
+      "districtId": "azad-kashmir-poonch",
+      "sourceDistrict": "Poonch",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6627",
+      "reason": "not-selected-after-evidence-review",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.710235146",
+        "longitude": "73.944936611"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6644,
+      "title": "Seri Temple",
+      "districtId": "azad-kashmir-kotli",
+      "sourceDistrict": "Kotli",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6644",
+      "reason": "not-selected-after-evidence-review",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.392138889",
+        "longitude": "74.066027778"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6637,
+      "title": "Bhrund Temple (Kalhore Rajgan Temple Complex) No. 1",
+      "districtId": "azad-kashmir-kotli",
+      "sourceDistrict": "Kotli",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6637",
+      "reason": "editorial-identity-or-location-hold",
+      "note": "Bhrund temples 6637/6639 have divergent points and may belong to an already represented fort ensemble; reconcile identities first.",
+      "sourceCoordinates": {
+        "latitude": "33.501944444",
+        "longitude": "73.718361111"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6639,
+      "title": "Bhrund Temple (Kalhore Rajgan Temple Complex) No. 2",
+      "districtId": "azad-kashmir-kotli",
+      "sourceDistrict": "Kotli",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6639",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.541263889",
+        "longitude": "73.715500000"
+      },
+      "coordinateCollisions": [
+        6723
+      ]
+    },
+    {
+      "id": 6662,
+      "title": "Sirahsila Fort",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6662",
+      "reason": "editorial-identity-or-location-hold",
+      "note": "Potential Sharda/Sirahsila fort overlap with existing 6666 and source-distance conflict; no duplicate or assumed point.",
+      "sourceCoordinates": {
+        "latitude": "34.791382433",
+        "longitude": "74.192690825"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6691,
+      "title": "Choch Baoli",
+      "districtId": "azad-kashmir-kotli",
+      "sourceDistrict": "Kotli",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6691",
+      "reason": "not-selected-after-evidence-review",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.447888889",
+        "longitude": "73.739444444"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6688,
+      "title": "Chrohi Baoli",
+      "districtId": "azad-kashmir-kotli",
+      "sourceDistrict": "Mirpur",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6688",
+      "reason": "source-district-spatial-conflict",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.300110000",
+        "longitude": "73.952420000"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6704,
+      "title": "Nawan Baoli",
+      "districtId": "azad-kashmir-mirpur",
+      "sourceDistrict": "Mirpur",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6704",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.236388889",
+        "longitude": "73.875000000"
+      },
+      "coordinateCollisions": [
+        6707
+      ]
+    },
+    {
+      "id": 6693,
+      "title": "Mandol Bazar Baoli",
+      "districtId": "azad-kashmir-poonch",
+      "sourceDistrict": "Poonch",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6693",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.679746874",
+        "longitude": "73.956685109"
+      },
+      "coordinateCollisions": [
+        6635
+      ]
+    },
+    {
+      "id": 6717,
+      "title": "Mand Karo Wooden House No.3",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6717",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.673777778",
+        "longitude": "73.903166667"
+      },
+      "coordinateCollisions": [
+        6718,
+        6719,
+        6714,
+        6716,
+        6721,
+        6630
+      ]
+    },
+    {
+      "id": 6718,
+      "title": "Mand Karo wooden House No.4",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6718",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.673777778",
+        "longitude": "73.903166667"
+      },
+      "coordinateCollisions": [
+        6717,
+        6719,
+        6714,
+        6716,
+        6721,
+        6630
+      ]
+    },
+    {
+      "id": 6719,
+      "title": "Mand Karo Wooden House No.5",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6719",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.673777778",
+        "longitude": "73.903166667"
+      },
+      "coordinateCollisions": [
+        6717,
+        6718,
+        6714,
+        6716,
+        6721,
+        6630
+      ]
+    },
+    {
+      "id": 6724,
+      "title": "Muhammad House",
+      "districtId": "azad-kashmir-mirpur",
+      "sourceDistrict": "Mirpur",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6724",
+      "reason": "not-selected-after-evidence-review",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.284768997",
+        "longitude": "73.780370004"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6606,
+      "title": "Sharda Megalith I",
+      "districtId": "azad-kashmir-poonch",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6606",
+      "reason": "catalogue-coordinate-collision; source-district-spatial-conflict",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.853722222",
+        "longitude": "73.773694444"
+      },
+      "coordinateCollisions": [
+        6608,
+        6612,
+        6682
+      ]
+    },
+    {
+      "id": 6618,
+      "title": "Khel Patt Tehjian",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6618",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.466663680",
+        "longitude": "73.806419983"
+      },
+      "coordinateCollisions": [
+        5457,
+        6625
+      ]
+    },
+    {
+      "id": 6619,
+      "title": "Khoi Ratta Rock-cut Caves",
+      "districtId": "azad-kashmir-kotli",
+      "sourceDistrict": "Kotli",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6619",
+      "reason": "not-selected-after-evidence-review",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.359250000",
+        "longitude": "74.020055556"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6632,
+      "title": "Bihal Baoli Inscription, Khoi Ratta",
+      "districtId": "azad-kashmir-kotli",
+      "sourceDistrict": "Kotli",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6632",
+      "reason": "editorial-identity-or-location-hold",
+      "note": "Inscription is explicitly part of Bihal Baoli but source coordinates differ; merge only after point verification.",
+      "sourceCoordinates": {
+        "latitude": "33.358620000",
+        "longitude": "74.027630000"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6635,
+      "title": "Mandole Temple",
+      "districtId": "azad-kashmir-poonch",
+      "sourceDistrict": "Poonch",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6635",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.679746874",
+        "longitude": "73.956685109"
+      },
+      "coordinateCollisions": [
+        6693
+      ]
+    },
+    {
+      "id": 6651,
+      "title": "Sita Ram Temple",
+      "districtId": "khyber-pakhtunkhwa-abbottabad",
+      "sourceDistrict": "Muzaffarabad",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6651",
+      "reason": "source-region-spatial-conflict; source-district-spatial-conflict",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.212000000",
+        "longitude": "73.274430000"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6653,
+      "title": "Radha Krishna Temple, Old Secretariat: Temple 1",
+      "districtId": "khyber-pakhtunkhwa-abbottabad",
+      "sourceDistrict": "Muzaffarabad",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6653",
+      "reason": "source-region-spatial-conflict; source-district-spatial-conflict",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.212000000",
+        "longitude": "73.274400000"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6659,
+      "title": "Hindu Temple, Mirpur",
+      "districtId": "azad-kashmir-mirpur",
+      "sourceDistrict": "Mirpur",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6659",
+      "reason": "near-existing-place-within-20m; editorial-identity-or-location-hold",
+      "note": "Submerged Old Mirpur temple source point nearly duplicates existing Ramkot Fort; source-location conflict.",
+      "sourceCoordinates": {
+        "latitude": "33.223485000",
+        "longitude": "73.641755000"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6682,
+      "title": "Gulshan-e-Shuhada Temple",
+      "districtId": "azad-kashmir-poonch",
+      "sourceDistrict": "Poonch",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6682",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.853722222",
+        "longitude": "73.773694444"
+      },
+      "coordinateCollisions": [
+        6608,
+        6612,
+        6606
+      ]
+    },
+    {
+      "id": 6686,
+      "title": "Barna Baoli",
+      "districtId": null,
+      "sourceDistrict": "Bhimber",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6686",
+      "reason": "unassigned-protected-geometry",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.010583333",
+        "longitude": "73.869527778"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6712,
+      "title": "Kakuta Mud House",
+      "districtId": "azad-kashmir-poonch",
+      "sourceDistrict": "Poonch",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6712",
+      "reason": "not-selected-after-evidence-review",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.753694444",
+        "longitude": "73.941666667"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6714,
+      "title": "Mand Karo Wooden House No.1",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6714",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.673777778",
+        "longitude": "73.903166667"
+      },
+      "coordinateCollisions": [
+        6717,
+        6718,
+        6719,
+        6716,
+        6721,
+        6630
+      ]
+    },
+    {
+      "id": 6716,
+      "title": "Mand Karo Wooden House No.2",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6716",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.673777778",
+        "longitude": "73.903166667"
+      },
+      "coordinateCollisions": [
+        6717,
+        6718,
+        6719,
+        6714,
+        6721,
+        6630
+      ]
+    },
+    {
+      "id": 6721,
+      "title": "Kiran Wooden Graves",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6721",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.673777778",
+        "longitude": "73.903166667"
+      },
+      "coordinateCollisions": [
+        6717,
+        6718,
+        6719,
+        6714,
+        6716,
+        6630
+      ]
+    },
+    {
+      "id": 6725,
+      "title": "Manawar Sharif Mosque (chamb)",
+      "districtId": "azad-kashmir-bhimber",
+      "sourceDistrict": "Bhimber",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6725",
+      "reason": "editorial-identity-or-location-hold",
+      "note": "Source says one km south of Chak Pandit temple, but supplied points are roughly 20 km apart; verify independently.",
+      "sourceCoordinates": {
+        "latitude": "32.968882860",
+        "longitude": "74.072711511"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "id": 6630,
+      "title": "Neghdar Inscription",
+      "districtId": "azad-kashmir-neelum",
+      "sourceDistrict": "Neelum",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6630",
+      "reason": "catalogue-coordinate-collision",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.673777778",
+        "longitude": "73.903166667"
+      },
+      "coordinateCollisions": [
+        6717,
+        6718,
+        6719,
+        6714,
+        6716,
+        6721
+      ]
+    },
+    {
+      "id": 5458,
+      "title": "Chitarpari Rock Carvings",
+      "districtId": "azad-kashmir-jhelum-valley",
+      "sourceDistrict": "Mirpur",
+      "sourceUrl": "https://doam.gov.pk/public/sites/5458",
+      "reason": "catalogue-coordinate-collision; source-district-spatial-conflict",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "34.144305556",
+        "longitude": "73.857000000"
+      },
+      "coordinateCollisions": [
+        6611
+      ]
+    },
+    {
+      "id": 6683,
+      "title": "Ali Baig Gurdwara",
+      "districtId": null,
+      "sourceDistrict": "Bhimber",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6683",
+      "reason": "unassigned-protected-geometry",
+      "note": "Catalogue candidate reviewed; not promoted without stronger distinct identity/significance or additional supporting evidence.",
+      "sourceCoordinates": {
+        "latitude": "33.010646682",
+        "longitude": "73.868853860"
+      },
+      "coordinateCollisions": []
+    },
+    {
+      "title": "Darbar Haji Pir",
+      "districtId": "azad-kashmir-haveli",
+      "sourceUrl": "https://cpdr.org.pk/wp-content/uploads/2024/12/cpec-in-azad-j-kashmir.pdf",
+      "reason": "missing-independent-precise-site-coordinate",
+      "note": "Institutional report identifies the shrine; no coordinate inferred from a pass, village or district."
+    }
+  ],
+  "rejected": [
+    {
+      "id": 6734,
+      "title": "Bagh Fort",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6734",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6734"
+    },
+    {
+      "id": 6633,
+      "title": "Sharda Temple",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6633",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6633"
+    },
+    {
+      "id": 6665,
+      "title": "Baghsar Fort",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6665",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6665"
+    },
+    {
+      "id": 6666,
+      "title": "Sharda Fort",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6666",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6666"
+    },
+    {
+      "id": 6676,
+      "title": "Ramkot Fort",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6676",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6676"
+    },
+    {
+      "id": 6636,
+      "title": "Dera Temple",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6636",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6636"
+    },
+    {
+      "id": 10365,
+      "title": "Baral Fort",
+      "sourceUrl": "https://doam.gov.pk/public/sites/10365",
+      "reason": "already-canonical",
+      "existingId": "major-doam-10365"
+    },
+    {
+      "id": 10366,
+      "title": "Rani Baoli & Hammams",
+      "sourceUrl": "https://doam.gov.pk/public/sites/10366",
+      "reason": "already-canonical",
+      "existingId": "major-doam-10366"
+    },
+    {
+      "id": 6730,
+      "title": "Black Fort (Gojra Fort)",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6730",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6730"
+    },
+    {
+      "id": 6650,
+      "title": "Matrani Temple",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6650",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6650"
+    },
+    {
+      "id": 6667,
+      "title": "Owin Fort",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6667",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6667"
+    },
+    {
+      "id": 6670,
+      "title": "Bhrund Fort",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6670",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6670"
+    },
+    {
+      "id": 6671,
+      "title": "Throachi Fort",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6671",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6671"
+    },
+    {
+      "id": 6678,
+      "title": "Burjun Fort",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6678",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6678"
+    },
+    {
+      "id": 6680,
+      "title": "Saadabad Caravan Sarai",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6680",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6680"
+    },
+    {
+      "id": 6710,
+      "title": "Baradari of Maharaj Ranbir Singh",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6710",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6710"
+    },
+    {
+      "id": 6675,
+      "title": "Mangla Fort",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6675",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6675"
+    },
+    {
+      "id": 6663,
+      "title": "Red Fort",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6663",
+      "reason": "already-canonical",
+      "existingId": "major-doam-6663"
+    },
+    {
+      "id": 9863,
+      "title": "Mughal Mosque Bhimber",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9863",
+      "reason": "already-canonical",
+      "existingId": "major-doam-9863"
+    }
+  ]
+}

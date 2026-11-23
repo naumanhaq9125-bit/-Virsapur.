@@ -1,0 +1,36 @@
+{
+  "pass": true,
+  "syntheticOnly": true,
+  "scales": [
+    {
+      "size": 100,
+      "pages": 9,
+      "initialCards": 12,
+      "indexBytes": 40456
+    },
+    {
+      "size": 250,
+      "pages": 21,
+      "initialCards": 12,
+      "indexBytes": 101306
+    },
+    {
+      "size": 500,
+      "pages": 42,
+      "initialCards": 12,
+      "indexBytes": 202721
+    }
+  ],
+  "checks": [
+    "exact membership",
+    "dependent districts",
+    "12-card bound",
+    "query/page round trip",
+    "Back/forward URL state",
+    "locked category",
+    "weighted related stories",
+    "body-free payload",
+    "rights-aware image descriptors",
+    "escaping"
+  ]
+}

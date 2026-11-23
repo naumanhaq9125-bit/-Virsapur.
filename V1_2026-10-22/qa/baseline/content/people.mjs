@@ -1,0 +1,24 @@
+export const people = [
+  {
+    id: "person-mian-ahmad-farooq",
+    type: "person",
+    slug: "mian-ahmad-farooq",
+    status: "published",
+    name: "Mian Ahmad Farooq",
+    role: "Founder · CEO",
+    biography: "Mian Ahmad Farooq is a Pakistani cultural heritage activist, lawyer, educator, and media personality known for his work in heritage awareness and community engagement.",
+    image: { src: "assets/founder-ahmad.jpg", optimizedStem: "founder-ahmad", width: 1600, height: 1200, alt: "Mian Ahmad Farooq", caption: "", credit: "" },
+    sortOrder: 1
+  },
+  {
+    id: "person-altamash",
+    type: "person",
+    slug: "altamash",
+    status: "published",
+    name: "Altamash",
+    role: "Co-founder",
+    biography: "Altamash, co-founder of a prominent tech startup, is an innovative entrepreneur, software engineer, and public speaker recognized for his contributions to technology education and fostering startup ecosystems.",
+    image: { src: "assets/founder-altamash.jpeg", optimizedStem: "founder-altamash", width: 787, height: 591, alt: "Altamash", caption: "", credit: "" },
+    sortOrder: 2
+  }
+];

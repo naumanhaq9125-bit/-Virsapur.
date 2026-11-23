@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-22",
+  "range": [
+    240,
+    249
+  ],
+  "records": [
+    {
+      "id": "story-balochi-oral-poetry-and-the-work-of-transmission",
+      "proseWords": 489,
+      "references": [
+        {
+          "title": "A Brief Introduction to Balochi Literature",
+          "url": "https://www2.lingfil.uu.se/arkiv/old_site/digitalAssets/562/c_562186-l_3-k_jahanibadalkhanlastversionnov15.pdf",
+          "publisher": "Sabir Badalkhan and Carina Jahani, Uppsala University repository",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "BaluchistanIIIa: Baluchi Poetry",
+          "url": "https://www.iranicaonline.org/articles/baluchistan-iiia/",
+          "publisher": "Josef Elfenbein, Encyclopaedia Iranica",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Badalkhan/Jahani specialist primary synthesis approximately160 words; Elfenbein approximately55. No verse quoted, no universal extinction claim."
+    },
+    {
+      "id": "story-brahui-a-language-not-a-historical-shortcut",
+      "proseWords": 471,
+      "references": [
+        {
+          "title": "Brahui classification",
+          "url": "https://glottolog.org/glottolog?iso=brh",
+          "publisher": "Glottolog",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "A Bayesian phylogenetic study of the Dravidian language family",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5882685/",
+          "publisher": "Vishnupriya Kolipakam and colleagues, Royal Society Open Science",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Brahui",
+          "url": "https://www.iranicaonline.org/articles/brahui/",
+          "publisher": "Josef Elfenbein, Encyclopaedia Iranica",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "No genetics/Indus civilisation identity claim.2018 model uncertainty retained, no date asserted for Brahui arrival. Elfenbein language contact only, no lexicon percentages."
+    },
+    {
+      "id": "story-saraiki-poetry-and-the-vocabulary-of-the-river-plain",
+      "proseWords": 495,
+      "references": [
+        {
+          "title": "Urdu as a sideline: the poetry of Khwaja Ghulam Farid",
+          "url": "https://siraiki.com/wp-content/uploads/2025/07/Urdu-as-a-sideline_-the-poetry-of-Khawja-Ghulam-Farid.pdf",
+          "publisher": "Christopher Shackle, originally in Urdu and Muslim South Asia, SOAS",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Tomb of Khawaja Ghulam Farid",
+          "url": "https://doam.gov.pk/public/sites/6191",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Shackle article read via author-credited scan; no lyric quoted, approximately150 words derived. Native Saraiki edition review before original words/translations published. Riverplain title qualified by Rohi diversity."
+    },
+    {
+      "id": "story-shina-storytelling-and-community-documentation",
+      "proseWords": 487,
+      "references": [
+        {
+          "title": "Khalifa Rehmat Malang Jan’s Memories Recounted",
+          "url": "https://soundcloud.com/mountainheritagearchives/khalifa-rehmat-malang-jans-memories-recounted",
+          "publisher": "Mountain Heritage Archives, original recording description",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Transformation of a Naga Prince Tale, abstract",
+          "url": "https://www1.columbia.edu/sec/cu/lso/tocdata/765425/CU02681463/081-Vol_81.pdf",
+          "publisher": "Ruth Laila Schmidt, Oriental Archive81,2013; contents hosted by Columbia University",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Recording description read; no claim audio audited/transcribed. Schmidt scoped to KohistaniShina, not Gilgit variety. Community-led framework proposed, not completed. All-rights-reserved audio not reused."
+    },
+    {
+      "id": "story-balti-language-in-manuscripts-and-new-media",
+      "proseWords": 481,
+      "references": [
+        {
+          "title": "Introducing Another Script for Writing Balti",
+          "url": "https://www.unicode.org/L2/L2010/10231-n3842-balti.pdf",
+          "publisher": "Anshuman Pandey, Unicode technical contribution",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "As Yet Unsupported Scripts",
+          "url": "https://www.unicode.org/standard/unsupported.html",
+          "publisher": "Unicode Consortium",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Languages and Scripts, CLDR49",
+          "url": "https://www.unicode.org/cldr/charts/49/supplemental/languages_and_scripts.html",
+          "publisher": "Unicode Consortium",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Pandey approximately170 words derived; historical A/B labels tentative retained; no claim all Balti unencoded/dead. CLDR not literary census. No manuscript images reused."
+    },
+    {
+      "id": "story-burushaski-and-the-meaning-of-a-language-isolate",
+      "proseWords": 472,
+      "references": [
+        {
+          "title": "Burushaski Language Resource",
+          "url": "https://digital.library.unt.edu/explore/collections/BURUS/",
+          "publisher": "University of North Texas Libraries; Sadaf Munshi project",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Is Burushaski an Indo-European Language?",
+          "url": "https://iris.unimarconi.it/handle/20.500.14241/5413",
+          "publisher": "Luca Alfieri,2020 research abstract, Università Guglielmo Marconi repository",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "A Typology of Verb Agreement in Burushaski",
+          "url": "https://sealang.net/sala/archives/pdf4/anderson2001typology.pdf",
+          "publisher": "GregoryD.S.Anderson and Randall Eggert, Linguistics of the Tibeto-Burman Area",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "No population/ancientoriginclaim; Alfieri attributed critique fromabstract. Grammar example described notnew invented sentence. UNTproject~95words; no audio reused."
+    },
+    {
+      "id": "story-khowar-in-a-multilingual-chitral",
+      "proseWords": 472,
+      "references": [
+        {
+          "title": "Multilingualism in the Hindukush, Multiethnica36–37,2017",
+          "url": "https://su.diva-portal.org/smash/get/diva2%3A1155268/FULLTEXT01.pdf",
+          "publisher": "Henrik Liljegren, Stockholm University repository",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Yidgha: an endangered language in Chitral",
+          "url": "https://www.fli-online.org/documents/languages/yidgha/yidgha-report.htm",
+          "publisher": "Fakhruddin Akhunzada, Forum for Language Initiatives",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Development of Khowar as a Literacy Language",
+          "url": "https://fli-online.org/site/wp-content/uploads/2017/10/Development-of-Khowar-as-a-Literacy-Language.pdf",
+          "publisher": "Forum for Language Initiatives",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "2017paperindexedfullrelevantsection; directfetchthrottled. Avoid outdated geography/counts/currentextinctionprediction and report's suspectpassaltitude. FLI literacy historicalpublicationexamplesonly, notcurrentcounts."
+    },
+    {
+      "id": "story-wakhi-oral-history-across-a-mountain-world",
+      "proseWords": 489,
+      "references": [
+        {
+          "title": "How migrants made their way",
+          "url": "https://www.geo.fu-berlin.de/geog/fachrichtungen/anthrogeog/zelf/Medien/download/Benz/Benz_2013_-_How_Migrants_made_their_Way_-_CA_Working_Paper_No_11.pdf",
+          "publisher": "Andreas Benz, Crossroads Asia Working Paper11,2013",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Of moths and candle flames, doctoral thesis",
+          "url": "https://discovery.ucl.ac.uk/id/eprint/10106656/1/Of_moths_and_candle_flames_Th.pdf",
+          "publisher": "University College London research repository",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Benz paraphrase approximately170words; UCLexcerpt approximately50. Do notturncompetingoralsettlementchronologiesintofact. No contemporarybordercrossingadvice. Fullthesisauthor/titleverifybeforepublication; citeexactrepositorysource."
+    },
+    {
+      "id": "story-hindko-and-the-languages-of-urban-encounter",
+      "proseWords": 468,
+      "references": [
+        {
+          "title": "Language shift and maintenance: Hindko community in Peshawar",
+          "url": "https://www.pjsel.jehanf.com/index.php/journal/article/view/450",
+          "publisher": "Pakistan Journal of Society, Education and Language7(2),2021",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "English Loanword Adaptation in Hindko: Vehicle Vocabulary",
+          "url": "https://kjlr.pk/index.php/kjlr/article/view/431",
+          "publisher": "Haroon-ur-Rashid and Raja Nasim Akhtar, Kashmir Journal of Language Research18(1),2015",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Hindko Language and Culture Society",
+          "url": "https://hindko.org/en",
+          "publisher": "Hindko Language and Culture Society",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Researchabstractsread;75participantssampleboundednotpopulationclaim. Borrowingdistinctfromshift. No inventedHindkoforms. Societyhomepageestablishespublication/archiveactivitynotrepresentativeness."
+    },
+    {
+      "id": "story-pahari-and-pothwari-names-varieties-and-self-identification",
+      "proseWords": 484,
+      "references": [
+        {
+          "title": "Light Verb Constructions in Potwari",
+          "url": "https://pure.manchester.ac.uk/ws/files/54567249/FULL_TEXT.PDF",
+          "publisher": "FarahB.Nazir, University of Manchester doctoral thesis,2014",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Clausal negation in Pahari-Pothwari",
+          "url": "https://etheses.whiterose.ac.uk/id/eprint/34946/",
+          "publisher": "Awais Hussain, University of York research thesis,2024",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Nazir namingdiscussion140wordsmax; Hussain~90. No contestedclassificationdeclaredsettled; no inventedbordersorintelligibilitypercentages. Selfidentificationframeworkeditorialnotcensus."
+    }
+  ],
+  "planCorrections": [
+    {
+      "index": 242,
+      "id": "story-saraiki-poetry-and-the-vocabulary-of-the-river-plain",
+      "oldTitle": "Saraiki poetry and the vocabulary of the river plain",
+      "title": "Saraiki poetry and the vocabulary of landscape",
+      "primaryKeyword": "Saraiki poetry heritage",
+      "note": "Root authorized title, SEO title and social title refinement to include Rohi/desert as well as river-plain imagery. Stable ID, slug, primary keyword and relations retained."
+    }
+  ],
+  "copyright": "No quotations of poems/songs. Cumulative source budgets tracked; each new book/article derives under200 words. Attribution distinguishes abstracts, catalogue metadata and fieldwork.",
+  "state": "Review only, native-language/specialist review required. No canonical edits or builds."
+}

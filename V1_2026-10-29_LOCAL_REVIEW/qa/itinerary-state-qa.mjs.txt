@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-10-29T13:57:12.732Z",
+  "actualHeritageRecords": 606,
+  "checks": [
+    {
+      "size": 3,
+      "reorder": true,
+      "remove": true,
+      "serializedPersistence": true,
+      "immutable": true,
+      "bounds": true
+    },
+    {
+      "size": 10,
+      "reorder": true,
+      "remove": true,
+      "serializedPersistence": true,
+      "immutable": true,
+      "bounds": true
+    },
+    {
+      "size": 20,
+      "reorder": true,
+      "remove": true,
+      "serializedPersistence": true,
+      "immutable": true,
+      "bounds": true
+    }
+  ],
+  "invalidPersistenceHandled": true,
+  "maximum": 40,
+  "personalDataPersisted": false,
+  "passed": true
+}

@@ -1,0 +1,1186 @@
+[
+  {
+    "id": "story-brick-bonds-as-evidence-of-building-change",
+    "type": "story",
+    "slug": "brick-bonds-as-evidence-of-building-change",
+    "title": "Brick bonds as evidence of building change",
+    "summary": "Brickwork can reveal blocked openings and successive repairs, but a bond is evidence to interpret, not a date stamp.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A brick wall records decisions at several scales. There is the size of each brick, the direction of its exposed face, the thickness of its joint and the larger arrangement around openings. A bond is the pattern in which bricks are laid. Recognising that pattern can make an apparently uniform elevation much easier to read, especially where a doorway has been filled or a damaged corner rebuilt."
+      },
+      {
+        "type": "paragraph",
+        "text": "A stretcher presents the brick's long face; a header presents its shorter end. Alternating these faces can help connect the outer appearance to the wall's construction, although a photograph of the surface cannot reveal every internal connection. Decorative brickwork, thin facing layers and later repairs complicate the relationship between the visible pattern and the wall behind it."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Start with the interruption"
+      },
+      {
+        "type": "paragraph",
+        "text": "Imagine a wall whose regular courses stop at a vertical seam. On one side, joints continue across an arch; on the other, smaller units fill its opening. This is a useful hypothetical observation: the opening and its infill may represent different episodes. It does not establish who blocked it, why, or in which year. Those questions require other evidence, including construction joints, documents and earlier photographs."
+      },
+      {
+        "type": "paragraph",
+        "text": "A change in colour alone is weaker evidence. Firing, weather exposure, moisture and cleaning can alter appearance. Conversely, a skilful repair may reproduce an earlier bond very closely. The SPAB's brick-repair guidance explicitly recommends matching replacement units and their laying pattern to existing work. A convincing visual match therefore cannot guarantee that all the bricks are contemporary."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Compare relationships, not isolated samples"
+      },
+      {
+        "type": "paragraph",
+        "text": "At large masonry sites such as Ranikot or Shah Rukn-e-Alam's tomb, a useful enquiry would compare a particular wall segment with adjacent corners, openings and repaired areas. These are suggested questions for documented investigation, not a claim that one published photograph has established either monument's sequence. The unit of observation should be a mapped area, rather than an attractive brick collected from somewhere nearby."
+      },
+      {
+        "type": "paragraph",
+        "text": "Record which course meets which feature. Does a joint pass continuously behind an added support? Does an opening cut through earlier work? Are reused bricks distributed randomly or confined to a patch? A measured sketch can separate these observations from the chronological interpretation written alongside them. If access is restricted, retain that uncertainty instead of completing hidden masonry from imagination."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A wall does not need to look uniform"
+      },
+      {
+        "type": "paragraph",
+        "text": "The public value of brickwork includes its evidence of maintenance. Rebuilding every irregular patch into one flawless pattern may remove the very relationships that explain the building's life. Equally, a damaged wall needs assessment rather than romantic neglect. Material identification, structural judgement and conservation decisions belong to qualified specialists."
+      },
+      {
+        "type": "paragraph",
+        "text": "For the visitor, the rewarding habit is simpler: follow a course, notice where it changes, then ask what evidence could explain the interruption. Bond names begin that conversation. They do not finish it."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "historic brick bonds Pakistan",
+      "architecture Pakistan",
+      "Ranikot Fort",
+      "Shah Rukn-e-Alam"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "sindh-jamshoro",
+      "punjab-multan"
+    ],
+    "provinceRegionIds": [
+      "sindh",
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-5168",
+      "major-doam-6431"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Brick bonds as evidence of building change | Virsapur",
+      "description": "Brickwork can reveal blocked openings and successive repairs, but a bond is evidence to interpret, not a date stamp.",
+      "primaryKeyword": "historic brick bonds Pakistan",
+      "socialTitle": "Brick bonds as evidence of building change",
+      "socialDescription": "Brickwork can reveal blocked openings and successive repairs, but a bond is evidence to interpret, not a date stamp."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "A guide to the repair of old brick walls",
+        "url": "https://www.spab.org.uk/advice/guide-repair-old-brick-walls",
+        "publisher": "Society for the Protection of Ancient Buildings",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Brick",
+        "url": "https://www.engineshed.scot/building-advice/building-materials/brick/",
+        "publisher": "Historic Environment Scotland",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original sourced review draft. Comparative examples and hypothetical observations are marked; linked places do not imply unverified technical findings. Editorial fact and terminology review required before publication.",
+    "editorialReason": "Distinguish repair phases and masonry observations from unsupported chronological certainty."
+  },
+  {
+    "id": "story-lime-mortar-and-the-problem-with-incompatible-repair",
+    "type": "story",
+    "slug": "lime-mortar-and-the-problem-with-incompatible-repair",
+    "title": "Lime mortar and the problem with incompatible repair",
+    "summary": "A compatible mortar must work with the existing masonry and its environment. Choosing a repair is more demanding than choosing a colour.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Mortar is easily overlooked because it occupies the space between more conspicuous materials. Yet those joints influence how a wall responds to water, movement and repair. A neat new joint can be physically unsuitable; a weathered old joint can still contain valuable evidence. Conservation therefore asks how materials work together, not whether the latest intervention looks unusually clean."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lime is not one uniform product. The SPAB distinguishes types with different setting behaviour and explains the trade-off between greater hydraulic strength and reduced permeability and flexibility. That distinction matters because the word lime on a bag does not, by itself, establish compatibility with a particular historic wall. Aggregate, proportions, exposure and workmanship also require assessment."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Stronger is not automatically better"
+      },
+      {
+        "type": "paragraph",
+        "text": "A repair material is part of a system that includes bricks or stone, earlier mortar, plaster, ground moisture and rainwater disposal. Judging one ingredient in isolation misses that system. If an intervention changes where moisture escapes, the problem can migrate rather than disappear. A sound conservation proposal must explain the mechanism of deterioration before presenting its chosen material as a solution."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lahore provides a concrete reason to investigate water as well as surfaces. AKDN's account of Wazir Khan Mosque identifies leaking water and accumulated street deposits among threats to the building. The important lesson is not a transferable recipe from one monument. It is that a decorative or masonry repair cannot be separated from the conditions affecting its foundations and surroundings."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What a useful assessment should establish"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before work, a specialist needs to distinguish original material from previous interventions, understand where deterioration is active and document any proposed sampling. A fragment of mortar without a recorded location may reveal a composition but lose the relationship that makes the result useful. Samples from sheltered and exposed areas may answer different questions."
+      },
+      {
+        "type": "paragraph",
+        "text": "A repair specification should then connect diagnosis to a limited intervention: what will be retained, what must be repaired, how compatibility will be assessed, and how performance will be monitored. The published Pakistan Journal of Science study on lime mortar places this question within conservation work on Pakistani historic buildings. It is a field of analysis, not an invitation to improvise a mixture beside a monument."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Maintenance belongs in the story"
+      },
+      {
+        "type": "paragraph",
+        "text": "Shahi Hammam and Chauburji are useful starting points for exploring Lahore's conservation history, but neither should become a universal demonstration of a treatment without a project-specific report. Photographs cannot establish mortar composition, hidden moisture paths or the safety of removing an earlier repair."
+      },
+      {
+        "type": "paragraph",
+        "text": "For owners and visitors, the practical first step is documentation and professional advice, not scraping out joints or applying a stronger coating. Record the location and progression of visible damage without touching it. A responsible outcome may look modest: retained fabric, corrected water problems and carefully specified repairs. Its success lies in continued performance, rather than an immediate impression of newness."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "lime mortar heritage repair",
+      "architecture Pakistan",
+      "Shahi Hammam, Lahore",
+      "Chauburji"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-lahore"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-9778",
+      "major-doam-6495"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Lime mortar and the problem with incompatible repair | Virsapur",
+      "description": "A compatible mortar must work with the existing masonry and its environment. Choosing a repair is more demanding than choosing a colour.",
+      "primaryKeyword": "lime mortar heritage repair",
+      "socialTitle": "Lime mortar and the problem with incompatible repair",
+      "socialDescription": "A compatible mortar must work with the existing masonry and its environment. Choosing a repair is more demanding than choosing a colour."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Lime",
+        "url": "https://www.spab.org.uk/advice/lime",
+        "publisher": "Society for the Protection of Ancient Buildings",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Lime mortar in conservation for historic buildings of Pakistan",
+        "url": "https://nja.pastic.gov.pk/journals/index.php/PJS/article/view/4458",
+        "publisher": "Pakistan Journal of Science",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Walled city of Lahore conservation",
+        "url": "https://www-hetz2.the.akdn/en/where-we-work/south-asia/pakistan/walled-city-of-lahore-conservation-pakistan",
+        "publisher": "Aga Khan Development Network",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original sourced review draft. Comparative examples and hypothetical observations are marked; linked places do not imply unverified technical findings. Editorial fact and terminology review required before publication.",
+    "editorialReason": "Explain compatibility and specialist assessment without offering unsafe do-it-yourself conservation advice."
+  },
+  {
+    "id": "story-why-timber-matters-in-mountain-architecture",
+    "type": "story",
+    "slug": "why-timber-matters-in-mountain-architecture",
+    "title": "Why timber matters in mountain architecture",
+    "summary": "In Baltistan, timber is structure, joinery and skilled knowledge—not merely a decorative mountain motif.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A carved balcony is often the first timber element a visitor notices in a mountain palace. The less conspicuous connections may matter just as much: the way a beam meets a post, how a frame accommodates an opening, or how wood and masonry share a wall. Looking only at the carving reduces a building technology to a decorative style."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Department of Archaeology and Museums describes Shigar Fort as several adjoining structures from different phases, not a single construction event. Its account also draws attention to decorated timber-framed elements. That combination is important. A visitor should ask how each phase was built and joined, rather than assume that everything inside a visually unified palace follows one structural system."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A material and a network of skills"
+      },
+      {
+        "type": "paragraph",
+        "text": "AKDN reports that conservation in Shigar helped revive carpentry and woodcarving and encouraged renewed use of traditional construction knowledge. Such skills cannot be preserved by keeping one attractive doorway behind glass alone. They involve selecting and working material, understanding joints, recognising deterioration and making decisions about repair within a larger building."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is also why the identity and contribution of craftspeople belong in interpretation. A label naming only a royal patron tells readers who commissioned a palace, but leaves its making almost anonymous. Where project records permit, a fuller account can identify the people responsible for survey, joinery, conservation and continuing maintenance without treating them as interchangeable carriers of an unchanging tradition."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Timber is not a promise of invulnerability"
+      },
+      {
+        "type": "paragraph",
+        "text": "It is tempting to describe every timber-laced mountain building as earthquake-proof. That claim goes much further than a photograph or a general description can support. Performance depends on configuration, connections, condition, foundations and the particular forces acting on the building. A responsible description identifies documented construction features without promising universal safety."
+      },
+      {
+        "type": "paragraph",
+        "text": "The conservation account for Khaplu Palace records serious decay associated with water ingress and timber deterioration. The project responded through documentation, structural analysis and interventions tailored to different conditions. This is evidence against the fantasy of a maintenance-free vernacular structure: skilled original construction and careful modern conservation both require attention to the building's vulnerabilities."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Read the whole assembly"
+      },
+      {
+        "type": "paragraph",
+        "text": "When viewing an accessible room, compare posts, beams, wall panels and the roof above them. Which elements appear continuous? Which are replaced? Is an ornamental surface attached to a structural member, or is it a separate component? A guide or conservation drawing may answer questions that cannot be resolved by sight."
+      },
+      {
+        "type": "paragraph",
+        "text": "Shigar, Khaplu and Chaqchan offer different settings for this enquiry; their histories should not be collapsed into one generic mountain house. Permission, structural restrictions and present religious or residential use still govern access."
+      },
+      {
+        "type": "paragraph",
+        "text": "Timber's importance becomes clearer when the visitor moves from a catalogue of motifs to a record of relationships. The building is not simply wood beside stone. It is a negotiated assembly of materials, labour, environment and successive decisions about keeping a place in use."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "timber mountain architecture Pakistan",
+      "architecture Pakistan",
+      "Shigar Fort Palace",
+      "Khaplu Fort Palace"
+    ],
+    "province": "Gilgit-Baltistan",
+    "district": null,
+    "relatedDistrictIds": [
+      "gilgit-baltistan-shigar",
+      "gilgit-baltistan-ghanche"
+    ],
+    "provinceRegionIds": [
+      "gilgit-baltistan"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-7998",
+      "major-doam-7974",
+      "major-doam-7969"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Why timber matters in mountain architecture | Virsapur",
+      "description": "In Baltistan, timber is structure, joinery and skilled knowledge—not merely a decorative mountain motif.",
+      "primaryKeyword": "timber mountain architecture Pakistan",
+      "socialTitle": "Why timber matters in mountain architecture",
+      "socialDescription": "In Baltistan, timber is structure, joinery and skilled knowledge—not merely a decorative mountain motif."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Shigar Fort Palace",
+        "url": "https://doam.gov.pk/public/sites/7998",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Conservation of Khaplu Palace Complex, Pakistan",
+        "url": "https://www.whitr-ap.org/index.php?classid=1490&newsid=2013&t=show",
+        "publisher": "World Heritage Institute of Training and Research for Asia and the Pacific",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Conservation and development in Gilgit-Baltistan",
+        "url": "https://www-hetz2.the.akdn/en/where-we-work/south-asia/pakistan/conservation-and-development-in-gilgit-baltistan-pakistan",
+        "publisher": "Aga Khan Development Network",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original sourced review draft. Comparative examples and hypothetical observations are marked; linked places do not imply unverified technical findings. Editorial fact and terminology review required before publication.",
+    "editorialReason": "Connect joinery and local building knowledge while avoiding universal earthquake-proof claims."
+  },
+  {
+    "id": "story-a-jharokha-looking-out-and-being-seen",
+    "type": "story",
+    "slug": "a-jharokha-looking-out-and-being-seen",
+    "title": "A jharokha: looking out and being seen",
+    "summary": "A projecting window connects room and street. Its meaning depends on access, visibility and the building around it.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A jharokha projects beyond the main face of a building, making an opening into a small spatial event. It can enlarge a view, create shade below and give a facade a point of emphasis. Calling it an ornamental window is therefore incomplete. It changes the relationship between a person inside a room and the space outside."
+      },
+      {
+        "type": "paragraph",
+        "text": "That relationship has at least two directions. Someone may look outward through an opening, while the projecting structure makes the building—and sometimes its occupants—more visible from the street. Screening, height, depth and the route into the room modify these possibilities. The same outward form does not establish one identical social practice wherever it appears."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Follow the projection back inside"
+      },
+      {
+        "type": "paragraph",
+        "text": "The official Gilgit-Baltistan description of Khaplu Palace offers a useful example of spatial continuity: its timber entrance develops into a balcony and then an upper room. The Department of Archaeology and Museums similarly identifies a prominent, multi-storey projecting timber feature. Here, the facade cannot be fully understood as a flat decorative composition. It belongs to a vertical arrangement of spaces."
+      },
+      {
+        "type": "paragraph",
+        "text": "A careful architectural reading would connect the exterior to a plan or section. Is the projection accessible from one private room, a hall or a circulation passage? Can someone pause there without blocking movement? Is its floor level aligned with the space behind it? These questions are more revealing than assigning a purpose from carving alone."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Avoid a ready-made social story"
+      },
+      {
+        "type": "paragraph",
+        "text": "A screen does not automatically prove that every person behind it was a secluded woman. A prominent balcony does not prove that a ruler addressed crowds from that exact position. Such interpretations may be correct in particular documented settings, but they need testimony, plans, paintings or records tied to the building under discussion."
+      },
+      {
+        "type": "paragraph",
+        "text": "For Lahore's Nau Nihal Singh Haveli, the official catalogue records spacious rooms, halls and balconies within a private residence. It provides a secure starting point for thinking about the relationship of interior space to a richly worked exterior. It does not license an invented account of a specific ceremony seen through every projecting opening."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Photograph the relationship, not only the detail"
+      },
+      {
+        "type": "paragraph",
+        "text": "A useful set of permitted photographs would include the whole elevation, the feature's connection to neighbouring openings and a closer view of its support and screening. Cropping out the street or courtyard can conceal the very relationship that makes a jharokha interesting. Where the interior is private or access is restricted, a missing view should remain missing."
+      },
+      {
+        "type": "paragraph",
+        "text": "The havelis at Hazro and Khem Singh Bedi's Rawalpindi district setting invite comparison through their own records, not through a single borrowed explanation. Variation is the subject, rather than an obstacle to a tidy definition."
+      },
+      {
+        "type": "paragraph",
+        "text": "A jharokha rewards the visitor who asks two questions together: what can be seen from here, and what does this projection make visible to others? The answer begins with architecture but may lead toward a carefully evidenced social history."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "jharokha architectural meaning",
+      "architecture Pakistan",
+      "Nau Nihal Singh Haveli",
+      "Hari Mandir, Hazro"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-lahore",
+      "punjab-attock",
+      "punjab-rawalpindi"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6446",
+      "major-doam-7659",
+      "major-doam-7053"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "A jharokha: looking out and being seen | Virsapur",
+      "description": "A projecting window connects room and street. Its meaning depends on access, visibility and the building around it.",
+      "primaryKeyword": "jharokha architectural meaning",
+      "socialTitle": "A jharokha: looking out and being seen",
+      "socialDescription": "A projecting window connects room and street. Its meaning depends on access, visibility and the building around it."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Haveli Nau Nihal Singh, including garden and quarters",
+        "url": "https://doam.gov.pk/public/sites/6446",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Khaplu Fort",
+        "url": "https://www.visitgilgitbaltistan.gov.pk/tour/id/65",
+        "publisher": "Government of Gilgit-Baltistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Khaplu Palace, Yabgo Khar",
+        "url": "https://doam.gov.pk/public/sites/7841",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original sourced review draft. Comparative examples and hypothetical observations are marked; linked places do not imply unverified technical findings. Editorial fact and terminology review required before publication.",
+    "editorialReason": "Read a projecting window as space and social interface, not merely ornament."
+  },
+  {
+    "id": "story-carved-doors-and-the-architecture-of-thresholds",
+    "type": "story",
+    "slug": "carved-doors-and-the-architecture-of-thresholds",
+    "title": "Carved doors and the architecture of thresholds",
+    "summary": "A historic door is a working boundary. Carving, hinges and the route beyond it all contribute to its meaning.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "An elaborate door invites a close photograph, but its carving is only part of the architecture. A threshold organises entry. It separates spaces, accommodates movement and establishes the moment at which a visitor must pause, turn or seek permission. To understand a door, look at what approaches it and what lies immediately beyond."
+      },
+      {
+        "type": "paragraph",
+        "text": "The official record of Haveli Sujan Singh in Rawalpindi describes a recessed entrance porch, an ornate main door and circulation towards stairs, entrance rooms and the courtyard. These relationships prevent the doorway from becoming a detached work of decorative art. It belonged to an arrangement of access, with different possible routes through the building."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The frame is part of the evidence"
+      },
+      {
+        "type": "paragraph",
+        "text": "Distinguish the moving leaf from its frame and surrounding masonry. Carving may continue across one component but stop at another. Hinges, sockets, locks and worn edges can raise questions about operation and alteration. A mismatched frame may indicate modification, although identifying its date or original location requires more than visual suspicion."
+      },
+      {
+        "type": "paragraph",
+        "text": "Consider a hypothetical door whose decorated upper panel fits awkwardly inside a later frame. One possibility is reuse; another is repair or adjustment in place. The visible mismatch is an observation. The story explaining it remains a hypothesis until measurements, joinery evidence or records support it. This separation protects a compelling detail from becoming a confident but invented biography."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Entering is a sequence"
+      },
+      {
+        "type": "paragraph",
+        "text": "At the historic haveli catalogued in Lawa, the Department of Archaeology and Museums describes steps, a series of arches and a veranda leading to a wooden door. It also records niches beside the entrance. The important effect is cumulative: a threshold can begin well before the actual door leaf. A facade photograph that excludes the steps and approach loses that sequence."
+      },
+      {
+        "type": "paragraph",
+        "text": "The decoration may direct attention towards the main entrance, but a larger doorway is not automatically evidence of unrestricted public access. Visitors, residents, service workers and animals may have used different routes in a building's history. Plans and testimony are needed before assigning these movements to particular people."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Keep the door attached to its place"
+      },
+      {
+        "type": "paragraph",
+        "text": "Architectural woodwork is especially vulnerable to being appreciated as a collectible fragment. Once removed, a door may retain its carving while losing information about height, orientation, adjacent rooms and later use. A museum or collection record should therefore distinguish a documented original location from a broad stylistic attribution."
+      },
+      {
+        "type": "paragraph",
+        "text": "At an occupied or supervised heritage property, do not open a door simply to test its mechanism, lean against a fragile leaf or move fittings for a photograph. Permission to visit a courtyard is not permission to enter every room."
+      },
+      {
+        "type": "paragraph",
+        "text": "The most rewarding doorway description combines craft with movement: material and carving, frame and fastening, approach and destination. That account lets a threshold remain what it was architecturally—a relationship between spaces—rather than reducing it to a beautiful rectangle."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "carved wooden doors Pakistan",
+      "architecture Pakistan",
+      "Haveli Sujan Singh",
+      "Historic Haveli, Lawa"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-rawalpindi",
+      "punjab-talagang"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-9419",
+      "major-doam-6806"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Carved doors and the architecture of thresholds | Virsapur",
+      "description": "A historic door is a working boundary. Carving, hinges and the route beyond it all contribute to its meaning.",
+      "primaryKeyword": "carved wooden doors Pakistan",
+      "socialTitle": "Carved doors and the architecture of thresholds",
+      "socialDescription": "A historic door is a working boundary. Carving, hinges and the route beyond it all contribute to its meaning."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Haveli Sujan Singh",
+        "url": "https://doam.gov.pk/public/sites/9419",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Haveli-I, Tehsil Talagang",
+        "url": "https://doam.gov.pk/public/sites/6806",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original sourced review draft. Comparative examples and hypothetical observations are marked; linked places do not imply unverified technical findings. Editorial fact and terminology review required before publication.",
+    "editorialReason": "Use entrances to discuss movement, craft and later alteration."
+  },
+  {
+    "id": "story-tile-mosaic-and-glazed-brick-not-interchangeable-terms",
+    "type": "story",
+    "slug": "tile-mosaic-and-glazed-brick-not-interchangeable-terms",
+    "title": "Tile mosaic and glazed brick: not interchangeable terms",
+    "summary": "A blue surface may be painted tile, cut-tile mosaic or glazed masonry. Technique should be identified before style.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Blue-and-white architectural decoration is often described with a handful of interchangeable words: tile, mosaic, glazed brick. They may refer to related materials, but they do not describe the same process. A useful account begins by asking how a pattern was made and assembled, rather than treating colour as a complete technical identification."
+      },
+      {
+        "type": "paragraph",
+        "text": "In cut-tile mosaic, individual pieces are shaped and combined into a larger design. The Metropolitan Museum's study of Persian tiles explains this construction through a surviving mihrab from Isfahan: pieces cut from differently coloured glazed tiles form the composition. This is a comparative example, not proof that every patterned surface in Pakistan was manufactured in the same way."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Find the boundaries of the units"
+      },
+      {
+        "type": "paragraph",
+        "text": "A painted tile can carry more than one colour or part of a design on a single unit. In a mosaic, changes in colour may coincide with joins between shaped pieces. Glazed brick introduces another relationship between a ceramic surface and masonry. These distinctions affect how curves, lettering and repeated patterns are produced, and how damaged areas can be understood."
+      },
+      {
+        "type": "paragraph",
+        "text": "From an appropriate viewing distance, look for seams and repeated modules. Does a flower continue across rectangular tile joints? Are small pieces fitted around the curves of a letter? Does the glazed face follow the dimensions and bond of masonry units? A clear answer may require technical photography or conservation documentation; a distant image can conceal the relevant joins."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Compare without flattening regional difference"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Shah Jahan Mosque at Thatta, Wazir Khan Mosque in Lahore and Shah Rukn-e-Alam's tomb in Multan are valuable starting points for comparison. Their decorative programmes should not be collapsed into one generic blue-tile tradition. Materials, geometry, placement and repair histories deserve individual description."
+      },
+      {
+        "type": "paragraph",
+        "text": "AKDN's Lahore conservation account distinguishes glazed tile mosaics from painted surface decoration at Wazir Khan Mosque. That vocabulary is useful because a single building can contain several techniques. Calling every coloured surface a fresco, or every repeated design a mosaic, obscures the work of different crafts and the different conservation problems they present."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Repairs can complicate what we see"
+      },
+      {
+        "type": "paragraph",
+        "text": "A replaced area may imitate the colour and geometry of an earlier surface while using a different method. Conversely, an irregular colour can result from weathering rather than a different construction phase. The Met's published discussion of its Isfahan mihrab records extensive restoration, a reminder that even a museum masterpiece has a material history after its initial making."
+      },
+      {
+        "type": "paragraph",
+        "text": "A responsible caption can therefore say patterned glazed ceramic decoration when a closer technical identification has not been established. Precision includes knowing when to remain general."
+      },
+      {
+        "type": "paragraph",
+        "text": "The visual reward is substantial. Once the eye begins to follow unit boundaries, a wall becomes a record of cutting, arranging, fitting and repair. The pattern is still beautiful, but its beauty is connected to decisions made by skilled people rather than explained by colour alone."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "tile mosaic glazed brick",
+      "architecture Pakistan",
+      "Wazir Khan Mosque",
+      "Shah Jahan Mosque"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-lahore",
+      "sindh-thatta",
+      "punjab-multan"
+    ],
+    "provinceRegionIds": [
+      "punjab",
+      "sindh"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6466",
+      "major-doam-5625",
+      "major-doam-6431"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Tile mosaic and glazed brick: not interchangeable terms | Virsapur",
+      "description": "A blue surface may be painted tile, cut-tile mosaic or glazed masonry. Technique should be identified before style.",
+      "primaryKeyword": "tile mosaic glazed brick",
+      "socialTitle": "Tile mosaic and glazed brick: not interchangeable terms",
+      "socialDescription": "A blue surface may be painted tile, cut-tile mosaic or glazed masonry. Technique should be identified before style."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Persian Tiles",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Persian_Tiles.pdf",
+        "publisher": "The Metropolitan Museum of Art",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Shahjahani Mosque / Jamia Mosque, Thatta",
+        "url": "https://doam.gov.pk/public/sites/5625",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Walled city of Lahore conservation",
+        "url": "https://www-hetz2.the.akdn/en/where-we-work/south-asia/pakistan/walled-city-of-lahore-conservation-pakistan",
+        "publisher": "Aga Khan Development Network",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original sourced review draft. Comparative examples and hypothetical observations are marked; linked places do not imply unverified technical findings. Editorial fact and terminology review required before publication.",
+    "editorialReason": "Distinguish techniques before discussing colour or regional style."
+  },
+  {
+    "id": "story-fresco-painted-plaster-and-later-repainting",
+    "type": "story",
+    "slug": "fresco-painted-plaster-and-later-repainting",
+    "title": "Fresco, painted plaster and later repainting",
+    "summary": "Historic wall painting may combine wet-plaster work, dry-applied details and later coatings. Appearance alone cannot separate them.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Fresco is often used casually to mean any old painting on a wall. In technical discussion, however, the way pigment meets plaster matters. Paint applied while lime plaster is wet behaves differently from paint held on a dry surface by a binder. A wall may contain more than one technique, as well as later retouching and coatings."
+      },
+      {
+        "type": "paragraph",
+        "text": "Getty's technical study of its Peacock wall painting makes this distinction unusually clear. Although the familiar name calls it a fresco, examination identified painting applied over a dried surface. The museum retains the convenient title while explaining the material evidence. That is a useful model for heritage writing: a customary name need not be discarded, but its technical limits should be visible."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A surface can contain several histories"
+      },
+      {
+        "type": "paragraph",
+        "text": "Imagine a painted border with a small area of different sheen. It might be a later coating, a repair, a change of material or simply a lighting effect. A photograph cannot settle those alternatives. A conservator may need magnification, examination under different illumination and carefully justified analysis before distinguishing original paint from later intervention."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Getty Conservation Institute's research on organic materials also warns against overly rigid categories. Historic painters sometimes combined techniques or worked at intermediate stages of plaster setting. It is therefore safer to describe a documented painting process than to force every surviving surface into an ideal textbook category."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Lahore's paintings are part of buildings"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Punjab heritage authority identifies fresco decoration within Lal Burj and records its conservation alongside roof, floor and structural work. That combination matters: a painted interior is not an isolated canvas. Its survival depends on the roof, masonry and environmental conditions around it. A treatment focused only on brighter colour would miss the larger system."
+      },
+      {
+        "type": "paragraph",
+        "text": "Shahi Hammam and Khem Singh Bedi Haveli are further places from which to investigate painted architectural surfaces through their own documentation. Their inclusion in a discovery route does not establish that every visible painting is original or executed with the same binding medium. Those are questions for specific records."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Newness is not a measure of authenticity"
+      },
+      {
+        "type": "paragraph",
+        "text": "A vivid panel may be well preserved, recently conserved or heavily repainted. A muted panel may be old, dirty, altered by a coating or affected by pigment change. None of these possibilities can be ranked from saturation alone. Before praising a restoration for making a wall look new, ask what was retained and how additions were documented."
+      },
+      {
+        "type": "paragraph",
+        "text": "Useful interpretation can distinguish surviving early work, later historic layers, modern conservation fills and areas where evidence is incomplete. A diagram or paired photograph may communicate this more honestly than a seamless reconstruction."
+      },
+      {
+        "type": "paragraph",
+        "text": "For visitors, the restraint is straightforward: no touching, wetting, rubbing or improvised cleaning to reveal a design. The reward of careful looking is not merely discovering a hidden picture. It is understanding a layered surface whose history includes making, use, alteration and the decisions involved in keeping it visible."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "historic fresco Pakistan",
+      "architecture Pakistan",
+      "Shahi Hammam, Lahore",
+      "Khem Singh Bedi Haveli"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-lahore",
+      "punjab-rawalpindi"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-9778",
+      "major-doam-7053"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Fresco, painted plaster and later repainting | Virsapur",
+      "description": "Historic wall painting may combine wet-plaster work, dry-applied details and later coatings. Appearance alone cannot separate them.",
+      "primaryKeyword": "historic fresco Pakistan",
+      "socialTitle": "Fresco, painted plaster and later repainting",
+      "socialDescription": "Historic wall painting may combine wet-plaster work, dry-applied details and later coatings. Appearance alone cannot separate them."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "The Getty Peacock Fresco",
+        "url": "https://www.getty.edu/publications/getty-research-journal/21/the-getty-peacock-fresco/",
+        "publisher": "Getty Research Journal",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Organic Materials in Wall Paintings",
+        "url": "https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/omwp_report.pdf",
+        "publisher": "Getty Conservation Institute",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Lal Burj",
+        "url": "https://walledcitylahore.gop.pk/lal-burj/",
+        "publisher": "Punjab Walled Cities and Heritage Areas Authority",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original sourced review draft. Comparative examples and hypothetical observations are marked; linked places do not imply unverified technical findings. Editorial fact and terminology review required before publication.",
+    "editorialReason": "Explain how descriptions and conservation records distinguish painted surfaces."
+  },
+  {
+    "id": "story-ghalibkari-and-the-shaping-of-a-decorated-ceiling",
+    "type": "story",
+    "slug": "ghalibkari-and-the-shaping-of-a-decorated-ceiling",
+    "title": "Ghalibkari and the shaping of a decorated ceiling",
+    "summary": "Ghalibkari gives patterned relief to curved surfaces. Reading its ribs and setting is more useful than treating every decorated vault alike.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A decorated vault can be difficult to describe because several kinds of work occupy the same field of vision. Ribs cast shadows; paint gives them colour; adjoining panels carry floral or geometric designs. Ghalibkari is useful vocabulary for one part of that composition, but it should not become a general label for every elaborate ceiling."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Punjab heritage authority describes ghalib kari at the gateway associated with Jahangir's tomb as a network of stucco or plaster ribs applied to curved surfaces. Its account distinguishes that work from the muqarnas of the central space. The distinction provides a concrete starting point: related ornamental effects can coexist without being technically identical."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Look for a system of lines"
+      },
+      {
+        "type": "paragraph",
+        "text": "From the permitted viewing area, trace how a rib begins, divides and meets another. Does the pattern respond to the centre of the vault, repeat along its length or change at the edge of an opening? The shape of the supporting surface matters. A flat photograph can make a pattern look like a drawing when it is actually organised across depth."
+      },
+      {
+        "type": "paragraph",
+        "text": "Shadow can help reveal relief, but lighting also deceives. Painted lines may imitate raised work, while heavy coatings may soften the edges of actual ribs. A visual description should therefore identify what is observable and leave material attribution to records or close examination where necessary."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Ornament is not automatically structure"
+      },
+      {
+        "type": "paragraph",
+        "text": "A rib-like feature may organise the eye without carrying the building's principal load. Conversely, an architectural member can be both structural and ornamented. It is unsafe to infer the hidden construction of a vault simply because its surface resembles a diagram of forces. Sections, surveys and technical reports are needed for that judgement."
+      },
+      {
+        "type": "paragraph",
+        "text": "This distinction also changes interpretation. Instead of calling the ceiling ingenious engineering on appearance alone, a writer can explain how relief establishes scale, concentrates attention or subdivides a large curved surface. Those observations describe the visitor's encounter without inventing a structural explanation."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Keep the terminology tied to a place"
+      },
+      {
+        "type": "paragraph",
+        "text": "Jahangir's tomb complex supplies a documented example for this introduction. Nadira Begum's tomb is another linked monument for further architectural exploration, not an automatic second example of the same technique. A place association in a catalogue must not become a technical claim that the source has not made."
+      },
+      {
+        "type": "paragraph",
+        "text": "Condition matters too. Cracks, missing sections, later paint and repairs may interrupt a design. Reconstructing the missing pattern in a graphic should be explicitly identified as an interpretation, rather than presented as an unbroken survival. Even a repeated motif may have changed at a corner or transition."
+      },
+      {
+        "type": "paragraph",
+        "text": "The visitor's task is not to memorise an exotic label and move on. It is to use that label to notice the relationship between surface, relief, light and architectural setting. A carefully described ceiling can then reveal a precise craft tradition without dissolving into a vague celebration of decoration."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "ghalibkari decoration",
+      "architecture Pakistan",
+      "Jahangir's Tomb",
+      "Tomb of Nadira Begum"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-lahore"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6479",
+      "major-doam-6485"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Ghalibkari and the shaping of a decorated ceiling | Virsapur",
+      "description": "Ghalibkari gives patterned relief to curved surfaces. Reading its ribs and setting is more useful than treating every decorated vault alike.",
+      "primaryKeyword": "ghalibkari decoration",
+      "socialTitle": "Ghalibkari and the shaping of a decorated ceiling",
+      "socialDescription": "Ghalibkari gives patterned relief to curved surfaces. Reading its ribs and setting is more useful than treating every decorated vault alike."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Monuments: Tomb of Jahangir and Akbari Sarai",
+        "url": "https://walledcitylahore.gop.pk/monuments/",
+        "publisher": "Punjab Walled Cities and Heritage Areas Authority",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Jahangir's Tomb and Compound",
+        "url": "https://doam.gov.pk/public/sites/6479",
+        "publisher": "Department of Archaeology and Museums, Pakistan",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Organic Materials in Wall Paintings",
+        "url": "https://www.getty.edu/projects/organic-materials-wall-paintings/",
+        "publisher": "Getty Conservation Institute",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original sourced review draft. Comparative examples and hypothetical observations are marked; linked places do not imply unverified technical findings. Editorial fact and terminology review required before publication.",
+    "editorialReason": "Introduce a specific ornamental technique with verified examples and careful terminology."
+  },
+  {
+    "id": "story-calligraphy-as-part-of-an-architectural-facade",
+    "type": "story",
+    "slug": "calligraphy-as-part-of-an-architectural-facade",
+    "title": "Calligraphy as part of an architectural facade",
+    "summary": "Architectural calligraphy is simultaneously text, scale and spatial organisation. Reading its position is not a substitute for translating it.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "An inscription can organise a facade before a visitor has read a single word. A band may frame an entrance, establish a horizontal line or draw the eye towards a central opening. That visual effect is real, but it is only one part of calligraphy's work. The writing carries language, and its meaning should not disappear into a description of elegant decoration."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Metropolitan Museum's account of calligraphy stresses both its textual function and its varied relationship with ornament. Some compositions give lettering visual priority; others combine it with geometric or vegetal patterns. Architectural interpretation becomes richer when it asks how those relationships operate at the scale of a doorway, wall or dome."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Separate three kinds of reading"
+      },
+      {
+        "type": "paragraph",
+        "text": "The first reading is spatial. Where is the inscription, how large is it and from what position is it legible? The second is material: was it cut, painted, assembled from ceramic pieces or worked by another process? The third is linguistic and historical: what does it say, in which language and script, and how securely is its date or authorship known?"
+      },
+      {
+        "type": "paragraph",
+        "text": "A confident answer to one question does not settle the others. Someone may identify a repeated geometric frame without being qualified to transcribe the text inside it. Conversely, a translation may tell us little about the placement or subsequent repair of the physical inscription."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The order of the words matters"
+      },
+      {
+        "type": "paragraph",
+        "text": "A museum tile panel from Kashan illustrates why text and material must be studied together. The Met explains that gaps in its Qur'anic passage help scholars reconstruct how individual tiles were positioned in a larger frame. This is a comparison from Iran, not a claim about a particular Pakistani monument. It shows how writing can supply evidence for an architectural arrangement."
+      },
+      {
+        "type": "paragraph",
+        "text": "The reverse is also important. A displaced panel or an incorrectly assembled repair may disturb a sequence. Treating calligraphy as pattern alone can conceal that problem, especially when photographs crop individual letters away from their neighbours."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Read Lahore with appropriate caution"
+      },
+      {
+        "type": "paragraph",
+        "text": "Wazir Khan Mosque offers a particularly strong setting for exploring the relationship between writing, architectural surfaces and the surrounding city. The Punjab heritage authority also identifies the Calligraphers' Bazaar within the entrance arrangement. This connection should prompt questions about spatial setting and craft, without suggesting that every surviving inscription can be assigned to a named workshop."
+      },
+      {
+        "type": "paragraph",
+        "text": "At Chauburji or another decorated gateway, a responsible caption should use a reliable transcription and translation, identify the source and mark damaged or uncertain passages. Decorative resemblance alone is not sufficient to name a calligrapher or attribute the work to a ruler."
+      },
+      {
+        "type": "paragraph",
+        "text": "A useful photograph preserves the whole inscription and enough architecture to locate it. A useful description preserves both what the words communicate and how the building presents them. Together, these forms of attention allow calligraphy to remain language in a place, rather than a beautiful surface stripped of its voice."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "architectural calligraphy Pakistan",
+      "architecture Pakistan",
+      "Wazir Khan Mosque",
+      "Chauburji"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-lahore"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6466",
+      "major-doam-6495"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "Calligraphy as part of an architectural facade | Virsapur",
+      "description": "Architectural calligraphy is simultaneously text, scale and spatial organisation. Reading its position is not a substitute for translating it.",
+      "primaryKeyword": "architectural calligraphy Pakistan",
+      "socialTitle": "Calligraphy as part of an architectural facade",
+      "socialDescription": "Architectural calligraphy is simultaneously text, scale and spatial organisation. Reading its position is not a substitute for translating it."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Calligraphy in Islamic Art",
+        "url": "https://www.metmuseum.org/es/essays/calligraphy-in-islamic-art",
+        "publisher": "The Metropolitan Museum of Art",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Tile Panel, object 12.34.3",
+        "url": "https://www.metmuseum.org/art/collection/search/446200",
+        "publisher": "The Metropolitan Museum of Art",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Monuments: Wazir Khan Mosque",
+        "url": "https://walledcitylahore.gop.pk/monuments/",
+        "publisher": "Punjab Walled Cities and Heritage Areas Authority",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original sourced review draft. Comparative examples and hypothetical observations are marked; linked places do not imply unverified technical findings. Editorial fact and terminology review required before publication.",
+    "editorialReason": "Explain placement and visual hierarchy without inventing translations or attribution."
+  },
+  {
+    "id": "story-the-mihrab-and-the-organisation-of-a-prayer-hall",
+    "type": "story",
+    "slug": "the-mihrab-and-the-organisation-of-a-prayer-hall",
+    "title": "The mihrab and the organisation of a prayer hall",
+    "summary": "The mihrab identifies the direction of prayer; understanding it requires reading the hall and its use, not only the niche.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A mihrab is a directional focus within a mosque or another Muslim prayer setting. Often formed as a niche, it identifies the qibla, the direction towards Mecca. Its significance does not depend on exceptional size or decoration. A modest example can organise a room as clearly as one covered in elaborate tilework."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Metropolitan Museum's educational account makes the directional function explicit through a surviving mihrab from an Iranian religious school. Smarthistory's architectural introduction places the niche within the qibla wall and distinguishes it from other mosque elements. These comparative sources help establish vocabulary, while individual Pakistani buildings still require their own plans and histories."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Begin with the prayer space"
+      },
+      {
+        "type": "paragraph",
+        "text": "A close photograph of a mihrab can conceal the hall's organisation. Step back, where access and worship permit, and consider the width of the wall, the rhythm of supporting elements and the relationship between covered space and courtyard. The architectural question is not only where the niche is, but how the room enables people to orient themselves towards the same direction."
+      },
+      {
+        "type": "paragraph",
+        "text": "An entrance need not stand directly opposite the mihrab. Circulation, site constraints and later alterations can produce more complicated approaches. A visitor should therefore avoid drawing a simple symmetrical plan from one frontal image. The route by which people reach the prayer area is part of the building's evidence."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Do not confuse neighbouring elements"
+      },
+      {
+        "type": "paragraph",
+        "text": "The minbar is associated with the delivery of a sermon; it is not another name for the mihrab. A minaret is a tower, not the niche. These distinctions sound elementary, yet they matter when captions describe a photograph or a catalogue connects an architectural detail to a place."
+      },
+      {
+        "type": "paragraph",
+        "text": "Decoration is a further, separate layer. Tilework, carved material, plaster and inscriptions may emphasise the qibla wall, but colour does not determine function. Nor does a resemblance to a mihrab prove that every niche elsewhere in a building served the same purpose. Context and documented use remain essential."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Compare through evidence, not a fixed template"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Sawi Mosque in Multan and the Bari Mosque at Pasrur are linked starting points for looking at regional prayer architecture. Their inclusion here does not establish identical plans, dates or decorative programmes. A meaningful comparison would record each building's orientation, surviving fabric, alterations and present use before considering shared features."
+      },
+      {
+        "type": "paragraph",
+        "text": "Historic orientation itself deserves careful treatment. Surveyed alignment and the methods available to builders may not correspond perfectly with a modern digital bearing. A small discrepancy is not, by itself, evidence that a building was wrongly identified or that worship lacked a directional focus."
+      },
+      {
+        "type": "paragraph",
+        "text": "Finally, an active mosque is not an empty architectural exhibit. Ask about permitted access and photography, avoid interrupting worship and do not enter a niche for a portrait. Understanding the mihrab means recognising the community and practice that give the architectural focus its purpose."
+      }
+    ],
+    "primaryCategoryId": "archive-category-architecture-built-heritage",
+    "categoryIds": [
+      "archive-category-architecture-built-heritage"
+    ],
+    "tags": [
+      "mihrab mosque architecture",
+      "architecture Pakistan",
+      "Sawi Mosque and Graves",
+      "Bari Mosque, Pasrur"
+    ],
+    "province": null,
+    "district": null,
+    "relatedDistrictIds": [
+      "punjab-multan",
+      "punjab-sialkot"
+    ],
+    "provinceRegionIds": [
+      "punjab"
+    ],
+    "relatedHeritageIds": [
+      "major-doam-6433",
+      "major-doam-6217"
+    ],
+    "relatedStoryIds": [],
+    "contentType": "architecture",
+    "seo": {
+      "title": "The mihrab and the organisation of a prayer hall | Virsapur",
+      "description": "The mihrab identifies the direction of prayer; understanding it requires reading the hall and its use, not only the niche.",
+      "primaryKeyword": "mihrab mosque architecture",
+      "socialTitle": "The mihrab and the organisation of a prayer hall",
+      "socialDescription": "The mihrab identifies the direction of prayer; understanding it requires reading the hall and its use, not only the niche."
+    },
+    "featuredImage": null,
+    "imageStatus": "no-cleared-image",
+    "references": [
+      {
+        "title": "Mihrab, Image 4: Art of the Islamic World",
+        "url": "https://www.metmuseum.org/de/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/featured-works-of-art/image-4",
+        "publisher": "The Metropolitan Museum of Art",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Mosque architecture, an introduction",
+        "url": "https://smarthistory.org/introduction-to-mosque-architecture/",
+        "publisher": "Smarthistory",
+        "accessDate": "2026-10-22"
+      },
+      {
+        "title": "Common types of mosque architecture",
+        "url": "https://smarthistory.org/common-types-of-mosque-architecture/",
+        "publisher": "Smarthistory",
+        "accessDate": "2026-10-22"
+      }
+    ],
+    "aiAssisted": true,
+    "editorialReviewRequired": true,
+    "status": "review",
+    "featured": false,
+    "internalNotes": "Original sourced review draft. Comparative examples and hypothetical observations are marked; linked places do not imply unverified technical findings. Editorial fact and terminology review required before publication.",
+    "editorialReason": "Distinguish architectural function from decorative treatment across examples."
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "azad-kashmir/hattian-bala": {
+    "type": "alternate-spelling",
+    "canonicalId": "azad-kashmir-jhelum-valley",
+    "canonicalSlug": "jhelum-valley"
+  },
+  "azad-kashmir/jehlum-valley": {
+    "type": "alternate-spelling",
+    "canonicalId": "azad-kashmir-jhelum-valley",
+    "canonicalSlug": "jhelum-valley"
+  },
+  "balochistan/sibi": {
+    "type": "alternate-spelling",
+    "canonicalId": "balochistan-sibi",
+    "canonicalSlug": "sevi"
+  },
+  "balochistan/shaheed-sikandarabad": {
+    "type": "alternate-spelling",
+    "canonicalId": "balochistan-shaheed-sikandarabad",
+    "canonicalSlug": "surab"
+  }
+}

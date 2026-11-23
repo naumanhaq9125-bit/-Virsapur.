@@ -1,0 +1,281 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 10,
+  "records": [
+    {
+      "articleId": "story-rehman-dheri-and-the-question-of-planned-settlement",
+      "planIndex": 20,
+      "wordCount": 465,
+      "sourceNotes": "UNESCO description close-read; Kenoyer specific indexed research passage read; ESMP direct URL404, indexed introduction read only, not represented as full PDF inspection. UNESCO erroneous phase-I enddate omitted. Approximately180words UNESCO,110Kenoyer,70ESMP; remaining original interpretation.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Rehman Dheri",
+          "url": "https://whc.unesco.org/en/tentativelists/1877/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Fifty-Five Years of Archaeological Research in Pakistan",
+          "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer2004_Fifty-five%20years%20of%20Archaeological%20Research%20in%20P.pdf",
+          "publisher": "Jonathan Mark Kenoyer",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Environmental and Social Management Plan: Rehman Dheri, January 2024",
+          "url": "https://old.kptourism.com/uploads/images/kite/1706169526668-clean-version-of-esmp-for-rehman-dheri-site-di-khan---25-jan-2024.pdf",
+          "publisher": "Khyber Pakhtunkhwa Integrated Tourism Development Project",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-badshahi-mosque-and-the-scale-of-congregation",
+      "planIndex": 21,
+      "wordCount": 467,
+      "sourceNotes": "Auqaf commission1671/completion1673,materials/setting;DOAM platform/eastgateway/court/hall,minarets; corrupt court dimension49.2squaremetres omitted. WCLA dated conservation scope not claimedcompleted. Original spatial analysis distinguished from history.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Badshahi Mosque",
+          "url": "https://auqaf.punjab.gov.pk/index.php/badshahi-mosque",
+          "publisher": "Punjab Auqaf and Religious Affairs Department",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Badshahi Mosque",
+          "url": "https://doam.gov.pk/public/sites/6467",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Badshahi Mosque conservation",
+          "url": "https://walledcitylahore.gop.pk/badshahi-mosque/",
+          "publisher": "Walled City of Lahore Authority",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-wazir-khan-mosque-surfaces-that-reward-close-looking",
+      "planIndex": 22,
+      "wordCount": 478,
+      "sourceNotes": "AKDN construction1634–35HakimIlmuddin,streetfill/northfacade/chowk under190derivedwords;CyArk2015survey under150;WCLA tile/naqqashi/bazaar under150. No current structuraldiagnosis from2015documentation.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Masjid Wazir Khan: In depth",
+          "url": "https://www.cyark.org/projects/masjid-wazir-khan/in-depth",
+          "publisher": "CyArk",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Walled City of Lahore conservation",
+          "url": "https://www-hetz2.the.akdn/en/where-we-work/south-asia/pakistan/walled-city-of-lahore-conservation-pakistan",
+          "publisher": "Aga Khan Development Network",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Historic monuments: Wazir Khan Mosque",
+          "url": "https://walledcitylahore.gop.pk/monuments2/",
+          "publisher": "Walled City of Lahore Authority",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-jahangirs-tomb-at-ground-level",
+      "planIndex": 23,
+      "wordCount": 475,
+      "sourceNotes": "WCLA death1627completion1637gardens/verandahcenotaph~170;UNESCO ensemble/corner towers/redstone~145;DOAM chamber approaches/decoration~100. IncorrectUNESCOcoordinates and apparentShahJahanTombtypography not used; no lostdome claim.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Jahangir Tomb",
+          "url": "https://walledcitylahore.gop.pk/jahangir-tomb/",
+          "publisher": "Walled City of Lahore Authority",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Tombs of Jahangir, Asif Khan and Akbari Sarai",
+          "url": "https://whc.unesco.org/en/tentativelists/1279/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Tomb of Jahangir",
+          "url": "https://doam.gov.pk/public/sites/6479",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-harappa-after-the-excavation-trench",
+      "planIndex": 24,
+      "wordCount": 486,
+      "sourceNotes": "DOAM railwaybrickloss1856/excavation1921~80;KenoyerMeadowRaviphaseobjects/radiocarbondates~175;Possehl indexedintro multidisciplinaryPakistanDOAMcollaboration~70. No certaingranary/workersquarterinterpretation; toolspossiblefunctionretained.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Harappa",
+          "url": "https://doam.gov.pk/public/sites/6579",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Ravi Phase: A New Cultural Manifestation at Harappa",
+          "url": "https://www.harappa.com/content/ravi-phase-new-cultural-manifestation-harappa",
+          "publisher": "Jonathan Mark Kenoyer and Richard H. Meadow",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Harappa Excavations 1986–1990: history of archaeological research",
+          "url": "https://www.harappa.com/sites/default/files/pdf/Harappa1986-90_02_Possehl-History.pdf",
+          "publisher": "Gregory L. Possehl, Harappa excavation publication",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-derawar-fort-and-the-need-for-water",
+      "planIndex": 25,
+      "wordCount": 481,
+      "sourceNotes": "UNESCO route/water interpretation explicitlypresumed,fortnetwork~190derivedwords;DOAM40bastions,southgate,wellandtank,1733~120. Distinctoriginalsystemsreading not inventedhistoricoperations. Contradictorydimensionsandearlyfoundinglegendomitted.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Derawar and the Desert Forts of Cholistan",
+          "url": "https://whc.unesco.org/en/tentativelists/6108/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Derawar Fort",
+          "url": "https://doam.gov.pk/public/sites/6959",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-hiran-minar-a-memorial-in-a-water-landscape",
+      "planIndex": 26,
+      "wordCount": 466,
+      "sourceNotes": "DOAMpetantelope/taperbrick/lime~95;UNESCOcatchment/Aikchannel/causeway/octagonalpavilion~185;UrbanUnitcover/disclaimer/contentsreadfuture2055masterplanonly~60. Conflictingtowerstoreys/paviliondates omitted. No implementationclaim.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Hiran Minar",
+          "url": "https://doam.gov.pk/public/sites/6423",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Hiran Minar and Tank, Sheikhupura",
+          "url": "https://whc.unesco.org/en/tentativelists/1281/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Hiran Minar Eco-Tourism and Restoration Master Plan, 2055",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2025/Hiran%20Minar%20Master%20Plan_852025.pdf",
+          "publisher": "The Urban Unit, Government of Punjab",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-shah-rukn-e-alam-reading-a-monumental-silhouette",
+      "planIndex": 27,
+      "wordCount": 477,
+      "sourceNotes": "DOAMgeometry/timbers/stringcourses~180;AKDN1971–77repair/training33novices~180;UNESCOearly14c~25. Do notrepeatAuqafcontradictory1330burialbefore1335death. Originalscaleanalysis.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Tomb of Shah Rukn-e-Alam",
+          "url": "https://doam.gov.pk/public/sites/6431",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Tomb of Shah Rukn-i-Alam conservation project",
+          "url": "https://www-hetz2.the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/tomb-shah-rukn-i-alam",
+          "publisher": "Aga Khan Development Network / Aga Khan Award for Architecture",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Tomb of Shah Rukn-e-Alam",
+          "url": "https://whc.unesco.org/en/tentativelists/1884/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-bibi-jawindis-tomb-and-the-problem-of-survival",
+      "planIndex": 28,
+      "wordCount": 483,
+      "sourceNotes": "DOAMform/tile/stair~135;UNESCOensemble/datecirca1494/erodedprofiles~145;WMF2000indexedUchentryearthmortars/incompatiblecement/trainingplanning~150. No unverifiedsinglefloodcause/date or currentconditionclaim; broadercommentaryoriginal.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Tomb of Bibi Jawindi",
+          "url": "https://doam.gov.pk/public/sites/6552",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Uch monuments Tentative List entry",
+          "url": "https://whc.unesco.org/en/tentativelists/1883/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "World Monuments Watch 2000: Uch Monument Complex",
+          "url": "https://www.wmf.org/sites/default/files/article/pdfs/Watch_Catalog_2000.pdf",
+          "publisher": "World Monuments Fund",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-kot-diji-separating-the-fort-from-the-archaeological-site",
+      "planIndex": 29,
+      "wordCount": 480,
+      "sourceNotes": "DOAMfortapproach/gates/stone~120;Sindharchaeologicalmoundexcavationceramicsmudbrick~170;UNESCO2026submission/Talpur/status~75. Nomination internally1797vs1785–95notresolveduselate18c; claimfortatopprehistoricmoundnotadopted; archaeologynearbydistinct.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Kot Diji Fort",
+          "url": "https://doam.gov.pk/public/sites/5206",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Diji ji Takri, Kotdiji",
+          "url": "https://antiquities.sindhculture.gov.pk/tour/diji-ji-takri-mound-kotdiji-khairpur/",
+          "publisher": "Directorate General of Antiquities, Government of Sindh",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Kot Diji Fort Tentative List submission",
+          "url": "https://whc.unesco.org/en/tentativelists/6968/",
+          "publisher": "Pakistan submission to UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

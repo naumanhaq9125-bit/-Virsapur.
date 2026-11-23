@@ -1,0 +1,160 @@
+{
+  "batch": "150-159",
+  "count": 10,
+  "reviewDate": "2026-10-22",
+  "status": "review",
+  "wordCounts": [
+    {
+      "id": "story-reading-ashokas-edicts-as-material-objects",
+      "words": 415
+    },
+    {
+      "id": "story-kharoshthi-and-brahmi-in-the-north-west",
+      "words": 401
+    },
+    {
+      "id": "story-rock-art-motif-is-not-a-secure-date",
+      "words": 405
+    },
+    {
+      "id": "story-an-inscription-and-a-carving-may-have-different-histories",
+      "words": 407
+    },
+    {
+      "id": "story-archaeological-survey-versus-excavation",
+      "words": 409
+    },
+    {
+      "id": "story-how-a-site-plan-changes-what-visitors-see",
+      "words": 412
+    },
+    {
+      "id": "story-water-damage-in-an-archaeological-record",
+      "words": 410
+    },
+    {
+      "id": "story-recording-a-find-before-naming-it",
+      "words": 410
+    },
+    {
+      "id": "story-a-cave-is-not-automatically-a-prehistoric-home",
+      "words": 412
+    },
+    {
+      "id": "story-what-archaeological-absence-does-not-prove",
+      "words": 412
+    }
+  ],
+  "sourceReadingNote": "Read Shahbazgarhi Tentative List; UW manuscript description; Gandhari grammar entry; Heidelberg project description; Oxford recording guidance; Historic England manual/publication descriptions; ADS maps/plans guidance; NPS site finding/context descriptions; UNESCO current Moenjodaro project. Indexed primary-record evidence supports Mansehra catalogue, Barikot sherd study and Shah Allah Ditta government notice where full fetch was blocked. Upper Indus scholarly presentation remains a reference requiring editorial author-metadata verification. No legal instructions or conservation treatments offered.",
+  "lengthNote": "Focused methodological explainers, 401–415 words; next batches target 450–650. No repeated generic paragraphs or invented site-level discoveries.",
+  "sources": [
+    {
+      "title": "Shahbazgarhi Rock Edicts — Tentative List submission",
+      "url": "https://whc.unesco.org/en/tentativelists/1880",
+      "publisher": "Department of Archaeology and Museums / UNESCO World Heritage Centre",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Mānsehrā Rock Edict 1",
+      "url": "https://gandhari.org/catalog/CKI0015",
+      "publisher": "Gandhari.org scholarly catalogue",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "The British Library Kharoṣṭhī Fragments",
+      "url": "https://asian.washington.edu/british-library-kharosthi-fragments",
+      "publisher": "University of Washington",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Outline of Gāndhārī Grammar",
+      "url": "https://gandhari.org/grammar",
+      "publisher": "Stefan Baums / Gandhari.org",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "An Inscribed Sherd in Aramaic Script from Barikot, Pakistan",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/703097",
+      "publisher": "Michael Zellmann-Rohrer and Luca Maria Olivieri",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Rock Art and Inscriptions Along the Karakoram Highway",
+      "url": "https://www.hadw-bw.de/en/research/academy-program-projects/rock-paintings-and-inscriptions-along-the-karakorum-highway",
+      "publisher": "Heidelberg Academy of Sciences and Humanities",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Rock Art and Inscriptions in the Upper Indus",
+      "url": "https://storymaps.arcgis.com/stories/d5018abb97d34ac7ba3a3a84d0267e72",
+      "publisher": "Scholarly Upper Indus research presentation",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "How Do Archeologists Find Sites?",
+      "url": "https://www.nps.gov/articles/000/how-do-archeologists-find-sites.htm",
+      "publisher": "US National Park Service",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Recording Guide",
+      "url": "https://archeox.conted.ox.ac.uk/www.archeox.net/sites/www.archeox.net/files/reports/Recording%20guide%20NEW.pdf",
+      "publisher": "University of Oxford, Archaeox",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Maps and plans",
+      "url": "https://archaeologydataservice.ac.uk/help-guidance/ads-easy-guidance/step-3-edit-metadata/maps-and-plans/",
+      "publisher": "Archaeology Data Service",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Historic England Archaeology Recording Manual 2018",
+      "url": "https://historicengland.org.uk/content/docs/research/historic-england-archaeological-recording-manual-2018",
+      "publisher": "Historic England",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Conservation of the Archaeological Ruins of Moenjodaro and Reinforcement of the Disaster Risk Reduction Mechanism",
+      "url": "https://core.unesco.org/en/project/537PAK4000",
+      "publisher": "UNESCO",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Archaeological Ruins at Moenjodaro",
+      "url": "https://whc.unesco.org/en/list/138",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Report on Damage to Cultural Properties in Sindh Province",
+      "url": "https://www.jcic-heritage.jp/wp-content/uploads/2024/04/ReportOnDamageToCulturalPropertiesInSindhProvince_JCIC-Heritage.pdf",
+      "publisher": "Japan Consortium for International Cooperation in Cultural Heritage",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "What Is Archeological Context?",
+      "url": "https://www.nps.gov/articles/000/what-is-archeological-context.htm",
+      "publisher": "US National Park Service",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Shah Allah Ditta caves — heritage notice",
+      "url": "https://www.heritage.pakistan.gov.pk/NewsDetail/OTZlNTg3NDQtMzAxYS00ZDBmLTlmNTgtNmY4NTQ3MTEwNzFj",
+      "publisher": "National Heritage and Culture Division, Government of Pakistan",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Environmental Archaeology: A Guide to the Theory and Practice of Methods, third edition",
+      "url": "https://historicengland.org.uk/images-books/publications/environmental-archaeology-3rd/",
+      "publisher": "Historic England",
+      "accessDate": "2026-10-22"
+    },
+    {
+      "title": "Environmental Archaeology",
+      "url": "https://historicengland.org.uk/advice/technical-advice/archaeological-science/environmental-archaeology/",
+      "publisher": "Historic England",
+      "accessDate": "2026-10-22"
+    }
+  ]
+}

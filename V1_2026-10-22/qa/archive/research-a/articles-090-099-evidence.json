@@ -1,0 +1,269 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 10,
+  "records": [
+    {
+      "articleId": "story-bhong-mosque-a-modern-work-of-many-crafts",
+      "planIndex": 90,
+      "wordCount": 467,
+      "sourceNotes": "AKDN award page ~190 words, including1932–1982project,1986award, patron, specialists and material range. DOAM10370 repeats same text and is not independent allowance. Research paper ~60 words for master/student craft transmission. Exclude dream legend and unsupported current access.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Bhong Mosque",
+          "url": "https://the.akdn/da/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/bhong-mosque",
+          "publisher": "Aga Khan Development Network",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Study of the ornamentation of Bhong Mosque for the survival of decorative patterns in Islamic architecture",
+          "url": "https://mosqpedia.org/wp-content/uploads/2024/09/CwMz38W9ymol6jyJ1QtwtWxDBoq7erKdgUSKP1NA.pdf",
+          "publisher": "Frontiers of Architectural Research",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-harrand-fort-and-the-southern-punjab-frontier",
+      "planIndex": 91,
+      "wordCount": 471,
+      "sourceNotes": "DOAM form/material/gates ~140 words. District page ~170 words, explicitly internally inconsistent foundation claims; no Harappan/Alexander/Arab founder assertion. Sikh rebuilding and British military use qualified as district account; current police occupation not assured. Descriptive architectural reading original.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Harrand Fort catalogue record",
+          "url": "https://doam.gov.pk/public/sites/6193",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Important Places: Harrand Fort",
+          "url": "https://rajanpur.punjab.gov.pk/important-places",
+          "publisher": "District Rajanpur, Government of Punjab",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-haveli-sujan-singh-the-courtyard-as-an-urban-refuge",
+      "planIndex": 92,
+      "wordCount": 460,
+      "sourceNotes": "DOAM courtyard/entrance/rooms and formergarden setting ~180 words. APP2021 materials/planning ~70, no completion inference. Reporter2015 directNCAstatement ~50. Avoid conflicting floor/room totals and woodspecies. Interpret courtyard as spatial refuge not measured climate claim.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Haveli Sujan Singh catalogue record",
+          "url": "https://doam.gov.pk/public/sites/9419",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "PC-1 of Haveli Preservation, Restoration project finalised",
+          "url": "https://www.brecorder.com/news/40068808",
+          "publisher": "Associated Press of Pakistan via Business Recorder",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Architectural preservation: NCA students, teachers step up to save Sujan Singh Haveli",
+          "url": "https://tribune.com.pk/story/993354/architectural-preservation-nca-students-teachers-step-up-to-save-sujan-singh-haveli",
+          "publisher": "The Express Tribune",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-khem-singh-bedi-haveli-painted-rooms-and-public-memory",
+      "planIndex": 93,
+      "wordCount": 467,
+      "sourceNotes": "Primary research abstract close-read, not full paywalled paper. ~170 words from abstract on fieldwork, three traditions and author interpretation; no specific panelidentification notread. DOAM architectural components ~100words; cataloguegoodcondition not current. Avoidclaimedpatronintent asfact; noexactroomtotals.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Khem Singh Bedi Haveli catalogue record",
+          "url": "https://doam.gov.pk/public/sites/7053",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Cultural syncretism: an investigative study of nineteenth century Sikh Fresco paintings in Baba Sir Khem Singh Bedi’s Haveli in Punjab/Pakistan",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/17460654.2021.1956986",
+          "publisher": "Muhammad Asghar / Early Popular Visual Culture",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-historic-bhera-beyond-a-single-gate",
+      "planIndex": 94,
+      "wordCount": 471,
+      "sourceNotes": "DOAMroutes/location/gate reconstruction~120; UrbanUnit2022gateinventorynine includingInnerLahore and formergurdwara reuse~185; P&Dunapprovedproposal~30. Explicitcountdiscrepancy, no claimAlexanderSophytus identification proved, no1540dates for survivinggates.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Site of Ancient City, Bhera catalogue record",
+          "url": "https://doam.gov.pk/public/sites/6576",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Sargodha Archaeology and Heritage Plan",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/16/2022/12%20Sargodha%20Archaeology%20and%20Heritage%20Plan.pdf",
+          "publisher": "The Urban Unit, Government of Punjab",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Tourism development programme2025–26",
+          "url": "https://pnd.punjab.gov.pk/system/files/Tourism_1.pdf",
+          "publisher": "Planning and Development Board, Punjab",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-sheikhupura-fort-and-the-evidence-of-later-occupation",
+      "planIndex": 95,
+      "wordCount": 465,
+      "sourceNotes": "DOAM~180words on enclosure, Sikhresidence, frescoes, JindKaur; CHFprofessionallecture description~140words. Do not repeat source chronological error imprisonment after1849annexation, or RanjitSinghlastSikhruler. No exactbuildingdates absent evidence; potentialroomattributionkeptqualified.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Sheikhupura Fort catalogue record",
+          "url": "https://doam.gov.pk/public/sites/9164",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Unfolding the Story of the abandoned Sheikhupura Fort",
+          "url": "https://www.commonwealthheritage.org/unfolding-the-story-of-the-abandoned-sheikhupura-fort-from-a-haveli-and-a-royal-hunting-palace-of-the-mughals-to-a-british-prison-for-the-sikh-maharani/",
+          "publisher": "Saba Samee / Commonwealth Heritage Forum",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-the-old-murree-brewery-identifying-the-right-ruins",
+      "planIndex": 96,
+      "wordCount": 459,
+      "sourceNotes": "Companyhistorysameunderlyingwork acrosspagebrochure treatedaggregate~190words:1860/61,1885–90expansion,1920swaterproblem/transfer,malting1940s,sale. DOAMstonearchesruins~90. Nounsupported1947burningclaim, noinsideaccessadvice. Noalcoholpromotion or legalguidance.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Murree Brewery historic ruins catalogue record",
+          "url": "https://doam.gov.pk/public/sites/6373",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Our History",
+          "url": "https://murreebrewery.com/our-history/",
+          "publisher": "Murree Brewery Company",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Environmental brochure: company history",
+          "url": "https://murreebrewery.com/oldwebsite/envirmentalbrouchar.pdf",
+          "publisher": "Murree Brewery Company",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-old-badin-an-archaeological-city-beneath-a-familiar-name",
+      "planIndex": 97,
+      "wordCount": 466,
+      "sourceNotes": "Importantchronologyconflict: DOAM4915MatureHarappan assertion withheld. Primary1972survey site87OldBadin markedM; tablelegendpp135,137 explicitlyMedieval8th–18th. ~175words from1972wholework, not proof noearlierdeposits. WorldBankannex~30identityonly; DOAM~60ruins/modernencroachment. Articleexplainsresearchlimits withoutinventedcityplan.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Ruins of the Old City of Badin catalogue record",
+          "url": "https://doam.gov.pk/public/sites/4915",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Explorations in Southern Sind:1972 survey summary",
+          "url": "https://rafiquemughal.com/wp-content/uploads/2022/01/MUGHAL_1972_In-Pakistan-PakArch8.pdf",
+          "publisher": "Pakistan Archaeology8 / Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "AnnexL: Protected Archaeological Sites and Monuments",
+          "url": "https://documents1.worldbank.org/curated/en/919521487918832519/pdf/SFG3075-V1-REVISED-EA-P158769-Box405305B-PUBLIC-Disclosed-10-19-2017.pdf",
+          "publisher": "Government of Sindh / World Bank project documentation",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-mukhi-mahal-and-the-merchant-world-of-hyderabad",
+      "planIndex": 98,
+      "wordCount": 460,
+      "sourceNotes": "DOAMform~60; Tribune2021opening/patron~90; official2024reporttrilinguallabels/woodrepairs~115. c1920–21datequalified sourcesdifferent. Noinventedarchitect,merchanttransactionnetwork,originalfurnitureauthenticity. Officialmuseumlistingidentityonly.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Mukhi Mahal catalogue record",
+          "url": "https://doam.gov.pk/public/sites/5700",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Museum opened at heritage home in Hyderabad",
+          "url": "https://tribune.com.pk/story/2310574/museum-opened-at-heritage-home-in-hyderabad?amp=1",
+          "publisher": "The Express Tribune",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Field Visit Report: Hyderabad and Jamshoro,26September2024",
+          "url": "https://pdmi.sindhculture.gov.pk/news-and-updates/field-visit-report-cultural-heritage-and-development-initiatives-in-hyderabad-jamshoro-by-secretary-culture",
+          "publisher": "Sindh Culture Department, PDM&I Cell",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mukhi House Museum, Hyderabad",
+          "url": "https://antiquities.sindhculture.gov.pk/tour/mukhi-house-museum-hyderabad/",
+          "publisher": "Directorate General of Antiquities, Sindh",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-pucca-qila-surviving-walls-in-an-inhabited-city",
+      "planIndex": 99,
+      "wordCount": 473,
+      "sourceNotes": "OfficialSindhpage~190words foundation1768/Talpur1789/1857clearance/militaryreuse/merlons/remainingdomesticfabric. DOAMsameunderlyingtextnotindependentallowance.2024report~15wordsvisitonly; cumulativewith98~130. Nojudgementadoptedaboutpaintinggoodtaste, no residentnumbers/eviction recommendations.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Pucca Fort Boundary Wall catalogue record",
+          "url": "https://doam.gov.pk/public/sites/5712",
+          "publisher": "Department of Archaeology and Museums",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Boundary wall of Pucca Fort Hyderabad",
+          "url": "https://antiquities.sindhculture.gov.pk/tour/boundary-wall-of-pucca-fort-hyderabad/",
+          "publisher": "Directorate General of Antiquities, Sindh",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Field Visit Report: Hyderabad and Jamshoro,26September2024",
+          "url": "https://pdmi.sindhculture.gov.pk/news-and-updates/field-visit-report-cultural-heritage-and-development-initiatives-in-hyderabad-jamshoro-by-secretary-culture",
+          "publisher": "Sindh Culture Department, PDM&I Cell",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

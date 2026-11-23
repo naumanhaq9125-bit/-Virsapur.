@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 10,
+  "records": [
+    {
+      "articleId": "story-nindowari-and-the-kulli-cultural-landscape",
+      "planIndex": 50,
+      "wordCount": 473,
+      "sourceNotes": "DOAM supports location, four mounds and Casal excavations, approximately 110 derived words. Guimet supports attributed object, dates and interpretation, approximately 175 words. Museum attribution is not represented as a documented excavation provenance. Remaining prose is explicitly comparative interpretation.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Nindowari",
+          "url": "https://doam.gov.pk/public/sites/8933",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Vase à boire (rython) en forme de zébu",
+          "url": "https://www.guimet.fr/fr/nos-collections/afghanistan-pakistan/vase-boire-rython-en-forme-de-zebu",
+          "publisher": "Musée Guimet",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-sutkagen-dor-an-indus-place-far-from-the-core-cities",
+      "planIndex": 51,
+      "wordCount": 480,
+      "sourceNotes": "DOAM location and sandstone outcrop approximately 60 words. Harappa essay read closely, approximately 185 derived words; speculative coastal reconstruction and definite port/garrison/brick-kiln identifications excluded. Berkeley publication metadata checked; book not claimed fully read. Analytical paragraphs distinguish observed evidence from hypotheses.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Sutkagen Dor",
+          "url": "https://doam.gov.pk/public/sites/8639",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Sutkagen Dor: An Investigation of the Western-most Harappan Trading Post",
+          "url": "https://www.harappa.com/content/sutkagen-dor-investigation-western-most-harappan-trading-post",
+          "publisher": "Harappa.com, Kaiser Tufail with photographs by Randall Law",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Explorations on the Makran Coast, Pakistan: A Search for Paradise",
+          "url": "https://arf.berkeley.edu/publications/explorations-makran-coast-pakistan-search-paradise",
+          "publisher": "Archaeological Research Facility, University of California, Berkeley",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-ziarat-residency-memory-reconstruction-and-a-timber-building",
+      "planIndex": 52,
+      "wordCount": 464,
+      "sourceNotes": "DOAM approximately 125 words on colonial use, stone and timber fabric, Jinnah association. Maher indexed article passages read, approximately 90 words, direct open returned403. APP report approximately 60 words verifies inauguration August2014 and June2013 attack. No surviving personal objects, precise construction date, or unchanged original fabric asserted.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Quaid-e-Azam Residency, Ziarat",
+          "url": "https://doam.gov.pk/public/sites/9686",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Ziarat Residency: Restoring the house that Mr Jinnah called home",
+          "url": "https://tribune.com.pk/story/748568/ziarat-residency-restoring-the-house-that-mr-jinnah-called-home",
+          "publisher": "The Express Tribune, Sanam Maher",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Ziarat Residency restored: Negative politics should end says PM",
+          "url": "https://tribune.com.pk/story/749008/ziarat-residency-restored-negative-politics-should-end-says-pm",
+          "publisher": "The Express Tribune / Associated Press of Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-babra-tombs-and-a-regional-funerary-tradition",
+      "planIndex": 53,
+      "wordCount": 471,
+      "sourceNotes": "DOAM approximately185 derived words. Sindhological Studies indexed passage close-read previously, direct PDF403; approximately55 words on regional category/terminology only. No current condition, exact individual grave dates, genealogy or carvings invented. Comparative looking questions explicitly not assertions.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Ancestral Graveyard of Jam of Lasbela (Babra)",
+          "url": "https://doam.gov.pk/public/sites/9678",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Chaukhandi Tombs, Sindhological Studies Summer 1981",
+          "url": "https://library-sindhi-sp-2020.s3.us-east-2.amazonaws.com/files/Sindhological_Studies_%28Summer_1981%29-Mazhar_Yusuf-1981-cs.pdf",
+          "publisher": "Institute of Sindhology, Salome Zajadacz-Hastenrath",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-hinidan-tombs-recording-a-vulnerable-monument-group",
+      "planIndex": 54,
+      "wordCount": 469,
+      "sourceNotes": "DOAM approximately130 words; Vogel indexed sections approximately60; university thesis indexed Hinidan discussion approximately90. Competing chronologies expressly unresolved. Excluded contradictory road distances, above-ground burial inference and modern condition extrapolation.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Hinidan Tombs",
+          "url": "https://doam.gov.pk/public/sites/9683",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Tombs at Hinidan in Las Bela, Archaeological Survey of India Annual Report 1902–03",
+          "url": "https://ignca.gov.in/Asi_data/13956.pdf",
+          "publisher": "Archaeological Survey of India, J. Ph. Vogel",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Chaukhandi Tombs doctoral research",
+          "url": "https://iris.unive.it/retrieve/f615d88f-413c-4c9a-a397-9bfd7147e4eb/Chaukhandi.Tombs.Matricola955338.Ciclo22.pdf",
+          "publisher": "Ca’ Foscari University of Venice repository",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-shigar-fort-palace-rooms-repair-and-new-use",
+      "planIndex": 55,
+      "wordCount": 471,
+      "sourceNotes": "DOAM approximately165 words; project news approximately140; award release approximately40. Avoided consuming shared2005AKTCbook budget reserved Amburiq. Historical project aims not claimed as independently measured current economic outcomes. Award not World Heritage status.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Shigar Fort Palace",
+          "url": "https://doam.gov.pk/public/sites/7998",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Shigar Fort: a new model of conservation combines economic and cultural objectives",
+          "url": "https://prod.the.akdn/en/resources-media/whats-new/news-release/shigar-fort-new-model-conservation-combines-economic-and-cultural-objectives",
+          "publisher": "Aga Khan Development Network",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Shigar Fort awarded top prize in the 2006 UNESCO Asia-Pacific Heritage Awards",
+          "url": "https://the.akdn/en/news-release/shigar-fort-awarded-top-prize-2006-unesco-asia-pacific-heritage-awards-pakistan",
+          "publisher": "Aga Khan Development Network",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-khaplu-palace-and-the-scale-of-a-mountain-court",
+      "planIndex": 56,
+      "wordCount": 478,
+      "sourceNotes": "DOAM approximately175 derived words; AKDN online regionalpage approximately175 words reserved entirely article56; no other article draws thispage. 1840 and2005–2011 project chronology attributed. Current access/room prices excluded. Architectural interpretation original.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Khaplu Palace",
+          "url": "https://doam.gov.pk/public/sites/7974",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Conservation and development in Gilgit-Baltistan: Khaplu Village and Palace",
+          "url": "https://www-hetz2.the.akdn/en/where-we-work/south-asia/pakistan/conservation-and-development-in-gilgit-baltistan-pakistan",
+          "publisher": "Aga Khan Development Network",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-chaqchan-mosque-understanding-a-timber-sacred-building",
+      "planIndex": 57,
+      "wordCount": 463,
+      "sourceNotes": "DOAM approximately120 words;2025 research article approximately180;tourismportal approximately35(active worship). Avoided uncritical mass conversion, unique/oldest, Mughal14c conflation and undocumentedBuddhistfoundation certainty. Architectural explanation not engineering safety advice.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Chaqchan Mosque",
+          "url": "https://doam.gov.pk/public/sites/7969",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Descriptive Study of Chaqchan Mosque Khaplu, Gilgit Baltistan, Pakistan",
+          "url": "https://tjcp.aec.org.pk/index.php/tjcpdata/article/download/32/32",
+          "publisher": "The Journal of Cultural Perspectives, Anwar Ali, Muhammad Nazir and Naveed Iqbal",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Chaqchan Mosque",
+          "url": "https://e-tourism.visitgilgitbaltistan.gov.pk/tourist-destinations/chaqchan-mosque",
+          "publisher": "Tourism Department, Gilgit-Baltistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-amburiq-mosque-and-a-small-buildings-conservation-story",
+      "planIndex": 58,
+      "wordCount": 475,
+      "sourceNotes": "DOAM approximately130words;AKTC2005book approximately180words total usage reserved here(55doesnotcitebook);UNESCOaward indexed passage approximately45. Fourteenthcentury expressly traditional/alleged. Historical museum/use not asserted current schedule. Technical lifting described as expert intervention not DIY.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Amburiq Mosque",
+          "url": "https://doam.gov.pk/public/sites/8229",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Conservation and Development in Hunza and Baltistan, pages57–59",
+          "url": "https://static.the.akdn/53832/1641873948-2005_hcsp_hunza.pdf",
+          "publisher": "Aga Khan Trust for Culture",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "2005 Asia-Pacific Heritage Conservation Award Winners Announced",
+          "url": "https://articles.unesco.org/sites/default/files/medias/fichiers/2023/06/2005-winners.pdf",
+          "publisher": "UNESCO",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-manthals-buddha-relief-in-its-rock-setting",
+      "planIndex": 59,
+      "wordCount": 491,
+      "sourceNotes": "DOAM approximately185derivedwords;Jettmarindexedprimarypassage approximately80. Catalogue9–10c and JettmarlaterBuddhistrecovery context not forcedintooneprecisedate. No folk inscription translation, unverifiedgranitetype or presentconditionclaim. New2025Chinese reinterpretation lead not treated read/validated.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Manthal Rock Buddha",
+          "url": "https://doam.gov.pk/public/sites/7705",
+          "publisher": "Department of Archaeology and Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Exploration in Baltistan",
+          "url": "https://archiv.ub.uni-heidelberg.de/propylaeumdok/2135/1/Jettmar_Exploration_in_Baltistan_1990.pdf",
+          "publisher": "Karl Jettmar, East and West / Heidelberg University repository",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

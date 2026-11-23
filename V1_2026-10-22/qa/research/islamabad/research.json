@@ -1,0 +1,1038 @@
+{
+  "regionId": "islamabad",
+  "accessDate": "2026-10-22",
+  "stage": "Research proposals only; no canonical ingestion or build",
+  "methodology": "Fresh public inventory, independent concise paraphrase, live site-page coordinate checks, valid DMS, exact protected-geometry assignment, identity/ensemble screening. No guessed points, new photos or artificial district quotas. Existing 221 records untouched.",
+  "authoritySources": [
+    {
+      "authority": "Department of Archaeology & Museums, Government of Pakistan",
+      "url": "https://doam.gov.pk/public/home",
+      "title": "Fresh complete public regional catalogue; individual live source pages checked",
+      "accessDate": "2026-10-22"
+    }
+  ],
+  "supplementalResearch": [],
+  "districts": [
+    {
+      "id": "islamabad-islamabad",
+      "name": "Islamabad",
+      "queries": [
+        "Complete fresh DOAM Islamabad public catalogue; spatial index against all configured district polygons; review of named structures, known ensembles and uncertain coordinates."
+      ],
+      "sourceUrls": [
+        "https://doam.gov.pk/public/home",
+        "https://doam.gov.pk/public/sites/6223",
+        "https://doam.gov.pk/public/sites/6250",
+        "https://doam.gov.pk/public/sites/6262",
+        "https://doam.gov.pk/public/sites/6258",
+        "https://doam.gov.pk/public/sites/6278",
+        "https://doam.gov.pk/public/sites/6313",
+        "https://doam.gov.pk/public/sites/6345",
+        "https://doam.gov.pk/public/sites/6265",
+        "https://doam.gov.pk/public/sites/6341",
+        "https://doam.gov.pk/public/sites/6277",
+        "https://doam.gov.pk/public/sites/6280",
+        "https://doam.gov.pk/public/sites/6318",
+        "https://doam.gov.pk/public/sites/6225",
+        "https://doam.gov.pk/public/sites/6226",
+        "https://doam.gov.pk/public/sites/6245",
+        "https://doam.gov.pk/public/sites/6279",
+        "https://doam.gov.pk/public/sites/6329",
+        "https://doam.gov.pk/public/sites/6343",
+        "https://doam.gov.pk/public/sites/6342",
+        "https://doam.gov.pk/public/sites/6252",
+        "https://doam.gov.pk/public/sites/6317"
+      ],
+      "catalogueCandidateCount": 42,
+      "candidateIds": [
+        "doam-6223",
+        "doam-6250",
+        "doam-6255",
+        "doam-6262",
+        "doam-6278",
+        "doam-6317",
+        "doam-6318",
+        "doam-6329",
+        "doam-6230",
+        "doam-6235",
+        "doam-6233",
+        "doam-6311",
+        "doam-6224",
+        "doam-6226",
+        "doam-6227",
+        "doam-6241",
+        "doam-6247",
+        "doam-6258",
+        "doam-6269",
+        "doam-6313",
+        "doam-6343",
+        "doam-6268",
+        "doam-6279",
+        "doam-6267",
+        "doam-6273",
+        "doam-6341",
+        "doam-6345",
+        "doam-6225",
+        "doam-6232",
+        "doam-6252",
+        "doam-6245",
+        "doam-6270",
+        "doam-6275",
+        "doam-6277",
+        "doam-6280",
+        "doam-6310",
+        "doam-6315",
+        "doam-9182",
+        "doam-6347",
+        "doam-6265",
+        "doam-6344",
+        "doam-6342"
+      ],
+      "existingIds": [
+        "major-doam-6232",
+        "major-doam-6233",
+        "major-doam-6224",
+        "major-doam-6344",
+        "major-doam-6315",
+        "major-doam-6311",
+        "major-doam-6230",
+        "major-doam-6310",
+        "major-doam-9182",
+        "major-doam-6347",
+        "major-doam-6227",
+        "major-doam-6235",
+        "major-doam-6241"
+      ],
+      "acceptedIds": [
+        "major-doam-6223",
+        "major-doam-6250",
+        "major-doam-6262",
+        "major-doam-6258",
+        "major-doam-6278",
+        "major-doam-6313",
+        "major-doam-6345",
+        "major-doam-6265",
+        "major-doam-6341",
+        "major-doam-6277",
+        "major-doam-6280"
+      ],
+      "unresolvedIds": [
+        "doam-6318",
+        "doam-6225",
+        "doam-6226",
+        "doam-6245",
+        "doam-6279",
+        "doam-6329",
+        "doam-6343",
+        "doam-6342",
+        "doam-6252",
+        "doam-6317"
+      ],
+      "status": "researched-additions-proposed",
+      "note": "Bounded desk review, not an exhaustive inventory or a claim that heritage is absent. Full catalogue screened; editorially meaningful named sites examined in detail. Whole-minute pairs, invalid coordinates, identity conflicts and unreviewed UNESCO ensemble splits are not accepted. Historical source district labels never override the protected geometry."
+    }
+  ],
+  "accepted": [
+    {
+      "id": "major-doam-6223",
+      "slug": "rawal-dam-archaeological-mound",
+      "status": "published",
+      "title": "Rawal Dam Archaeological Mound",
+      "shortTitle": "Rawal Dam Archaeological Mound",
+      "aliases": [
+        "Rawal Dam Mound"
+      ],
+      "summary": "The mound near Rawal Dam preserves traces of earlier settlement, including pottery documented by the archaeological survey. Its archaeological identity is distinct from the nearby historic temple, although later landscaping has changed the site.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage Site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6223",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Rawal Dam Mound",
+      "sourceRegion": "Islamabad",
+      "sourceDistrict": "Islamabad",
+      "sourcePublication": "Archaeological Remains and Monuments of Islamabad Capital Territory and District Rawalpindi",
+      "selectionReason": "Separate settlement mound, not another page for the existing Rawal Dam temple.",
+      "legalStatus": null,
+      "legalStatusNote": "The catalogue legal-status value is retained in the research snapshot only; no independent claim about current statutory protection is made.",
+      "components": [
+        {
+          "id": "major-doam-6223-point",
+          "name": "Rawal Dam Archaeological Mound",
+          "latitude": 33.691956559,
+          "longitude": 73.122234383,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6223",
+          "coordinateNote": "Exact published DOAM coordinate checked against the live source on 2026-10-22. Valid DMS and protected ADM2 assignment checked. No centroid substitution or manual relocation. This is desk verification of an official survey point, not a field GPS survey."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "featured": false,
+      "mapDisplay": "listed",
+      "sortOrder": 66223,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-6250",
+      "slug": "saqa-historic-well",
+      "status": "published",
+      "title": "Saqa Historic Well",
+      "shortTitle": "Saqa Historic Well",
+      "aliases": [
+        "Ancient Well (Saqa)"
+      ],
+      "summary": "This historic well at Saqa is lined with dressed kanjur stone. Traces of retaining walls around the circular opening preserve evidence of an older water-supply structure.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage Site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6250",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Ancient Well (Saqa)",
+      "sourceRegion": "Islamabad",
+      "sourceDistrict": "Islamabad",
+      "sourcePublication": "Archaeological Survey of Islamabad Capital Territory, 2016 Survey Data on Ancient Sites",
+      "selectionReason": "Specific masonry water installation, not a settlement-wide or modern village coordinate.",
+      "legalStatus": null,
+      "legalStatusNote": "The catalogue legal-status value is retained in the research snapshot only; no independent claim about current statutory protection is made.",
+      "components": [
+        {
+          "id": "major-doam-6250-point",
+          "name": "Saqa Historic Well",
+          "latitude": 33.670555556,
+          "longitude": 73.219444444,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6250",
+          "coordinateNote": "Exact published DOAM coordinate checked against the live source on 2026-10-22. Valid DMS and protected ADM2 assignment checked. No centroid substitution or manual relocation. This is desk verification of an official survey point, not a field GPS survey."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "featured": false,
+      "mapDisplay": "listed",
+      "sortOrder": 66250,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-6262",
+      "slug": "mohrian-historic-well",
+      "status": "published",
+      "title": "Mohrian Historic Well",
+      "shortTitle": "Mohrian Historic Well",
+      "aliases": [
+        "Ancient Well (Mohrian)"
+      ],
+      "summary": "The circular well at Mohrian is built with dressed kanjur stone and lime mortar. Structural traces nearby suggest an older settlement context, but the well’s exact construction date is not established.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage Site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6262",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Ancient Well (Mohrian)",
+      "sourceRegion": "Islamabad",
+      "sourceDistrict": "Islamabad",
+      "sourcePublication": "Archaeological Survey of Islamabad Capital Territory, 2016 Survey Data on Ancient Sites",
+      "selectionReason": "Distinct historic water structure, separate from Saqa and not a generic mound.",
+      "legalStatus": null,
+      "legalStatusNote": "The catalogue legal-status value is retained in the research snapshot only; no independent claim about current statutory protection is made.",
+      "components": [
+        {
+          "id": "major-doam-6262-point",
+          "name": "Mohrian Historic Well",
+          "latitude": 33.661944444,
+          "longitude": 73.178611111,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6262",
+          "coordinateNote": "Exact published DOAM coordinate checked against the live source on 2026-10-22. Valid DMS and protected ADM2 assignment checked. No centroid substitution or manual relocation. This is desk verification of an official survey point, not a field GPS survey."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "featured": false,
+      "mapDisplay": "listed",
+      "sortOrder": 66262,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-6258",
+      "slug": "mohrian-rock-shelter",
+      "status": "published",
+      "title": "Mohrian Rock Shelter",
+      "shortTitle": "Mohrian Rock Shelter",
+      "aliases": [
+        "Rock Shelter (Mohrian)"
+      ],
+      "summary": "The rock shelter at Mohrian has an engraved bird on one supporting boulder and pottery fragments recorded nearby. The cultural markings distinguish it from an unmodified natural shelter, but their precise date remains uncertain.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage Site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6258",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Rock Shelter (Mohrian)",
+      "sourceRegion": "Islamabad",
+      "sourceDistrict": "Islamabad",
+      "sourcePublication": "Archaeological Survey of Islamabad Capital Territory, 2016 Survey Data on Ancient Sites",
+      "selectionReason": "Explicit recorded cultural modification; avoids claiming an unsupported Stone Age date.",
+      "legalStatus": null,
+      "legalStatusNote": "The catalogue legal-status value is retained in the research snapshot only; no independent claim about current statutory protection is made.",
+      "components": [
+        {
+          "id": "major-doam-6258-point",
+          "name": "Mohrian Rock Shelter",
+          "latitude": 33.675833333,
+          "longitude": 73.194166667,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6258",
+          "coordinateNote": "Exact published DOAM coordinate checked against the live source on 2026-10-22. Valid DMS and protected ADM2 assignment checked. No centroid substitution or manual relocation. This is desk verification of an official survey point, not a field GPS survey."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "featured": false,
+      "mapDisplay": "listed",
+      "sortOrder": 66258,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-6278",
+      "slug": "rehara-mosque",
+      "status": "published",
+      "title": "Rehara Mosque",
+      "shortTitle": "Rehara Mosque",
+      "aliases": [],
+      "summary": "The surviving entrance of Rehara mosque preserves a four-centred arch and traces of lime plaster. The federal survey associates the ruined prayer hall with the Mughal period.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage Site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6278",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Rehara Mosque",
+      "sourceRegion": "Islamabad",
+      "sourceDistrict": "Islamabad",
+      "sourcePublication": "Archaeological Survey of Islamabad Capital Territory, 2016 Survey Data on Ancient Sites",
+      "selectionReason": "Distinct surviving built monument, separate from the nearby mound and memorial with duplicated catalogue points.",
+      "legalStatus": null,
+      "legalStatusNote": "The catalogue legal-status value is retained in the research snapshot only; no independent claim about current statutory protection is made.",
+      "components": [
+        {
+          "id": "major-doam-6278-point",
+          "name": "Rehara Mosque",
+          "latitude": 33.690024095,
+          "longitude": 73.170251849,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6278",
+          "coordinateNote": "Exact published DOAM coordinate checked against the live source on 2026-10-22. Valid DMS and protected ADM2 assignment checked. No centroid substitution or manual relocation. This is desk verification of an official survey point, not a field GPS survey."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "featured": false,
+      "mapDisplay": "listed",
+      "sortOrder": 66278,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-6313",
+      "slug": "meharabad-historic-pond",
+      "status": "published",
+      "title": "Meharabad Historic Pond",
+      "shortTitle": "Meharabad Historic Pond",
+      "aliases": [
+        "Sector G-12 Pond"
+      ],
+      "summary": "The historic pond near Meharabad in Islamabad’s G-12 sector has a rectangular plan lined with dressed stone blocks. It preserves evidence of an older water-management structure within the modern city.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Historic Monument",
+      "designationType": "none",
+      "designationName": "Heritage Site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6313",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Sector G-12 Pond",
+      "sourceRegion": "Islamabad",
+      "sourceDistrict": "Islamabad",
+      "sourcePublication": "Archaeological Remains of Islamabad Capital Territory and Rawalpindi District",
+      "selectionReason": "Material hydraulic heritage; exact dynastic attribution omitted because the catalogue gives a broad Sikh/colonial range.",
+      "legalStatus": null,
+      "legalStatusNote": "The catalogue legal-status value is retained in the research snapshot only; no independent claim about current statutory protection is made.",
+      "components": [
+        {
+          "id": "major-doam-6313-point",
+          "name": "Meharabad Historic Pond",
+          "latitude": 33.66086425,
+          "longitude": 72.981789722,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6313",
+          "coordinateNote": "Exact published DOAM coordinate checked against the live source on 2026-10-22. Valid DMS and protected ADM2 assignment checked. No centroid substitution or manual relocation. This is desk verification of an official survey point, not a field GPS survey."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "featured": false,
+      "mapDisplay": "listed",
+      "sortOrder": 66313,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-6345",
+      "slug": "malpur-archaeological-mound",
+      "status": "published",
+      "title": "Malpur Archaeological Mound",
+      "shortTitle": "Malpur Archaeological Mound",
+      "aliases": [
+        "Malpur"
+      ],
+      "summary": "The mound near Malpur contains settlement traces overlooking the Rawal Lake landscape. Pottery, a stone pestle and a coin recorded by the survey provide material evidence of earlier occupation.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage Site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6345",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Malpur",
+      "sourceRegion": "Islamabad",
+      "sourceDistrict": "Islamabad",
+      "sourcePublication": "Report on Survey and documentation of new Archaeological sites in village Malpur, Islamabad",
+      "selectionReason": "Distinct settlement site northeast of Rawal Lake, not the separate dam mound.",
+      "legalStatus": null,
+      "legalStatusNote": "The catalogue legal-status value is retained in the research snapshot only; no independent claim about current statutory protection is made.",
+      "components": [
+        {
+          "id": "major-doam-6345-point",
+          "name": "Malpur Archaeological Mound",
+          "latitude": 33.7277,
+          "longitude": 73.1497,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6345",
+          "coordinateNote": "Exact published DOAM coordinate checked against the live source on 2026-10-22. Valid DMS and protected ADM2 assignment checked. No centroid substitution or manual relocation. This is desk verification of an official survey point, not a field GPS survey."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "featured": false,
+      "mapDisplay": "listed",
+      "sortOrder": 66345,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-6265",
+      "slug": "kuri-jamia-mosque",
+      "status": "published",
+      "title": "Kuri Jamia Mosque",
+      "shortTitle": "Kuri Jamia Mosque",
+      "aliases": [
+        "Jamia Mosque, Kuri"
+      ],
+      "summary": "Kuri’s historic Jamia mosque has a brick prayer hall, a veranda and courtyard. A central dome rises above the hall, while later restoration and paint have altered parts of its surface decoration.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage Site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6265",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Jamia Mosque, Kuri",
+      "sourceRegion": "Islamabad",
+      "sourceDistrict": "Islamabad",
+      "sourcePublication": "Survey and Documentation of Archaeological Sites and Monuments (1995-2001)",
+      "selectionReason": "Distinct mosque from the existing Kuri Baradari.",
+      "legalStatus": null,
+      "legalStatusNote": "The catalogue legal-status value is retained in the research snapshot only; no independent claim about current statutory protection is made.",
+      "components": [
+        {
+          "id": "major-doam-6265-point",
+          "name": "Kuri Jamia Mosque",
+          "latitude": 33.679722222,
+          "longitude": 73.180277778,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6265",
+          "coordinateNote": "Exact published DOAM coordinate checked against the live source on 2026-10-22. Valid DMS and protected ADM2 assignment checked. No centroid substitution or manual relocation. This is desk verification of an official survey point, not a field GPS survey."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "featured": false,
+      "mapDisplay": "listed",
+      "sortOrder": 66265,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-6341",
+      "slug": "bari-imam-bethak-nikka-tumair",
+      "status": "published",
+      "title": "Bari Imam Bethak, Nikka Tumair",
+      "shortTitle": "Bari Imam Bethak, Nikka Tumair",
+      "aliases": [
+        "Zinda Wali Bethak or Bari Imam Bethak"
+      ],
+      "summary": "This small shrine at Nikka Tumair is traditionally identified as a resting place associated with Bari Imam. It is a separate built sacred site from the main Bari Imam shrine in Islamabad.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Sacred Heritage",
+      "designationType": "none",
+      "designationName": "Heritage Site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6341",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Zinda Wali Bethak or Bari Imam Bethak",
+      "sourceRegion": "Islamabad",
+      "sourceDistrict": "Islamabad",
+      "sourcePublication": "Archaeological Remains and Monuments of Islamabad Capital Territory and District Rawalpindi",
+      "selectionReason": "Specific secondary shrine, with traditional association clearly identified rather than treated as proven biography.",
+      "legalStatus": null,
+      "legalStatusNote": "The catalogue legal-status value is retained in the research snapshot only; no independent claim about current statutory protection is made.",
+      "components": [
+        {
+          "id": "major-doam-6341-point",
+          "name": "Bari Imam Bethak, Nikka Tumair",
+          "latitude": 33.711666667,
+          "longitude": 73.3275,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6341",
+          "coordinateNote": "Exact published DOAM coordinate checked against the live source on 2026-10-22. Valid DMS and protected ADM2 assignment checked. No centroid substitution or manual relocation. This is desk verification of an official survey point, not a field GPS survey."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "featured": false,
+      "mapDisplay": "listed",
+      "sortOrder": 66341,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-6277",
+      "slug": "chaper-mound-ii",
+      "status": "published",
+      "title": "Chaper Mound II",
+      "shortTitle": "Chaper Mound II",
+      "aliases": [
+        "Chaper Mound-II"
+      ],
+      "summary": "Chaper Mound II preserves masonry and pottery from an archaeological settlement. The survey describes damaged structures that may relate to a monastery and stupa, but their identification remains provisional.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage Site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6277",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Chaper Mound-II",
+      "sourceRegion": "Islamabad",
+      "sourceDistrict": "Islamabad",
+      "sourcePublication": "Archaeological Survey of Islamabad Capital Territory, 2016 Survey Data on Ancient Sites",
+      "selectionReason": "Documented cultural remains with cautious interpretation; no blanket certainty about a Buddhist complex.",
+      "legalStatus": null,
+      "legalStatusNote": "The catalogue legal-status value is retained in the research snapshot only; no independent claim about current statutory protection is made.",
+      "components": [
+        {
+          "id": "major-doam-6277-point",
+          "name": "Chaper Mound II",
+          "latitude": 33.684444444,
+          "longitude": 73.195555556,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6277",
+          "coordinateNote": "Exact published DOAM coordinate checked against the live source on 2026-10-22. Valid DMS and protected ADM2 assignment checked. No centroid substitution or manual relocation. This is desk verification of an official survey point, not a field GPS survey."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "featured": false,
+      "mapDisplay": "listed",
+      "sortOrder": 66277,
+      "detailsPageStatus": "available"
+    },
+    {
+      "id": "major-doam-6280",
+      "slug": "kuri-archaeological-mound",
+      "status": "published",
+      "title": "Kuri Archaeological Mound",
+      "shortTitle": "Kuri Archaeological Mound",
+      "aliases": [
+        "Kuri Mound"
+      ],
+      "summary": "The large mound at Kuri retains structural traces built with kanjur stone and limestone, together with pottery. Road construction and levelling have divided and reduced the archaeological surface.",
+      "recordType": "place",
+      "heritageDomain": "cultural-tangible",
+      "heritageCategory": "Archaeological Site",
+      "designationType": "none",
+      "designationName": "Heritage Site",
+      "sourceAuthority": "Department of Archaeology & Museums, Government of Pakistan",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6280",
+      "verifiedDate": "2026-10-22",
+      "sourceTitle": "Kuri Mound",
+      "sourceRegion": "Islamabad",
+      "sourceDistrict": "Islamabad",
+      "sourcePublication": "Archaeological Survey of Islamabad Capital Territory, 2016 Survey Data on Ancient Sites",
+      "selectionReason": "Distinct archaeological settlement, not the nearby mosque or baradari.",
+      "legalStatus": null,
+      "legalStatusNote": "The catalogue legal-status value is retained in the research snapshot only; no independent claim about current statutory protection is made.",
+      "components": [
+        {
+          "id": "major-doam-6280-point",
+          "name": "Kuri Archaeological Mound",
+          "latitude": 33.68,
+          "longitude": 73.189444444,
+          "coordinateStatus": "verified-official",
+          "coordinateSource": "https://doam.gov.pk/public/sites/6280",
+          "coordinateNote": "Exact published DOAM coordinate checked against the live source on 2026-10-22. Valid DMS and protected ADM2 assignment checked. No centroid substitution or manual relocation. This is desk verification of an official survey point, not a field GPS survey."
+        }
+      ],
+      "image": null,
+      "imageAlt": "",
+      "placeholderImage": true,
+      "imageTemporary": false,
+      "featured": false,
+      "mapDisplay": "listed",
+      "sortOrder": 66280,
+      "detailsPageStatus": "available"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "doam-6314",
+      "title": "Ban Faqiran Mosque",
+      "districtId": null,
+      "districtIds": [],
+      "sourceDistrict": "Islamabad",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6314",
+      "reason": "coordinate conflict",
+      "note": "Ban Faqiran Mosque still has no protected ADM2 match; distinct from existing stupa.",
+      "inheritedFrom": "2026-10-17",
+      "reviewNote": "Prior unresolved decision retained; no forced coordinate or new identity inference in this pass."
+    },
+    {
+      "id": "doam-6340",
+      "title": "Ban Faqiran Water Tank",
+      "districtId": null,
+      "districtIds": [],
+      "sourceDistrict": "Islamabad",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6340",
+      "reason": "coordinate conflict",
+      "note": "Water tank has no protected ADM2 match and may be related to Ban Faqiran ensemble.",
+      "inheritedFrom": "2026-10-17",
+      "reviewNote": "Prior unresolved decision retained; no forced coordinate or new identity inference in this pass."
+    },
+    {
+      "id": "doam-6318",
+      "title": "Tumair Rock Shelter",
+      "districtId": "islamabad-islamabad",
+      "districtIds": [
+        "islamabad-islamabad"
+      ],
+      "sourceDistrict": "Islamabad",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6318",
+      "reason": "coordinate conflict",
+      "note": "Tumair point/description conflict remains unresolved.",
+      "inheritedFrom": "2026-10-17",
+      "reviewNote": "Prior unresolved decision retained; no forced coordinate or new identity inference in this pass."
+    },
+    {
+      "id": "doam-6225",
+      "title": "Pharwala Mosque",
+      "districtId": "islamabad-islamabad",
+      "districtIds": [
+        "islamabad-islamabad"
+      ],
+      "sourceDistrict": "Islamabad",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6225",
+      "reason": "duplicate",
+      "note": "Mosque is part of existing Pharwala fort context; no separate public property.",
+      "inheritedFrom": "2026-10-17",
+      "reviewNote": "Prior unresolved decision retained; no forced coordinate or new identity inference in this pass."
+    },
+    {
+      "id": "doam-6309",
+      "title": "Chang Well",
+      "districtId": "punjab-rawalpindi",
+      "districtIds": [
+        "punjab-rawalpindi"
+      ],
+      "sourceDistrict": "Islamabad",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6309",
+      "reason": "district mismatch",
+      "note": "Source Islamabad label but protected geometry derives Rawalpindi; not selected for this batch.",
+      "inheritedFrom": "2026-10-17",
+      "reviewNote": "Prior unresolved decision retained; no forced coordinate or new identity inference in this pass."
+    },
+    {
+      "id": "doam-9184",
+      "title": "Sangjani Tunnel",
+      "districtId": "punjab-rawalpindi",
+      "districtIds": [
+        "punjab-rawalpindi"
+      ],
+      "sourceDistrict": "Islamabad",
+      "sourceUrl": "https://doam.gov.pk/public/sites/9184",
+      "reason": "district mismatch",
+      "note": "Sangjani Tunnel point derives Rawalpindi; source label does not control scope.",
+      "inheritedFrom": "2026-10-17",
+      "reviewNote": "Prior unresolved decision retained; no forced coordinate or new identity inference in this pass."
+    },
+    {
+      "id": "doam-6226",
+      "title": "Mohra Malhar Graveyard",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6226",
+      "sourceDistrict": "Islamabad",
+      "districtIds": [
+        "islamabad-islamabad"
+      ],
+      "districtId": "islamabad-islamabad",
+      "reason": "duplicate coordinate / location conflict",
+      "note": "Coordinate exactly duplicates Saidpur Temple Complex 6230 despite a different place identity. No site pin assigned.",
+      "reviewDate": "2026-10-22"
+    },
+    {
+      "id": "doam-6245",
+      "title": "British Army Memorial",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6245",
+      "sourceDistrict": "Islamabad",
+      "districtIds": [
+        "islamabad-islamabad"
+      ],
+      "districtId": "islamabad-islamabad",
+      "reason": "duplicate coordinate / ensemble uncertainty",
+      "note": "Exactly duplicates Rehara mound 6279 and is described as built on an archaeological mound; requires location/ensemble reconciliation.",
+      "reviewDate": "2026-10-22"
+    },
+    {
+      "id": "doam-6279",
+      "title": "Rehara Mound",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6279",
+      "sourceDistrict": "Islamabad",
+      "districtIds": [
+        "islamabad-islamabad"
+      ],
+      "districtId": "islamabad-islamabad",
+      "reason": "ensemble uncertainty",
+      "note": "Same point as the British Army memorial; not separately counted or assumed interchangeable.",
+      "reviewDate": "2026-10-22"
+    },
+    {
+      "id": "doam-6329",
+      "title": "Facto Cement Factory Monastery",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6329",
+      "sourceDistrict": "Islamabad",
+      "districtIds": [
+        "islamabad-islamabad"
+      ],
+      "districtId": "islamabad-islamabad",
+      "reason": "location confidence unresolved",
+      "note": "Description places monastery in Margalla Hills; precise factory/monastery footprint needs independent corroboration before accepting the supplied point.",
+      "reviewDate": "2026-10-22"
+    },
+    {
+      "id": "doam-6343",
+      "title": "Rawal Lake Rock Shelter",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6343",
+      "sourceDistrict": "Islamabad",
+      "districtIds": [
+        "islamabad-islamabad"
+      ],
+      "districtId": "islamabad-islamabad",
+      "reason": "cultural significance / identity uncertainty",
+      "note": "Only soot and nearby potsherds reported; no secure date or relationship to the separate Rawal mound shelter is established.",
+      "reviewDate": "2026-10-22"
+    },
+    {
+      "id": "doam-6342",
+      "title": "G-13 Rock Shelter",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6342",
+      "sourceDistrict": "Islamabad",
+      "districtIds": [
+        "islamabad-islamabad"
+      ],
+      "districtId": "islamabad-islamabad",
+      "reason": "cultural significance unresolved",
+      "note": "Catalogue compares a natural shelter with Stone Age parallels but documents no securely dated cultural material. Not accepted merely for numerical coverage.",
+      "reviewDate": "2026-10-22"
+    },
+    {
+      "id": "doam-6252",
+      "title": "Ancient Ruined Mosque, Saqa",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6252",
+      "sourceDistrict": "Islamabad",
+      "districtIds": [
+        "islamabad-islamabad"
+      ],
+      "districtId": "islamabad-islamabad",
+      "reason": "identity / significance evidence thin",
+      "note": "Generic mosque title, ambiguous dimensions and short description need stronger identifying evidence before public indexing.",
+      "reviewDate": "2026-10-22"
+    },
+    {
+      "id": "doam-6317",
+      "title": "Chattar Shrines",
+      "sourceUrl": "https://doam.gov.pk/public/sites/6317",
+      "sourceDistrict": "Islamabad",
+      "districtIds": [
+        "islamabad-islamabad"
+      ],
+      "districtId": "islamabad-islamabad",
+      "reason": "regional boundary / coordinate check",
+      "note": "Retain as a lead; precise coordinate and geographic assignment must be resolved before assuming Islamabad jurisdiction.",
+      "reviewDate": "2026-10-22"
+    }
+  ],
+  "rawEvidence": {
+    "catalogue": "catalogue.json",
+    "livePages": "source-snapshots/",
+    "note": "Research-only third-party source snapshots; not publishable website copy or cleared photography."
+  },
+  "qa": {
+    "catalogueRecords": 46,
+    "existingCanonicalRecords": 221,
+    "configuredDistricts": 1,
+    "shortlisted": 11,
+    "accepted": 11,
+    "unresolved": 14,
+    "coordinateScreens": [
+      {
+        "id": 6223,
+        "validDMS": true,
+        "wholeMinutePair": false,
+        "decimalMatchesDMS": true,
+        "roundingToleranceDegrees": 2e-8
+      },
+      {
+        "id": 6250,
+        "validDMS": true,
+        "wholeMinutePair": false,
+        "decimalMatchesDMS": true,
+        "roundingToleranceDegrees": 2e-8
+      },
+      {
+        "id": 6262,
+        "validDMS": true,
+        "wholeMinutePair": false,
+        "decimalMatchesDMS": true,
+        "roundingToleranceDegrees": 2e-8
+      },
+      {
+        "id": 6258,
+        "validDMS": true,
+        "wholeMinutePair": false,
+        "decimalMatchesDMS": true,
+        "roundingToleranceDegrees": 2e-8
+      },
+      {
+        "id": 6278,
+        "validDMS": true,
+        "wholeMinutePair": false,
+        "decimalMatchesDMS": true,
+        "roundingToleranceDegrees": 2e-8
+      },
+      {
+        "id": 6313,
+        "validDMS": true,
+        "wholeMinutePair": false,
+        "decimalMatchesDMS": true,
+        "roundingToleranceDegrees": 2e-8
+      },
+      {
+        "id": 6345,
+        "validDMS": true,
+        "wholeMinutePair": false,
+        "decimalMatchesDMS": true,
+        "roundingToleranceDegrees": 2e-8
+      },
+      {
+        "id": 6265,
+        "validDMS": true,
+        "wholeMinutePair": false,
+        "decimalMatchesDMS": true,
+        "roundingToleranceDegrees": 2e-8
+      },
+      {
+        "id": 6341,
+        "validDMS": true,
+        "wholeMinutePair": false,
+        "decimalMatchesDMS": true,
+        "roundingToleranceDegrees": 2e-8
+      },
+      {
+        "id": 6277,
+        "validDMS": true,
+        "wholeMinutePair": false,
+        "decimalMatchesDMS": true,
+        "roundingToleranceDegrees": 2e-8
+      },
+      {
+        "id": 6280,
+        "validDMS": true,
+        "wholeMinutePair": false,
+        "decimalMatchesDMS": true,
+        "roundingToleranceDegrees": 2e-8
+      }
+    ],
+    "liveSourceChecks": [
+      {
+        "id": 6223,
+        "url": "https://doam.gov.pk/public/sites/6223",
+        "accessDate": "2026-10-22",
+        "httpStatus": 200,
+        "title": "Rawal Dam Mound",
+        "titleMatches": true,
+        "latitudeFound": true,
+        "longitudeFound": true,
+        "sha256": "0c358a3fbe6151c206b91dd25e04c47673d9bfb2465a62f7ada8661b85f71ec5"
+      },
+      {
+        "id": 6250,
+        "url": "https://doam.gov.pk/public/sites/6250",
+        "accessDate": "2026-10-22",
+        "httpStatus": 200,
+        "title": "Ancient Well (Saqa)",
+        "titleMatches": true,
+        "latitudeFound": true,
+        "longitudeFound": true,
+        "sha256": "2e514774280e73ac1cf9d6256fcd0eb950213838a60aa02d8161d16f96e361a5"
+      },
+      {
+        "id": 6262,
+        "url": "https://doam.gov.pk/public/sites/6262",
+        "accessDate": "2026-10-22",
+        "httpStatus": 200,
+        "title": "Ancient Well (Mohrian)",
+        "titleMatches": true,
+        "latitudeFound": true,
+        "longitudeFound": true,
+        "sha256": "4561be4a38c6e606273d8c86e6e78dd9ec6093f865e1f231f8ffcfbb85419317"
+      },
+      {
+        "id": 6258,
+        "url": "https://doam.gov.pk/public/sites/6258",
+        "accessDate": "2026-10-22",
+        "httpStatus": 200,
+        "title": "Rock Shelter (Mohrian)",
+        "titleMatches": true,
+        "latitudeFound": true,
+        "longitudeFound": true,
+        "sha256": "75dfd9df07bd55a9ebcb3d001f897edc7ff4c23eb2fdb85534b03a7341f6b775"
+      },
+      {
+        "id": 6278,
+        "url": "https://doam.gov.pk/public/sites/6278",
+        "accessDate": "2026-10-22",
+        "httpStatus": 200,
+        "title": "Rehara Mosque",
+        "titleMatches": true,
+        "latitudeFound": true,
+        "longitudeFound": true,
+        "sha256": "7751f6fa914068bf6f3f798c099da1f1349f2f1cc84819239401bf37d6e19596"
+      },
+      {
+        "id": 6313,
+        "url": "https://doam.gov.pk/public/sites/6313",
+        "accessDate": "2026-10-22",
+        "httpStatus": 200,
+        "title": "Sector G-12 Pond",
+        "titleMatches": true,
+        "latitudeFound": true,
+        "longitudeFound": true,
+        "sha256": "b59d58992ffdff7e561d71908cc4c8756be25a8f02b4fee14dabf837c9776343"
+      },
+      {
+        "id": 6345,
+        "url": "https://doam.gov.pk/public/sites/6345",
+        "accessDate": "2026-10-22",
+        "httpStatus": 200,
+        "title": "Malpur",
+        "titleMatches": true,
+        "latitudeFound": true,
+        "longitudeFound": true,
+        "sha256": "0e2dcff5306da9ccffed1c56c83db0461526cb10efe84a13116f9605d400406f"
+      },
+      {
+        "id": 6265,
+        "url": "https://doam.gov.pk/public/sites/6265",
+        "accessDate": "2026-10-22",
+        "httpStatus": 200,
+        "title": "Jamia Mosque, Kuri",
+        "titleMatches": true,
+        "latitudeFound": true,
+        "longitudeFound": true,
+        "sha256": "07a9f558559b33759e1f225517ddb2764076b21c026534b4ba87879f14fd5aa7"
+      },
+      {
+        "id": 6341,
+        "url": "https://doam.gov.pk/public/sites/6341",
+        "accessDate": "2026-10-22",
+        "httpStatus": 200,
+        "title": "Zinda Wali Bethak or Bari Imam Bethak",
+        "titleMatches": true,
+        "latitudeFound": true,
+        "longitudeFound": true,
+        "sha256": "2b9556067744f8d9b24fc0215808149c7871c458f2fdeae1375ff21737551809"
+      },
+      {
+        "id": 6277,
+        "url": "https://doam.gov.pk/public/sites/6277",
+        "accessDate": "2026-10-22",
+        "httpStatus": 200,
+        "title": "Chaper Mound-II",
+        "titleMatches": true,
+        "latitudeFound": true,
+        "longitudeFound": true,
+        "sha256": "dbe907107bbf300523cb933354016fa404d8cd9d19cc4d5b626e1a4877d52054"
+      },
+      {
+        "id": 6280,
+        "url": "https://doam.gov.pk/public/sites/6280",
+        "accessDate": "2026-10-22",
+        "httpStatus": 200,
+        "title": "Kuri Mound",
+        "titleMatches": true,
+        "latitudeFound": true,
+        "longitudeFound": true,
+        "sha256": "f3d373ad38e95f49fa6977f21bc61e92321dbd6733f815a84f69f40a1244b051"
+      }
+    ],
+    "spatialFailures": [],
+    "spatialOverlaps": [],
+    "nearCoordinatePairs": [],
+    "nearCoordinateReview": [],
+    "allNewListed": true,
+    "allNewImagesNull": true,
+    "canonicalContentModified": false
+  }
+}

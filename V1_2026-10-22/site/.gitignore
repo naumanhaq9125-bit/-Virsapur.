@@ -1,0 +1,25 @@
+.env
+.env.*
+!.env.example
+backups/
+studio-data/
+qa-screenshots/
+dist-production/
+dist-demo/
+node_modules/
+*.log
+*.map
+
+# Local runtime and generated QA files
+local-runtime/
+qa-artifacts/
+
+# Older generated build backups
+dist-production-before-*/
+dist-demo-before-*/
+
+# Vercel local configuration
+.vercel/
+
+# Private key files
+*.pem

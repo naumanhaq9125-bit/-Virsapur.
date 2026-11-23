@@ -1,0 +1,134 @@
+{
+  "checkedAt": "2026-10-22T18:19:12.125Z",
+  "tests": [
+    {
+      "test": "3 places: add, reorder, remove, restore after reload",
+      "pass": true,
+      "observed": "STARTING FROM LAHORE\n\nYour itinerary\n\n3 of 40 places selected\n\nAbbott Museum\n↑\n↓\nRemove\nAde Sahib Mosque, Mujahideen\n↑\n↓\nRemove\nAdam Shah Jo Takkar\n↑\n↓\nRemove\n\nThe order is your preference, not a confirmed travel route. Access permissions and travel feasibility require review.\n\nREQUEST A CUSTOM QUOTE ↓"
+    },
+    {
+      "test": "10 places: reorder and reload",
+      "pass": true
+    },
+    {
+      "test": "20 places: reorder, remove, re-add and reload",
+      "pass": true
+    },
+    {
+      "test": "375px keyboard reorder and local-only quote submission",
+      "pass": true,
+      "syntheticReceipt": "VQ-aa1c39b3-c364-40d3-9f69-e9d61a947495"
+    },
+    {
+      "test": "Private owner request detail and status update; no automated amount",
+      "pass": true
+    },
+    {
+      "test": "Studio606 Place records searchable and paged25 per page",
+      "pass": true
+    },
+    {
+      "test": "Atlas Punjab inventory search, category, alphabetical order, page2 and listed-only DelhiGate selection",
+      "passed": true,
+      "scopeCount": 175,
+      "tentativeListPlaces": 14,
+      "fortifications": 20
+    },
+    {
+      "test": "Keyboard Punjab→Lahore, district World Heritage filter and 375×812 drawer",
+      "passed": true,
+      "districtPlaces": 37,
+      "worldHeritageProperties": 1
+    },
+    {
+      "test": "375px Archive keyword, dependent Punjab/Lahore filters, page2 and browser Back",
+      "passed": true,
+      "sourceCorpus": 170,
+      "previewFixtures": 7,
+      "keywordMatches": 5,
+      "lahoreMatches": 30
+    },
+    {
+      "test": "Mobile menu opens/Escape closes; Tours390, selector430 and Taxila18-component record",
+      "passed": true,
+      "syntheticItineraryRemoved": true
+    },
+    {
+      "test": "1920px Sindh→Larkana→Moenjodaro marker",
+      "passed": true,
+      "sindhPlaces": 118,
+      "larkanaPlaces": 4
+    },
+    {
+      "test": "Country and provincial scope counts / keyboard navigation",
+      "passed": true,
+      "detail": "Country6 UNESCO; Punjab175; Sindh118; KP122; Balochistan40; GB83; AJK47; Islamabad24; Larkana4 and Moenjodaro selection. 900×1000 and1920×1080 reviewed."
+    },
+    {
+      "test": "500-record archive browser scale",
+      "viewport": "390×844",
+      "passed": true,
+      "observations": [
+        "42 pages; final page493–500 contains8 cards",
+        "Keyword499 returns1 record",
+        "Punjab+Lahore filter returns250 records;12 cards/page",
+        "No horizontal overflow"
+      ],
+      "fixture": "Synthetic metadata only; not canonical content"
+    },
+    {
+      "test": "Public page composition and photographic crops",
+      "passed": true,
+      "viewports": [
+        "375×812",
+        "390×844",
+        "1440×900"
+      ],
+      "pages": [
+        "Home",
+        "Why Virsapur",
+        "Our Work",
+        "Programmes",
+        "Heritage Tours detail",
+        "Contact"
+      ],
+      "observations": [
+        "No horizontal overflow or broken image elements in inspected views",
+        "Rohtas gateway crown and arch retained",
+        "About portrait doorway and Shalamar basin retained",
+        "CTA75%/0% crop retains right minaret",
+        "Explore tours button148×48 at1440 viewport",
+        "Contact keyboard moves Name→Email; submission honestly disconnected"
+      ]
+    },
+    {
+      "test": "Studio inverse heritage connections",
+      "passed": true,
+      "observations": [
+        "Moenjodaro shows12 related articles,1 programme and honest zero activity/project counts",
+        "Overview is derived/read-only; edit the originating record",
+        "Coordinates and derived geography remain separate from source labels"
+      ]
+    },
+    {
+      "test": "Final420-record Studio corpus",
+      "passed": true,
+      "observations": [
+        "420 Review records,25 rows/page and17 pages",
+        "Seven normalized regional choices with alias deduplication",
+        "Rani Baoli search returns exactly1 corrected Sudhnoti title; durable slug retained",
+        "No publication or save action invoked"
+      ]
+    },
+    {
+      "test": "Final integrated Archive and article at 430×932",
+      "passed": true,
+      "observations": [
+        "427 Preview records: 420 Review records plus 7 labelled demonstration fixtures",
+        "Seven normalized province filters; Rani Baoli search returns one correct Sudhnoti record",
+        "Full article opens with Review badge, readable structured text, two factual references and canonical Place link",
+        "Corrected title preserves durable URL; no horizontal overflow; footer logo retains aspect ratio"
+      ]
+    }
+  ]
+}

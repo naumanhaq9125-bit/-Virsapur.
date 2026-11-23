@@ -1,0 +1,128 @@
+{
+  "checkedAt": "2026-10-22T18:20:22.205Z",
+  "site": "D:\\Virsapur-Website-Developer-Handoff\\V1_2026-10-22\\site",
+  "node": "v24.19.0",
+  "npm": "12.2.1",
+  "checks": [
+    {
+      "label": "Locked clean dependency installation",
+      "args": [
+        "[npm-cli]",
+        "ci",
+        "--no-audit",
+        "--no-fund"
+      ],
+      "exitCode": 0,
+      "elapsedMs": 17433,
+      "passed": true,
+      "output": "\nadded 30 packages in 14s\n"
+    },
+    {
+      "label": "Complete test suite",
+      "args": [
+        "[npm-cli]",
+        "test"
+      ],
+      "exitCode": 0,
+      "elapsedMs": 4256,
+      "passed": true,
+      "output": "npm notice run virsapur-full-site@1.0.0 test\nnpm notice run node scripts/content-architecture-qa.mjs && node scripts/archive-discovery-qa.mjs && node scripts/tours-qa.mjs && node scripts/itinerary-state-qa.mjs && node studio/local-editor.test.mjs && node scripts/backend-contract-qa.mjs && node scripts/media-validation-regression-qa.mjs\n{\n  \"checkedAt\": \"2026-10-22T18:19:19.595Z\",\n  \"collections\": {\n    \"site\": 1,\n    \"homepage\": 1,\n    \"archiveCategories\": 6,\n    \"collaborators\": 8,\n    \"stories\": 420,\n    \"projects\": 2,\n    \"programmes\": 7,\n    \"events\": 0,\n    \"people\": 2,\n    \"testimonials\": 1,\n    \"media\": 10,\n    \"heritagePlaces\": 606\n  },\n  \"errors\": [],\n  \"passed\": true\n}\n{\n  \"pass\": true,\n  \"syntheticOnly\": true,\n  \"scales\": [\n    {\n      \"size\": 100,\n      \"pages\": 9,\n      \"initialCards\": 12,\n      \"indexBytes\": 40456\n    },\n    {\n      \"size\": 250,\n      \"pages\": 21,\n      \"initialCards\": 12,\n      \"indexBytes\": 101306\n    },\n    {\n      \"size\": 500,\n      \"pages\": 42,\n      \"initialCards\": 12,\n      \"indexBytes\": 202721\n    }\n  ],\n  \"checks\": [\n    \"exact membership\",\n    \"dependent districts\",\n    \"12-card bound\",\n    \"query/page round trip\",\n    \"Back/forward URL state\",\n    \"locked category\",\n    \"weighted related stories\",\n    \"body-free payload\",\n    \"rights-aware image descriptors\",\n    \"escaping\"\n  ]\n}\n19 tour contract/storage checks passed. Synthetic temporary requests removed; real Studio data untouched.\n{\n  \"checkedAt\": \"2026-10-22T18:19:21.209Z\",\n  \"actualHeritageRecords\": 606,\n  \"checks\": [\n    {\n      \"size\": 3,\n      \"reorder\": true,\n      \"remove\": true,\n      \"serializedPersistence\": true,\n      \"immutable\": true,\n      \"bounds\": true\n    },\n    {\n      \"size\": 10,\n      \"reorder\": true,\n      \"remove\": true,\n      \"serializedPersistence\": true,\n      \"immutable\": true,\n      \"bounds\": true\n    },\n    {\n      \"size\": 20,\n      \"reorder\": true,\n      \"remove\": true,\n      \"serializedPersistence\": true,\n      \"immutable\": true,\n      \"bounds\": true\n    }\n  ],\n  \"invalidPersistenceHandled\": true,\n  \"maximum\": 40,\n  \"personalDataPersisted\": false,\n  \"passed\": true\n}\nLocal Studio helper checks passed: 25-row pagination, body-free search, exact filters, immutable bulk changes, review gating, nested provenance preservation, legacy references, safe CSV export.\n{\n  \"ok\": true,\n  \"offline\": true,\n  \"tests\": 9,\n  \"passed\": [\n    \"working and live pagination: 606 heritage + 420 stories + categories/collaborators\",\n    \"save paginates existing records, writes only changed rows in bounded batches\",\n    \"transport and collection boundary\",\n    \"export allowlist, fixture/secret screening, deterministic checksum and unapplied seed\",\n    \"hosted quote feature gates fail closed before auth/network\",\n    \"visitor fields only; same-origin, body limits and eligible live places\",\n    \"admin auth/CSRF, bounded list, strict manual fields and safe errors\",\n    \"bounded JSON reader rejects non-JSON and invalid input\",\n    \"migration is unapplied, private RLS/service-only and source-derived\"\n  ],\n  \"syntheticRecords\": 1028,\n  \"databaseApplied\": false,\n  \"networkCalls\": 0\n}\n{\n  \"ok\": true,\n  \"offline\": true,\n  \"tests\": 4,\n  \"passed\": [\n    \"local collection shape comes from route identity, before any write\",\n    \"heritage related media uses identical safe-path gate\",\n    \"malformed categories return validation errors, exact array membership remains\",\n    \"coordinates reject partial/non-numeric/range errors in shared and local guards\"\n  ],\n  \"canonicalWrites\": 0,\n  \"serverStarted\": false\n}\n"
+    },
+    {
+      "label": "Safe default candidate build",
+      "args": [
+        "[npm-cli]",
+        "run",
+        "build"
+      ],
+      "exitCode": 0,
+      "elapsedMs": 21970,
+      "passed": true,
+      "output": "npm notice run virsapur-full-site@1.0.0 build\nnpm notice run node scripts/build-candidate.mjs\nBuilt 636 production routes (630 indexable) in D:\\Virsapur-Website-Developer-Handoff\\V1_2026-10-22\\site\\dist-production-candidate.\n"
+    },
+    {
+      "label": "Candidate local SEO/link crawl",
+      "args": [
+        "scripts/final-release-qa.mjs"
+      ],
+      "exitCode": 0,
+      "elapsedMs": 1423,
+      "passed": true,
+      "output": "{\n  \"checkedAt\": \"2026-10-22T18:19:45.898Z\",\n  \"output\": \"D:\\\\Virsapur-Website-Developer-Handoff\\\\V1_2026-10-22\\\\site\\\\dist-production-candidate\",\n  \"mode\": \"production\",\n  \"routeCount\": 636,\n  \"htmlPages\": 637,\n  \"indexable\": 630,\n  \"sitemapUrls\": 630,\n  \"imageCount\": 1398,\n  \"schemaCount\": 632,\n  \"linkCount\": 19192,\n  \"orphans\": [],\n  \"pageSize\": {\n    \"max\": 420398,\n    \"largest\": [\n      {\n        \"path\": \"search/index.html\",\n        \"bytes\": 420398\n      },\n      {\n        \"path\": \"tours/custom/index.html\",\n        \"bytes\": 251779\n      },\n      {\n        \"path\": \"archives/places/index.html\",\n        \"bytes\": 64158\n      },\n      {\n        \"path\": \"index.html\",\n        \"bytes\": 20329\n      },\n      {\n        \"path\": \"heritage-map/index.html\",\n        \"bytes\": 11015\n      },\n      {\n        \"path\": \"archives/place/dai-angas-tomb-and-gulabi-bagh-gateway/index.html\",\n        \"bytes\": 10502\n      },\n      {\n        \"path\": \"archives/place/killi-gul-muhammad-mound-no-1/index.html\",\n        \"bytes\": 10492\n      },\n      {\n        \"path\": \"archives/place/taxila/index.html\",\n        \"bytes\": 10336\n      }\n    ]\n  },\n  \"errors\": [],\n  \"warnings\": [],\n  \"passed\": true\n}\n"
+    },
+    {
+      "label": "Candidate offline security check",
+      "args": [
+        "scripts/security-qa.mjs",
+        "--dir=dist-production-candidate"
+      ],
+      "exitCode": 0,
+      "elapsedMs": 5278,
+      "passed": true,
+      "output": "{\n  \"generatedAt\": \"2026-10-22T18:19:51.121Z\",\n  \"output\": \"dist-production-candidate\",\n  \"offlineOnly\": true,\n  \"passed\": true,\n  \"checks\": [\n    {\n      \"name\": \"CMS false by default\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Admin omitted\",\n      \"status\": \"PASS\",\n      \"detail\": \"No Admin file or login shell is in the public output.\"\n    },\n    {\n      \"name\": \"Public file allowlist\",\n      \"status\": \"PASS\",\n      \"detail\": \"697 files inspected.\"\n    },\n    {\n      \"name\": \"Draft title leak scan\",\n      \"status\": \"PASS\",\n      \"detail\": \"425 non-public titles tested.\"\n    },\n    {\n      \"name\": \"Public output secret scan\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Default release marker absent\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Demo exclusion\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Production security headers\",\n      \"status\": \"PASS\",\n      \"detail\": \"content-security-policy, permissions-policy, referrer-policy, x-content-type-options, x-frame-options\"\n    },\n    {\n      \"name\": \"Disabled endpoint activity.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint admin-custom-tour-quotes.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint auth-login.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint auth-logout.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint auth-session.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint content.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint custom-tour-quotes.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint export.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint import.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint media-preview.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint media.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint preview.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint publish-finalize.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint publish-status.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint publish.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Disabled endpoint revisions.js\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Anonymous database denial\",\n      \"status\": \"PASS\",\n      \"detail\": \"Migrations grant no CMS table access to anon/authenticated roles.\"\n    },\n    {\n      \"name\": \"Private media policy\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    },\n    {\n      \"name\": \"Owner-only exact publishing\",\n      \"status\": \"PASS\",\n      \"detail\": \"\"\n    }\n  ],\n  \"hostedAnonymousTest\": \"NOT RUN — local candidate QA explicitly prohibits hosted requests, even if test credentials are present.\"\n}\n"
+    },
+    {
+      "label": "Heritage inventory check",
+      "args": [
+        "scripts/heritage-inventory-qa.mjs"
+      ],
+      "exitCode": 0,
+      "elapsedMs": 2554,
+      "passed": true,
+      "output": "{\n  \"checkedAt\": \"2026-10-22T18:19:53.738Z\",\n  \"placeCount\": 606,\n  \"componentCount\": 627,\n  \"featuredPinPlaces\": 221,\n  \"listedOnly\": 385,\n  \"regionCounts\": {\n    \"sindh\": 118,\n    \"khyber-pakhtunkhwa\": 122,\n    \"punjab\": 175,\n    \"gilgit-baltistan\": 83,\n    \"balochistan\": 40,\n    \"azad-kashmir\": 47,\n    \"islamabad\": 24\n  },\n  \"districtsWithAcceptedPlaces\": 131,\n  \"districtResearchRecords\": 181,\n  \"sourceCoverage\": 606,\n  \"newCoordinateProvenance\": 385,\n  \"nearPairs\": [\n    {\n      \"a\": \"major-doam-9778\",\n      \"titleA\": \"Shahi Hammam, Lahore\",\n      \"b\": \"major-doam-6449\",\n      \"titleB\": \"Delhi Gate, Lahore\",\n      \"metres\": 38,\n      \"sourceA\": \"https://doam.gov.pk/public/sites/9778\",\n      \"sourceB\": \"https://doam.gov.pk/public/sites/6449\",\n      \"review\": \"Retain as distinct neighbouring monuments; do not merge or move coordinates.\",\n      \"reviewSources\": [\n        \"https://doam.gov.pk/public/sites/9778\",\n        \"https://doam.gov.pk/public/sites/6449\",\n        \"https://walledcitylahore.gop.pk/gates/\",\n        \"https://the.akdn/en/where-we-work/south-asia/pakistan/walled-city-of-lahore-conservation-pakistan\"\n      ],\n      \"reviewedAt\": \"2026-10-22\"\n    }\n  ],\n  \"errors\": [],\n  \"passed\": true\n}\n"
+    },
+    {
+      "label": "Local HTTP /studio/",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "label": "Local HTTP /preview/",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "label": "Local HTTP /candidate/",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "label": "Local HTTP /candidate/heritage-map/",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "label": "Local HTTP /candidate/tours/custom/",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "label": "Studio final data load",
+      "counts": {
+        "stories": 420,
+        "heritagePlaces": 606
+      },
+      "passed": true
+    },
+    {
+      "label": "Local cross-origin denial",
+      "status": 403,
+      "passed": true
+    },
+    {
+      "label": "Fresh Preview local SEO/link crawl",
+      "args": [
+        "scripts/final-release-qa.mjs",
+        "--dir=dist-demo"
+      ],
+      "exitCode": 0,
+      "elapsedMs": 1871,
+      "passed": true,
+      "output": "{\n  \"checkedAt\": \"2026-10-22T18:20:22.133Z\",\n  \"output\": \"D:\\\\Virsapur-Website-Developer-Handoff\\\\V1_2026-10-22\\\\site\\\\dist-demo\",\n  \"mode\": \"demo\",\n  \"routeCount\": 1074,\n  \"htmlPages\": 1075,\n  \"indexable\": 0,\n  \"sitemapUrls\": 0,\n  \"imageCount\": 3113,\n  \"schemaCount\": 1070,\n  \"linkCount\": 36773,\n  \"orphans\": [],\n  \"pageSize\": {\n    \"max\": 685985,\n    \"largest\": [\n      {\n        \"path\": \"search/index.html\",\n        \"bytes\": 685985\n      },\n      {\n        \"path\": \"archives/all/index.html\",\n        \"bytes\": 443654\n      },\n      {\n        \"path\": \"tours/custom/index.html\",\n        \"bytes\": 251850\n      },\n      {\n        \"path\": \"archives/category/architecture-and-built-heritage/index.html\",\n        \"bytes\": 129324\n      },\n      {\n        \"path\": \"archives/category/archaeology-and-ancient-civilisations/index.html\",\n        \"bytes\": 100382\n      },\n      {\n        \"path\": \"archives/category/cultural-landscapes-and-historic-places/index.html\",\n        \"bytes\": 99576\n      },\n      {\n        \"path\": \"archives/category/sacred-heritage/index.html\",\n        \"bytes\": 92035\n      },\n      {\n        \"path\": \"archives/category/living-traditions/index.html\",\n        \"bytes\": 88748\n      }\n    ]\n  },\n  \"errors\": [],\n  \"warnings\": [\n    \"/projects/demo-learning-resource: description shared with /projects/demo-field-notes-pilot\"\n  ],\n  \"passed\": true\n}\n"
+    }
+  ],
+  "errors": [],
+  "passed": true,
+  "notDeployed": true,
+  "scope": "Fresh locked install, test/build, offline security and local-only Studio HTTP checks. The owned4184 test server was stopped. No publication endpoint or remote CMS was called."
+}

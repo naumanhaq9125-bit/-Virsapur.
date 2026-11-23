@@ -1,0 +1,6 @@
+backups/
+qa-screenshots/
+studio-data/
+dist-demo/
+*.log
+*.map

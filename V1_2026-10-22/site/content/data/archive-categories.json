@@ -1,0 +1,158 @@
+[
+  {
+    "id": "archive-category-archaeology-ancient-civilisations",
+    "slug": "archaeology-and-ancient-civilisations",
+    "status": "published",
+    "title": "Archaeology & Ancient Civilisations",
+    "shortTitle": "Archaeology",
+    "summary": "Material traces of early settlements, cities and the civilisations that shaped the region.",
+    "description": "Explore archaeological places, excavated structures and research-led stories that connect present-day Pakistan with its ancient civilisations.",
+    "featuredImage": {
+      "src": "assets/temporary/temp-archive-archaeology.png",
+      "optimizedStem": "temp-archive-archaeology",
+      "width": 1448,
+      "height": 1086,
+      "alt": "Excavated ancient brick architecture and a historic well",
+      "focalX": 63,
+      "focalY": 48
+    },
+    "sortOrder": 1,
+    "homepageOrder": 2,
+    "featured": true,
+    "showOnHomepage": true,
+    "seo": {
+      "title": "Archaeology & Ancient Civilisations | Virsapur Archives",
+      "description": "Explore Virsapur stories about archaeology and ancient civilisations across Pakistan."
+    }
+  },
+  {
+    "id": "archive-category-architecture-built-heritage",
+    "slug": "architecture-and-built-heritage",
+    "status": "published",
+    "title": "Architecture & Built Heritage",
+    "shortTitle": "Architecture",
+    "summary": "Buildings, streets and designed places understood through detail, use and change.",
+    "description": "Discover architectural histories, urban fabric and the many ways Pakistan’s built heritage has been made, inhabited and adapted.",
+    "featuredImage": {
+      "src": "assets/temporary/temp-archive-interior.png",
+      "optimizedStem": "temp-archive-interior",
+      "width": 1122,
+      "height": 1402,
+      "alt": "A painted historic interior with a carved timber doorway",
+      "focalX": 58,
+      "focalY": 43
+    },
+    "sortOrder": 2,
+    "homepageOrder": 1,
+    "featured": true,
+    "showOnHomepage": true,
+    "seo": {
+      "title": "Architecture & Built Heritage | Virsapur Archives",
+      "description": "Explore Virsapur stories about architecture, streets and built heritage across Pakistan."
+    }
+  },
+  {
+    "id": "archive-category-sacred-heritage",
+    "slug": "sacred-heritage",
+    "status": "published",
+    "title": "Sacred Heritage",
+    "shortTitle": "Sacred Heritage",
+    "summary": "Places of belief, memory and devotion across Pakistan’s many religious traditions.",
+    "description": "Encounter sacred buildings, landscapes and practices through careful stories grounded in place, memory and continuing meaning.",
+    "featuredImage": {
+      "src": "assets/temporary/temp-project-preservation.png",
+      "optimizedStem": "temp-project-preservation",
+      "width": 1448,
+      "height": 1086,
+      "alt": "A restored historic civic building and shaded arcade",
+      "focalX": 39,
+      "focalY": 48
+    },
+    "sortOrder": 3,
+    "homepageOrder": 4,
+    "featured": true,
+    "showOnHomepage": true,
+    "seo": {
+      "title": "Sacred Heritage | Virsapur Archives",
+      "description": "Explore Virsapur stories about sacred places, traditions and cultural memory in Pakistan."
+    }
+  },
+  {
+    "id": "archive-category-living-traditions",
+    "slug": "living-traditions",
+    "status": "published",
+    "title": "Living Traditions",
+    "shortTitle": "Living Traditions",
+    "summary": "Skills, ceremonies and knowledge carried forward through practice and community.",
+    "description": "Explore living cultural practices through the people, materials and shared knowledge that keep traditions in motion.",
+    "featuredImage": {
+      "src": "assets/temporary/temp-programme-workshops.png",
+      "optimizedStem": "temp-programme-workshops",
+      "width": 1122,
+      "height": 1402,
+      "alt": "Artisan hands painting a traditional geometric floral panel",
+      "focalX": 51,
+      "focalY": 48
+    },
+    "sortOrder": 4,
+    "homepageOrder": 3,
+    "featured": true,
+    "showOnHomepage": true,
+    "seo": {
+      "title": "Living Traditions | Virsapur Archives",
+      "description": "Explore Virsapur stories about living traditions, material practice and cultural knowledge."
+    }
+  },
+  {
+    "id": "archive-category-objects-material-culture",
+    "slug": "objects-and-material-culture",
+    "status": "published",
+    "title": "Objects & Material Culture",
+    "shortTitle": "Objects & Material Culture",
+    "summary": "Objects understood through their making, use, movement and cultural meaning.",
+    "description": "Read object biographies and material histories that connect collections, archaeological evidence and everyday cultural life.",
+    "featuredImage": {
+      "src": "assets/temporary/temp-archive-object.png",
+      "optimizedStem": "temp-archive-object",
+      "width": 1122,
+      "height": 1402,
+      "alt": "A carved archaeological object under museum light",
+      "focalX": 50,
+      "focalY": 48
+    },
+    "sortOrder": 5,
+    "homepageOrder": 5,
+    "featured": false,
+    "showOnHomepage": false,
+    "seo": {
+      "title": "Objects & Material Culture | Virsapur Archives",
+      "description": "Explore Virsapur stories about objects, collections and material culture in Pakistan."
+    }
+  },
+  {
+    "id": "archive-category-cultural-landscapes-historic-places",
+    "slug": "cultural-landscapes-and-historic-places",
+    "status": "published",
+    "title": "Cultural Landscapes & Historic Places",
+    "shortTitle": "Cultural Landscapes",
+    "summary": "Landscapes and historic places formed through settlement, movement, memory and use.",
+    "description": "Explore the relationships between heritage, terrain and community across Pakistan’s cultural landscapes and historic places.",
+    "featuredImage": {
+      "src": "assets/temporary/temp-final-cta-golden-hour.png",
+      "optimizedStem": "temp-final-cta-golden-hour",
+      "width": 1672,
+      "height": 941,
+      "alt": "Historic pavilion in a heritage landscape at golden hour",
+      "focalX": 66,
+      "focalY": 48
+    },
+    "sortOrder": 6,
+    "homepageOrder": 6,
+    "featured": false,
+    "showOnHomepage": false,
+    "seo": {
+      "title": "Cultural Landscapes & Historic Places | Virsapur Archives",
+      "description": "Explore Virsapur stories about cultural landscapes and historic places across Pakistan."
+    }
+  }
+]

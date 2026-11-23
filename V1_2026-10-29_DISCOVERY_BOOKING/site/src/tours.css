@@ -1,0 +1,31 @@
+/* Reuses Virsapur type, palette and fine rules; no independent visual system. */
+.map-app[data-map-variant="full"].atlas-map-tray .atlas-inventory-tools {display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:start;gap:8px 18px;margin-bottom:8px}
+.map-app[data-map-variant="full"].atlas-map-tray .atlas-inventory-tools>label {min-width:0;gap:0}
+.map-app[data-map-variant="full"].atlas-map-tray .atlas-search-label {font-size:10px}
+.atlas-inventory-refine {font:500 11px/1.5 var(--sans);min-width:0;padding-top:15px}
+.atlas-inventory-refine summary {cursor:pointer;min-height:44px;padding:10px 4px;color:var(--ink);text-underline-offset:4px}
+.atlas-inventory-refine[open] {grid-column:1/-1;padding-top:0}
+.atlas-inventory-refine[open] summary {border-bottom:1px solid var(--atlas-edge);margin-bottom:8px}
+.atlas-inventory-refine .atlas-inventory-selects {margin-top:8px}
+.map-app[data-map-variant="full"].atlas-map-tray .atlas-inventory-result {position:static;width:auto;height:auto;clip:auto;clip-path:none;overflow:visible;margin:6px 0 12px;font:400 10px/1.5 var(--sans);color:var(--atlas-muted)}
+.atlas-inventory-refine :is(summary,select):focus-visible {outline:2px solid var(--terracotta);outline-offset:3px}
+.atlas-inventory-selects {display:flex;flex-wrap:wrap;gap:.7rem}.atlas-inventory-selects label {flex:1;min-width:125px;font-size:.72rem}.atlas-inventory-selects select {display:block;width:100%;padding:.5rem;background:white;border:1px solid #cdd2d0;color:#343c39;font:inherit}.atlas-inventory-pages {display:flex;justify-content:space-between;align-items:center;gap:1rem;padding:.6rem 0;font-size:.75rem}.atlas-inventory-pages button {background:transparent;border:1px solid currentColor;padding:.4rem .65rem;color:inherit}.atlas-inventory-pages button:disabled {opacity:.4}
+.tour-opening {padding-block:clamp(2rem,5vw,4.5rem)}
+.tour-opening h1 {max-width:15ch}.tour-opening>p {max-width:60ch}
+.tour-origin {color:var(--terracotta,#a8543d);font-size:.85rem}
+.tour-list-summary{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.7rem;font-size:.82rem}.tour-list-summary a{text-decoration:underline;text-underline-offset:.25em}#itinerary-title{scroll-margin-top:110px}
+.tour-custom-intro,.tour-quote {display:grid;grid-template-columns:1fr 1.25fr;gap:clamp(2rem,5vw,5rem);border-top:1px solid #d9dcda}
+.tour-custom-intro > .button {align-self:center;justify-self:start}
+.visually-hidden {position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.tour-builder {display:grid;grid-template-columns:minmax(0,1.6fr) minmax(280px,1fr);gap:clamp(2rem,5vw,5rem);align-items:start;padding-top:1rem}
+.tour-filters {display:grid;grid-template-columns:1fr 1fr;gap:1rem}.tour-filters label:first-child {grid-column:1/-1}
+.tour-filters label,.tour-quote label {display:grid;gap:.4rem;font-size:.85rem}
+.tour-filters :is(input,select),.tour-quote :is(input,select,textarea) {width:100%;min-width:0;padding:.8rem;border:1px solid #cdd2d0;background:white;color:inherit;border-radius:3px;font:inherit}
+.tour-place-list {list-style:none;margin:0;padding:0}.tour-place-list>li {display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:1.25rem 0;border-bottom:1px solid #d9dcda}
+.tour-place-list h3 {font-size:1.2rem;margin:.3rem 0}.tour-place-list small {font-size:.73rem;color:#606965}
+.tour-place-list button,.tour-itinerary button,.tour-builder .pagination button {border:1px solid #cdd2d0;background:white;padding:.6rem .85rem;color:inherit;cursor:pointer;white-space:nowrap;border-radius:3px}
+.tour-builder button:disabled {opacity:.45;cursor:default}.tour-itinerary {border-top:2px solid #3d4744;padding-top:1.25rem}.tour-itinerary ol {padding-left:1.4rem}.tour-itinerary li {padding:.8rem 0;border-bottom:1px solid #d9dcda}.tour-itinerary li>div {display:flex;gap:.5rem;margin-top:.6rem}.tour-itinerary strong {font-weight:500}
+.tour-quote form {display:grid;gap:1rem;grid-template-columns:1fr 1fr}.tour-quote label:nth-last-of-type(-n+2),.tour-quote button,.tour-quote [role=status] {grid-column:1/-1}.tour-builder .pagination {display:flex;gap:1rem;align-items:center;justify-content:space-between;margin-top:1.25rem}
+.tour-builder :focus-visible,.tour-quote :focus-visible {outline:2px solid #a8543d;outline-offset:3px}
+@media(max-width:850px){.tour-builder,.tour-custom-intro,.tour-quote {grid-template-columns:1fr}.tour-itinerary {position:static}.tour-quote form {grid-template-columns:1fr}.tour-quote label {grid-column:1/-1}}
+@media(max-width:430px){.tour-filters {grid-template-columns:1fr}.tour-place-list h3 {font-size:1.08rem}.tour-place-list>li {gap:.7rem}}

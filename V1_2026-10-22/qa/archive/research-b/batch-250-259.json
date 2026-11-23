@@ -1,0 +1,230 @@
+{
+  "batch": "250-259",
+  "status": "review-only",
+  "createdAt": "2026-10-22",
+  "records": [
+    {
+      "id": "story-kashmiri-literary-memory-beyond-a-single-script",
+      "planIndex": 250,
+      "proseWords": 450,
+      "references": [
+        {
+          "title": "Unicode 17, Chapter 15: Sharada",
+          "url": "https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-15/",
+          "publisher": "Unicode Consortium",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mss Eur E223/8: Hatim’s tales and Grierson’s additional index",
+          "url": "https://searcharchives.bl.uk/catalog/040-002278888",
+          "publisher": "British Library",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Regional category is inherited from plan but subject spans Kashmir beyond AJK. Specialist/community review required. No literary quotations. Unicode-derived account about80words; BL about90."
+    },
+    {
+      "id": "story-gojri-songs-and-a-mobile-pastoral-vocabulary",
+      "planIndex": 251,
+      "proseWords": 475,
+      "references": [
+        {
+          "title": "Writing Gojri: Linguistic and Sociolinguistic Constraints on a Standardized Orthography for the Gujars of South Asia",
+          "url": "https://www.fli-online.org/documents/languages/gojri/losey_thesis.pdf",
+          "publisher": "Wayne E. Losey / University of North Dakota",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Annual Report 2023: Understanding our Indigenous Music",
+          "url": "https://fli-online.org/wp-content/uploads/2024/05/FLI-Annual-Report.pdf",
+          "publisher": "Forum for Language Initiatives",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "No specific song text or invented pastoral lexicon. Losey historical2002fieldwork not current demographic census. About140derivedwordsLosey and45FLI(shared with254totalunder200). Community review needed."
+    },
+    {
+      "id": "story-kalasha-language-documentation-and-community-agency",
+      "planIndex": 252,
+      "proseWords": 469,
+      "references": [
+        {
+          "title": "Kalasha (Pakistan) – Language Snapshot",
+          "url": "https://www.elpublishing.org/sites/default/files/attachments/ldd17_04_0.pdf",
+          "publisher": "Qandeel Hussain and Jeff Mielke / Language Documentation and Description",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Ishpata News community media channel, identified in the language snapshot",
+          "url": "https://www.youtube.com/user/voiceofkalash/videos",
+          "publisher": "Ishpata News",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Second reference identification established from primary research, not independent viewing of all videos. No claims about current channel output. Snapshot-derivedfactsabout150words. No speculative origins/religious essentialism. Community-led review before release."
+    },
+    {
+      "id": "story-making-a-keyboard-for-a-small-language",
+      "planIndex": 253,
+      "proseWords": 471,
+      "references": [
+        {
+          "title": "Rachitrali-Gawri keyboard",
+          "url": "https://keyman.com/en/keyboards/rac_gawri",
+          "publisher": "Keyman / Rehmat Aziz Chitrali",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Unicode 17, Chapter 15: character and rendering distinctions",
+          "url": "https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-15/",
+          "publisher": "Unicode Consortium",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Keyboardfactsabout65words; technical explanation original synthesis. Unicodebudgetshared250+253under200. No installation claims or endorsement of sole community standard."
+    },
+    {
+      "id": "story-what-an-orthography-workshop-actually-decides",
+      "planIndex": 254,
+      "proseWords": 469,
+      "references": [
+        {
+          "title": "Annual Report 2023: Enhancing Bateri Language Writing",
+          "url": "https://fli-online.org/wp-content/uploads/2024/05/FLI-Annual-Report.pdf",
+          "publisher": "Forum for Language Initiatives",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Community-Based Orthography Design",
+          "url": "https://www.sila.org.au/event/orthography-workshop/",
+          "publisher": "SIL Australia",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "FLI2023facts~85words shared251~45=>130; SIL~50. Methodological recommendations original, not claim of attendance/outcomes beyond report."
+    },
+    {
+      "id": "story-transliteration-is-not-translation",
+      "planIndex": 255,
+      "proseWords": 460,
+      "references": [
+        {
+          "title": "ALA-LC Romanization Tables",
+          "url": "https://www.loc.gov/catdir/cpso/roman",
+          "publisher": "Library of Congress",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Khamsah of Amir Khusraw Dihlavi, Walters W.624",
+          "url": "https://www.loc.gov/item/2021667230/",
+          "publisher": "Library of Congress / Walters Art Museum",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "No invented transliteration examples or claims of reading Persian original. LOCromanabout55,manuscriptabout65; remaining original explanation. Specialist review for any future originalscript additions."
+    },
+    {
+      "id": "story-why-a-place-can-have-several-spellings",
+      "planIndex": 256,
+      "proseWords": 484,
+      "references": [
+        {
+          "title": "Romanization systems",
+          "url": "https://www.gov.uk/government/publications/romanization-systems",
+          "publisher": "Permanent Committee on Geographical Names",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Report on the current status of United Nations romanization systems: Urdu",
+          "url": "https://arhiiv.eki.ee/wgrs/rom1_ur.htm",
+          "publisher": "UNGEGN Working Group on Romanization Systems / Institute of the Estonian Language",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Archaeological Ruins at Moenjodaro",
+          "url": "https://whc.unesco.org/en/list/138/",
+          "publisher": "UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "UNESCOusedtitleonly~10words. UNreporthistoricalnotcurrentmandatoryPakpolicy. No invented aliases/etymology. PCGN~35UN~65."
+    },
+    {
+      "id": "story-reading-a-bilingual-inscription",
+      "planIndex": 257,
+      "proseWords": 465,
+      "references": [
+        {
+          "title": "Shahbazgarhi Rock Edicts, Tentative List entry",
+          "url": "https://whc.unesco.org/en/tentativelists/1880/",
+          "publisher": "UNESCO World Heritage Centre / Pakistan submission",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Coin of Menander I, IOC.104",
+          "url": "https://www.britishmuseum.org/collection/object/C_IOC-104",
+          "publisher": "British Museum",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Plan257titleandSEOkeywordrefinedwithrootpermission; stableIDslug retained. Mansehra/Shahbazgarhi links are comparison not bilingual examples. UNESCO1880previous150~80+here45<=200. BM~100. CoinfoundBegramAfghanistan NOTPakistaniheritage-location claim. Museumreadthroughindexedcatalogue403direct."
+    },
+    {
+      "id": "story-heer-as-a-changing-literary-work",
+      "planIndex": 258,
+      "proseWords": 464,
+      "references": [
+        {
+          "title": "Writing Resistance in the Three Punjabs: Critical Engagements with Literary Tradition",
+          "url": "https://www.repository.cam.ac.uk/items/68ca6c38-c0c1-401b-a206-3599eeda62cd",
+          "publisher": "Sara Kazmi / University of Cambridge",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Feminization of Love and the Indwelling of God: Theological Investigations Across Indic Contexts",
+          "url": "https://api.repository.cam.ac.uk/server/api/core/bitstreams/1bdf8ce7-0d66-4e4c-9941-48f323b20c1c/content",
+          "publisher": "Ankur Barua and Hina Khalid / Religions",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Kazmithesisabstractandtopicsearchconsulted; no claim of full manuscriptcollation. about90derivedwordsKazmi80BaruaKhalid. No poetryquoted. Specificedition/textreview stillrequired."
+    },
+    {
+      "id": "story-sassui-and-the-landscapes-of-a-story",
+      "planIndex": 259,
+      "proseWords": 460,
+      "references": [
+        {
+          "title": "“Sassui” the True Seeker of God",
+          "url": "https://sujo.usindh.edu.pk/index.php/IRJAH/article/view/1037",
+          "publisher": "Abdul Ghani Shaikh, Zain-ul-Abdin Sodhar and Hashaam Faek Mo’Shashaa / University of Sindh",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Representation of Women as a Symbol of Courage in Shah Abdul Latif Bhittai’s Sur Sassue",
+          "url": "https://bjmr.bnbwu.edu.pk/index.php/bjmr/article/view/30",
+          "publisher": "Rab Nawaz Mangi and Abdul Sattar Memon / BNBWU Journal of Multidisciplinary Research",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "notes": "Interpretationsattributednotuniversalbelief. ~85derivedwordseachpaper; narrativegeographyexplicitlynotarchaeologicalproof. ReviewSindh-onlymetadata becauseKechcrossregionstory. Noquotes."
+    }
+  ],
+  "planCorrections": [
+    {
+      "index": 250,
+      "note": "Kashmiri subject is broader than inherited AJK geography; review facet rather than imply exclusive location."
+    },
+    {
+      "index": 257,
+      "oldTitle": "Reading a bilingual inscription",
+      "title": "Language, script and the evidence for a bilingual inscription",
+      "primaryKeyword": "language script bilingual inscriptions",
+      "note": "Root authorized same-topic title refinement. Stable ID/slug retained. Ashokan places are contrast cases, not asserted bilingual examples."
+    },
+    {
+      "index": 259,
+      "note": "Narrative association extends Sindh to Kech-Makran; inherited Sindh facet is not exclusive geography."
+    }
+  ]
+}

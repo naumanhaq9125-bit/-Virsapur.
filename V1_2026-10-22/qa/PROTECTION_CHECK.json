@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-10-22T18:25:28.076Z",
+  "protectedChanges": [],
+  "retainedHeritageIdsSlugsComponents": true,
+  "changed": [
+    "src/cms/providers/supabase.mjs",
+    "src/cms/validation.mjs",
+    "src/heritage-pages.mjs",
+    "src/heritage-relations.mjs",
+    "src/site-builder.mjs",
+    "studio/index.html",
+    "studio/relationship-editor.js",
+    "studio/server.mjs",
+    "studio/studio.css",
+    "studio/studio.js",
+    "api/content.js",
+    "api/export.js",
+    "api/preview.js",
+    "content/data/heritage-places.json",
+    "content/data/media.json",
+    "content/data/programmes.json",
+    "content/data/site.json",
+    "content/data/stories.json",
+    "components/heritage-map.js",
+    "app.js",
+    "package.json",
+    ".env.example",
+    "vercel.json"
+  ],
+  "passed": true
+}

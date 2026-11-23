@@ -1,0 +1,31 @@
+[
+  {
+    "id": "DEMO-5E42B467",
+    "requestId": "e75ff20e-d949-46e9-bd75-77435c862047",
+    "fingerprint": "{\"eventId\":\"sample-lahore-november-walk\",\"quantity\":2,\"names\":[\"Demo Visitor One\",\"Demo Visitor Two\"],\"customer\":\"Demo Visitor\",\"email\":\"visitor@example.com\",\"outcome\":\"success\"}",
+    "demo": true,
+    "eventId": "sample-lahore-november-walk",
+    "title": "Lahore: Gates, Mosques & City",
+    "start": "2026-11-15T09:00:00+05:00",
+    "location": "Delhi Gate, Lahore",
+    "duration": "1 day",
+    "quantity": 2,
+    "amount": 4500,
+    "total": 9000,
+    "currency": "PKR",
+    "customer": "Demo Visitor",
+    "email": "visitor@example.com",
+    "status": "success",
+    "createdAt": "2026-10-29T15:49:43.902Z",
+    "tickets": [
+      {
+        "id": "DEMO-5E42B467-01",
+        "name": "Demo Visitor One"
+      },
+      {
+        "id": "DEMO-5E42B467-02",
+        "name": "Demo Visitor Two"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "checkedAt": "2026-10-22T18:14:34.471Z",
+  "placeCount": 606,
+  "componentCount": 627,
+  "featuredPinPlaces": 221,
+  "listedOnly": 385,
+  "regionCounts": {
+    "sindh": 118,
+    "khyber-pakhtunkhwa": 122,
+    "punjab": 175,
+    "gilgit-baltistan": 83,
+    "balochistan": 40,
+    "azad-kashmir": 47,
+    "islamabad": 24
+  },
+  "districtsWithAcceptedPlaces": 131,
+  "districtResearchRecords": 181,
+  "sourceCoverage": 606,
+  "newCoordinateProvenance": 385,
+  "nearPairs": [
+    {
+      "a": "major-doam-9778",
+      "titleA": "Shahi Hammam, Lahore",
+      "b": "major-doam-6449",
+      "titleB": "Delhi Gate, Lahore",
+      "metres": 38,
+      "sourceA": "https://doam.gov.pk/public/sites/9778",
+      "sourceB": "https://doam.gov.pk/public/sites/6449",
+      "review": "Retain as distinct neighbouring monuments; do not merge or move coordinates.",
+      "reviewSources": [
+        "https://doam.gov.pk/public/sites/9778",
+        "https://doam.gov.pk/public/sites/6449",
+        "https://walledcitylahore.gop.pk/gates/",
+        "https://the.akdn/en/where-we-work/south-asia/pakistan/walled-city-of-lahore-conservation-pakistan"
+      ],
+      "reviewedAt": "2026-10-22"
+    }
+  ],
+  "errors": [],
+  "passed": true
+}

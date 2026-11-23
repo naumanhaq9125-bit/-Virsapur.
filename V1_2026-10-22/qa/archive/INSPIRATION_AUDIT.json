@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-22",
+  "existingVirsapurIdeas": "Preserved all 12 existing article identities and slugs. No standalone reel scripts were found in repository search; empty current story bodies were not treated as factual evidence.",
+  "attempts": [
+    {
+      "query": "Virsapur Instagram heritage reels; site:instagram.com Virsapur; site:instagram.com Virsapur Katas",
+      "outcome": "No usable indexed post-level evidence found."
+    },
+    {
+      "url": "https://www.instagram.com/virsapur/",
+      "outcome": "Direct retrieval failed. Handle ownership and post contents not established."
+    },
+    {
+      "url": "https://www.instagram.com/akdn/",
+      "outcome": "Direct retrieval failed; no post used."
+    },
+    {
+      "url": "https://www.instagram.com/walledcityoflahoreauthority/",
+      "outcome": "Retrieval cache miss; no post used."
+    }
+  ],
+  "conclusion": "No Instagram caption or image was copied. No concept is represented as verified Instagram-derived research. Institutional essays, catalogues and existing Virsapur topics supply the accountable planning baseline."
+}

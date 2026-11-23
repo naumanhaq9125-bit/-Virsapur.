@@ -1,0 +1,275 @@
+{
+  "date": "2026-10-22",
+  "count": 10,
+  "completedSubstantiveDrafts": 10,
+  "records": [
+    {
+      "articleId": "story-khewra-mines",
+      "planIndex": 10,
+      "wordCount": 472,
+      "sourceNotes": "PMDCroomandpillar,seams,colours,operatingmine;JhelumlocationandtoldAlexanderstorylabelledstorynotfact;PUNJMINregionalcontextindexedread. PMDCclaimsaboutage/ranknotadopted. No inventedlabourhistorynames or currenttouravailability.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Khewra Salt Mines",
+          "url": "https://jhelum.punjab.gov.pk/khewra_salt_mine",
+          "publisher": "Government of Punjab, Jhelum district",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mines: Khewra Salt Mines",
+          "url": "https://www.pmdc.gov.pk/mines/",
+          "publisher": "Pakistan Mineral Development Corporation",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Rock Salt",
+          "url": "https://punjmin.punjab.gov.pk/rock-salt",
+          "publisher": "Punjab Mineral Development Corporation",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-great-bath",
+      "planIndex": 11,
+      "wordCount": 461,
+      "sourceNotes": "HarappaC account derived~180words;NCERTindexedpage69supportsoutletcorbelleddrainbitumen,samefactnotduplicatednewsourcebudget;Jansenbroadsystembriefunder50wordsadditional. Avoidabsoluteoldest, certainreligion, certainwaterinlet.",
+      "exception": null,
+      "references": [
+        {
+          "title": "The Great Bath of Mohenjo-daro C",
+          "url": "https://www.harappa.com/content/great-bath-mohenjo-daro-c",
+          "publisher": "Harappa archaeological documentation",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "The Great Bath and Indus public buildings",
+          "url": "https://chromeias.com/wp-content/uploads/2020/03/NCERT-Ancient-India-Makkham-Lal.pdf",
+          "publisher": "NCERT, Ancient India by Makkhan Lal, hosted reproduction",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Water Supply and Sewage Disposal at Mohenjo-Daro",
+          "url": "https://www.jstor.org/stable/124907",
+          "publisher": "Michael Jansen / World Archaeology",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-moenjodaro-beyond-the-postcard-view",
+      "planIndex": 12,
+      "wordCount": 452,
+      "sourceNotes": "UNESCOspatialscope,excavatedfraction,buddhiststupalater,saltthreat~130words; earlierarchitectureused~60=>200sourcebudget. Slideshowrangesandcaptionnamesprimaryphotodoc. Originalinterpretationofscaledviewnotassertnewhistoricalfacts.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Archaeological Ruins at Moenjodaro",
+          "url": "https://whc.unesco.org/en/list/138/",
+          "publisher": "UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mohenjo-daro archaeological slideshow",
+          "url": "https://www.harappa.com/slideshows/mohenjo-daro",
+          "publisher": "Jonathan Mark Kenoyer / Harappa",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Lower Town in the mist",
+          "url": "https://www.harappa.com/indus6/mohenjodaromist1.html",
+          "publisher": "Harappa archaeological field photography",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-taxila-is-eighteen-places-not-one-stop",
+      "planIndex": 13,
+      "wordCount": 439,
+      "sourceNotes": "UNESCOserialproperty,cavefoursettlementsreligioussites~175words. MuseumSirkapandMohraM sourcesclose-readrequiredbeforecompile.18component count retainedcanonicalUNESCObaseline; noinventgeography/serialsplit.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Taxila: Outstanding Universal Value and component list",
+          "url": "https://whc.unesco.org/en/list/139/",
+          "publisher": "UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Sirkap",
+          "url": "https://taxilamuseum.punjab.gov.pk/node/79",
+          "publisher": "Taxila Museum, Government of Punjab",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Mohra Moradu",
+          "url": "https://taxilamuseum.punjab.gov.pk/node/76",
+          "publisher": "Taxila Museum, Government of Punjab",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-takht-i-bahi-and-the-city-below",
+      "planIndex": 14,
+      "wordCount": 441,
+      "sourceNotes": "UNESCOtwocomponentsdistanceperiodassemblagemasonry~190words. DOAMroomfunctionterminology~70words;typo1978earlyexcavationdateexcluded. Managementplanreferenceusedforconservationplanningnotunreadspecificclaims. Bodydoesnotassertdonor/tradeconnectionbetweenexactsitesasproven.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+          "url": "https://whc.unesco.org/en/list/140/",
+          "publisher": "UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Takht-i-Bahi",
+          "url": "https://doam.gov.pk/public/heritage-sites/392",
+          "publisher": "Department of Archaeology & Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Physical Cultural Resources Management Plan: Takht-i-Bhai and Jamal Garhi",
+          "url": "https://old.kptourism.com/uploads/images/kite/1692866715873-final-pcrmp-for-illumination-of--of-takht-bhai-and-jamal-garhi--21-august-23.pdf",
+          "publisher": "Khyber Pakhtunkhwa tourism and archaeology project documentation",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-lahore-fort-and-shalamar-one-inscription-two-settings",
+      "planIndex": 15,
+      "wordCount": 479,
+      "sourceNotes": "UNESCOtwocomplexes7kmthree terraces1641–42 materials~180words;AKDN2019wallmaterialsconservation~120words;comparisoninterpretiveclearly. UNESCO erroneous13th–15thearlyMughalsomitted. No claims currentfountainsoperational.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Fort and Shalamar Gardens in Lahore",
+          "url": "https://whc.unesco.org/en/list/171/",
+          "publisher": "UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Picture Wall conservation inauguration, 2019",
+          "url": "https://the.akdn/en/resources-media/whats-new/news-release/prime-minister-imran-khan-inaugurates-400-year-old-historic-%E2%80%9Cpicture-wall%E2%80%9D-lahore-fort",
+          "publisher": "Aga Khan Development Network",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Monuments: Shalimar Gardens",
+          "url": "https://walledcitylahore.gop.pk/monuments/",
+          "publisher": "Punjab Walled Cities & Heritage Areas Authority",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-makli-as-a-landscape-of-generations",
+      "planIndex": 16,
+      "wordCount": 458,
+      "sourceNotes": "UNESCOchronologydynasticvarietybuilttypes~185words;SindhJamNizamspecificcarvedbandsandmihrab~160words. No unverifiedgravecount orreductiondecorativemotiftoethnicmakeridentity. LaterMaklilandscapetopicneedsnewsourcebudget.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Historical Monuments at Makli, Thatta",
+          "url": "https://whc.unesco.org/en/list/143/",
+          "publisher": "UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Jam Nizamuddin’s Tomb, Makli–Thatta",
+          "url": "https://antiquities.sindhculture.gov.pk/tour/jam-nizamuddins-tomb-makli-thatta/",
+          "publisher": "Directorate General of Antiquities, Government of Sindh",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-rohtas-fort-through-its-gateways",
+      "planIndex": 17,
+      "wordCount": 455,
+      "sourceNotes": "UNESCO16thcentury1541contourwallsbaolisinnercitadel~180words;Jhelum12gatesnamesmosqueand2005Talaqidamage~140words. Gatefunctiondiscussionarchitecturalinterpretation no claimparticularkillzone. No currentcondition inferredoldreport.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Rohtas Fort",
+          "url": "https://whc.unesco.org/en/list/586/",
+          "publisher": "UNESCO World Heritage Centre",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Rohtas Fort: gates and documented condition",
+          "url": "https://jhelum.punjab.gov.pk/rohtas_fort_pp",
+          "publisher": "Government of Punjab, Jhelum district",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-baltit-fort-a-building-changed-by-its-inhabitants",
+      "planIndex": 18,
+      "wordCount": 480,
+      "sourceNotes": "MITconstructionphasesmethodrepairsequence1996opening <190words;DOAMpalatialalterationsmuseumandvillage~130words;UNtentativestatuslandscaperooms~100words. AvoidDOAM950stypo andMITincorrectIndusthroughHunza. No currenthours.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Baltit Fort",
+          "url": "https://whc.unesco.org/en/tentativelists/1882/",
+          "publisher": "UNESCO World Heritage Centre / Pakistan Tentative List submission",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Baltit Fort: restoration and adaptive reuse",
+          "url": "https://web.mit.edu/akpia/www/AKPsite/4.239/baltit/baltit.html",
+          "publisher": "MIT Aga Khan Program for Islamic Architecture, Li Lian Tan case study",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Baltit Fort",
+          "url": "https://doam.gov.pk/public/heritage-sites/748",
+          "publisher": "Department of Archaeology & Museums, Pakistan",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    },
+    {
+      "articleId": "story-mehrgarh-before-the-indus-cities",
+      "planIndex": 19,
+      "wordCount": 459,
+      "sourceNotes": "2025PDFabstractmethods/resultsreadfullavailabletext;~180wordderivation(max200). UNESCOlandscapetellcompartmentwalls~135words. 1974sourceabstract supports excavationmission only. Do notconflatecemeterystart withfirsthumanpresenceorallSouthAsia.",
+      "exception": null,
+      "references": [
+        {
+          "title": "Archaeological Site of Mehrgarh",
+          "url": "https://whc.unesco.org/en/tentativelists/1876/",
+          "publisher": "UNESCO World Heritage Centre / Pakistan Tentative List submission",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "New radiocarbon dates of human tooth enamel reveal a late appearance of farming life in the Indus Valley",
+          "url": "https://www.nature.com/articles/s41598-025-92621-5.pdf",
+          "publisher": "Benjamin Mutin and colleagues / Scientific Reports, 2025",
+          "accessDate": "2026-10-22"
+        },
+        {
+          "title": "Nouvelles recherches archéologiques au Baluchistan: les fouilles de Mehrgarh",
+          "url": "https://www.persee.fr/doc/paleo_0153-9345_1974_num_2_2_1075",
+          "publisher": "Jean-François Jarrige / Paléorient, 1974",
+          "accessDate": "2026-10-22"
+        }
+      ],
+      "reviewStatus": "Original review draft, not public-release approval; source limitations explicitly retained."
+    }
+  ]
+}

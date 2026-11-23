@@ -1,0 +1,22 @@
+{
+  "country": {"recordId":"unesco-138","caption":"Moenjodaro · Sindh","position":"50% 50%"},
+  "regions": {
+    "punjab":{"recordId":"major-doam-6467","caption":"Badshahi Mosque · Lahore","position":"50% 45%"},
+    "sindh":{"recordId":"major-doam-5206","caption":"Kot Diji Fort · Khairpur","position":"50% 45%"},
+    "khyber-pakhtunkhwa":{"recordId":"unesco-140","caption":"Takht-i-Bahi · Mardan","position":"50% 50%"},
+    "balochistan":{"recordId":"curated-mehrgarh","caption":"Mehrgarh · Kachhi","position":"50% 60%"},
+    "gilgit-baltistan":{"recordId":"curated-baltit","caption":"Baltit Fort · Hunza","position":"50% 35%"},
+    "azad-kashmir":{"recordId":"major-doam-6663","caption":"Red Fort · Muzaffarabad","position":"50% 50%"},
+    "islamabad":{"recordId":"major-doam-6232","caption":"Rawat Fort · Islamabad","position":"50% 45%"}
+  },
+  "districts": {
+    "punjab-lahore":{"recordId":"major-doam-6467","caption":"Badshahi Mosque · Lahore","position":"50% 45%"},
+    "punjab-rawalpindi":{"recordId":"unesco-139","caption":"Bhir Mound · Taxila","position":"50% 55%"},
+    "khyber-pakhtunkhwa-haripur":{"recordId":"major-doam-823","caption":"Bhamala · Haripur","position":"50% 50%"},
+    "sindh-larkana":{"recordId":"unesco-138","caption":"Moenjodaro · Larkana","position":"50% 50%"},
+    "gilgit-baltistan-hunza":{"recordId":"curated-baltit","caption":"Baltit Fort · Hunza","position":"50% 35%"},
+    "balochistan-kachhi":{"recordId":"curated-mehrgarh","caption":"Mehrgarh · Kachhi","position":"50% 60%"},
+    "azad-kashmir-muzaffarabad":{"recordId":"major-doam-6663","caption":"Red Fort · Muzaffarabad","position":"50% 50%"},
+    "islamabad-islamabad":{"recordId":"major-doam-6232","caption":"Rawat Fort · Islamabad","position":"50% 45%"}
+  }
+}

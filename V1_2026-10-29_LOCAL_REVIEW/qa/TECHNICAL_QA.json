@@ -1,0 +1,53 @@
+{
+  "checkedAt": "2026-10-29T14:19:18.354Z",
+  "output": "C:\\Users\\user123\\Documents\\Codex\\2026-08-25\\can\\work\\virsapur-full-site\\dist-local-production-review-2026-10-29t14-18-52-630z",
+  "mode": "local-review",
+  "routeCount": 1063,
+  "htmlPages": 1064,
+  "indexable": 0,
+  "sitemapUrls": 0,
+  "imageCount": 2982,
+  "schemaCount": 1059,
+  "linkCount": 35039,
+  "orphans": [],
+  "pageSize": {
+    "max": 679486,
+    "largest": [
+      {
+        "path": "search/index.html",
+        "bytes": 679486
+      },
+      {
+        "path": "archives/all/index.html",
+        "bytes": 436145
+      },
+      {
+        "path": "tours/custom/index.html",
+        "bytes": 251867
+      },
+      {
+        "path": "archives/category/architecture-and-built-heritage/index.html",
+        "bytes": 127215
+      },
+      {
+        "path": "archives/category/cultural-landscapes-and-historic-places/index.html",
+        "bytes": 98438
+      },
+      {
+        "path": "archives/category/archaeology-and-ancient-civilisations/index.html",
+        "bytes": 98301
+      },
+      {
+        "path": "archives/category/sacred-heritage/index.html",
+        "bytes": 89902
+      },
+      {
+        "path": "archives/category/living-traditions/index.html",
+        "bytes": 87729
+      }
+    ]
+  },
+  "errors": [],
+  "warnings": [],
+  "passed": true
+}
