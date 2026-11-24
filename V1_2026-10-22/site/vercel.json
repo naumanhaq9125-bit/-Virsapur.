@@ -7,7 +7,7 @@
   "functions": {
     "api/**/*.js": { "maxDuration": 30 },
     "api/media.js": { "maxDuration": 60 },
-    "api/content.js": { "maxDuration": 60, "includeFiles": ["assets/maps/runtime/districts/*.geojson", "assets/maps/pakistan-admin-1.js", "data/districts.js"] }
+    "api/content.js": { "maxDuration": 60, "includeFiles": "{assets/maps/runtime/districts/*.geojson,assets/maps/pakistan-admin-1.js,data/districts.js}" }
   },
   "headers": [
     {
