@@ -1,2 +1,0 @@
-import { clearSessionCookies, handleError, productionCmsUnavailable, requireMutationProtection, responseWithCookies } from "./_lib/http.js";
-export default { async fetch(request) { const unavailable = productionCmsUnavailable(); if (unavailable) return unavailable; try { requireMutationProtection(request); return responseWithCookies({ ok: true }, 200, clearSessionCookies()); } catch (error) { return handleError(error); } } };

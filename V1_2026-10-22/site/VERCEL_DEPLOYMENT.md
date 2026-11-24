@@ -2,7 +2,7 @@
 
 ## What this deployment contains
 
-The configured Vercel build publishes the static public site from `dist-production` and deploys the root `api/` handlers as Vercel Functions. The Node 24 handlers now support hosted signup/login/profile, wishlist and visited places, saved trips, saved articles, member custom-trip requests, admin quote/booking review, official trip seat reservations, and Stripe Checkout/webhook confirmation. These functions use Supabase Auth and service-role database calls; no member state is kept in browser storage.
+The configured Vercel build publishes the static public site from `dist-production`. All 33 `/api/...` route paths dispatch through one catch-all Vercel Function, keeping the project below the Hobby plan's 12-function limit while preserving the API URLs. The Node 24 handlers support hosted signup/login/profile, wishlist and visited places, saved trips, saved articles, member custom-trip requests, admin quote/booking review, official trip seat reservations, and Stripe Checkout/webhook confirmation. These functions use Supabase Auth and service-role database calls; no member state is kept in browser storage.
 
 Hosted flows remain deliberately disabled until the required migrations, content migration, secrets, Supabase Auth settings, and test steps below are complete. Enabling flags alone is not sufficient, and local SQLite data does not move to Vercel automatically.
 

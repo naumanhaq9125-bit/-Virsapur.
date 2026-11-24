@@ -60,6 +60,7 @@ missingHeaders.length ? fail("Production security headers", missingHeaders.join(
 
 const apiDir = join(root, "api");
 const apiFiles = (await filesUnder(apiDir)).map(path=>relative(apiDir,path).replaceAll('\\','/')).filter(name => name.endsWith(".js") && !name.split('/').includes('_lib'));
+apiFiles.length <= 12 ? pass("Hobby serverless function limit", `${apiFiles.length} API function file(s) are configured; Hobby permits up to 12.`) : fail("Hobby serverless function limit", `${apiFiles.length} API function files exceed the Hobby limit of 12.`);
 const previousFlag = process.env.PRODUCTION_CMS_ENABLED;
 process.env.PRODUCTION_CMS_ENABLED = "false";
 for (const name of apiFiles) {
@@ -75,15 +76,17 @@ if(hostedCms){
     const location=response.headers.get('location')||'';
     if(response.status===302&&new URL(location).pathname==='/admin/login/')pass('Admin routes require authentication');else fail('Admin routes require authentication',`Unexpected unauthenticated response ${response.status}.`);
   } catch(error) { fail('Admin routes require authentication',error.message); }
-  for(const name of ['admin/trip-bookings.js','admin/trip-bookings/[id].js','admin-custom-tour-quotes.js']){
-    try{const handler=(await import(`../api/${name}?qa=${Date.now()}-${encodeURIComponent(name)}`)).default;const response=await handler.fetch(new Request(`https://virsapur.example/api/${name.replace(/\.js$/,'')}`,{method:'GET'}));if(response.status===401||response.status===403)pass(`Unauthenticated admin API denied ${name}`);else fail(`Unauthenticated admin API denied ${name}`,`Expected 401/403, received ${response.status}.`);}catch(error){fail(`Unauthenticated admin API denied ${name}`,error.message);}
+  const handler=(await import(`../api/[...path].js?qa=${Date.now()}`)).default;
+  for(const route of ['/api/admin/trip-bookings','/api/admin/trip-bookings/qa-booking','/api/admin-custom-tour-quotes']){
+    try{const response=await handler.fetch(new Request(`https://virsapur.example${route}`,{method:'GET'}));if(response.status===401||response.status===403)pass(`Unauthenticated admin API denied ${route}`);else fail(`Unauthenticated admin API denied ${route}`,`Expected 401/403, received ${response.status}.`);}catch(error){fail(`Unauthenticated admin API denied ${route}`,error.message);}
   }
 }
 
 const sql = `${await readFile(join(root,"backend","supabase","migrations","001_production_cms.sql"),"utf8")}\n${await readFile(join(root,"backend","supabase","migrations","002_security_hardening.sql"),"utf8")}`;
 if (/grant\s+select[^;]+to\s+anon/i.test(sql) || /for\s+select\s+to\s+anon/i.test(sql)) fail("Anonymous database denial", "An anonymous SELECT grant or policy remains."); else pass("Anonymous database denial", "Migrations grant no CMS table access to anon/authenticated roles.");
 if (!/virsapur-private','virsapur-private',false/i.test(sql) || !/update storage\.buckets set public=false where id='virsapur-media'/i.test(sql)) fail("Private media policy", "Private bucket hardening is incomplete."); else pass("Private media policy");
-const publishSource = `${await readFile(join(apiDir,"publish.js"),"utf8")}\n${await readFile(join(apiDir,"publish-finalize.js"),"utf8")}`;
+const handlerRoot=join(root,"backend","vercel-handlers");
+const publishSource = `${await readFile(join(handlerRoot,"publish.js"),"utf8")}\n${await readFile(join(handlerRoot,"publish-finalize.js"),"utf8")}`;
 if (!/requireAdmin\(request, \["owner"\]\)/.test(publishSource) || !/deployment_id/.test(publishSource) || /latestPublishJob/.test(publishSource)) fail("Owner-only exact publishing", "Owner check or exact deployment correlation is missing."); else pass("Owner-only exact publishing");
 
 let anonymousLive = candidateCheck ? "NOT RUN — local candidate QA explicitly prohibits hosted requests, even if test credentials are present." : "NOT RUN — SECURITY_TEST_SUPABASE_URL and SECURITY_TEST_SUPABASE_ANON_KEY were not supplied.";
