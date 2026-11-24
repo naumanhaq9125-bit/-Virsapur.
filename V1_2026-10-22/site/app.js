@@ -444,6 +444,7 @@
       submitBtn.classList.add('is-loading');submitBtn.disabled=true;
       try{
         const result=await authRequest('/api/auth/signup',{fullName:nameVal,email:emailVal,password:passVal});
+        if(result.requiresEmailConfirmation){showStatus(statusEl,`Check your email to confirm your Virsapur account, then sign in to continue.`,'success');return;}
         showStatus(statusEl,`Welcome to Virsapur, ${result.user.fullName.split(' ')[0]}! Your account has been created.`,'success');
         setTimeout(()=>{window.location.href=signupForm.dataset.redirect||'../profile/index.html';},900);
       }catch(error){showStatus(statusEl,error.message,'error');if(error.status===409){setFieldError(emailField,error.message);$('signup-email')?.focus();}}

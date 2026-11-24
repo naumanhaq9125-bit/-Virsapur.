@@ -1,26 +1,25 @@
 # Virsapur secure backend setup
 
-> Dormant future-hosting reference. Do not follow this setup for the current localhost-only workflow. Supabase and Vercel are not required or used by Studio, Preview, or Local Production.
+> Hosted setup for Vercel. The default local Studio workflow remains separate and continues using SQLite.
 
-The public website works without a backend. Production CMS code is present but inert until the strict flag is true.
+The public website can deploy as a static build. Hosted member data, admin editing, booking requests and Stripe checkout use Supabase/Vercel endpoints and remain unavailable until the full setup is completed.
 
 ## Required order
 
-1. Create a private Supabase project and disable public account registration.
-2. Apply `backend/supabase/migrations/001_production_cms.sql` and then `002_security_hardening.sql`.
-3. Create Auth users manually. Add `owner` or `editor` rows to `admin_profiles`; begin with one owner.
-4. Confirm through SQL/grant inspection that browser roles have no CMS or Storage write access and no CMS reads.
-5. Add environment values from `.env.example` to Vercel while keeping `PRODUCTION_CMS_ENABLED=false` and `CMS_DATA_MODE=local`.
-6. Disable automatic production-domain assignment and enable protection on candidate deployments.
-7. Run the import dry check, then the one-time server-authorized import described in the activation checklist.
-8. Run hosted anonymous-denial and private-media tests.
-9. Only then activate and promote the exact tested staged build.
+1. Create a Supabase project and configure password authentication plus email confirmation behavior. Member signup is public; admin access is restricted by the `admin_profiles` role table.
+2. Apply migrations `001_production_cms.sql` through `006_hosted_member_data.sql` in numeric order.
+3. Create the initial Admin Auth user through Supabase, then add its `owner` row to `admin_profiles` using the verified user UUID.
+4. Confirm through SQL/grant inspection that browser roles have no CMS, member, booking or Storage read/write access.
+5. Import and verify approved content. Member wishlist, saved-trip, saved-article, quote and booking rows are created online after activation; existing local SQLite member data must be exported and migrated separately if it should carry over.
+6. Set the Vercel environment values, first with hosted mutation flags disabled. Protect Preview deployments and verify the domain/canonical URL.
+7. Test the member and Admin flows in a Preview deployment with test accounts, then enable quote and booking flags.
+8. Set up Stripe's deployed webhook and test checkout, expiry, retry and admin decisions using Stripe test mode before enabling live payments.
 
 ## Secrets and environment values
 
 `SUPABASE_SECRET_KEY` and `VERCEL_API_TOKEN` are server-only. The publishable key is used by server authentication calls; it is not used by public website JavaScript. Do not use a Deploy Hook—the publishing path creates and follows an exact versioned deployment.
 
-Required for activation: `PRODUCTION_CMS_ENABLED=true`, `CMS_DATA_MODE=production`, `STUDIO_DATA_MODE=production`, `SITE_ORIGIN`, `PAYMENT_MODE=disabled`, Supabase URL/publishable/secret keys, both storage bucket names, Vercel token, project ID, project name, repository/provider/ref, and optional team ID.
+Required for hosted accounts/Admin: `PRODUCTION_CMS_ENABLED=true`, `CMS_DATA_MODE=production`, `STUDIO_DATA_MODE=production`, `SITE_ORIGIN`, `SUPABASE_URL`, `SUPABASE_PUBLISHABLE_KEY`, and `SUPABASE_SECRET_KEY`. Staged CMS publishing also needs Vercel token, project ID, project name, repository/provider/ref, and optional team ID. Enable `CUSTOM_TOUR_QUOTES_ENABLED=true` and `TRIP_BOOKINGS_ENABLED=true` only after their migrations and Preview tests. Stripe additionally requires `PAYMENT_MODE=stripe`, `STRIPE_SECRET_KEY`, and `STRIPE_WEBHOOK_SECRET`.
 
 ## Database and storage shape
 

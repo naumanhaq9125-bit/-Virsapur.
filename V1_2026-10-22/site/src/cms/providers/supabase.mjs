@@ -53,6 +53,7 @@ export function createSupabaseProvider(options = {}) {
     mode: "production",
     config,
     request,
+    rpc,
     async loadAll({ publishedOnly = false, publicationVersionId } = {}) {
       const [singletons, records] = publishedOnly ? [
         await restAll("cms_live_snapshots", { select: "content_kind,collection,record_id,data,content_version", content_kind: "eq.singleton", order:"collection.asc,record_id.asc" }),

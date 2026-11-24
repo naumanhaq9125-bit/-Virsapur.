@@ -9,6 +9,7 @@ const output = resolve(root, directoryArgument || "dist-production");
 const outputRelative = relative(root, output);
 if (!outputRelative || outputRelative.startsWith('..') || isAbsolute(outputRelative)) throw Error('Security QA target must be a build inside this project.');
 const candidateCheck = outputRelative === 'dist-production-candidate';
+const hostedCms = process.env.PRODUCTION_CMS_ENABLED === 'true';
 const failures = [];
 const checks = [];
 const pass = (name, detail = "") => checks.push({ name, status: "PASS", detail });
@@ -23,11 +24,12 @@ async function filesUnder(directory) {
 }
 
 const outputFiles = await filesUnder(output);
-if (process.env.PRODUCTION_CMS_ENABLED === "true") fail("CMS false by default", "PRODUCTION_CMS_ENABLED was true during the security QA run."); else pass("CMS false by default");
-try { await stat(join(output, "admin")); fail("Admin omitted", "dist-production/admin exists."); } catch { pass("Admin omitted", "No Admin file or login shell is in the public output."); }
+if (!hostedCms) pass("CMS false by default"); else pass("Hosted CMS explicitly enabled", "Hosted checks also verify middleware and unauthenticated API denial.");
+try { await stat(join(output, "admin")); hostedCms ? pass("Admin included behind middleware") : fail("Admin omitted", "dist-production/admin exists while hosted CMS is disabled."); }
+catch { hostedCms ? fail("Admin included behind middleware", "Hosted CMS is enabled but dist-production/admin is missing.") : pass("Admin omitted", "No Admin file or login shell is in the public output."); }
 
 const forbiddenNames = /(^|\\|\/)(\.env|backups?|studio-data|content|api|admin)(\\|\/|$)|\.(sql|bak|map)$/i;
-const forbiddenOutput = outputFiles.map(path => relative(output, path)).filter(path => forbiddenNames.test(path));
+const forbiddenOutput = outputFiles.map(path => relative(output, path)).filter(path => forbiddenNames.test(path) && !(hostedCms && /^admin[\\/]/i.test(path)));
 forbiddenOutput.length ? fail("Public file allowlist", forbiddenOutput.join(", ")) : pass("Public file allowlist", `${outputFiles.length} files inspected.`);
 
 const textual = outputFiles.filter(path => /\.(html|js|css|json|xml|txt)$/i.test(path));
@@ -57,7 +59,7 @@ const missingHeaders = requiredHeaders.filter(header => !configuredHeaders.has(h
 missingHeaders.length ? fail("Production security headers", missingHeaders.join(", ")) : pass("Production security headers", requiredHeaders.join(", "));
 
 const apiDir = join(root, "api");
-const apiFiles = (await readdir(apiDir)).filter(name => name.endsWith(".js"));
+const apiFiles = (await filesUnder(apiDir)).map(path=>relative(apiDir,path).replaceAll('\\','/')).filter(name => name.endsWith(".js") && !name.split('/').includes('_lib'));
 const previousFlag = process.env.PRODUCTION_CMS_ENABLED;
 process.env.PRODUCTION_CMS_ENABLED = "false";
 for (const name of apiFiles) {
@@ -66,6 +68,17 @@ for (const name of apiFiles) {
   if (response.status !== 404) fail(`Disabled endpoint ${name}`, `Expected 404, received ${response.status}.`); else pass(`Disabled endpoint ${name}`);
 }
 if (previousFlag === undefined) delete process.env.PRODUCTION_CMS_ENABLED; else process.env.PRODUCTION_CMS_ENABLED = previousFlag;
+if(hostedCms){
+  try {
+    const {default:middleware}=await import(`../middleware.js?qa=${Date.now()}`);
+    const response=await middleware(new Request('https://virsapur.example/admin/'));
+    const location=response.headers.get('location')||'';
+    if(response.status===302&&new URL(location).pathname==='/admin/login/')pass('Admin routes require authentication');else fail('Admin routes require authentication',`Unexpected unauthenticated response ${response.status}.`);
+  } catch(error) { fail('Admin routes require authentication',error.message); }
+  for(const name of ['admin/trip-bookings.js','admin/trip-bookings/[id].js','admin-custom-tour-quotes.js']){
+    try{const handler=(await import(`../api/${name}?qa=${Date.now()}-${encodeURIComponent(name)}`)).default;const response=await handler.fetch(new Request(`https://virsapur.example/api/${name.replace(/\.js$/,'')}`,{method:'GET'}));if(response.status===401||response.status===403)pass(`Unauthenticated admin API denied ${name}`);else fail(`Unauthenticated admin API denied ${name}`,`Expected 401/403, received ${response.status}.`);}catch(error){fail(`Unauthenticated admin API denied ${name}`,error.message);}
+  }
+}
 
 const sql = `${await readFile(join(root,"backend","supabase","migrations","001_production_cms.sql"),"utf8")}\n${await readFile(join(root,"backend","supabase","migrations","002_security_hardening.sql"),"utf8")}`;
 if (/grant\s+select[^;]+to\s+anon/i.test(sql) || /for\s+select\s+to\s+anon/i.test(sql)) fail("Anonymous database denial", "An anonymous SELECT grant or policy remains."); else pass("Anonymous database denial", "Migrations grant no CMS table access to anon/authenticated roles.");

@@ -37,7 +37,9 @@ async function supabaseAuth(path, { method = "GET", body, token, secret = false 
   return result;
 }
 export const login = (email, password) => supabaseAuth("/auth/v1/token?grant_type=password", { method: "POST", body: { email, password } });
+export const signUp = (email, password, fullName) => supabaseAuth("/auth/v1/signup", { method: "POST", body: { email, password, data: { full_name: fullName } } });
 export const refresh = refreshToken => supabaseAuth("/auth/v1/token?grant_type=refresh_token", { method: "POST", body: { refresh_token: refreshToken } });
+export const updateMemberAuth = (token, fullName) => supabaseAuth("/auth/v1/user", { method: "PUT", token, body: { data: { full_name: fullName } } });
 export async function requireMember(request) {
   const token = cookies(request)["__Host-virsapur_access"];
   if (!token) throw Object.assign(new Error("Sign in is required."), { status: 401 });

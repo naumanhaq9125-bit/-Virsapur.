@@ -22,6 +22,7 @@ const previewRoot = join(root, "dist-demo");
 const productionRoot = join(root, "dist-production");
 const contentRoot = join(root, "content", "data");
 const runtimeRoot = resolve(process.env.STUDIO_DATA_DIR || join(root, "studio-data"));
+await mkdir(runtimeRoot,{recursive:true});
 const revisionsRoot = join(runtimeRoot, "revisions");
 const ordersFile = join(runtimeRoot, "mock-orders.json");
 const localProductionStatusFile = join(runtimeRoot, "local-production.json");

@@ -1,2 +1,2 @@
-﻿import { createOfficialTripBookingHandlers } from '../backend/official-trip-bookings.mjs';
-export default { fetch: request => createOfficialTripBookingHandlers().handle(request) };
+import { createHostedMemberHandlers } from '../backend/hosted-members.mjs';
+export default { fetch: request => createHostedMemberHandlers().tripBooking(request) };

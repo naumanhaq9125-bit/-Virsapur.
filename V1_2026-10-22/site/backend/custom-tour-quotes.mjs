@@ -9,7 +9,7 @@ export const hostedQuotesEnabled=env=>env.PRODUCTION_CMS_ENABLED==='true'&&env.C
 const failure=(message,status)=>Object.assign(new Error(message),{status});
 const safeError=error=>json({ok:false,error:error.status>=400&&error.status<500?error.message:'The request could not be completed.'},error.status>=400&&error.status<500?error.status:500);
 const integer=(value,fallback,max)=>Math.min(max,Math.max(1,value!==null&&value!==''&&Number.isSafeInteger(Number(value))?Number(value):fallback));
-const quoteRecord=row=>({...row.request_data,id:row.id,createdAt:row.created_at,updatedAt:row.updated_at,origin:row.origin,status:row.status,internalNotes:row.internal_notes,quotedAmount:row.quoted_amount,quoteCurrency:row.quote_currency,environment:'hosted'});
+const quoteRecord=row=>({...row.request_data,id:row.id,createdAt:row.created_at,updatedAt:row.updated_at,origin:row.origin,status:row.status,internalNotes:row.internal_notes,quotedAmount:row.quoted_amount,quoteCurrency:row.quote_currency,requestType:row.request_type||'public_quote',memberUserId:row.member_user_id||null,memberTripId:row.member_trip_id||null,customTrip:row.custom_trip||null,environment:'hosted'});
 
 export async function readQuoteJson(request,maxBytes=32768) {
   if(!/^application\/json(?:\s*;|$)/i.test(request.headers.get('content-type')||''))throw failure('Send application/json.',415);
@@ -66,7 +66,7 @@ export function createHostedQuoteHandlers({env=process.env,fetch=globalThis.fetc
           if(q.length>200)throw failure('Search is too long.',422);
           // PostgREST wildcard characters are removed; the search remains data, never an or/filter expression.
           const search=q.replace(/[\\%_*]/g,'');
-          const query={select:'id,request_data,origin,status,internal_notes,quoted_amount,quote_currency,created_at,updated_at',order:'created_at.desc,id.desc',limit:String(pageSize),offset:String((page-1)*pageSize),...(status?{status:`eq.${status}`}:{}),...(search?{search_text:`ilike.*${search}*`}:{})};
+          const query={select:'id,request_data,origin,status,internal_notes,quoted_amount,quote_currency,created_at,updated_at,request_type,member_user_id,member_trip_id,custom_trip',order:'created_at.desc,id.desc',limit:String(pageSize),offset:String((page-1)*pageSize),...(status?{status:`eq.${status}`}:{}),...(search?{search_text:`ilike.*${search}*`}:{})};
           // Count at offset zero first: PostgREST may reject an out-of-range offset with 416.
           const counted=await cms.request('/rest/v1/custom_tour_quote_requests',{query:{...query,select:'id',offset:'0',limit:'1'},headers:{Prefer:'count=exact'},includeResponseMeta:true});
           const count=counted.contentRange?.split('/')[1];

@@ -12,7 +12,7 @@
     "build:demo": "node build.mjs --mode=demo",
     "qa:production": "node build.mjs --mode=production && node qa.mjs --mode=production",
     "qa:studio": "node build.mjs --mode=demo && node qa.mjs --mode=studio",
-    "test": "node scripts/content-architecture-qa.mjs && node scripts/archive-discovery-qa.mjs && node scripts/tours-qa.mjs && node scripts/itinerary-state-qa.mjs && node studio/local-editor.test.mjs && node scripts/backend-contract-qa.mjs && node scripts/input-validation-qa.mjs && node scripts/media-validation-regression-qa.mjs && node scripts/member-flow-qa.mjs",
+    "test": "node scripts/content-architecture-qa.mjs && node scripts/archive-discovery-qa.mjs && node scripts/tours-qa.mjs && node scripts/itinerary-state-qa.mjs && node studio/local-editor.test.mjs && node scripts/backend-contract-qa.mjs && node scripts/input-validation-qa.mjs && node scripts/media-validation-regression-qa.mjs && node scripts/member-flow-qa.mjs && node scripts/hosted-member-contract-qa.mjs",
     "content:export": "node scripts/export-content.mjs",
     "cms:migrate:dry": "node scripts/migrate-to-production-cms.mjs",
     "cms:migrate": "node scripts/migrate-to-production-cms.mjs --apply",
@@ -25,7 +25,7 @@
     "stripe": "^23.2.0"
   },
   "engines": {
-    "node": ">=24.19.0 <25"
+    "node": "24.x"
   },
   "packageManager": "npm@12.2.1"
 }

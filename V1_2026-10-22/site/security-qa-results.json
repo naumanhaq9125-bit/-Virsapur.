@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:54:13.789Z",
+  "generatedAt": "2026-11-24T13:42:23.917Z",
   "output": "dist-production",
   "offlineOnly": false,
   "passed": true,
@@ -50,7 +50,42 @@
       "detail": ""
     },
     {
+      "name": "Disabled endpoint admin/trip-bookings/[id].js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint admin/trip-bookings.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
       "name": "Disabled endpoint admin-custom-tour-quotes.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint auth/login.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint auth/logout.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint auth/profile.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint auth/session.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint auth/signup.js",
       "status": "PASS",
       "detail": ""
     },
@@ -100,6 +135,31 @@
       "detail": ""
     },
     {
+      "name": "Disabled endpoint member/places.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint member/trip-bookings.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint member/trips/[id]/submit.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint member/trips/[id].js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint member/trips.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
       "name": "Disabled endpoint member-session.js",
       "status": "PASS",
       "detail": ""
@@ -126,6 +186,21 @@
     },
     {
       "name": "Disabled endpoint revisions.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint saved-articles/[articleId].js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint saved-articles.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Disabled endpoint stripe/webhook.js",
       "status": "PASS",
       "detail": ""
     },

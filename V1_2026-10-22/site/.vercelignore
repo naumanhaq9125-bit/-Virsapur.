@@ -1,6 +1,16 @@
 backups/
 qa-screenshots/
+qa-artifacts/
 studio-data/
+local-runtime/
 dist-demo/
+dist-demo-*/
+dist-production-before-*/
+.env
+.env.*
+!.env.example
+.git/
+.vercel/
+node_modules/
 *.log
 *.map

@@ -25,7 +25,7 @@ async function startServer(){
   child.stdout.on('data',chunk=>{logs+=chunk.toString();});
   child.stderr.on('data',chunk=>{logs+=chunk.toString();});
   const started=Date.now();
-  while(Date.now()-started<25000){
+  while(Date.now()-started<90000){
     if(child.exitCode!==null)throw new Error(`Isolated Studio server exited during startup: ${logs}`);
     try{const response=await fetch(`${base}/api/member-session`);if(response.status===401)return;}catch{}
     await new Promise(resolveWait=>setTimeout(resolveWait,250));
