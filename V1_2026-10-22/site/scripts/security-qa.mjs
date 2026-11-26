@@ -78,7 +78,8 @@ if(hostedCms){
   } catch(error) { fail('Admin routes require authentication',error.message); }
   const handler=(await import(`../api/[...path].js?qa=${Date.now()}`)).default;
   for(const route of ['/api/admin/trip-bookings','/api/admin/trip-bookings/qa-booking','/api/admin-custom-tour-quotes']){
-    try{const response=await handler.fetch(new Request(`https://virsapur.example${route}`,{method:'GET'}));if(response.status===401||response.status===403)pass(`Unauthenticated admin API denied ${route}`);else fail(`Unauthenticated admin API denied ${route}`,`Expected 401/403, received ${response.status}.`);}catch(error){fail(`Unauthenticated admin API denied ${route}`,error.message);}
+    const featureDisabled=route.startsWith('/api/admin/trip-bookings')?process.env.TRIP_BOOKINGS_ENABLED!=='true':process.env.CUSTOM_TOUR_QUOTES_ENABLED!=='true';
+    try{const response=await handler.fetch(new Request(`https://virsapur.example${route}`,{method:'GET'}));const denied=featureDisabled?response.status===404:response.status===401||response.status===403;if(denied)pass(`Unauthenticated admin API denied ${route}`);else fail(`Unauthenticated admin API denied ${route}`,`Expected ${featureDisabled?'404 while disabled':'401/403'}, received ${response.status}.`);}catch(error){fail(`Unauthenticated admin API denied ${route}`,error.message);}
   }
 }
 
