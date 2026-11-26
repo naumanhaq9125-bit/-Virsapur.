@@ -431,7 +431,7 @@ if(studioMode)await cp(join(root,"assets","optimized"),join(outputRoot,"assets",
 const baseCss=await readFile(join(root,"styles.css"),"utf8"); const platformCss=await readFile(join(root,"src","platform.css"),"utf8"); const atlasCss=await readFile(join(root,"src","atlas-interface.css"),"utf8"); await writeFile(join(outputRoot,"styles.css"),`${baseCss}\n${platformCss}\n${atlasCss}\n${await readFile(join(root,"src","heritage-connections.css"),"utf8")}`); await cp(join(root,"app.js"),join(outputRoot,"app.js"));
 if(!studioMode && isProductionCmsEnabled()){
   await mkdir(join(outputRoot,"admin","login"),{recursive:true});
-  const adminHtml=(await readFile(join(root,"studio","index.html"),"utf8")).replace(/href="studio\.css(?:\?[^\"]*)?"/,'href="admin.css"').replace(/src="studio\.js(?:\?[^\"]*)?"/,'src="admin.js"').replace('data-site-link href="/"','data-site-link href="../index.html"');
+  const adminHtml=(await readFile(join(root,"studio","index.html"),"utf8")).replace(/href="studio\.css(?:\?[^\"]*)?"/,'href="admin.css"').replace(/src="studio\.js(?:\?[^\"]*)?"/,'src="admin.js"').replace('data-preview-link href="/preview/"','data-preview-link href="../index.html"').replace('data-site-link href="/production/"','data-site-link href="../index.html"').replace('data-site-link href="/"','data-site-link href="../index.html"');
   const loginHtml=(await readFile(join(root,"studio","login.html"),"utf8")).replace('href="../studio.css"','href="../admin.css"');
   await writeFile(join(outputRoot,"admin","index.html"),adminHtml);
   await cp(join(root,"studio","studio.css"),join(outputRoot,"admin","admin.css"));
