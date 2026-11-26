@@ -22,5 +22,5 @@ export default { async fetch(request) {
     const safeUser={id:user.id,fullName,email:user.email||email,createdAt:user.created_at};
     if(result.access_token&&result.refresh_token)return responseWithCookies({ok:true,user:safeUser},201,sessionCookies(result));
     return json({ok:true,user:safeUser,requiresEmailConfirmation:true},202);
-  }catch(e){const status=e.status||(e.code==='user_already_exists'||/already registered|already exists/i.test(e.message||'')?409:500);return json({ok:false,error:status===500?'Account creation could not be completed.':e.message},status);}
+  }catch(e){const status=e.status||(e.code==='user_already_exists'||/already registered|already exists/i.test(e.message||'')?409:500);if(status>=500)console.error('Hosted signup failed',{name:e?.name||'Error',status,message:e?.message||'Unknown error'});return json({ok:false,error:status===500?'Account creation could not be completed.':e.message},status);}
 } };
